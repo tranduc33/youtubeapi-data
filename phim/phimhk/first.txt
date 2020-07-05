@@ -1,10 +1,10 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "V5RzRa3Hc5s5aFpC_WxNHdH9e_w",
+    "etag": "QAGqYCMdSij4EAPDWue7WE2QpWY",
     "nextPageToken": "CDIQAA",
     "regionCode": "US",
     "pageInfo": {
-        "totalResults": 123571,
+        "totalResults": 120901,
         "resultsPerPage": 50
     },
     "items": [
@@ -78,40 +78,6 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "5VFRP_2F55H9CS0ktorTvOV5ZlQ",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLbOgcuNN07w0aRMoupxzope6sUxhsQr25"
-            },
-            "snippet": {
-                "publishedAt": "2020-06-01T09:30:45Z",
-                "channelId": "UCWOlTP2_4R-xl1U3JFRycMQ",
-                "title": "PHIM BO HONG KONG HAI HUOC",
-                "description": "phim hai huoc ,phim hai huoc ,bo phim hai huoc nhat the gioi,bộ phim hài hước nhất thế giới,hinh anh phim hai huoc,list phim hai huoc,lk nhac phim hai huoc ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/f5xH4xXFIM0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/f5xH4xXFIM0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/f5xH4xXFIM0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Ham y",
-                "liveBroadcastContent": "none",
-                "publishTime": "2020-06-01T09:30:45Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
             "etag": "lRQz1HbQw_Kzr_Edz98Kw6xJ9Ps",
             "id": {
                 "kind": "youtube#playlist",
@@ -159,6 +125,40 @@
                 "channelTitle": "Phim Hay TV",
                 "liveBroadcastContent": "none",
                 "publishTime": "2020-03-19T05:33:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5VFRP_2F55H9CS0ktorTvOV5ZlQ",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLbOgcuNN07w0aRMoupxzope6sUxhsQr25"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-01T09:30:45Z",
+                "channelId": "UCWOlTP2_4R-xl1U3JFRycMQ",
+                "title": "PHIM BO HONG KONG HAI HUOC",
+                "description": "phim hai huoc ,phim hai huoc ,bo phim hai huoc nhat the gioi,bộ phim hài hước nhất thế giới,hinh anh phim hai huoc,list phim hai huoc,lk nhac phim hai huoc ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/f5xH4xXFIM0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/f5xH4xXFIM0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/f5xH4xXFIM0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ham y",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-01T09:30:45Z"
             }
         },
         {
@@ -231,40 +231,6 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "D0FrMET04yuFdiG7cTUxILGKO9M",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLAIbk08llX-Y8ELccOulge-Yv1Qceexrn"
-            },
-            "snippet": {
-                "publishedAt": "2020-06-17T23:45:06Z",
-                "channelId": "UCzKLDWS2iaN4ei0vwH-pLDQ",
-                "title": "PHIM BỘ HONG KONG TVB, - Playlist",
-                "description": "(phim bo hong kong)===== PHIM BỘ HONG KONG TVB, - Playlist #phim bo co trang trung quoc #phim han quoc long tieng 2019 #phim trung quoc long tieng ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/09bT79un_vg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/09bT79un_vg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/09bT79un_vg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Enoch Anjali",
-                "liveBroadcastContent": "none",
-                "publishTime": "2020-06-17T23:45:06Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
             "etag": "fqGSRiJ7CbUSqgdFaa4u610ynVg",
             "id": {
                 "kind": "youtube#playlist",
@@ -295,6 +261,40 @@
                 "channelTitle": "tien Nguyen",
                 "liveBroadcastContent": "none",
                 "publishTime": "2019-01-03T00:58:54Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "D0FrMET04yuFdiG7cTUxILGKO9M",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLAIbk08llX-Y8ELccOulge-Yv1Qceexrn"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-17T23:45:06Z",
+                "channelId": "UCzKLDWS2iaN4ei0vwH-pLDQ",
+                "title": "PHIM BỘ HONG KONG TVB, - Playlist",
+                "description": "(phim bo hong kong)===== PHIM BỘ HONG KONG TVB, - Playlist #phim bo co trang trung quoc #phim han quoc long tieng 2019 #phim trung quoc long tieng ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/09bT79un_vg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/09bT79un_vg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/09bT79un_vg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Enoch Anjali",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-17T23:45:06Z"
             }
         },
         {
@@ -469,36 +469,19 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "De5_7nqf2r84WVXv6bSQYBymjvY",
+            "etag": "mKFNj-qy5eKI4BOT4hQRdjAM_k0",
             "id": {
                 "kind": "youtube#playlist",
-                "playlistId": "PL7-QldaMQe0t1G8d7GXb6VDe6cVaN2Xl1"
+                "playlistId": "PLo2P6sYY8pOKQMEeWpgln8dDFCp1sO5HF"
             },
             "snippet": {
-                "publishedAt": "2020-07-05T11:14:38Z",
-                "channelId": "UCYSXwmEGx_RT9hg-999vvjw",
-                "title": "PHIM BO HONG KONG LONG TIENG",
-                "description": "sex differences in conformity status and gender role interpretations,sex differences in conformity status and gender role interpretations,sex differences in ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/-xbayYlFH6g/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/-xbayYlFH6g/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/-xbayYlFH6g/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Missy Hughes",
+                "publishedAt": "2019-11-20T02:03:57Z",
+                "channelId": "UCkoVSTRRJAgGYm35C8s7Bvg",
+                "title": "Thần Bài Long Tứ | Nhất Đỏ Nhì Đen 4 | Phim Thần Bài Hay Nhất",
+                "description": "Trọn Bộ Nhất Đỏ Nhì Đen 4 : http://bit.ly/2O1QfkZ Link Tổng Hợp Trọn Bộ : http://bit.ly/2QAVzO0 Tổng hợp những phân đoạn phim hay nhất : https://goo....",
+                "channelTitle": "Phim Khủng",
                 "liveBroadcastContent": "none",
-                "publishTime": "2020-07-05T11:14:38Z"
+                "publishTime": "2019-11-20T02:03:57Z"
             }
         },
         {
@@ -537,87 +520,36 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "mKFNj-qy5eKI4BOT4hQRdjAM_k0",
+            "etag": "FX1OpLYrakV--HJzB7qRwh52vko",
             "id": {
                 "kind": "youtube#playlist",
-                "playlistId": "PLo2P6sYY8pOKQMEeWpgln8dDFCp1sO5HF"
+                "playlistId": "PLeB1g0ZMaW3gD-oHB3syay3IWSTfvQxcO"
             },
             "snippet": {
-                "publishedAt": "2019-11-20T02:03:57Z",
-                "channelId": "UCkoVSTRRJAgGYm35C8s7Bvg",
-                "title": "Thần Bài Long Tứ | Nhất Đỏ Nhì Đen 4 | Phim Thần Bài Hay Nhất",
-                "description": "Trọn Bộ Nhất Đỏ Nhì Đen 4 : http://bit.ly/2O1QfkZ Link Tổng Hợp Trọn Bộ : http://bit.ly/2QAVzO0 Tổng hợp những phân đoạn phim hay nhất : https://goo....",
-                "channelTitle": "Phim Khủng",
-                "liveBroadcastContent": "none",
-                "publishTime": "2019-11-20T02:03:57Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "WRJeglb7swFEFIMHxgg0KKXzeJc",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLOsulajYnMyLKxzDr1LgzmmqNMJf6QgD3"
-            },
-            "snippet": {
-                "publishedAt": "2019-09-14T06:38:07Z",
-                "channelId": "UCqJix4DsPtpofK7uFsIZC0A",
-                "title": "Phim Bộ Trung Quốc: THIÊN SƯ CHUNG QUỲ(Phần 2)- Phim Bộ Cổ Trang Kiếm Hiệp Hay Nhất",
-                "description": "",
+                "publishedAt": "2020-06-01T09:59:26Z",
+                "channelId": "UC52bCse28iOhsDJEnWmMJMw",
+                "title": "PHIM HONG KONG HAI HUOC 2019",
+                "description": "phim bộ hài hước hàn quốc,phim bộ hài hước hàn quốc,phim ca nhac hai huoc,phim canh sat hai huoc,phim canh sat hong kong hai huoc,phim cau be sieu hai ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/G27L7g7DQJc/default.jpg",
+                        "url": "https://i.ytimg.com/vi/DV1amMRo4lw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/G27L7g7DQJc/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/DV1amMRo4lw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/G27L7g7DQJc/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/DV1amMRo4lw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Li1 Movies",
+                "channelTitle": "hoa hong",
                 "liveBroadcastContent": "none",
-                "publishTime": "2019-09-14T06:38:07Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "M6vRsL8XHXcvolUHNOD2ELXbbk8",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLJdvwGrCy5JkiWcsED8-1To-MvXaoHvn5"
-            },
-            "snippet": {
-                "publishedAt": "2020-05-25T17:03:39Z",
-                "channelId": "UCJmdGStt3EmmD49um4VDSQw",
-                "title": "PHIM BỘ BỐ Y THẦN TƯỚNG TẬP 1,",
-                "description": "phim bộ mới,,phim bộ mới,,phim bộ tvb,,phim bộ 2020,,phim bo kiem hiệp hay,,phim bộ đội,,phim bộ tinh võ môn,,phim bộ xuyên không,,phim bộ ngôn tình trung ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/gGk3mtAAENc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/gGk3mtAAENc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/gGk3mtAAENc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Hettinger Mallie",
-                "liveBroadcastContent": "none",
-                "publishTime": "2020-05-25T17:03:39Z"
+                "publishTime": "2020-06-01T09:59:26Z"
             }
         },
         {
@@ -656,108 +588,6 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "FX1OpLYrakV--HJzB7qRwh52vko",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLeB1g0ZMaW3gD-oHB3syay3IWSTfvQxcO"
-            },
-            "snippet": {
-                "publishedAt": "2020-06-01T09:59:26Z",
-                "channelId": "UC52bCse28iOhsDJEnWmMJMw",
-                "title": "PHIM HONG KONG HAI HUOC 2019",
-                "description": "phim bộ hài hước hàn quốc,phim bộ hài hước hàn quốc,phim ca nhac hai huoc,phim canh sat hai huoc,phim canh sat hong kong hai huoc,phim cau be sieu hai ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/DV1amMRo4lw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/DV1amMRo4lw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/DV1amMRo4lw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "hoa hong",
-                "liveBroadcastContent": "none",
-                "publishTime": "2020-06-01T09:59:26Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "VehBPNcO_qK7jbBWwcMc5QC_IDM",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLKhjfXfO-y_k2xl5NjRMGf0F5hcbhc-Qm"
-            },
-            "snippet": {
-                "publishedAt": "2019-11-18T14:25:19Z",
-                "channelId": "UCurt6-YNIGnoAGECZTwnGEw",
-                "title": "Phim bộ HỒNGKÔNG",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/od02utBfrTM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/od02utBfrTM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/od02utBfrTM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "TRẦN KIM MỸ tran",
-                "liveBroadcastContent": "none",
-                "publishTime": "2019-11-18T14:25:19Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "LZA78oHZ8i77VhXxIMD7vRAvPL8",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLPUNubTSxkNhZaJJGz-_7CBTBjExOmTJ_"
-            },
-            "snippet": {
-                "publishedAt": "2020-06-18T02:47:37Z",
-                "channelId": "UC4EAN2a1EMuiWBcE0zbl12g",
-                "title": "PHIM BO HONG KONG LONG TIENG",
-                "description": "한국영화,한국영화,kovboy filmleri türkçe dublaj,phim cổ trang hoa ngữ 2020,무료영화,filmes romanticos completos dublados,lau phim full movie,phimset,영화 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/YD2qG2hl4ko/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/YD2qG2hl4ko/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/YD2qG2hl4ko/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Sariyah Xiomara",
-                "liveBroadcastContent": "none",
-                "publishTime": "2020-06-18T02:47:37Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
             "etag": "-N7tK9UHcMlEDolt_LrUm1vpHKQ",
             "id": {
                 "kind": "youtube#playlist",
@@ -792,36 +622,36 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "bCsKfJqekoq4HHp5fOVNDZX1QoQ",
+            "etag": "M6vRsL8XHXcvolUHNOD2ELXbbk8",
             "id": {
                 "kind": "youtube#playlist",
-                "playlistId": "PLGLFukeX8ItHi6TDOsQlpdnzSYFKLmXDC"
+                "playlistId": "PLJdvwGrCy5JkiWcsED8-1To-MvXaoHvn5"
             },
             "snippet": {
-                "publishedAt": "2019-11-21T04:44:36Z",
-                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
-                "title": "[PHIM HAY] CAO THỦ NHƯ LÂM - LỒNG TIẾNG | HỒ CA, ĐƯỜNG YÊN | PHIM BỘ TRUNG QUỐC HAY 2019",
-                "description": "CAO THỦ NHƯ LÂM - LỒNG TIẾNG | HỒ CA, ĐƯỜNG YÊN | PHIM BỘ TRUNG QUỐC HAY NHẤT 2019 ➡️ Xem Trộn Bộ Tại Đây: ...",
+                "publishedAt": "2020-05-25T17:03:39Z",
+                "channelId": "UCJmdGStt3EmmD49um4VDSQw",
+                "title": "PHIM BỘ BỐ Y THẦN TƯỚNG TẬP 1,",
+                "description": "phim bộ mới,,phim bộ mới,,phim bộ tvb,,phim bộ 2020,,phim bo kiem hiệp hay,,phim bộ đội,,phim bộ tinh võ môn,,phim bộ xuyên không,,phim bộ ngôn tình trung ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/jqmEXKSCy7k/default.jpg",
+                        "url": "https://i.ytimg.com/vi/gGk3mtAAENc/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/jqmEXKSCy7k/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/gGk3mtAAENc/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/jqmEXKSCy7k/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/gGk3mtAAENc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "New Films",
+                "channelTitle": "Hettinger Mallie",
                 "liveBroadcastContent": "none",
-                "publishTime": "2019-11-21T04:44:36Z"
+                "publishTime": "2020-05-25T17:03:39Z"
             }
         },
         {
@@ -856,6 +686,40 @@
                 "channelTitle": "Phim HOT TK-L",
                 "liveBroadcastContent": "none",
                 "publishTime": "2018-04-26T08:37:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bCsKfJqekoq4HHp5fOVNDZX1QoQ",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLGLFukeX8ItHi6TDOsQlpdnzSYFKLmXDC"
+            },
+            "snippet": {
+                "publishedAt": "2019-11-21T04:44:36Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[PHIM HAY] CAO THỦ NHƯ LÂM - LỒNG TIẾNG | HỒ CA, ĐƯỜNG YÊN | PHIM BỘ TRUNG QUỐC HAY 2019",
+                "description": "CAO THỦ NHƯ LÂM - LỒNG TIẾNG | HỒ CA, ĐƯỜNG YÊN | PHIM BỘ TRUNG QUỐC HAY NHẤT 2019 ➡️ Xem Trộn Bộ Tại Đây: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jqmEXKSCy7k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jqmEXKSCy7k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jqmEXKSCy7k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "New Films",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-11-21T04:44:36Z"
             }
         },
         {
@@ -928,138 +792,36 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "Og8Lahr-h0y-SHMU5THeQjvv5WA",
+            "etag": "6CafDjBE6eCDSB4wg4-OXdbUijU",
             "id": {
                 "kind": "youtube#playlist",
-                "playlistId": "PLcDN_Ku03V5W_-EM52TNtdonQw-gvDRhu"
+                "playlistId": "PLE9nV21gFKoCVxVluT-3UKgyvim7A1ljb"
             },
             "snippet": {
-                "publishedAt": "2019-10-31T17:54:26Z",
-                "channelId": "UCkyzSKMhWtsQYKilw0DWzoQ",
-                "title": "phim ma hong kong phim bo",
-                "description": "phim ma hong kong 2019, phim ma hong kong xua, phim ma hong kong moi nhat, phim ma hong kong hay, phim ma hong kong kinh di, phim ma hong kong moi ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/GHV2USWpicA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/GHV2USWpicA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/GHV2USWpicA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Kim Qu",
-                "liveBroadcastContent": "none",
-                "publishTime": "2019-10-31T17:54:26Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "iLCHPJkelLF4Cp_p80GsxacZ4jQ",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLWPVeB6F855boACwD2flN2b6nWSqk-vi0"
-            },
-            "snippet": {
-                "publishedAt": "2019-09-14T08:51:40Z",
-                "channelId": "UCX7j3JupJAFmQJmf1ZjQ4uw",
-                "title": "18 Năm Chờ Chàng Trọn Bọ | Phim Bộ Trung Quốc Hay Nhất 2019",
+                "publishedAt": "2019-09-15T01:32:34Z",
+                "channelId": "UCuvxKG-gp4DIRofkdZ_-TsA",
+                "title": "Phim HK: Hồng Kong Kỳ Án",
                 "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/s1Pagqllmt0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/9r8L3us-Hys/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/s1Pagqllmt0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/9r8L3us-Hys/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/s1Pagqllmt0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/9r8L3us-Hys/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "PhimHay Online",
+                "channelTitle": "Duy Vu",
                 "liveBroadcastContent": "none",
-                "publishTime": "2019-09-14T08:51:40Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "vhmU7MRoTWsw798zJl8l-oUmQB8",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLkY5XvuQHe6bbx460QhnzEcQqoYcwY91x"
-            },
-            "snippet": {
-                "publishedAt": "2020-04-05T11:30:06Z",
-                "channelId": "UCFmiE5rAJ-gmhLtt1_LGSXQ",
-                "title": "Phim bộ TVB Hồng Kông 1 Phim Ngôn Tình Cổ Trang Trung Quốc",
-                "description": "phim TVB Hồng Kông Lôi Đình Cực Chiến 1.HD phim hay hành động 2019 Bằng chứng thép 01/25(tiếng Việt) DV chính: Âu Dương Chấn Hoa, Lâm Văn Long; ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ifd3CEeGHVk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ifd3CEeGHVk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ifd3CEeGHVk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Elvin G walker",
-                "liveBroadcastContent": "none",
-                "publishTime": "2020-04-05T11:30:06Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "-EdzJVescMF56OavfkX64YZturU",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLA7OZHS_AHvS8I1FjV20cQ7ENm4grtegk"
-            },
-            "snippet": {
-                "publishedAt": "2020-07-05T00:42:52Z",
-                "channelId": "UCK4h_NG4HZhbKOKhS49TFBw",
-                "title": "PHIM BO HONG KONG LONG TIENG",
-                "description": "sex differences in conformity status and gender role interpretations,sex differences in conformity status and gender role interpretations,sex differences in ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Fhob4tA9o5A/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Fhob4tA9o5A/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Fhob4tA9o5A/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Wade Hooten",
-                "liveBroadcastContent": "none",
-                "publishTime": "2020-07-05T00:42:52Z"
+                "publishTime": "2019-09-15T01:32:34Z"
             }
         },
         {
@@ -1098,83 +860,49 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "kXA5VbTisM6oYq3MtgEGfGyLVZ8",
+            "etag": "iLCHPJkelLF4Cp_p80GsxacZ4jQ",
             "id": {
                 "kind": "youtube#playlist",
-                "playlistId": "PLuDhDd4a20LW4MTXlMCJvnW0D7v0bGziY"
+                "playlistId": "PLWPVeB6F855boACwD2flN2b6nWSqk-vi0"
             },
             "snippet": {
-                "publishedAt": "2019-10-31T15:44:24Z",
-                "channelId": "UCnwmS-S-FK10hIrxF3nEjEg",
-                "title": "phim ma bo hong kong hay nhat",
-                "description": "phim ma hong kong 2019, phim ma hong kong xua, phim ma hong kong moi nhat, phim ma hong kong hay, phim ma hong kong kinh di, phim ma hong kong moi ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/XBB3isTb15U/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/XBB3isTb15U/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/XBB3isTb15U/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Kem Hancap",
-                "liveBroadcastContent": "none",
-                "publishTime": "2019-10-31T15:44:24Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "7fSGYH_px9GS30FxWJ-RwCXgggc",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLLmxH4v1BO0S4B9L_yX2jS6rRYPhrFAWO"
-            },
-            "snippet": {
-                "publishedAt": "2020-02-10T06:22:08Z",
-                "channelId": "UCc2m2TyRzFbRIPwtnhJfxQA",
-                "title": "TRUYỀN THUYẾT 12 CON GIÁP | PHIM BỘ HAY NHẤT 2020",
+                "publishedAt": "2019-09-14T08:51:40Z",
+                "channelId": "UCX7j3JupJAFmQJmf1ZjQ4uw",
+                "title": "18 Năm Chờ Chàng Trọn Bọ | Phim Bộ Trung Quốc Hay Nhất 2019",
                 "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/rF8iejhT5EY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/s1Pagqllmt0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/rF8iejhT5EY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/s1Pagqllmt0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/rF8iejhT5EY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/s1Pagqllmt0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "YouC",
+                "channelTitle": "PhimHay Online",
                 "liveBroadcastContent": "none",
-                "publishTime": "2020-02-10T06:22:08Z"
+                "publishTime": "2019-09-14T08:51:40Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "TYHLOKzeL1Hjc6-_-1Zew_UbrsQ",
+            "etag": "JKwxQSd3ZlJeTR-fV0Ng4748DoY",
             "id": {
                 "kind": "youtube#playlist",
-                "playlistId": "PL3LWwrwPZ17dXy2GYJKlLlFerTSILaB1k"
+                "playlistId": "PL9R5KQAxhKgmkxhgV64e4xpBUzT7eBq18"
             },
             "snippet": {
-                "publishedAt": "2020-07-04T16:42:22Z",
-                "channelId": "UCEqDD5tt1d8xOJ7Vhv7sgrQ",
-                "title": "PHIM BO HONG KONG",
+                "publishedAt": "2020-07-04T16:43:14Z",
+                "channelId": "UC1RTjYeMK3ih8D4kk9qrENw",
+                "title": "PHIM BO HONG KONG LONG TIENG",
                 "description": "sex differences in conformity status and gender role interpretations,sex differences in conformity status and gender role interpretations,sex differences in ...",
                 "thumbnails": {
                     "default": {
@@ -1193,9 +921,9 @@
                         "height": 360
                     }
                 },
-                "channelTitle": "Rayna Sadie",
+                "channelTitle": "Violeta Averie",
                 "liveBroadcastContent": "none",
-                "publishTime": "2020-07-04T16:42:22Z"
+                "publishTime": "2020-07-04T16:43:14Z"
             }
         },
         {
@@ -1234,6 +962,40 @@
         },
         {
             "kind": "youtube#searchResult",
+            "etag": "-EdzJVescMF56OavfkX64YZturU",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLA7OZHS_AHvS8I1FjV20cQ7ENm4grtegk"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-05T00:42:52Z",
+                "channelId": "UCK4h_NG4HZhbKOKhS49TFBw",
+                "title": "PHIM BO HONG KONG LONG TIENG",
+                "description": "sex differences in conformity status and gender role interpretations,sex differences in conformity status and gender role interpretations,sex differences in ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Fhob4tA9o5A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Fhob4tA9o5A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Fhob4tA9o5A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Wade Hooten",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-05T00:42:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
             "etag": "xQrDEpmxI80huuEK4H46AJtxtpI",
             "id": {
                 "kind": "youtube#playlist",
@@ -1268,53 +1030,240 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "qLADS3XJWXXsiZQ8FZZp7iunVBo",
+            "etag": "De5_7nqf2r84WVXv6bSQYBymjvY",
             "id": {
                 "kind": "youtube#playlist",
-                "playlistId": "PLirxsEkduv0O-44Iql0y0NQAFovkXFV6D"
+                "playlistId": "PL7-QldaMQe0t1G8d7GXb6VDe6cVaN2Xl1"
             },
             "snippet": {
-                "publishedAt": "2018-10-19T03:27:08Z",
-                "channelId": "UCaQyfI2ViHt86Q2EpA-Op-w",
-                "title": "Học Cảnh truy kích",
-                "description": "",
+                "publishedAt": "2020-07-05T11:14:38Z",
+                "channelId": "UCYSXwmEGx_RT9hg-999vvjw",
+                "title": "PHIM BO HONG KONG LONG TIENG",
+                "description": "sex differences in conformity status and gender role interpretations,sex differences in conformity status and gender role interpretations,sex differences in ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/eKKnAcSmB74/default.jpg",
+                        "url": "https://i.ytimg.com/vi/-xbayYlFH6g/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/eKKnAcSmB74/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/-xbayYlFH6g/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/eKKnAcSmB74/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/-xbayYlFH6g/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Kênh TVB tiếng Việt",
+                "channelTitle": "Missy Hughes",
                 "liveBroadcastContent": "none",
-                "publishTime": "2018-10-19T03:27:08Z"
+                "publishTime": "2020-07-05T11:14:38Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "CUGX52MT_tk3RfWxSj1uzvl2SuE",
+            "etag": "TYHLOKzeL1Hjc6-_-1Zew_UbrsQ",
             "id": {
                 "kind": "youtube#playlist",
-                "playlistId": "PLNKn8ueKfBA97VwdaInMFHy46mguNlycc"
+                "playlistId": "PL3LWwrwPZ17dXy2GYJKlLlFerTSILaB1k"
             },
             "snippet": {
-                "publishedAt": "2019-11-21T07:59:12Z",
-                "channelId": "UCH47ZILH_ksP_fALgRaEP9g",
-                "title": "Mãng Hoang Kỷ 2020 | Full HD Siêu Nét | Trọn Bộ | Phim Trung Quốc",
-                "description": "Xem trọn bộ tại : https://bit.ly/2XvsBRg ❖Tên phim : MÃNG HOANG KỶ ❖Xem các phim kiếm hiệp hay khác: https://goo.gl/1ZPgqr ❖Diễn viên : Lưu Khải Uy, ...",
-                "channelTitle": "PhimTV",
+                "publishedAt": "2020-07-04T16:42:22Z",
+                "channelId": "UCEqDD5tt1d8xOJ7Vhv7sgrQ",
+                "title": "PHIM BO HONG KONG",
+                "description": "sex differences in conformity status and gender role interpretations,sex differences in conformity status and gender role interpretations,sex differences in ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QIJ42aInqyg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QIJ42aInqyg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QIJ42aInqyg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rayna Sadie",
                 "liveBroadcastContent": "none",
-                "publishTime": "2019-11-21T07:59:12Z"
+                "publishTime": "2020-07-04T16:42:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ipN2N293KfiEC_Q-qnmd-c6KHQs",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLhtR53fERJcJg9PGazFeahMa3CNjAY4rs"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-04T01:46:56Z",
+                "channelId": "UC2tRm3qAg1uaTLv93MZMuZA",
+                "title": "PHIM BO HONG KONG LONG TIENG",
+                "description": "sex differences in conformity status and gender role interpretations,sex differences in conformity status and gender role interpretations,sex differences in ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/znr58IG4eAs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/znr58IG4eAs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/znr58IG4eAs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mylah Johanna",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-04T01:46:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LZA78oHZ8i77VhXxIMD7vRAvPL8",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLPUNubTSxkNhZaJJGz-_7CBTBjExOmTJ_"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-18T02:47:37Z",
+                "channelId": "UC4EAN2a1EMuiWBcE0zbl12g",
+                "title": "PHIM BO HONG KONG LONG TIENG",
+                "description": "한국영화,한국영화,kovboy filmleri türkçe dublaj,phim cổ trang hoa ngữ 2020,무료영화,filmes romanticos completos dublados,lau phim full movie,phimset,영화 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YD2qG2hl4ko/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YD2qG2hl4ko/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YD2qG2hl4ko/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Sariyah Xiomara",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-18T02:47:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kXA5VbTisM6oYq3MtgEGfGyLVZ8",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLuDhDd4a20LW4MTXlMCJvnW0D7v0bGziY"
+            },
+            "snippet": {
+                "publishedAt": "2019-10-31T15:44:24Z",
+                "channelId": "UCnwmS-S-FK10hIrxF3nEjEg",
+                "title": "phim ma bo hong kong hay nhat",
+                "description": "phim ma hong kong 2019, phim ma hong kong xua, phim ma hong kong moi nhat, phim ma hong kong hay, phim ma hong kong kinh di, phim ma hong kong moi ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XBB3isTb15U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XBB3isTb15U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XBB3isTb15U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kem Hancap",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-10-31T15:44:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aStPElcyl7rTnM7WdRF-t80O7zQ",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLKnxT4BT64LdryOM-GBq6huaKxtD0ltKB"
+            },
+            "snippet": {
+                "publishedAt": "2019-07-06T03:31:40Z",
+                "channelId": "UC-fDAE4xoaSKM6x931tw2Vg",
+                "title": "Bí Kíp Võ Công | Phim Kiếm Hiệp Hồng Kông",
+                "description": "Phim Kiếm Hiệp Hồng Kông | Bí Kíp Võ Công | Phim Hay 2019 ▷ Xem trọn bộ Phim Hay \"Bí Kíp Võ Công\" tại đây: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QtsF980mJv4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QtsF980mJv4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QtsF980mJv4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Duong Ha Gaming",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-07-06T03:31:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7fSGYH_px9GS30FxWJ-RwCXgggc",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLLmxH4v1BO0S4B9L_yX2jS6rRYPhrFAWO"
+            },
+            "snippet": {
+                "publishedAt": "2020-02-10T06:22:08Z",
+                "channelId": "UCc2m2TyRzFbRIPwtnhJfxQA",
+                "title": "TRUYỀN THUYẾT 12 CON GIÁP | PHIM BỘ HAY NHẤT 2020",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rF8iejhT5EY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rF8iejhT5EY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rF8iejhT5EY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "YouC",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-02-10T06:22:08Z"
             }
         },
         {
@@ -1421,74 +1370,6 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "-Jxs1kC-W27FXAcZAhweKCyq2ZM",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLWGpD-BOikWes1h6_r5-ITLUskhhhrZhJ"
-            },
-            "snippet": {
-                "publishedAt": "2018-06-24T13:19:12Z",
-                "channelId": "UCbPRyJMjy6Arv3BpahnW8dA",
-                "title": "Phim Lẻ Võ Thuật Kiếm Hiệp Hồng Kông Thuyết Minh Hay Nhất Mọi Thời Đại | Phim Hay 2018",
-                "description": "Xem thêm phim lẻ võ thuật kiếm hiệp hồng kông thuyết minh hay nhất mọi thời đại tại đây: ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/FUziq9--_us/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/FUziq9--_us/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/FUziq9--_us/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Phim Bộ Kiếm Hiệp Hay",
-                "liveBroadcastContent": "none",
-                "publishTime": "2018-06-24T13:19:12Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "Kf9_SyHGe530wL61mI3XiEvjRVc",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLWVKO42b7e1xwyiQQSeScpbjYl4ew-IWg"
-            },
-            "snippet": {
-                "publishedAt": "2020-05-25T17:01:04Z",
-                "channelId": "UC5XQqSSDBqtNoPwDgCtaFaA",
-                "title": "PHIM BỘ HONG KONG TVB,",
-                "description": "phim bộ mới,,phim bộ mới,,phim bộ tvb,,phim bộ 2020,,phim bo kiem hiệp hay,,phim bộ đội,,phim bộ tinh võ môn,,phim bộ xuyên không,,phim bộ ngôn tình trung ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/66xtjxapa6U/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/66xtjxapa6U/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/66xtjxapa6U/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Harris Ryan",
-                "liveBroadcastContent": "none",
-                "publishTime": "2020-05-25T17:01:04Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
             "etag": "BeOFaG3HNTNarl1Qz16xGgZJudE",
             "id": {
                 "kind": "youtube#playlist",
@@ -1519,6 +1400,142 @@
                 "channelTitle": "Elvin G walker",
                 "liveBroadcastContent": "none",
                 "publishTime": "2020-04-03T17:22:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kZ9hERuq_JWyKwccO51ZDhu28ug",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLB2998P97zLnBXVdMelb2zc-r6mBG8arr"
+            },
+            "snippet": {
+                "publishedAt": "2020-02-09T04:20:29Z",
+                "channelId": "UCxVbAgOxi2HtYFmptzvILrA",
+                "title": "[PHIM HAY] LIÊU TRAI HỒNG MỘNG - LỒNG TIẾNG | PHIM KIẾM HIỆP CỔ TRANG TRUNG QUỐC HAY NHẤT 2020",
+                "description": "LIÊU TRAI HỒNG MỘNG - LỒNG TIẾNG | PHIM KIẾM HIỆP CỔ TRANG TRUNG QUỐC HAY NHẤT 2020 ➡️ Xem Trộn Bộ Tại Đây: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FLAPer1FozE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FLAPer1FozE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FLAPer1FozE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "YEAH1TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-02-09T04:20:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "y7UtHiHWDixN_BMDTdb5vFW2L6Q",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL3g0L3Hz0kwh2hZKHEJZizDgtWUi1-Xc7"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-10T07:45:58Z",
+                "channelId": "UCZk5zKMGguul18WR188mu3w",
+                "title": "PHIM LE HONG KONG MOI",
+                "description": "phim cổ trang hoa ngữ 2020,phim cổ trang hoa ngữ 2020,무료영화,phim hay 2019 thuyet minh,kovboy filmleri türkçe dublaj,micro bikini,無料映画,yabanci filmler ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0e5pWYZgxqo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0e5pWYZgxqo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0e5pWYZgxqo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Aislinn Annie",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-10T07:45:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zqHOUiQBuh1PT69rX9Tf4v2eusU",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLzznGJnE2VPCXm90YYw-QfRXLBPEcSyvg"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-25T17:09:47Z",
+                "channelId": "UCV7tFgLBkrblnA_t9AKPXhw",
+                "title": "PHIM BỘ ĐẶC CẢNH SÂN BAY,",
+                "description": "phim bộ mới,,phim bộ mới,,phim bộ tvb,,phim bộ 2020,,phim bo kiem hiệp hay,,phim bộ đội,,phim bộ tinh võ môn,,phim bộ xuyên không,,phim bộ ngôn tình trung ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dix3Lsrq3zo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dix3Lsrq3zo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dix3Lsrq3zo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bartell Oma",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-25T17:09:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Og8Lahr-h0y-SHMU5THeQjvv5WA",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLcDN_Ku03V5W_-EM52TNtdonQw-gvDRhu"
+            },
+            "snippet": {
+                "publishedAt": "2019-10-31T17:54:26Z",
+                "channelId": "UCkyzSKMhWtsQYKilw0DWzoQ",
+                "title": "phim ma hong kong phim bo",
+                "description": "phim ma hong kong 2019, phim ma hong kong xua, phim ma hong kong moi nhat, phim ma hong kong hay, phim ma hong kong kinh di, phim ma hong kong moi ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GHV2USWpicA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GHV2USWpicA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GHV2USWpicA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kim Qu",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-10-31T17:54:26Z"
             }
         },
         {
@@ -1557,6 +1574,40 @@
         },
         {
             "kind": "youtube#searchResult",
+            "etag": "Kf9_SyHGe530wL61mI3XiEvjRVc",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLWVKO42b7e1xwyiQQSeScpbjYl4ew-IWg"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-25T17:01:04Z",
+                "channelId": "UC5XQqSSDBqtNoPwDgCtaFaA",
+                "title": "PHIM BỘ HONG KONG TVB,",
+                "description": "phim bộ mới,,phim bộ mới,,phim bộ tvb,,phim bộ 2020,,phim bo kiem hiệp hay,,phim bộ đội,,phim bộ tinh võ môn,,phim bộ xuyên không,,phim bộ ngôn tình trung ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/66xtjxapa6U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/66xtjxapa6U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/66xtjxapa6U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Harris Ryan",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-25T17:01:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
             "etag": "WtfuhvVNe_DB3E6_gr5c0iJbH7Y",
             "id": {
                 "kind": "youtube#playlist",
@@ -1587,40 +1638,6 @@
                 "channelTitle": "Frederick Saint",
                 "liveBroadcastContent": "none",
                 "publishTime": "2020-07-03T02:38:42Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "kZ9hERuq_JWyKwccO51ZDhu28ug",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLB2998P97zLnBXVdMelb2zc-r6mBG8arr"
-            },
-            "snippet": {
-                "publishedAt": "2020-02-09T04:20:29Z",
-                "channelId": "UCxVbAgOxi2HtYFmptzvILrA",
-                "title": "[PHIM HAY] LIÊU TRAI HỒNG MỘNG - LỒNG TIẾNG | PHIM KIẾM HIỆP CỔ TRANG TRUNG QUỐC HAY NHẤT 2020",
-                "description": "LIÊU TRAI HỒNG MỘNG - LỒNG TIẾNG | PHIM KIẾM HIỆP CỔ TRANG TRUNG QUỐC HAY NHẤT 2020 ➡️ Xem Trộn Bộ Tại Đây: ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/FLAPer1FozE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/FLAPer1FozE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/FLAPer1FozE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "YEAH1TV",
-                "liveBroadcastContent": "none",
-                "publishTime": "2020-02-09T04:20:29Z"
             }
         }
     ]
