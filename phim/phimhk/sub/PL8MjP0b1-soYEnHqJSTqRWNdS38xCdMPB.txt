@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "VNl4bckRPUr0ADxcMHSetV2nJIE",
+    "etag": "ohXehhWdeGiydkO-X54n0rwBu88",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -986,30 +986,14 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "bYPtoXcyIcHB7xDxFQ3CDIS_vkM",
+            "etag": "NAfswApjt4hc56-TkkIzhSY-VOs",
             "id": "UEw4TWpQMGIxLXNvWUVuSHFKU1RxUldOZFMzOHhDZE1QQi43MTI1NDIwOTMwQjIxMzNG",
             "snippet": {
                 "publishedAt": "2020-05-25T17:01:46Z",
                 "channelId": "UCYJQ1TFUjQxMx4AYrS2E4yA",
-                "title": "🎥 Phim Hoạt Hình 3D kiếm Hiệp Xuyên Không Vượt Thời Gian",
-                "description": "🎥Phim Hoạt Hình 3D kiếm Hiệp Xuyên Không Vượt Thời Gian\n* Không có ý xâm phạm bản quyền. Video sẽ được gỡ bỏ nếu được yêu cầu của chủ sở hữu quyền tác giả.\n* Đối với bất kỳ vấn đề bản quyền xin vui lòng gửi email cho tôi : Khanhnguyen.180579@gmail.com",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/yWZOIXS0INI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/yWZOIXS0INI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/yWZOIXS0INI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
                 "channelTitle": "Harris Esteban",
                 "playlistId": "PL8MjP0b1-soYEnHqJSTqRWNdS38xCdMPB",
                 "position": 25,
@@ -1019,8 +1003,7 @@
                 }
             },
             "contentDetails": {
-                "videoId": "yWZOIXS0INI",
-                "videoPublishedAt": "2020-05-25T04:43:52Z"
+                "videoId": "yWZOIXS0INI"
             }
         },
         {
