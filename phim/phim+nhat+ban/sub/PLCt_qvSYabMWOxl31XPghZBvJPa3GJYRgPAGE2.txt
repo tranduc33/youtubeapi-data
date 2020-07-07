@@ -1,0 +1,312 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "SJPyEwjUCNKwyp3aZOccR9meYsA",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZJqQtnM3zeQPquBkifjuQDaz_BE",
+            "id": "UExDdF9xdlNZYWJNV094bDMxWFBnaFpCdkpQYTNHSllSZy4wRjhFM0MxMTU1MEUzQ0VB",
+            "snippet": {
+                "publishedAt": "2017-12-09T08:30:19Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Những Bộ Phim Hàn Quốc Hay Nhất Mọi Thời Đại",
+                "description": "Tôi đã tạo video này bằng Trình tạo trình chiếu của YouTube (http://www.youtube.com/upload)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ed8R8E-H-io/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ed8R8E-H-io/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ed8R8E-H-io/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ed8R8E-H-io/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ed8R8E-H-io/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMWOxl31XPghZBvJPa3GJYRg",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Ed8R8E-H-io"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Ed8R8E-H-io",
+                "videoPublishedAt": "2016-04-08T12:40:31Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "JQxeN9CywmPkgfGnV8uZdPrdp04",
+            "id": "UExDdF9xdlNZYWJNV094bDMxWFBnaFpCdkpQYTNHSllSZy5CNTcxMDQ0NThBNzMxODYz",
+            "snippet": {
+                "publishedAt": "2017-12-09T08:30:20Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMWOxl31XPghZBvJPa3GJYRg",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5Ky-Mn31Z6c"
+                }
+            },
+            "contentDetails": {
+                "videoId": "5Ky-Mn31Z6c"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wcAJjTjGtF1tLjTJn_OH1943szs",
+            "id": "UExDdF9xdlNZYWJNV094bDMxWFBnaFpCdkpQYTNHSllSZy5ERkUyQTM0MzEwQjZCMTY5",
+            "snippet": {
+                "publishedAt": "2017-12-09T08:30:21Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Phim hành động hay nhất 2016 - Tân Lộc Đỉnh Ký tập 2 Thuyết minh full",
+                "description": "Phim hành động hay nhất 2016 - Tân Lộc Đỉnh Ký tập 2",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vgOCOppy4lo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vgOCOppy4lo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vgOCOppy4lo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vgOCOppy4lo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMWOxl31XPghZBvJPa3GJYRg",
+                "position": 52,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vgOCOppy4lo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "vgOCOppy4lo",
+                "videoPublishedAt": "2016-04-24T15:14:06Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HCaa9t-CQY8QTQ0Xod4-98eB8i8",
+            "id": "UExDdF9xdlNZYWJNV094bDMxWFBnaFpCdkpQYTNHSllSZy40MDNEMzA0QTBFRThFMzBE",
+            "snippet": {
+                "publishedAt": "2017-12-09T08:30:23Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Đại Thánh Giáng Trần 2017- Phim thuyết minh hành động hay nhất 2017",
+                "description": "Phim hành động hay nhất năm 2017 / Đại Thánh Giáng Trần 2017/ Phim hành động trung quốc hay nhất/ Phim thần thoại mới nhất.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CfCCeqv2CK8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CfCCeqv2CK8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CfCCeqv2CK8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CfCCeqv2CK8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CfCCeqv2CK8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMWOxl31XPghZBvJPa3GJYRg",
+                "position": 55,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "CfCCeqv2CK8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "CfCCeqv2CK8",
+                "videoPublishedAt": "2017-07-04T09:08:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "RurdTM3iwPBbhnFEiLmQDCjWobg",
+            "id": "UExDdF9xdlNZYWJNV094bDMxWFBnaFpCdkpQYTNHSllSZy42RTNCOEMxREI3Q0VDMjU2",
+            "snippet": {
+                "publishedAt": "2017-12-09T08:30:23Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Phim Việt Nam Cũ Hay Nhất - Người Không Mang Súng Full HD",
+                "description": "Nhằm mang đến các bộ phim Việt Nam cũ và hay nhất .Mời bạn đăng kí và đón xem các bộ phim tại đây nhé : https://goo.gl/dQHZWu",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pOtztQ62Xcs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pOtztQ62Xcs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pOtztQ62Xcs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pOtztQ62Xcs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pOtztQ62Xcs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMWOxl31XPghZBvJPa3GJYRg",
+                "position": 56,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "pOtztQ62Xcs"
+                }
+            },
+            "contentDetails": {
+                "videoId": "pOtztQ62Xcs",
+                "videoPublishedAt": "2017-09-04T08:44:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "qYmRhWf5teR8WJZJsjf05YdIir8",
+            "id": "UExDdF9xdlNZYWJNV094bDMxWFBnaFpCdkpQYTNHSllSZy5EQkE3RTJCQTJEQkFBQTcz",
+            "snippet": {
+                "publishedAt": "2017-12-09T08:30:24Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Sự Hoán Đổi Trớ Trêu VietSub - PHIM THÁI LAN HAY NHẤT 2016",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VpVueMVfgEc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VpVueMVfgEc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VpVueMVfgEc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VpVueMVfgEc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VpVueMVfgEc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMWOxl31XPghZBvJPa3GJYRg",
+                "position": 58,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "VpVueMVfgEc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "VpVueMVfgEc",
+                "videoPublishedAt": "2016-10-31T10:12:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "r8CZY71ndlw__X2siusGFsBkf-I",
+            "id": "UExDdF9xdlNZYWJNV094bDMxWFBnaFpCdkpQYTNHSllSZy4xN0Y2QjVBOEI2MzQ5OUM5",
+            "snippet": {
+                "publishedAt": "2017-12-09T08:30:26Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "JACKIE CHAN | ALONE IN THE DARK 2| HORRO MOVIES FULL ENGLISH, FILM FULL HD, CHINA SUBS ENGLISH",
+                "description": "JACKIE CHAN | ALONE IN THE DARK 2| HORRO MOVIES FULL ENGLISH, FILM FULL HD, CHINA SUBS ENGLISH: Jackie Chan, Action Film, subtitle, Episode, adult film, top film, best film, Action Movies New 2014, Film (Film), Sub, Anime, Full China Movies, English subtitle HD, top action\n\nThành Long,Tuyển tập phim Thành Long hay,Xem Phim Thanh Long,phim Thành Long mới nhất,hay chọn lọc,download phim Thanh Long, thuyet minh, phu de, full, hd, tron bo, toan tap, tuyen tap, phim le,phim hanh dong, hai huoc,dac sac nhat,Tuyển tập phim Thành Long ,Thanh Long 2014, phim thanh long, phim thanh long thuyet minh, phim thanh long vo thuat hai, phim chau tinh tri, phim hanh dong, phim hay, phim thanh long download, xem phim thanh long 2011, xem phim thanh long 2012,",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M9xIXBrM2hg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M9xIXBrM2hg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M9xIXBrM2hg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMWOxl31XPghZBvJPa3GJYRg",
+                "position": 60,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "M9xIXBrM2hg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "M9xIXBrM2hg",
+                "videoPublishedAt": "2014-12-24T18:01:59Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 63,
+        "resultsPerPage": 50
+    }
+}

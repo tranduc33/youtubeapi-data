@@ -1,0 +1,55 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "FnEJBtEM1vHljqY904EOfKFAMX8",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4D0Q4rkp2JnU6PUFCxV9_2AHQXo",
+            "id": "UExDdF9xdlNZYWJNWE1YbjVPTG5tWGlnTDk2eHdRS1E5cy5CNTZFOTNGQzZEODg1RUQx",
+            "snippet": {
+                "publishedAt": "2017-12-07T07:57:14Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Lính Đánh Thuê Phim Hành Động Mỹ 2015 Hay Nhất",
+                "description": "Phim Hành Động .\nPhim Mới",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cJg7raS-PhY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cJg7raS-PhY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cJg7raS-PhY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cJg7raS-PhY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMXMXn5OLnmXigL96xwQKQ9s",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "cJg7raS-PhY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "cJg7raS-PhY",
+                "videoPublishedAt": "2015-02-06T01:54:45Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 51,
+        "resultsPerPage": 50
+    }
+}

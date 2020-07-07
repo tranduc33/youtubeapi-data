@@ -1,0 +1,99 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "RC080fO-NkBrTpuRxfd1VVYykQs",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "l2cgQ8UNnF3VHvXdxb3Odqk7Htc",
+            "id": "UExrWDlnU190QzR2WnNVWWpBbmwxTTBnQ3NWWEIzWGMtTy40MDNEMzA0QTBFRThFMzBE",
+            "snippet": {
+                "publishedAt": "2017-12-07T09:04:29Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Những bộ phim hoạt hình Nhật Bản nên xem ít nhất một lần trong đời Phần I",
+                "description": "Nếu như phim hoạt hình Mỹ đưa người xem đến những giấc mơ thì phim hoạt hình Nhật Bản khiến người xem trong mơ vẫn rơi nước mắt.\nXem Phần II tại đây: https://www.youtube.com/watch?v=DYLoKC1ChtM&feature=youtu.be\nNhạc:\nStopping By the Inn - Twin Musicom  \nItalian Morning - Twin Musicom",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lCOWHfuWN0U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lCOWHfuWN0U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lCOWHfuWN0U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lCOWHfuWN0U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lCOWHfuWN0U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vZsUYjAnl1M0gCsVXB3Xc-O",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "lCOWHfuWN0U"
+                }
+            },
+            "contentDetails": {
+                "videoId": "lCOWHfuWN0U",
+                "videoPublishedAt": "2016-05-06T06:55:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "15KXuAA-H7sx5vZ4bEAm74BPfD8",
+            "id": "UExrWDlnU190QzR2WnNVWWpBbmwxTTBnQ3NWWEIzWGMtTy42RTNCOEMxREI3Q0VDMjU2",
+            "snippet": {
+                "publishedAt": "2017-12-07T09:04:29Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Phim tâm lý tình cảm Nhật Bản",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CvM6G-mmPdY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CvM6G-mmPdY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CvM6G-mmPdY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vZsUYjAnl1M0gCsVXB3Xc-O",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "CvM6G-mmPdY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "CvM6G-mmPdY",
+                "videoPublishedAt": "2016-11-25T06:41:52Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 54,
+        "resultsPerPage": 50
+    }
+}

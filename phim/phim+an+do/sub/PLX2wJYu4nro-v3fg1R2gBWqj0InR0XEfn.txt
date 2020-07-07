@@ -1,0 +1,392 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "5J1T7rXTNBcyqqI4q1gSGEAP9yU",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yKfZsHV1q9m5yZyUEWTbShCGUPw",
+            "id": "UExYMndKWXU0bnJvLXYzZmcxUjJnQldxajBJblIwWEVmbi41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2016-02-11T12:09:23Z",
+                "channelId": "UCGajFQg-x3jKE-m5Qo0xJhw",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Vu David",
+                "playlistId": "PLX2wJYu4nro-v3fg1R2gBWqj0InR0XEfn",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6Ih0Drtuufc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "6Ih0Drtuufc"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tdLL2kzZDoCbsYnKCls_OjURM00",
+            "id": "UExYMndKWXU0bnJvLXYzZmcxUjJnQldxajBJblIwWEVmbi4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2016-02-11T12:09:49Z",
+                "channelId": "UCGajFQg-x3jKE-m5Qo0xJhw",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Vu David",
+                "playlistId": "PLX2wJYu4nro-v3fg1R2gBWqj0InR0XEfn",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qb1xZtfiRT4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "qb1xZtfiRT4"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fqfJgIm0XJJAfg6VCmDNvvB9P8M",
+            "id": "UExYMndKWXU0bnJvLXYzZmcxUjJnQldxajBJblIwWEVmbi5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2016-02-29T15:31:37Z",
+                "channelId": "UCGajFQg-x3jKE-m5Qo0xJhw",
+                "title": "'Mẹ và Cha đã bán tôi'",
+                "description": "Tin tức: http://www.facebook.com/VOATiengViet, http://www.youtube.com/VOATiengVietVideo, http://www.voatiengviet.com. Nếu không vào được VOA, xin các bạn hãy vào http://vn3000.com để vượt tường lửa. \"[Taliban] huấn luyện tôi thành tay đánh bom tự sát. Họ cho tôi một chiếc áo khoác tự sát, nhưng tôi không mặc. Họ nói tôi sẽ lên thiên đàng, và tôi nói, 'Thiên đàng ở đâu? Các ông nên lên thiên đàng.' Họ nói với tôi rằng chỉ có trẻ em chết vì tự sát mới lên thiên đàng và họ sẽ tiếp tục mở cuộc thánh chiến [dưới đất].\"\n\nMỗi năm hàng chục trẻ em ở Afghanistan bị bán làm nô lệ hoặc bị đưa tới những số phận còn hẩm hiu hơn. Gia đình các em, thường là rất nghèo, giao các em cho những tay buôn người để đổi lấy những lời hứa trả tiền mặt. Một số em còn được huấn luyện thành những tay đánh bom tự sát cho Taliban. RFE/RL đã nói chuyện với hai em thoát khỏi nanh vuốt của những tay buôn người. (Đài Afghanistan Tự do trực thuộc RFE/RL)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hxhCbL5bykA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hxhCbL5bykA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hxhCbL5bykA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hxhCbL5bykA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hxhCbL5bykA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Vu David",
+                "playlistId": "PLX2wJYu4nro-v3fg1R2gBWqj0InR0XEfn",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hxhCbL5bykA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "hxhCbL5bykA",
+                "videoPublishedAt": "2016-02-19T21:39:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "aUy4yp4G6ac_H9jcymVzSWGorEI",
+            "id": "UExYMndKWXU0bnJvLXYzZmcxUjJnQldxajBJblIwWEVmbi45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2016-05-05T13:28:52Z",
+                "channelId": "UCGajFQg-x3jKE-m5Qo0xJhw",
+                "title": "Truyền hình vệ tinh VOA 1/4/2016",
+                "description": "Tin tức: http://www.facebook.com/VOATiengViet, http://www.youtube.com/VOATiengVietVideo, http://www.voatiengviet.com. Nếu không vào được VOA, xin các bạn hãy vào http://vn3000.com để vượt tường lửa. Nữ chủ tịch quốc hội Việt Nam nguyện ‘trung thành với dân’. Bộ trưởng Ngoại giao VN sang Mỹ bàn chuyến thăm của Tổng thống Obama. VN: Giàn khoan TQ hoạt động trong khu vực đang phân định. TQ: Không cần làm rùm beng các kế hoạch ở Biển Đông. Donald Trump bị lên án về phát biểu trừng phạt người phá thai. Mực nước biển sẽ dâng cao gấp nhiều lần trong thế kỷ tới.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/et4CwdhOnLg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/et4CwdhOnLg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/et4CwdhOnLg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/et4CwdhOnLg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Vu David",
+                "playlistId": "PLX2wJYu4nro-v3fg1R2gBWqj0InR0XEfn",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "et4CwdhOnLg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "et4CwdhOnLg",
+                "videoPublishedAt": "2016-03-31T22:47:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ILS8KzXjOFpXMGINMxWHmDWbTXQ",
+            "id": "UExYMndKWXU0bnJvLXYzZmcxUjJnQldxajBJblIwWEVmbi4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2016-12-10T21:34:37Z",
+                "channelId": "UCGajFQg-x3jKE-m5Qo0xJhw",
+                "title": "OMG! Leafcutter Ants WILL BLOW YOUR MIND | Thanksgiving Special - Part 1",
+                "description": "Happy American Thanksgiving! Because of the upcoming Thanksgiving season, I wanted to release a two part special on some really cool ant species! This episode features Desert Leafcutter ants and their amazing their micro lives. We also announce our AC Grand BLACK FRIDAY Giveaway for this week's AC Question of the Week. Hope you enjoy the video! Visit us at http://www.antscanada.com \n\nBig thank you to Andrew Smith from http://www.formiculture.com for allowing us to film his ant colonies.\nThumbnail and ant photos in this video courtesy of Alex Wild Photography http://www.alexanderwild.com. \nPhoto of Leafcutter Ant in 20 Million yr old Amber by Christopher Johnson for \"Insects Unlocked\" Project\n\nInformational References:\nhttps://en.wikipedia.org/wiki/Leafcutter_ant\nhttps://www.uea.ac.uk/leafcutter-ants\nAndrew Smith http://www.formiculture.com\nAlex Wild http://www.alexanderwild.com\n\nClosed captioning \"CC\" available for this viodeo. Please feel free to tranlate this video into another language: http://www.youtube.com/timedtext_cs_panel?tab=2&c=UCONd1SNf3_QqjzjCVsURNuA\nEnglish CC by Random Person, Nyyre\n \nA brand new video is uploaded on this channel every Saturday at 8AM EST (with frequent bonus videos) so be sure to SUBSCRIBE to the channel to catch every ant video we release! Thank you for the support.\n\n▶▶▶Got a question about ants or AntsCanada? Visit our website FAQ: https://goo.gl/mJPEqn\n\n▶▶▶Want an ant farm? Check out our ant shop. We ship worldwide: http://goo.gl/I4l7Ho \n\n▶▶▶Need to buy an ant colony for your ant farm, or do you have ant colonies to sell/give away? Find out more about our GAN Project: http://goo.gl/jzo9Lc\n\nLink to Hidden Video: https://www.youtube.com/watch?v=KEx5cgR4ASY\nClick here to watch every video we have ever made: https://goo.gl/8zNkIm\nFire Ant (Solenopsis geminata) playlist: https://goo.gl/Dlu7PZ\nBlack Crazy Ant (Paratrechina longicornis) playlist: https://goo.gl/FsKLzK\nYellow Crazy Ant (Anoplolepis gracillipes) playlist: https://goo.gl/ZQCCUw\nAnts REACT Series & Other Time Lapse Video playlist: https://goo.gl/BVuLeA\nAntsCanada Tutorial Playlist: https://goo.gl/8dQnwb\n\nJoin us at the new AntsCanada Ant Forum: http://forum.antscanada.com\n\n▶AntsCanada Official Website http://www.antscanada.com\n▶Like us on http://facebook.com/antscanada \n▶Follow us on http://twitter.com/antscanada\n▶Follow us on http://www.instagram.com/antscanada\n\nEmail us at info@antscanada.com for any questions or inquiries.\n\nAbout AntsCanada.com: We believe ants are the most amazing creatures on the planet, and every new discovery about their micro world gives us some profound insights into the world around us and ourselves. Bringing the ant farm and love of ant keeping to a whole new level, we are dedicated to show the world the joys of keeping big and healthy pet ant colonies. Shipping worldwide since 2009, we are innovators of ant keeping products for ant lovers and museums alike.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qSnoTjwFleo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qSnoTjwFleo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qSnoTjwFleo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qSnoTjwFleo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qSnoTjwFleo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Vu David",
+                "playlistId": "PLX2wJYu4nro-v3fg1R2gBWqj0InR0XEfn",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qSnoTjwFleo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "qSnoTjwFleo",
+                "videoPublishedAt": "2016-11-19T13:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gwVKPfeetMRThPXZdwkvF8YeywU",
+            "id": "UExYMndKWXU0bnJvLXYzZmcxUjJnQldxajBJblIwWEVmbi41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2017-12-01T23:35:03Z",
+                "channelId": "UCGajFQg-x3jKE-m5Qo0xJhw",
+                "title": "NEW DINOSAUR REVEALED! *SPOILER*! || Jurassic World News Update",
+                "description": "There was a recent reveal that showed a new dinosaur might be confirmed in the new Jurassic World Fallen Kingdom Movie. Can you guess what it is?\nArt by Urbnvampslayer : http://bit.ly/2zAWhzt\n\n❤❤ For Exclusive Updates you can find them all here:\n❤ Merchandise Here:  http://bit.ly/2lFxVkn\n❤ Facebook: http://on.fb.me/1CSf5Yd\n❤ Instagram: http://bit.ly/1Uavyxc\n❤ Twitter: http://bit.ly/2hYbwJz\n❤ Twitch: www.twitch.tv/agamingbeaver\n\n*Jurassic World Playlist : http://bit.ly/2x20VrL\n\n*Hungry Shark Playlist : http://bit.ly/2xvGRvN\n\n*Little Nightmares Playlist : http://bit.ly/2x2uc5T\n\n*The Isle Playlist : http://bit.ly/2gnICHq\n\n*Primal Carnage Playlist : http://bit.ly/2xvSums\n\n*Ultimate Epic Battle Simulator Playlist : http://bit.ly/2wIdgm7\n\n*Depth Playlist : http://bit.ly/2wOc1Nn\n\n*Fish Feed Grow Playlist : http://bit.ly/2xZKwpp\n\nJurassic World 2 promises to be darker and scarier then it's prequel. Jurassic News intends to cover every last bit of detail from theories, trailers and of course the movie itself.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nR2ZfMZ8Hn4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nR2ZfMZ8Hn4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nR2ZfMZ8Hn4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nR2ZfMZ8Hn4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nR2ZfMZ8Hn4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Vu David",
+                "playlistId": "PLX2wJYu4nro-v3fg1R2gBWqj0InR0XEfn",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "nR2ZfMZ8Hn4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "nR2ZfMZ8Hn4",
+                "videoPublishedAt": "2017-11-30T20:45:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "BxxSGjaWsp7w6VI5kT0vZdpt3Cc",
+            "id": "UExYMndKWXU0bnJvLXYzZmcxUjJnQldxajBJblIwWEVmbi5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2017-12-10T20:35:16Z",
+                "channelId": "UCGajFQg-x3jKE-m5Qo0xJhw",
+                "title": "Rubber Band Machine Gun? | 10 Strange Projectile Weapons",
+                "description": "Thank you to SeatGeek for sponsoring this video! Use code ‘MATTHIAS’ for $20 off your first order: https://sg.app.link/matthias\n\nWant your product to possibly be featured in an upcoming episode? Send your product to:\nMatthias “Submissions\" 24307 Magic Mountain Pkwy Box #617\nValencia, CA 91355\n\nClick here to check out our merch! ➡ http://Teespring.com/stores/matthias\n\n⬇️ FOLLOW ME! ⬇️\n\nMatthias' Vlogs ➡ http://www.youtube.com/onetoomany\n\nTWITTER ➡ http://bit.ly/MatthiasTwitter\n\nINSTAGRAM ➡ http://bit.ly/MatthiasInsta\n\n⬇️ CHECK OUT MY OTHER SERIES ⬇️\n\nTech Gadgets! ➡ https://www.youtube.com/playlist?list=PL15dtrx_ng4RZH3aop96cWRW7CZU-uqDe\n\neBay Products! ➡ https://www.youtube.com/watch?v=hTypEDOjACw&list=PL15dtrx_ng4QdiYSImFRcgPCGjz0BwMAM\n\nDOPE or NOPE! ➡ https://www.youtube.com/playlist?list=PL15dtrx_ng4QiBZll2i6v1zab_4gAGdGH\n\nStrange Chinese Products! ➡ https://www.youtube.com/playlist?list=PL15dtrx_ng4TjAqiZC57Rbt6po770koAR\n\nStrange Walmart Items ➡ https://www.youtube.com/watch?v=heIeCsyzUNc&list=PL15dtrx_ng4Sf6qE3iVX3NAj240-MY3MC\n\nStrange Amazon Products! ➡ https://www.youtube.com/playlist?list=PL15dtrx_ng4Re8uHiuotJvXd_eGCfezoy\n\nStrange Dollar Store Items ➡ https://www.youtube.com/playlist?list=PL15dtrx_ng4Tqcw2GVq08SZw7LBh_qcWX",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oKhDDT457xY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oKhDDT457xY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oKhDDT457xY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oKhDDT457xY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oKhDDT457xY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Vu David",
+                "playlistId": "PLX2wJYu4nro-v3fg1R2gBWqj0InR0XEfn",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "oKhDDT457xY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "oKhDDT457xY",
+                "videoPublishedAt": "2017-12-07T00:30:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "CAn6VRIK0pLeVO5xSEFpwd_0lY0",
+            "id": "UExYMndKWXU0bnJvLXYzZmcxUjJnQldxajBJblIwWEVmbi41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2017-12-26T01:59:42Z",
+                "channelId": "UCGajFQg-x3jKE-m5Qo0xJhw",
+                "title": "Make Your Own Optimus Prime With Cardboard - DIY Costume Squad",
+                "description": "Time to transform and roll out... the duct tape and cardboard boxes! Watch as Ben makes this charmingly DIY Optimus Prime costume using a bunch of old boxes, popsicle sticks and some spray paint. For such simple materials the end results is definitely more than meets the eye.\n\nIn each episode of 'DIY Costume Squad' one of our expert hosts shows you how to make your own DIY costume based on popular movie/TV/video game characters. Watch as they transform everyday materials and store-bought items into fantastic costumes! \n\nSee this costume in Homemade Movies: https://youtu.be/2ShjcDpnXJc\n\nMore episodes: https://www.youtube.com/playlist?list=PL1AXWu-gGX6J6320gvgPoL6OzoUpqugUS\n\nSubscribe for new episodes every other Friday: \nhttp://goo.gl/9AGRm\n\nFollow us Twitter: https://twitter.com/CineFixNetwork\n\nOh, and we're on the Facebook: http://www.facebook.com/CineFixNetwork\n\nCREDITS\nStarring: \nBenjamin Martin https://www.instagram.com/realfakeblood\nDustin McLean https://www.instagram.com/dustfilms\nDirected by: Dustin McLean\nEdited by: Jon Tomlinson\nExecutive Producer: Dustin McLean",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tRCSW1c6CII/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tRCSW1c6CII/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tRCSW1c6CII/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tRCSW1c6CII/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tRCSW1c6CII/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Vu David",
+                "playlistId": "PLX2wJYu4nro-v3fg1R2gBWqj0InR0XEfn",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "tRCSW1c6CII"
+                }
+            },
+            "contentDetails": {
+                "videoId": "tRCSW1c6CII",
+                "videoPublishedAt": "2017-06-16T15:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jCOleMylwypnt_9R7CjfplD40ns",
+            "id": "UExYMndKWXU0bnJvLXYzZmcxUjJnQldxajBJblIwWEVmbi4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2018-01-18T23:38:56Z",
+                "channelId": "UCGajFQg-x3jKE-m5Qo0xJhw",
+                "title": "White House Down (2013) - Presidential Rocket Launcher Scene (4/10) | Movieclips",
+                "description": "White House Down movie clips: http://j.mp/2nNYxkT\nBUY THE MOVIE: http://bit.ly/2oKD4K4\nDon't miss the HOTTEST NEW TRAILERS: http://bit.ly/1u2y6pr\n\nCLIP DESCRIPTION:\nPresident Sawyer (Jamie Foxx) shoots a rocket at a gate on the White House lawn so Cale (Channing Tatum) can get them away from the terrorists.\n\nFILM DESCRIPTION:\nA devoted father fights a ruthless paramilitary group that has seized control the White House in this high-stakes action thriller from director Roland Emmerich (2012) and writer James Vanderbilt (The Amazing Spider-Man). Dejected after being turned down for a position with the Secret Service but unable to break the news to his adoring daughter, Capitol policeman John Cale (Channing Tatum) is taking her on a tour of the White House when a powerful explosion rips through the building, sparking mass chaos. When the smoke clears, Cale learns that heavily armed rebels have taken both his daughter (Joey King) and the president (Jamie Foxx) hostage. As news of the attack creates mass panic and fear of total collapse, Cale realizes that the fate of his daughter, the Commander in Chief, and the entire nation rest in his willingness to fight back against the terrorists who have brought the most powerful nation on the planet to its knees. Maggie Gyllenhaal, Jason Clarke, Richard Jenkins, and James Woods co-star.\n\nCREDITS:\nTM & © Sony (2013)\nCast: Kevin Rankin, Matt Craven, Joey King, Richard Jenkins, Maggie Gyllenhaal, Jamie Foxx, Channing Tatum\nDirector: Roland Emmerich\nProducers: Larry J. Franco, James Vanderbilt, Volker Engel, Reid Carolin, Laeta Kalogridis, Ute Emmerich, Brad Fischer, Marc Weigert, Harald Kloser, Roland Emmerich\nScreenwriter: James Vanderbilt\n\nWHO ARE WE?\nThe MOVIECLIPS channel is the largest collection of licensed movie clips on the web. Here you will find unforgettable moments, scenes and lines from all your favorite films. Made by movie fans, for movie fans.\n\nSUBSCRIBE TO OUR MOVIE CHANNELS:\nMOVIECLIPS: http://bit.ly/1u2yaWd\nComingSoon: http://bit.ly/1DVpgtR\nIndie & Film Festivals: http://bit.ly/1wbkfYg\nHero Central: http://bit.ly/1AMUZwv\nExtras: http://bit.ly/1u431fr\nClassic Trailers: http://bit.ly/1u43jDe\nPop-Up Trailers: http://bit.ly/1z7EtZR\nMovie News: http://bit.ly/1C3Ncd2\nMovie Games: http://bit.ly/1ygDV13\nFandango: http://bit.ly/1Bl79ye\nFandango FrontRunners: http://bit.ly/1CggQfC\n\nHIT US UP:\nFacebook: http://on.fb.me/1y8M8ax\nTwitter: http://bit.ly/1ghOWmt\nPinterest: http://bit.ly/14wL9De\nTumblr: http://bit.ly/1vUwhH7",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WCaRP0aT9CU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WCaRP0aT9CU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WCaRP0aT9CU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WCaRP0aT9CU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WCaRP0aT9CU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Vu David",
+                "playlistId": "PLX2wJYu4nro-v3fg1R2gBWqj0InR0XEfn",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WCaRP0aT9CU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "WCaRP0aT9CU",
+                "videoPublishedAt": "2017-04-07T22:28:56Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 13,
+        "resultsPerPage": 50
+    }
+}

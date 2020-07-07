@@ -1,0 +1,104 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "pkgarpsJDZPNGD8atrKLU9Xqkrk",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "PCvPijwkrT2cYjUCr6Aebp6uQno",
+            "id": "UExDdF9xdlNZYWJNVjRuZkRoekZrdkQxaG5IejEwMElhQy5CNTcxMDQ0NThBNzMxODYz",
+            "snippet": {
+                "publishedAt": "2017-12-07T09:01:15Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Thái Lan Thất Thủ Full HD | Phim Hành Động Hay Nhất - Thuyết Minh",
+                "description": "Thái Lan Thất Thủ Full HD | Phim Hành Động Hay Nhất - Thuyết Minh\nPhim Hành Động 2016 Hay: https://www.youtube.com/watch?v=t9eK7Cyoe2s\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đè Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\n\n- Phim Nổi Bật: \nTrò Đùa Của Thiên Lôi: https://goo.gl/bRXLPR\nChuyện Của Pao: https://goo.gl/YY8nRS\nChơi Vơi :https://goo.gl/B19zym\nKhi Người Ta Yêu : https://goo.gl/ei8g1Q\n\nFanpage Facebook: https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fkevl6jcWxU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fkevl6jcWxU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fkevl6jcWxU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fkevl6jcWxU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fkevl6jcWxU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMV4nfDhzFkvD1hnHz100IaC",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "fkevl6jcWxU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "fkevl6jcWxU",
+                "videoPublishedAt": "2016-10-21T02:02:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "LTfYSmtDLmPZyFvO7MSgLIdlOkA",
+            "id": "UExDdF9xdlNZYWJNVjRuZkRoekZrdkQxaG5IejEwMElhQy5EQkE3RTJCQTJEQkFBQTcz",
+            "snippet": {
+                "publishedAt": "2017-12-07T09:01:20Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Phim Dài Tập Nhật Bản hay nhất 2016-2017 - Giang Hồ Đầu Bếp Tập 2",
+                "description": "Phim Dài Tập Nhật Bản hay nhất 2016-2017 - Giang Hồ Đầu Bếp Tập 2",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TEucoykKm-E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TEucoykKm-E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TEucoykKm-E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TEucoykKm-E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMV4nfDhzFkvD1hnHz100IaC",
+                "position": 54,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "TEucoykKm-E"
+                }
+            },
+            "contentDetails": {
+                "videoId": "TEucoykKm-E",
+                "videoPublishedAt": "2016-09-20T05:05:28Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 55,
+        "resultsPerPage": 50
+    }
+}

@@ -1,0 +1,1431 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "kGKCT5PoOTFdHBW2D9Tx7B40eYI",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ULUlYXN1AG0qMiO5j39iB53jXwo",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2017-12-28T04:47:30Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 01",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Wn5Iso0_laE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Wn5Iso0_laE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Wn5Iso0_laE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Wn5Iso0_laE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Wn5Iso0_laE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Wn5Iso0_laE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Wn5Iso0_laE",
+                "videoPublishedAt": "2018-01-10T14:39:28Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZQLoqpx7alYzzFLFNdLLP0guOdU",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2018-01-02T09:48:36Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 02",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uIaJt_ZI5fo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uIaJt_ZI5fo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uIaJt_ZI5fo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uIaJt_ZI5fo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uIaJt_ZI5fo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "uIaJt_ZI5fo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "uIaJt_ZI5fo",
+                "videoPublishedAt": "2018-01-11T16:20:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "De1cFU8GBjdjCDMwRazaoFmKrQ4",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2018-01-10T15:52:05Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 03",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b5LfCYCKXZ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b5LfCYCKXZ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b5LfCYCKXZ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/b5LfCYCKXZ4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/b5LfCYCKXZ4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "b5LfCYCKXZ4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "b5LfCYCKXZ4",
+                "videoPublishedAt": "2018-01-25T14:50:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7KM30cXAQXX6blaWQ9nXGe-pM7k",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2018-01-10T15:55:27Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 05",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ApfvJzYqfQA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ApfvJzYqfQA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ApfvJzYqfQA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ApfvJzYqfQA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ApfvJzYqfQA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ApfvJzYqfQA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "ApfvJzYqfQA",
+                "videoPublishedAt": "2018-08-30T14:57:56Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MnYcq_iohhfEeMzk94ITQGwumjM",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2018-01-10T15:59:29Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 08",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/f7H631BVUMQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/f7H631BVUMQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/f7H631BVUMQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/f7H631BVUMQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/f7H631BVUMQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "f7H631BVUMQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "f7H631BVUMQ",
+                "videoPublishedAt": "2018-09-06T23:40:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tAM5rmU8r1XFevGneG0Rx7pNSbM",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2018-09-05T16:35:08Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 07",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FLHJ3qy9SRU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FLHJ3qy9SRU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FLHJ3qy9SRU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FLHJ3qy9SRU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FLHJ3qy9SRU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FLHJ3qy9SRU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "FLHJ3qy9SRU",
+                "videoPublishedAt": "2018-09-05T16:35:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vJOxTmx7BF_zA8bxPPUD6YSLapo",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2018-09-05T16:35:31Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 06",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nfv7Umr8FTI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nfv7Umr8FTI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nfv7Umr8FTI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nfv7Umr8FTI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nfv7Umr8FTI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "nfv7Umr8FTI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "nfv7Umr8FTI",
+                "videoPublishedAt": "2018-09-01T15:43:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Jps9Q1mi4QDJDvjgWhnyVeCLYV4",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2018-09-06T02:10:48Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 11",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QDsErAli98E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QDsErAli98E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QDsErAli98E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QDsErAli98E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QDsErAli98E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "QDsErAli98E"
+                }
+            },
+            "contentDetails": {
+                "videoId": "QDsErAli98E",
+                "videoPublishedAt": "2018-09-15T12:39:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "n-yEgiL6WS9cffn2ElRXCQSy_ug",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2018-09-12T14:24:30Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 10",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ta4__L0mZag/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ta4__L0mZag/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ta4__L0mZag/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ta4__L0mZag/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ta4__L0mZag/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Ta4__L0mZag"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Ta4__L0mZag",
+                "videoPublishedAt": "2017-12-29T10:19:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "k60fqhTiAGgugPwN6t-9GDbyUgo",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2018-09-16T14:07:53Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 12",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Hi8iaftyyGA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Hi8iaftyyGA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Hi8iaftyyGA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Hi8iaftyyGA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Hi8iaftyyGA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Hi8iaftyyGA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Hi8iaftyyGA",
+                "videoPublishedAt": "2018-09-16T14:07:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HwAcjr2V9Wfqc1BQme52hvGEoRM",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2018-09-18T15:49:40Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 13",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W0q5tuJao78/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W0q5tuJao78/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W0q5tuJao78/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/W0q5tuJao78/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/W0q5tuJao78/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "W0q5tuJao78"
+                }
+            },
+            "contentDetails": {
+                "videoId": "W0q5tuJao78",
+                "videoPublishedAt": "2018-09-18T15:49:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "lL4rMg9dKtW-dOA4pwnYibNN41s",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2018-09-21T05:23:24Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 14",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eEZDPsuLNQg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eEZDPsuLNQg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eEZDPsuLNQg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eEZDPsuLNQg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eEZDPsuLNQg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eEZDPsuLNQg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "eEZDPsuLNQg",
+                "videoPublishedAt": "2018-09-21T15:48:31Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xcpAq4ZXcMiQthojW7ey31Z66Ao",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2018-09-24T07:51:46Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 15",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aGe2TAWczXc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aGe2TAWczXc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aGe2TAWczXc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aGe2TAWczXc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aGe2TAWczXc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "aGe2TAWczXc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "aGe2TAWczXc",
+                "videoPublishedAt": "2018-09-24T15:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xy3RE_xfE396-eno3TlLuEQzrkI",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2018-09-24T07:58:06Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 16",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0AGZZsIQlHU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0AGZZsIQlHU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0AGZZsIQlHU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0AGZZsIQlHU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0AGZZsIQlHU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0AGZZsIQlHU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "0AGZZsIQlHU",
+                "videoPublishedAt": "2018-09-25T15:30:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "md2_Rc3iQ0Wb7AtnN8UKrSVZqN0",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2018-09-24T14:48:02Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 20",
+                "description": "▶ Subscribe Youtube: https://goo.gl/TG7bBr\n▶ Website: http://letsviet.vn\n▶ Fanpage: https://www.facebook.com/letsvietvn/\n▶ Clip hot: http://hotclip.letsviet.vn",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IpfqpAaApME/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IpfqpAaApME/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IpfqpAaApME/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IpfqpAaApME/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IpfqpAaApME/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "IpfqpAaApME"
+                }
+            },
+            "contentDetails": {
+                "videoId": "IpfqpAaApME",
+                "videoPublishedAt": "2018-10-01T13:57:59Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "XNEJJKvM6fbsq9ESYsCv6LT-ONE",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2018-09-27T12:16:31Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 17",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Zc-gtFE7ThQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Zc-gtFE7ThQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Zc-gtFE7ThQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Zc-gtFE7ThQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Zc-gtFE7ThQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Zc-gtFE7ThQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Zc-gtFE7ThQ",
+                "videoPublishedAt": "2018-09-27T12:16:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rhD_FszaRDVEuh5Sh1G1-vioiCw",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2018-09-29T12:51:58Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 18",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OspvtVdyvC0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OspvtVdyvC0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OspvtVdyvC0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OspvtVdyvC0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OspvtVdyvC0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OspvtVdyvC0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "OspvtVdyvC0",
+                "videoPublishedAt": "2018-09-29T12:51:56Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8JHMD2LLpcD5H3M_pP-_f1AokfY",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2018-09-30T13:00:50Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 19",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GlMjl9tkSxo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GlMjl9tkSxo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GlMjl9tkSxo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GlMjl9tkSxo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GlMjl9tkSxo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GlMjl9tkSxo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "GlMjl9tkSxo",
+                "videoPublishedAt": "2018-09-30T13:02:48Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "aOntJqY2iamMuo5H_vMFeKSlYAk",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2018-10-02T10:34:26Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 21",
+                "description": "▶ Subscribe Youtube: https://goo.gl/TG7bBr\n▶ Website: http://letsviet.vn\n▶ Fanpage: https://www.facebook.com/letsvietvn/\n▶ Clip hot: http://hotclip.letsviet.vn",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rzfGh83bZGg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rzfGh83bZGg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rzfGh83bZGg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rzfGh83bZGg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rzfGh83bZGg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "rzfGh83bZGg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "rzfGh83bZGg",
+                "videoPublishedAt": "2018-10-02T10:34:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_kcpP7MBHg2Sk3plTaQX1pBnNXM",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2018-10-04T14:55:41Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 22",
+                "description": "▶ Subscribe Youtube: https://goo.gl/TG7bBr\n▶ Website: http://letsviet.vn\n▶ Fanpage: https://www.facebook.com/letsvietvn/\n▶ Clip hot: http://hotclip.letsviet.vn",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vr5v2Mczkq4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vr5v2Mczkq4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vr5v2Mczkq4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vr5v2Mczkq4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vr5v2Mczkq4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vr5v2Mczkq4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "vr5v2Mczkq4",
+                "videoPublishedAt": "2018-10-04T14:55:38Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "GNPuEtpKHzeCAPzh6JllWm3651I",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2018-10-07T10:51:22Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 23",
+                "description": "▶ Subscribe Youtube: https://goo.gl/TG7bBr\n▶ Website: http://letsviet.vn\n▶ Fanpage: https://www.facebook.com/letsvietvn/\n▶ Clip hot: http://hotclip.letsviet.vn",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0VGgAhYGab4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0VGgAhYGab4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0VGgAhYGab4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0VGgAhYGab4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0VGgAhYGab4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0VGgAhYGab4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "0VGgAhYGab4",
+                "videoPublishedAt": "2018-10-07T10:51:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OvIvnNmlZTFTc3xikLpoT1xS1cc",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2018-10-07T14:36:05Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 24",
+                "description": "▶ Subscribe Youtube: https://goo.gl/TG7bBr\n▶ Website: http://letsviet.vn\n▶ Fanpage: https://www.facebook.com/letsvietvn/\n▶ Clip hot: http://hotclip.letsviet.vn",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lE9RdxfIxp4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lE9RdxfIxp4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lE9RdxfIxp4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lE9RdxfIxp4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lE9RdxfIxp4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "lE9RdxfIxp4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "lE9RdxfIxp4",
+                "videoPublishedAt": "2018-10-07T14:36:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Rs-aPmVpIrYdWIipUIcNnIripfg",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2018-10-09T15:25:25Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 25",
+                "description": "▶ Subscribe Youtube: https://goo.gl/TG7bBr\n▶ Website: http://letsviet.vn\n▶ Fanpage: https://www.facebook.com/letsvietvn/\n▶ Clip hot: http://hotclip.letsviet.vn",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/piXm0Q2pbTU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/piXm0Q2pbTU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/piXm0Q2pbTU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/piXm0Q2pbTU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/piXm0Q2pbTU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "piXm0Q2pbTU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "piXm0Q2pbTU",
+                "videoPublishedAt": "2018-10-09T15:25:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nM8SEvRt5BTMmhj9D8AVop9_CNw",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2018-10-11T05:01:43Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 27",
+                "description": "▶ Subscribe Youtube: https://goo.gl/TG7bBr\n▶ Website: http://letsviet.vn\n▶ Fanpage: https://www.facebook.com/letsvietvn/\n▶ Clip hot: http://hotclip.letsviet.vn",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F-FlclOM5Jw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F-FlclOM5Jw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F-FlclOM5Jw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/F-FlclOM5Jw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/F-FlclOM5Jw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "F-FlclOM5Jw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "F-FlclOM5Jw",
+                "videoPublishedAt": "2018-10-11T15:28:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Pex8o6ScYUnmi6VU8r2mh-TjtFk",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2019-08-02T16:03:08Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Hài Hoài Linh - Thà Ăn Mày Hơn Ăn Cướp",
+                "description": "#hai #hoailinh #haihoailinh #thanhlan #thaanmay #ancuop\nHoài Linh & Trang Thanh Lan in Hài Kịch Thà Ăn Mày Hơn Ăn Cướp Paris By Night 80 Tết Khắp Mọi Nhà released in Jan. 2006.  Thuy Nga Productions.\n-----\nFOLLOW THUY NGA PARIS BY NIGHT:\n☞ Thuy Nga Youtube: http://bit.ly/ThuyNgaParisByNight\n☞ Thuy Nga Karaoke: http://bit.ly/ThuyNgaKaraoke\n☞ Thuy nga Radio: http://bit.ly/ThuyNgaRadio\n☞ MC Nguyễn Ngọc Ngạn Youtube: http://bit.ly/NguyenNgocNgan_Official\n☞ Facebook: https://www.facebook.com/ThuyNgaPBN/\n☞ Website: http://www.thuyngashop.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qZ0aWQkG5Bg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qZ0aWQkG5Bg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qZ0aWQkG5Bg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qZ0aWQkG5Bg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qZ0aWQkG5Bg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qZ0aWQkG5Bg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "qZ0aWQkG5Bg",
+                "videoPublishedAt": "2019-07-31T11:58:15Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ww7zyCDMZ-kmgxwy3zAwwcrx5P8",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2019-08-02T16:03:49Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Hài Hoài Linh, Chí Tài - Con Sáo Sang Sông",
+                "description": "Xem full:  https://youtu.be/DgMDvophnEw\n#hai #haihoailinh #hoailinh #chitai\nHài Kịch Con Sáo Sang Sông in Paris By Night 75 released in 2004.  Thuy Nga Productions.\nHoài Linh, Chí Tài, Kiều Linh, MPhượng, MLan, TDanh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nEZFp4OYS7c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nEZFp4OYS7c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nEZFp4OYS7c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nEZFp4OYS7c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nEZFp4OYS7c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "nEZFp4OYS7c"
+                }
+            },
+            "contentDetails": {
+                "videoId": "nEZFp4OYS7c",
+                "videoPublishedAt": "2019-07-30T11:57:41Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ll2cOMCP6tNI_prQEeL6jRhCyQk",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2018-10-11T05:03:34Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 29",
+                "description": "▶ Subscribe Youtube: https://goo.gl/TG7bBr\n▶ Website: http://letsviet.vn\n▶ Fanpage: https://www.facebook.com/letsvietvn/\n▶ Clip hot: http://hotclip.letsviet.vn",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Appd5rOoaLQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Appd5rOoaLQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Appd5rOoaLQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Appd5rOoaLQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Appd5rOoaLQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Appd5rOoaLQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Appd5rOoaLQ",
+                "videoPublishedAt": "2018-10-12T14:42:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Zme2HsrFOW3kXa90cD_AmrzMb4k",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2018-10-13T02:23:01Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Phim Việt Nam - Cạm Bẫy Thị Thành tập 30",
+                "description": "▶ Subscribe Youtube: https://goo.gl/TG7bBr\n▶ Website: http://letsviet.vn\n▶ Fanpage: https://www.facebook.com/letsvietvn/\n▶ Clip hot: http://hotclip.letsviet.vn",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eJxi6YoLtrE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eJxi6YoLtrE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eJxi6YoLtrE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eJxi6YoLtrE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eJxi6YoLtrE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eJxi6YoLtrE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "eJxi6YoLtrE",
+                "videoPublishedAt": "2018-10-13T02:22:58Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ASJ9it0x9tk2JGx8jyJpgDRRWgw",
+            "id": "UExVZFVtTEVUa2ZxS0VHVXJDVGphNy0wS09pQ1NwcHNyRS5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2019-08-02T16:04:19Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Hài Hoài Linh, Chí Tài, Kiều Oanh - Nỗi Oan Thị Mầu",
+                "description": "Hoài Linh, Chí Tài, Kiều Oanh, Uyên Chi, Lê Tín, Kiều Linh in Hài Kịch Nỗi Oan Thị Mầu Paris By Night 85 Xuân Trong Kỷ Niệm released in Jan. 2007.  Thuy Nga Productions.\n----------\nFOLLOW THUY NGA PARIS BY NIGHT:\n☞ Facebook: https://www.facebook.com/ThuyNgaPBN/\n☞ Instagram: https://www.instagram.com/thuynga_official/\n☞ Thuy Nga Youtube: http://bit.ly/ThuyNgaParisByNight\n☞ Hài Official: http://bit.ly/HaiOfficial\n☞ Thuy Nga Karaoke: http://bit.ly/ThuyNgaKaraoke\n☞ Thuy nga Radio: http://bit.ly/ThuyNgaRadio\n☞ MC Nguyễn Ngọc Ngạn Youtube: http://bit.ly/NguyenNgocNgan_Official\n☞ Website: http://www.thuyngashop.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0oTLiRJJrZg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0oTLiRJJrZg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0oTLiRJJrZg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0oTLiRJJrZg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0oTLiRJJrZg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "playlistId": "PLUdUmLETkfqKEGUrCTja7-0KOiCSppsrE",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0oTLiRJJrZg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "0oTLiRJJrZg",
+                "videoPublishedAt": "2019-07-31T04:43:17Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 29,
+        "resultsPerPage": 50
+    }
+}

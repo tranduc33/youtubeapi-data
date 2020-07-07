@@ -1,0 +1,636 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "2T1yw_OiUuFWi5BoIAKo8bNkkwc",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "1Z8psp6Ide0UQjJEgqX7RyKAeSQ",
+            "id": "UExsNzlacTluZGhvZDBiT2lOVnhKYmJicDhPeHA0VDFPLS4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2019-12-17T04:05:14Z",
+                "channelId": "UCAWhB6KVoHk-FgfB2qWcgog",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Bob E. Cooper",
+                "playlistId": "PLl79Zq9ndhod0bOiNVxJbbbp8Oxp4T1O-",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "K_NFWx5QAxA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "K_NFWx5QAxA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IximyhgDvLIiHBZmWfuogXPkJr0",
+            "id": "UExsNzlacTluZGhvZDBiT2lOVnhKYmJicDhPeHA0VDFPLS5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2019-12-16T18:59:20Z",
+                "channelId": "UCAWhB6KVoHk-FgfB2qWcgog",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Bob E. Cooper",
+                "playlistId": "PLl79Zq9ndhod0bOiNVxJbbbp8Oxp4T1O-",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "K_NFWx5QAxA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "K_NFWx5QAxA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "GrS23Aq2vGEJVAl-XmItLZ1vZeY",
+            "id": "UExsNzlacTluZGhvZDBiT2lOVnhKYmJicDhPeHA0VDFPLS41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2019-12-16T11:30:21Z",
+                "channelId": "UCAWhB6KVoHk-FgfB2qWcgog",
+                "title": "nhac an do hay",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3nO17OM9dHs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3nO17OM9dHs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3nO17OM9dHs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bob E. Cooper",
+                "playlistId": "PLl79Zq9ndhod0bOiNVxJbbbp8Oxp4T1O-",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3nO17OM9dHs"
+                }
+            },
+            "contentDetails": {
+                "videoId": "3nO17OM9dHs",
+                "videoPublishedAt": "2015-11-24T13:53:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "43QuLVP4Hv6cxVu_Wu6IWx9qolM",
+            "id": "UExsNzlacTluZGhvZDBiT2lOVnhKYmJicDhPeHA0VDFPLS4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2019-12-16T11:30:21Z",
+                "channelId": "UCAWhB6KVoHk-FgfB2qWcgog",
+                "title": "nhạc ấn độ hay quá.????????",
+                "description": "không có mô tả",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v37yU3uqvrE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v37yU3uqvrE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v37yU3uqvrE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bob E. Cooper",
+                "playlistId": "PLl79Zq9ndhod0bOiNVxJbbbp8Oxp4T1O-",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "v37yU3uqvrE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "v37yU3uqvrE",
+                "videoPublishedAt": "2012-09-21T13:59:49Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DuC5_CL9BNBg1huxtS1qX7ZUWhY",
+            "id": "UExsNzlacTluZGhvZDBiT2lOVnhKYmJicDhPeHA0VDFPLS4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2019-12-16T11:30:21Z",
+                "channelId": "UCAWhB6KVoHk-FgfB2qWcgog",
+                "title": "Nhạc Ấn Độ Siêu Hay (Bản Đẹp)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_s7_jdyG2gI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_s7_jdyG2gI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_s7_jdyG2gI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_s7_jdyG2gI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Bob E. Cooper",
+                "playlistId": "PLl79Zq9ndhod0bOiNVxJbbbp8Oxp4T1O-",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_s7_jdyG2gI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "_s7_jdyG2gI",
+                "videoPublishedAt": "2012-06-02T04:06:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_s4Mlo9G4036SHibLLzd7VTOmMs",
+            "id": "UExsNzlacTluZGhvZDBiT2lOVnhKYmJicDhPeHA0VDFPLS4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2019-12-16T11:30:21Z",
+                "channelId": "UCAWhB6KVoHk-FgfB2qWcgog",
+                "title": "Nhạc  Ấn Độ Sôi Động",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c0DXQeKb2Rk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c0DXQeKb2Rk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c0DXQeKb2Rk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/c0DXQeKb2Rk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Bob E. Cooper",
+                "playlistId": "PLl79Zq9ndhod0bOiNVxJbbbp8Oxp4T1O-",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "c0DXQeKb2Rk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "c0DXQeKb2Rk",
+                "videoPublishedAt": "2011-10-14T04:21:38Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "U98EGHsgQGY4cUSzYLagYqCsg_8",
+            "id": "UExsNzlacTluZGhvZDBiT2lOVnhKYmJicDhPeHA0VDFPLS4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2019-12-16T11:30:21Z",
+                "channelId": "UCAWhB6KVoHk-FgfB2qWcgog",
+                "title": "bai hat an do hay nhat 3",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1AdGct5N1Mo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1AdGct5N1Mo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1AdGct5N1Mo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1AdGct5N1Mo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1AdGct5N1Mo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bob E. Cooper",
+                "playlistId": "PLl79Zq9ndhod0bOiNVxJbbbp8Oxp4T1O-",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1AdGct5N1Mo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "1AdGct5N1Mo",
+                "videoPublishedAt": "2013-09-27T06:20:48Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-Jb9NCeXvRXyDRYKX8QyQgF_xzQ",
+            "id": "UExsNzlacTluZGhvZDBiT2lOVnhKYmJicDhPeHA0VDFPLS41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2019-12-16T11:30:21Z",
+                "channelId": "UCAWhB6KVoHk-FgfB2qWcgog",
+                "title": "\"Chammak Challo Ra.One\" (video song) ShahRukh Khan,Kareena Kapoor",
+                "description": "\"Chammak Challo\" is the hottest chartbuster of this season, enjoy the extended version of Ra.One Chammak Challo featuring ShahRukh Khan & Kareena Kapoor. Watch the hottest mum of town in desi avtaar dancing on the tunes of international artist Akon.  In Ra.One Kareena Kapoor is playing a character of Punjabi housewife named Sonia Subramanium. Enjoy & play only on T-Series.\n\nSet it as your Caller Tune SMS RONE1 to 54646\nhttp://bit.ly/1FigJj0\n\nBuy it from iTunes: https://geo.itunes.apple.com/in/album/ra-one-original-motion-picture/id508532900?ls=1\n\nSong : Chammak Challo\nMovie : Ra.One\nSinger : Akon, Hamsika Iyer\nMusic Director : Vishal-Shekhar\nLyricist : Vishal Dadlani, Tamil Lyrics: Niranjan Iyengar\nRemixed by - DJ Khushi\nArtist : Shahrukh Khan, Kareena Kapoor\nMusic Label: T-Series\n\nSUBSCRIBE T-Series channel for unlimited entertainment\nhttp://www.youtube.com/tseries\n\n \n\n\nLike us on Facebook\nhttp://www.facebook.com/tseriesmusic",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lxB-ki-qE64/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lxB-ki-qE64/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lxB-ki-qE64/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lxB-ki-qE64/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Bob E. Cooper",
+                "playlistId": "PLl79Zq9ndhod0bOiNVxJbbbp8Oxp4T1O-",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "lxB-ki-qE64"
+                }
+            },
+            "contentDetails": {
+                "videoId": "lxB-ki-qE64",
+                "videoPublishedAt": "2011-09-20T13:17:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "r69A2rJw7wXzSawDCGqUuwOdDU4",
+            "id": "UExsNzlacTluZGhvZDBiT2lOVnhKYmJicDhPeHA0VDFPLS5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2019-12-16T11:30:21Z",
+                "channelId": "UCAWhB6KVoHk-FgfB2qWcgog",
+                "title": "Nhạc phim Ấn Độ cực hay - Magadheera - Chuyện tình 400 năm - LHMT",
+                "description": "Nhạc phim Ấn Độ cực hay! Đây là một đoạn trích nằm trong phim \"Magadheera - Truyện tình 400 năm\" nói về thuyết luân hồi... cho chính tình yêu còn dang dở từ thời trung đại và sự gắn kết nó thời hiện đại",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V3Vk9CtzczQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V3Vk9CtzczQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V3Vk9CtzczQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/V3Vk9CtzczQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Bob E. Cooper",
+                "playlistId": "PLl79Zq9ndhod0bOiNVxJbbbp8Oxp4T1O-",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "V3Vk9CtzczQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "V3Vk9CtzczQ",
+                "videoPublishedAt": "2012-09-27T23:07:40Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "KN6TsF30kb5sZEpP6d3_ABGJFxg",
+            "id": "UExsNzlacTluZGhvZDBiT2lOVnhKYmJicDhPeHA0VDFPLS45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2019-12-16T11:30:21Z",
+                "channelId": "UCAWhB6KVoHk-FgfB2qWcgog",
+                "title": "Mahi Heart Winning Performance - DID L'il Masters Season 3 - Jaw Dropping Delhi Audition",
+                "description": "Watch cute little #Mahi #perform on stage while she surprises everyone with her dance and expressions Really #Heart #Winning Performance Must Say.\n\nHaving connected millions through dance and given so many youngsters a career through dance, Zee TV brings back the dance ke baaps on popular demand -- #DID L'il Masters Season 3. In its third season, the show returns with a unique positioning -- 'Bacchagiri'.\nLike always, the focus of the show will be on the talent par excellence, the fun and the passion the kids share for #dance through several stages of progression. The #skill, discipline, artistry and mental-physical development of the kids will be of utmost importance throughout the show. \nDID l'il Masters has always presented ace dancers and never before seen acts with highest quality of training with the help of reliable and efficient Skippers.\nJay Bhanushali and mastikhor Nihar Gite (from India's Best Dramebaaz) will anchor the show.\nThe show has Geeta Kapoor and Ahmad Khan as #Masters and  Mithun Da as the  Grandmaster who will support the young talent to bring out the best in each contestant in his own charismatic manner.\n\n\nWatch Latest Episode of \"DID Little Masters Season 3\".\nSubscribe to the channel by clicking http://www.youtube.com/user/danceindiadance?sub_confirmation=1\nTo watch more episodes from this show go to http://www.zeetv.com/\n\n\nTo Feel ZEE5 in Your Language (Apni Bhasha Mein Feel Hai), To DOWNLOAD the app click below links \n\n- Playstore: https://play.google.com/store/apps/de...\n- iTunes: https://itunes.apple.com/in/app/ozee-...\n\nVisit our website - https://www.zee5.com \n\nConnect with us on Social Media: \n- Facebook - https://www.facebook.com/ZEE5/ \n- Instagram - https://www.instagram.com/zee5 \n- Twitter - https://twitter.com/ZEE5India\n\n#dance #danceindiadance #zeetv",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/68a347WNFz8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/68a347WNFz8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/68a347WNFz8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/68a347WNFz8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Bob E. Cooper",
+                "playlistId": "PLl79Zq9ndhod0bOiNVxJbbbp8Oxp4T1O-",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "68a347WNFz8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "68a347WNFz8",
+                "videoPublishedAt": "2014-03-07T13:32:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DrNQg3KZH9rGENZ41Jll8kTxrIs",
+            "id": "UExsNzlacTluZGhvZDBiT2lOVnhKYmJicDhPeHA0VDFPLS5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2019-12-16T11:30:21Z",
+                "channelId": "UCAWhB6KVoHk-FgfB2qWcgog",
+                "title": "Badri Ki Dulhania (Title Track) Varun, Alia, Tanishk, Neha, Monali, Ikka | \"Badrinath Ki Dulhania\"",
+                "description": "Badri Ki Dulhania Title Track | Hindi Songs 2017 | 2017 New Songs \n\nPresenting new Bollywood song BADRI KI DULHANIA (Title Song) from new Hindi movie \"Badrinath Ki Dulhania\" starring Varun Dhawan, Alia Bhatt. The movie is directed by Shashank Khaitan & Produced by Hiroo Yash Johar, Karan Johar, Apoorva Mehta.\n\nGet it on iTunes : http://bit.ly/badri-ki-dulhania-itunes\nAlso, Listen to it on\nHungama : http://bit.ly/Badri_Ki_Dulhania_Hungama\nSaavn : http://bit.ly/Badri_Ki_Dulhania_Saavn\nGaana : http://bit.ly/badri-ki-dulhania-gaana\nApple Music : http://bit.ly/badri-ki-dulhania-apple\n\nFor Caller Tunes:\nBadri Ki Dulhania - Title Track : http://bit.ly/2khkgvX\nKurti Pe - Badri Ki Dulhania : http://bit.ly/2lkzLEu\nBaby Ke Dekhe - Badri Ki Dulhania : http://bit.ly/2ljhZ3y\nKhelan Kyun - Badri Ki Dulhania : http://bit.ly/2kmBYkn\nRama Rama - Badri Ki Dulhania : http://bit.ly/2jXto8c\n\nSet as Caller Tune:\n\"Badri Ki Dulhania - Title Track\"- sms BDKD1 To 54646\n\"Kurti Pe - Badri Ki Dulhania\" - sms BDKD2 To 54646\n\"Baby Ke Dekhe - Badri Ki Dulhania\" - sms BDKD3 To 54646\n\"Khelan Kyun - Badri Ki Dulhania\" - sms BDKD4 To 54646\n\"Rama Rama - Badri Ki Dulhania\"- sms BDKD5 To 54646\n\nOperator Codes:\n\n1. Badri Ki Dulhania - Title Track\nVodafone Subscribers Dial 5379214654\nAirtel Subscribers Dial 5432116117215\nReliance Subscribers SMS CT 9214654 to 51234\nIdea Subscribers Dial 567899214654\nTata DoCoMo Subscribers dial 5432119214654\nAircel Subscribers sms DT 6557777  To 53000\nBSNL (South / East) Subscribers sms BT 9214654 To 56700\nBSNL (North / West) Subscribers sms BT 6557777 To 56700\nVirgin Subscribers sms TT 9214654 To 58475\nMTS Subscribers  sms CT 6557982 to 55777\nTelenor Subscribers dial 50016557238\nMTNL Subscribers sms PT 9214654 To 56789\n\n2. Kurti Pe - Badri Ki Dulhania - Title Track\nVodafone Subscribers Dial 5379214660\nAirtel Subscribers Dial 5432116117199\nReliance Subscribers SMS CT 9214660 to 51234\nIdea Subscribers Dial 567899214660\nTata DoCoMo Subscribers dial 5432119214660\nAircel Subscribers sms DT 6557776  To 53000\nBSNL (South / East) Subscribers sms BT 9214660 To 56700\nBSNL (North / West) Subscribers sms BT 6557776 To 56700\nVirgin Subscribers sms TT 9214660 To 58475\nMTS Subscribers  sms CT 6557981 to 55777\nTelenor Subscribers dial 50016557237\nMTNL Subscribers sms PT 9214660 To 56789\n\n3. Baby Ke Dekhe - Badri Ki Dulhania - Title Track\nVodafone Subscribers Dial 5379214661\nAirtel Subscribers Dial 5432116117185\nReliance Subscribers SMS CT 9214661 to 51234\nIdea Subscribers Dial 567899214661\nTata DoCoMo Subscribers dial 5432119214661\nAircel Subscribers sms DT 6557778  To 53000\nBSNL (South / East) Subscribers sms BT 9214661 To 56700\nBSNL (North / West) Subscribers sms BT 6557778 To 56700\nVirgin Subscribers sms TT 9214661 To 58475\nMTS Subscribers  sms CT 6557983 to 55777\nTelenor Subscribers dial 50016557239\nMTNL Subscribers sms PT 9214661 To 56789\n\n4.Khelan Kyun - Badri Ki Dulhania - Title Track\nVodafone Subscribers Dial 5379214678\nAirtel Subscribers Dial 5432116117231\nReliance Subscribers SMS CT 9214678 to 51234\nIdea Subscribers Dial 567899214678\nTata DoCoMo Subscribers dial 5432119214678\nAircel Subscribers sms DT 6557779  To 53000\nBSNL (South / East) Subscribers sms BT 9214678 To 56700\nBSNL (North / West) Subscribers sms BT 6557779 To 56700\nVirgin Subscribers sms TT 9214678 To 58475\nMTS Subscribers  sms CT 6557984 to 55777\nTelenor Subscribers dial 50016557242\nMTNL Subscribers sms PT 9214678 To 56789\n\n5. Rama Rama - Badri Ki Dulhania - Title Track\nVodafone Subscribers Dial 5379214675\nAirtel Subscribers Dial 5432116117169\nReliance Subscribers SMS CT 9214675 to 51234\nIdea Subscribers Dial 567899214675\nTata DoCoMo Subscribers dial 5432119214675\nAircel Subscribers sms DT 6557780  To 53000\nBSNL (South / East) Subscribers sms BT 9214675 To 56700\nBSNL (North / West) Subscribers sms BT 6557780 To 56700\nVirgin Subscribers sms TT 9214675 To 58475\nMTS Subscribers  sms CT 6557985 to 55777\n\nSong : Badri Ki Dulhania (Tiltle Song)\nSingers - Dev Negi, Neha Kakkar, Monali Thakur, Ikka\nComposer - Tanishk Bagchi\nLyrics -Shabbir Ahmed \nAdditional vocals - Rajnigandha Shekhawat\nProgramming -Tanishk Bagchi \nAdditional Programming- Ganesh Waghela\nLive Rhythms & Percussions- Dipesh Varma\nMusicians- Dipesh Varma,Keyur Barve,Omkar Salunkhe,Shikhar Naad Qureshi & Jignesh Patel\nDhol: Deepak bhatt's DFS.\nAssistant- Chinmay Mestry\nHarmonium and Banjo - Pradip Pandit \nMix assistant engineers - Michael Edwin Pillai & Lucky\nMusic Label: T-SERIES\nAll live Instruments recorded at Yashraj Studios by Vijay Dayal\nSong mixed & mastered by Eric Pillai(future sound of bombay)\nMusic Supervisor: Azeem Dayani\n\nEnjoy and stay connected with us!!\n\nSubscribe to T-Series Channel for unlimited entertainment\nhttp://www.youtube.com/user/tseries?sub_confirmation=1\n\n\n\n\nLike us on Facebook\nhttp://www.facebook.com/tseriesmusic\n\nFollow us on\nhttp://www.twitter.com/tseries\n\nFollow us on\nhttp://www.instagram.com/tseries.official",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1YBl3Zbt80A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1YBl3Zbt80A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1YBl3Zbt80A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1YBl3Zbt80A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1YBl3Zbt80A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bob E. Cooper",
+                "playlistId": "PLl79Zq9ndhod0bOiNVxJbbbp8Oxp4T1O-",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1YBl3Zbt80A"
+                }
+            },
+            "contentDetails": {
+                "videoId": "1YBl3Zbt80A",
+                "videoPublishedAt": "2017-02-06T08:28:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gqnvR1PDEJWYZrVhVL4AUQWFk6Q",
+            "id": "UExsNzlacTluZGhvZDBiT2lOVnhKYmJicDhPeHA0VDFPLS40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2019-12-16T11:30:21Z",
+                "channelId": "UCAWhB6KVoHk-FgfB2qWcgog",
+                "title": "Dum Dum - Full Song | Band Baaja Baaraat | Ranveer Singh | Anushka Sharma | Benny Dayal | Himani",
+                "description": "The perfect energtic song that will make y'all groove away! Flaunt your moves to 'Dum Dum' from the film 'Band Baaja Baaraat'.\n► Subscribe Now: https://goo.gl/xs3mrY 🔔 Stay updated!\n#YRFnewreleases - https://www.youtube.com/playlist?list=PLCB05E03DA939D484\n\n🎧 Song Credits:\nSong: Dum Dum\nSingers: Benny Dayal & Himani Kapoor\nMusic: Salim-Sulaiman\nLyrics: Amitabh Bhattacharya\n\nStay in the filmy loop:\n► Like us on Facebook: Facebook/yrf \n► Follow us on Twitter: Twitter/yrf\n► Follow us on Instagram: Instagram/yrf\n► Visit us on: yashrajfilms.com\n\n🎬 Movie Credits:\nStarring: Ranveer Singh, Anushka Sharma\nDirector: Maneesh Sharma\nProducer: Aditya Chopra\nMusic: Salim-Sulaiman\nLyrics: Amitabh Bhattacharya\nDirector of Photography: Aseem Mishra\nRelease Date: 10 December 2010\n\nWatch all videos from the film ‘Band Baaja Baaraat’: https://www.youtube.com/watch?v=k67ErU7SeIE&list=PL3137530AC0F0E2FC&index=2&t=0s\n\nSynopsis:\nShruti (Anushka Sharma) is a 20-something no-nonsense girl from a middle class Delhi household. Focused and determined with preplanned ambitions, her goals in life are well laid out by the time she reaches her final year of college.\n\nBittoo (Ranveer Singh), on the other hand, has no real aim in life. As a final year college student of Delhi University, he whiles away his life having fun with his buddies, barely scraping through his exams.\n\nA chance and inopportune meeting (or as you would call it, fate) brings the two of them together on a tumultuous journey where they become partners in their very own, “Wedding planning ka bijness”. The rules however, are clear: “Jisse vyapaar karo, usse kabhi na pyaar karo” (Don’t mix business with pleasure).\n\nTogether, their friendship and business, enters the ups and downs of the lavish Delhi weddings. And while trying to find themselves, Shruti and Bittoo discover each other and realize that in the course of their journey, unke khud ke rules ki bajegi band.\n\n#YRFnewreleases #BandBaajaBaaraat #YRF #DumDum #RanveerSingh #AnushkaSharma #BennyDayal #HimaniKapoor #ManeeshSharma #SalimSulaiman #AmitabhBhattacharya\n\n© Yash Raj Films Pvt. Ltd.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w3MMMgxjLFk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w3MMMgxjLFk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w3MMMgxjLFk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/w3MMMgxjLFk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/w3MMMgxjLFk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bob E. Cooper",
+                "playlistId": "PLl79Zq9ndhod0bOiNVxJbbbp8Oxp4T1O-",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "w3MMMgxjLFk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "w3MMMgxjLFk",
+                "videoPublishedAt": "2011-06-11T05:50:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wlsjBylYJ2TaDHXuV6bH5yBwc2I",
+            "id": "UExsNzlacTluZGhvZDBiT2lOVnhKYmJicDhPeHA0VDFPLS5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2019-12-16T11:30:21Z",
+                "channelId": "UCAWhB6KVoHk-FgfB2qWcgog",
+                "title": "Nhạc thiếu nhi Tiếng Anh hay vui nhộn cho bé [NHẠC CHO BÉ]",
+                "description": "Bé học tiếng anh qua những bài hát hay và vui nhộn, có lời giúp dễ tập hát cho bé. Nghe nhạc thiếu nhi Tiếng Anh là cách tốt nhất để giúp bé làm quen với việc học Tiếng Anh một cách thật đơn giản và vui nhộn. Trẻ em được làm quen với Tiếng Anh từ bé sẽ giúp cho việc học Tiếng Anh khi bé lớn dễ dàng và hiệu quả.\n\n\nNhạc Cho Bé là kênh âm nhạc dành cho các bé ở nhiều độ tuổi khác nhau như trẻ sơ sinh 0-12 tháng, các bé thiếu nhi với nhiều thể loại nhạc khác nhau như: nhạc cho bé ngủ ngon, thông minh, nhạc cho bé nhảy vui nhộn, nhạc thiếu nhi...\nAlbum những bài hát ru và nhạc ru ngủ cho bé hay nhất: https://goo.gl/uavD55\nAlbum nhạc thiếu nhi Tiếng Anh: https://goo.gl/Rk36zV\nĐăng ký nghe nhạc mới (miễn phí): https://goo.gl/nHdJCw\n*** Kênh cho Mẹ và Bé hay nhất với rất nhiều kiến thức hay về mang thai, nuôi dạy con cho các mẹ: https://goo.gl/GNnRUz\n*** Facebook: https://goo.gl/6ZefDw\n\n\n* TỔNG HỢP VIDEO MỚI MẸ BÉ: \nhttps://youtu.be/kEZwKxMajdk\nhttps://youtu.be/kfL7BIAoUeg\nhttps://youtu.be/ZOKP1qAFhQc\nhttps://youtu.be/mJW9mXAADjA\nhttps://youtu.be/smErJBbn368\nhttps://youtu.be/atyoge4jMZc\nhttps://youtu.be/4V-YHyUt-qo\nhttps://youtu.be/wpJWqnjLWH4\nhttps://youtu.be/4soUBzGAZnA\n\n* LINK ĐĂNG KÝ KÊNH NHẠC MẸ BÉ HAY NHẤT VN: https://goo.gl/ffpURG\n\n* ALBUM NHẠC HAY CHO BÀ BẦU VÀ BÉ TRONG BỤNG MẸ: https://goo.gl/GBwNsF \n\n* ALBUM NHẠC CHO BÉ NGỦ NGON THÔNG MINH: https://goo.gl/wyp5zV\n\n#NhacChoBe #GiupMe #NhacChoBeNguNgon #NhacChoBeThongMinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XuMB_OOZjnw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XuMB_OOZjnw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XuMB_OOZjnw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XuMB_OOZjnw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Bob E. Cooper",
+                "playlistId": "PLl79Zq9ndhod0bOiNVxJbbbp8Oxp4T1O-",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XuMB_OOZjnw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "XuMB_OOZjnw",
+                "videoPublishedAt": "2017-07-02T13:13:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6SUKVrWTOSPW3TqiVwEK0N6m7DE",
+            "id": "UExsNzlacTluZGhvZDBiT2lOVnhKYmJicDhPeHA0VDFPLS45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2019-12-16T11:30:21Z",
+                "channelId": "UCAWhB6KVoHk-FgfB2qWcgog",
+                "title": "Nonstop Nỗi Đau Từ Một Người Đến Sau - Liên Khúc Nhạc Trẻ Remix Tâm Trạng Buồn Hay Nhất 2016 Vol 2",
+                "description": "Nonstop Nỗi Đau Từ Một Người Đến Sau Liên Khúc Nhạc Trẻ Remix Tâm Trạng Buồn Hay Nhất 2016 Vol 2\nnonstop noi dau tu mot nguoi den sau lien khuc nhac tre remix tam trang buon hay nhat 2016 vol 2\n\nTRACK LIST:\n01. Nỗi Đau Từ Một Người Đến Sau\n02. Tan Trong Mưa Bay\n03. Không Kịp Nói Yêu Em\n04. Đành Buông Tay Em\n05. Nước Mắt Chia Đôi\n06. Người Ấy Chỉ Yêu Tạm\n07. Anh Đi Em Đừng Khóc\n08. Hãy Tin Anh Lần Nữa\n.....  Full track list ở comment\n\n♫ Đăng ký kênh: http://www.youtube.com/subscription_center?add_user=nhacDJvn\n♫ Channel Nhạc DJ: http://youtube.com/nhacDJvn\n♫ Facebook Page: https://www.facebook.com/nhacdjfc\n♫ Playlist Liên Khúc Việt Mix Hay Nhất: http://www.youtube.com/playlist?list=PL2ZbFswbAD-_nfD_3Qy99zw7c1lOBacQE",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6IVbxGcQe_Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6IVbxGcQe_Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6IVbxGcQe_Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6IVbxGcQe_Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Bob E. Cooper",
+                "playlistId": "PLl79Zq9ndhod0bOiNVxJbbbp8Oxp4T1O-",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6IVbxGcQe_Q"
+                }
+            },
+            "contentDetails": {
+                "videoId": "6IVbxGcQe_Q",
+                "videoPublishedAt": "2016-09-15T17:44:56Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "CRia8nQ-WXIEP5BM1IozJGZYmVk",
+            "id": "UExsNzlacTluZGhvZDBiT2lOVnhKYmJicDhPeHA0VDFPLS4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2019-12-16T11:30:21Z",
+                "channelId": "UCAWhB6KVoHk-FgfB2qWcgog",
+                "title": "GDVC - điệu nhảy làm tan chảy bao trái tim của nhóm thung lũng hoa bắc hà phần 4",
+                "description": "Chào mừng các bạn đã ghé thăm Channel Giai điệu vùng cao để cùng trải nghiệm những điều thú vị nhất HÃY nhấn SUBSCRIBE/ĐĂNG KÝ ngay để theo dõi những video mới nhất từ Channel  Giai điệu vùng cao  nhé! ▶Đăng ký ngay tại đây: https://www.youtube.com/channel/UCFARy6ujnjLpdQGZbpxzUhg ▶ Facebook: https://www.facebook.com/profile.php?id=100008254396889 -------------- 👉 YOUTUBE: https://www.youtube.com/channel/UCFARy6ujnjLpdQGZbpxzUhg ---------------------------------------------------------------------------------------------- © Bản quyền thuộc về Giai điệu vùng cao © Copyright by Giai điệu vùng cao ☞ Do not Reup #GDVC #Giai điệu vùng cao #NHẠC TÂY BẮC#THUNGLUNGHOA#ẨM THỰC#DULỊCH",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jdj3Tt5owEc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jdj3Tt5owEc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jdj3Tt5owEc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jdj3Tt5owEc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jdj3Tt5owEc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bob E. Cooper",
+                "playlistId": "PLl79Zq9ndhod0bOiNVxJbbbp8Oxp4T1O-",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jdj3Tt5owEc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "jdj3Tt5owEc",
+                "videoPublishedAt": "2018-09-03T12:19:58Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 16,
+        "resultsPerPage": 50
+    }
+}

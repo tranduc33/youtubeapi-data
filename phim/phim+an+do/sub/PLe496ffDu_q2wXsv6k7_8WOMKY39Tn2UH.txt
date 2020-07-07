@@ -1,0 +1,318 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "yQI2jx1gauSZkMrCES_Zkf5bZD4",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8lt2Id21_qERLJtS3EXw5enee5E",
+            "id": "UExlNDk2ZmZEdV9xMndYc3Y2azdfOFdPTUtZMzlUbjJVSC41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2019-07-10T05:13:29Z",
+                "channelId": "UCtCCLV_-QVK_qJvGsQIC5gQ",
+                "title": "Phim hanh dong hay ấn độ",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8Qm1C9mDzmc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8Qm1C9mDzmc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8Qm1C9mDzmc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8Qm1C9mDzmc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Cuong Kha",
+                "playlistId": "PLe496ffDu_q2wXsv6k7_8WOMKY39Tn2UH",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8Qm1C9mDzmc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "8Qm1C9mDzmc",
+                "videoPublishedAt": "2018-04-22T18:59:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UIPXcgHrOL06JNTdUjE19sStjgU",
+            "id": "UExlNDk2ZmZEdV9xMndYc3Y2azdfOFdPTUtZMzlUbjJVSC4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2019-07-10T05:37:24Z",
+                "channelId": "UCtCCLV_-QVK_qJvGsQIC5gQ",
+                "title": "Phim ấn độ là số 1.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WM36DIp9zpc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WM36DIp9zpc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WM36DIp9zpc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WM36DIp9zpc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Cuong Kha",
+                "playlistId": "PLe496ffDu_q2wXsv6k7_8WOMKY39Tn2UH",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WM36DIp9zpc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "WM36DIp9zpc",
+                "videoPublishedAt": "2018-11-16T08:08:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "AMbabtYpZnshfORlaktCgY1uuVw",
+            "id": "UExlNDk2ZmZEdV9xMndYc3Y2azdfOFdPTUtZMzlUbjJVSC4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2019-07-10T05:40:45Z",
+                "channelId": "UCtCCLV_-QVK_qJvGsQIC5gQ",
+                "title": "Phim ân độ hay.",
+                "description": "Chàng mù ấn độ.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Mq8KutxO1TY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Mq8KutxO1TY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Mq8KutxO1TY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Mq8KutxO1TY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Cuong Kha",
+                "playlistId": "PLe496ffDu_q2wXsv6k7_8WOMKY39Tn2UH",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Mq8KutxO1TY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Mq8KutxO1TY",
+                "videoPublishedAt": "2019-07-03T12:22:58Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ot6uOjiWndajq5hr3iVTU4xmoeU",
+            "id": "UExlNDk2ZmZEdV9xMndYc3Y2azdfOFdPTUtZMzlUbjJVSC41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2019-07-10T05:42:01Z",
+                "channelId": "UCtCCLV_-QVK_qJvGsQIC5gQ",
+                "title": "PHIM CHUYỆN TÌNH 400 NĂM -MAGAD -HEERA -PHIM THẦN THOẠI ẤN ĐỘ (THUYẾT MINH )",
+                "description": "Chuyện Tình 400 Năm Magadheera phim thần thoại ấn độ (thuyết minh )\nPhim tình cảm + hài hước ấn độ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nENnLRIiS-s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nENnLRIiS-s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nENnLRIiS-s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cuong Kha",
+                "playlistId": "PLe496ffDu_q2wXsv6k7_8WOMKY39Tn2UH",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "nENnLRIiS-s"
+                }
+            },
+            "contentDetails": {
+                "videoId": "nENnLRIiS-s",
+                "videoPublishedAt": "2017-12-30T07:43:15Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "JFAbnLx3bh_o3hAbwEIXP9H1OWI",
+            "id": "UExlNDk2ZmZEdV9xMndYc3Y2azdfOFdPTUtZMzlUbjJVSC4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2019-08-10T11:13:16Z",
+                "channelId": "UCtCCLV_-QVK_qJvGsQIC5gQ",
+                "title": "Phim ấn độ là số 1.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KGmPxenxqlg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KGmPxenxqlg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KGmPxenxqlg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KGmPxenxqlg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Cuong Kha",
+                "playlistId": "PLe496ffDu_q2wXsv6k7_8WOMKY39Tn2UH",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KGmPxenxqlg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "KGmPxenxqlg",
+                "videoPublishedAt": "2018-11-21T13:40:41Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oWzZHxwKCWgnzcdFMM_owjz21EY",
+            "id": "UExlNDk2ZmZEdV9xMndYc3Y2azdfOFdPTUtZMzlUbjJVSC4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2019-08-10T11:41:09Z",
+                "channelId": "UCtCCLV_-QVK_qJvGsQIC5gQ",
+                "title": "Phim ấn độ là số 1",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Uz_E8qctWhc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Uz_E8qctWhc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Uz_E8qctWhc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Uz_E8qctWhc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Cuong Kha",
+                "playlistId": "PLe496ffDu_q2wXsv6k7_8WOMKY39Tn2UH",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Uz_E8qctWhc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Uz_E8qctWhc",
+                "videoPublishedAt": "2018-12-04T14:54:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FCm21nmlNAPDi6A4gAUWdMDd7Co",
+            "id": "UExlNDk2ZmZEdV9xMndYc3Y2azdfOFdPTUtZMzlUbjJVSC41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2019-11-13T08:11:54Z",
+                "channelId": "UCtCCLV_-QVK_qJvGsQIC5gQ",
+                "title": "Phim Ấn Độ 2019 - Vị Vua Huyền Thoại Full Tập 1 | Phim Sử Thi Ấn Độ Hay Nhất | TodayTV",
+                "description": "Xem trọn bộ Phim Ấn Độ Bom Tấn - Vị Vua Huyền Thoại tại: http://bit.ly/Vi-Vua-Huyen-Thoai-Tron-Bo\nĐăng ký kênh để đón xem phim vào 21h00 từ thứ 2 - thứ 7 nhé: http://popsww.com/TodayTV\n\nĐược xem là một trong những bom tấn sử thi được yêu thích tại Ấn Độ, “Vị vua huyền thoại”- Bộ phim lịch sử Bollywood kể về vị hoàng đế vĩ đại nhất lịch sử Ấn Độ, Chandragupta Maurya- người sáng lập Mauryn, đế chế lớn nhất từng có ở vùng tiểu lục địa Ấn Độ\n\nTodayTV - Kênh truyền hình tổng hợp các chương trình giải trí trong và ngoài nước, phim truyện Việt Nam, Châu Á và phim điện ảnh Hollywood, Gameshow, chương trình thiếu nhi…; phát sóng liên tục 24 tiếng mỗi ngày.\n✦TodayTV có mặt trên các hệ thống Analog, AVG, VTC, HTVC, VTVcab, K+ và SCTV.\n✦ Website: http://todaytv.vn/  \n✦ Facebook: https://www.facebook.com/TodayTV/\n✦ Youtube: www.youtube.com/user/todaytvvietnam\n✦ Email: todaytv@imcorp.com.vn\n✦ Tel: 028 3848 0678\n✦  Fax: 028 3848 0669",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/djtk9EVs0dI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/djtk9EVs0dI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/djtk9EVs0dI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/djtk9EVs0dI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/djtk9EVs0dI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cuong Kha",
+                "playlistId": "PLe496ffDu_q2wXsv6k7_8WOMKY39Tn2UH",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "djtk9EVs0dI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "djtk9EVs0dI",
+                "videoPublishedAt": "2019-10-18T04:30:10Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 7,
+        "resultsPerPage": 50
+    }
+}

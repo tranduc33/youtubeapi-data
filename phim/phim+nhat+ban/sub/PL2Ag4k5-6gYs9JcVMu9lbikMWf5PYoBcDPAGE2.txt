@@ -1,0 +1,987 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "hUxpLqvjJRtHsiRvB8sWZ5isnrQ",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8jBaMzIM0TtoRbvNYeiGqdRt7kA",
+            "id": "UEwyQWc0azUtNmdZczlKY1ZNdTlsYmlrTVdmNVBZb0JjRC44QjNCNkRENjNFQTBEMUND",
+            "snippet": {
+                "publishedAt": "2018-03-24T10:58:39Z",
+                "channelId": "UCk9qz9ZUZcLWPKSj6DhKYBA",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Best Music",
+                "playlistId": "PL2Ag4k5-6gYs9JcVMu9lbikMWf5PYoBcD",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RlzjrAOpH2U"
+                }
+            },
+            "contentDetails": {
+                "videoId": "RlzjrAOpH2U"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Kne39Q5ImKvlIAqt-4j38ME7Djk",
+            "id": "UEwyQWc0azUtNmdZczlKY1ZNdTlsYmlrTVdmNVBZb0JjRC5EMUJFNzRCNDRFQjE5RjM4",
+            "snippet": {
+                "publishedAt": "2018-03-23T21:39:37Z",
+                "channelId": "UCk9qz9ZUZcLWPKSj6DhKYBA",
+                "title": "PHIM KINH DỊ HAY NHẤT - MÃNG XÀ TINH [Thuyết minh]",
+                "description": "PHIM KINH DỊ HAY NHẤT - MÃNG XÀ TINH [Thuyết minh]\n\nĐây là một bộ phim kinh dị đặc sắc của Thái Lan dành cho các bạn yêu tích thể loại kinh dị kiểu các con vật như rắn, rết, bò cạp...\n\nĐĂNG KÝ KÊNH ĐỂ XEM NHIỀU PHIM HAY HƠN!.\n\nThể Loại: Phim Kinh Dị\nQuốc Gia: Thái Lan\nCảm ơn các bạn đã xem phim!.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5OPoLdXBX8A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5OPoLdXBX8A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5OPoLdXBX8A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5OPoLdXBX8A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5OPoLdXBX8A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Best Music",
+                "playlistId": "PL2Ag4k5-6gYs9JcVMu9lbikMWf5PYoBcD",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5OPoLdXBX8A"
+                }
+            },
+            "contentDetails": {
+                "videoId": "5OPoLdXBX8A",
+                "videoPublishedAt": "2016-11-01T14:34:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0L-Yf5B1g1SS8G7hGUUg_eXubD8",
+            "id": "UEwyQWc0azUtNmdZczlKY1ZNdTlsYmlrTVdmNVBZb0JjRC5DQjg2RDQyMEVGQkZFOEVF",
+            "snippet": {
+                "publishedAt": "2018-03-19T11:28:28Z",
+                "channelId": "UCk9qz9ZUZcLWPKSj6DhKYBA",
+                "title": "Hài nhật bản 2015 VIETSUB Tập 2 Phim ma kinh dị",
+                "description": "Hài 2015 VIETSUB Tập 2 Phim ma kinh dị \nHài Hoài Linh https://www.youtube.com/watch?v=iN8ixTJrzwA\nHài điều bất ngờ trong thang máy https://www.youtube.com/watch?v=E3fhc12MKLM",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yGtzXBn-SuQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yGtzXBn-SuQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yGtzXBn-SuQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yGtzXBn-SuQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yGtzXBn-SuQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Best Music",
+                "playlistId": "PL2Ag4k5-6gYs9JcVMu9lbikMWf5PYoBcD",
+                "position": 53,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yGtzXBn-SuQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "yGtzXBn-SuQ",
+                "videoPublishedAt": "2015-02-09T07:52:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "B0-xWi21Avgc-kjhnL0m-4SOoMk",
+            "id": "UEwyQWc0azUtNmdZczlKY1ZNdTlsYmlrTVdmNVBZb0JjRC4wQUE0QzM4MkJGQ0YwQjUx",
+            "snippet": {
+                "publishedAt": "2018-03-18T22:38:22Z",
+                "channelId": "UCk9qz9ZUZcLWPKSj6DhKYBA",
+                "title": "Phim Ma Kinh Dị 2017 Đại Dịch Bệnh Zombie  - Phim Kinh Dị Rơn Người Nhất 2017",
+                "description": "Video được lấy tại kênh  Nhạc Phim Media\nFollow Nhạc Phim Media:\n♫ Đăng Ký Kênh : https://goo.gl/XqSfFU\n♫ Like Page Facebook : https://goo.gl/aLVQNM\n♫ TWITTER: https://goo.gl/X7bBaV\n♫ INSTAGRAM : https://goo.gl/86VtEx\n® Video được Cover lại đúng luật và nguyên tắc cộng đồng Youtube vui lòng không Reup khi chưa được sự đồng ý của Nhạc Phim Media\n\n\nBản quyền thuộc về BD media và Nhạc Phim Media.\nKênh Nonstop Hay Nhất 2018:https://www.youtube.com/channel/UCFxUVbRyKP2Qly6o6PlqAhQ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qlWQm6Mbf6U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qlWQm6Mbf6U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qlWQm6Mbf6U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qlWQm6Mbf6U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Best Music",
+                "playlistId": "PL2Ag4k5-6gYs9JcVMu9lbikMWf5PYoBcD",
+                "position": 54,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qlWQm6Mbf6U"
+                }
+            },
+            "contentDetails": {
+                "videoId": "qlWQm6Mbf6U",
+                "videoPublishedAt": "2017-09-24T03:42:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "NA1AomeQM9229CrB7ZCyDDeJcPY",
+            "id": "UEwyQWc0azUtNmdZczlKY1ZNdTlsYmlrTVdmNVBZb0JjRC5GMDBDNkJGMzYzREUyMTYw",
+            "snippet": {
+                "publishedAt": "2018-03-18T10:52:35Z",
+                "channelId": "UCk9qz9ZUZcLWPKSj6DhKYBA",
+                "title": "Noel #3: Top 5 Bộ Phim Giáng Sinh Hay Nhất Mọi Thời Đại!!!",
+                "description": "Tốp 5 Lạ Kỳ: Noel #3: Top 5 Bộ Phim Giáng Sinh Hay Nhất Mọi Thời Đại: https://goo.gl/dAfVrL\n\n● Tốp 5 Lạ Kỳ's Playlist: https://goo.gl/QdJqEQ\n● Đăng Ký Channel Xem Để Sống: https://goo.gl/1UglRh\n● Đăng Ký Channel Thánh Lồng Tiếng: https://goo.gl/fkJVLy\n★ Fanpage chính thức: https://www.facebook.com/Top5LaKy\n★ Website Chính Thức: http://top5laky.tv\n\nTốp 5 Bộ phim Giáng sinh hay nhất mọi thời đại.\n\n5. The Polar Express (2004)\nChuyện phim xoay quanh Billy - 1 cậu bé luôn tin vào sự tồn tại của ông già nô en, lũ gia tinh và truyền thuyết đêm giáng sinh. Dù cho hết thảy mọi người đều cho rằng đó chỉ là câu chuyện hoang đường, hư cấu. Vào Một đêm nọ, Một chuyến xe lửa kỳ lạ đã ghé thăm Billy vào lúc nửa đêm, đồng thời đưa cậu nhóc - và 1 vài đứa trẻ khác đến với 1 cuộc phiêu lưu toẹt vời và đáng nhớ. \n\n4. Bad Santa (2003)\nBad Santa - tên tiếng việt là: Ông già Noel xấu tính. Trong bộ phim này, hình tượng ông già nô en hiền lành, ấm áp và tốt bụng cùng những chú gia tinh dễ thương, tinh nghịch sẽ bị triệt tiêu, thay vào đó là 1 lão già nô en xấu tính, bẩn, bựa, say xỉn, không ưa ai và cũng chẳng ai ưa nổi cùng 1 chú lùn, à không, gia tinh, à không 1 chú lùn gia tinh ranh mãnh. \n\n3. The nightmare before christmas (1993)\nJack Skellington, người chuyên tổ chức ì ven cho thị trấn halloween, đã vô tình đặt chân đến thị trấn nô en, quá thích thú, quá ấn tượng. jack đã quyết định thổi 1 luồng gió mới vào thị trấn ma quái của mình bằng cách tổ chức 1 ngày nô en theo phong cách kinh dị với đầy rẫy những nhân vật gớm ghiếc, tạo hình xương xẩu kinh dị cùng những cử động giật giật cho hiệu ứng stop motion tạo ra. tất cả chúng đã làm nên 1 ngày lễ giáng sinh vô cùng...halloween. \n\n2. Arthur Christmas (2011)\nNếu những con số khủng bố mà tốp 5 lạ kỳ đã đưa ra trong video nô en #2 chưa đủ để giải đáp thắc mắc của các bạn về cách ông già nô en phát quà thì Giáng sinh của arthur có lẽ sẽ là 1 bộ phim khiến bạn ưng ý. Phim đã đưa người xem đến với nhũng công nghệ tối tăm, à à ý t là tối tân, mà phải hàng nghìn năm nữa thì may ra con người mới có thể đạt tới. Đây chính là cách mà các nhà làm phim đã dùng để lý giải cho bài toán 2 tỷ món quà trong vòng 1 giờ đồng hồ tưởng chừng không có đáp án. Với kỹ xảo đẹp mắt cùng công nghệ 3d mãn nhãn, arthur christmas chắc chắn sẽ là 1 bộ phim khiến bạn gật gù và thầm cảm ơn t5lk khi xem xong.\n\n1.5 Krampus (2015)\nĐúng như tên gọi của nó. Bộ phim nói về Krampus - con ác quỷ được cho là cái bóng của ông già nô en - chuyên đi trừng phạt những đứa trẻ hư. Nó đã được giải thoát khi cậu bé max thể hiện sự mất niềm tin của mình vào ông già nô en thông qua việc xé bức thư đòi quà và ném qua của sổ. Sự xuất hiện của Krampus đã thực sự khiến giáng sinh của cả gia đình max trở thành 1 cơn ác mộng khi mà trước đấy toàn bộ khu nhà của cậu đã bị cắt điện. \n\n1. Home alone (1990)\nBộ phim kinh điển này được biết đến tại Việt Nam với cái tên “Ở nhà một mình”. Nội dung phim xoay quanh Kevin - một cậu bé 8 tuổi thường hay gây rắc rối cho gia đình và luôn muốn được khẳng định bản thân như “một người đàn ông”. Trước ngày cả nhà cùng nhau đi Pháp đón giáng sinh, Kevin đã mong muốn cả gia đình biến mất và để hắn ở nhà một mình. Và cậu nhóc đã được toại nguyện khi mà bố mẹ cậu đã... để quên cậu ở nhà. Trên tinh thần tranh thủ, 2 tên trộm nọ đã lên kế hoạch đạo chích vào nhà kevin. Thế nhưng, đen đủi cho chúng, khi mà cậu nhóc 8 tuổi này không những không phải dạng vừa, mà còn là dạng khủng bố. Thế nên, thay vì chôm chỉa được ít tiền, thứ mà 2 tên trộm nhận được lại toàn hành và hành. Để rồi, đến cuối phim, chúng nhận được cả 1 vườn hành. \n\nChần chờ gì nữa bạn, vào like fanpage và bấm nhận thông báo đê!!!: https://www.facebook.com/Top5LaKy\n\nLưu ý: Top 5 Lạ Kỳ không sở hữu tất cả tư liệu được sử dụng trong video này",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m-JXMRuiOnY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m-JXMRuiOnY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m-JXMRuiOnY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/m-JXMRuiOnY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/m-JXMRuiOnY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Best Music",
+                "playlistId": "PL2Ag4k5-6gYs9JcVMu9lbikMWf5PYoBcD",
+                "position": 55,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "m-JXMRuiOnY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "m-JXMRuiOnY",
+                "videoPublishedAt": "2015-12-23T13:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8nDrlQtDCzfqGUKBGcy8iaK2Awg",
+            "id": "UEwyQWc0azUtNmdZczlKY1ZNdTlsYmlrTVdmNVBZb0JjRC5CMUM0NzY5NzdEQzlGRjAx",
+            "snippet": {
+                "publishedAt": "2018-03-17T22:52:36Z",
+                "channelId": "UCk9qz9ZUZcLWPKSj6DhKYBA",
+                "title": "Những bộ phim kinh dị nóng bỏng 18+ hay nhất mọi thời đại",
+                "description": "Những bộ phim kinh dị, kết hợp với những cảnh nóng bỏng có giá trị nghệ thuật, để lại ấn tượng cũng như sự tranh cãi nhiều nhất đối với các nhà phê bình phim",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cM9hKCS1DDY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cM9hKCS1DDY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cM9hKCS1DDY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cM9hKCS1DDY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cM9hKCS1DDY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Best Music",
+                "playlistId": "PL2Ag4k5-6gYs9JcVMu9lbikMWf5PYoBcD",
+                "position": 56,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "cM9hKCS1DDY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "cM9hKCS1DDY",
+                "videoPublishedAt": "2016-06-06T06:48:18Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uJNqwj7rCmXcRpqLJ3vbAIn8WhA",
+            "id": "UEwyQWc0azUtNmdZczlKY1ZNdTlsYmlrTVdmNVBZb0JjRC40NzE2MTY1QTM3RUI3QkU3",
+            "snippet": {
+                "publishedAt": "2018-03-16T20:20:21Z",
+                "channelId": "UCk9qz9ZUZcLWPKSj6DhKYBA",
+                "title": "Ma cây 2008 - phim kinh dị - ma hay nhất",
+                "description": "Ma Cây - The Ruins là một trong những bộ phim kinh dị hay nhất mọi thời đại tính đến nay. Xem ma cây các bạn sẽ tìm được cảm giác sợ hãi đúng như mong muốn khi thưởng thức một bộ phim kinh dị - ma. \nhttp://maxphim.vn/\nhttp://maxphim.vn/the-loai-phim/kinh-di/8\nhttp://maxphim.vn/noi-dung-phim/the-ruins-2008/ma-cay/704.html",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oPUs6Cs4oSk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oPUs6Cs4oSk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oPUs6Cs4oSk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Best Music",
+                "playlistId": "PL2Ag4k5-6gYs9JcVMu9lbikMWf5PYoBcD",
+                "position": 57,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "oPUs6Cs4oSk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "oPUs6Cs4oSk",
+                "videoPublishedAt": "2013-06-18T03:39:59Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Btg9N4zqEuh6Snksq2tZsOAL3Cs",
+            "id": "UEwyQWc0azUtNmdZczlKY1ZNdTlsYmlrTVdmNVBZb0JjRC4wMDFGNzBEOTU4Q0Y1Q0RG",
+            "snippet": {
+                "publishedAt": "2018-03-16T06:46:45Z",
+                "channelId": "UCk9qz9ZUZcLWPKSj6DhKYBA",
+                "title": "2017 Phim Ma Kinh Dị Hài Hước Hay Nhất THUYẾT MINH || Phim Kinh Dị 2017",
+                "description": "2017 Phim Ma Kinh Dị Hài Hước Hay Nhất THUYẾT MINH || Phim Kinh Dị 2017",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RvlLSE4uT58/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RvlLSE4uT58/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RvlLSE4uT58/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RvlLSE4uT58/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RvlLSE4uT58/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Best Music",
+                "playlistId": "PL2Ag4k5-6gYs9JcVMu9lbikMWf5PYoBcD",
+                "position": 58,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RvlLSE4uT58"
+                }
+            },
+            "contentDetails": {
+                "videoId": "RvlLSE4uT58",
+                "videoPublishedAt": "2017-03-10T14:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pmcCqS2R15tlKh3TQij3KEImw54",
+            "id": "UEwyQWc0azUtNmdZczlKY1ZNdTlsYmlrTVdmNVBZb0JjRC4zQTkzRjgxRTY0OEU0MkM3",
+            "snippet": {
+                "publishedAt": "2018-03-15T04:43:46Z",
+                "channelId": "UCk9qz9ZUZcLWPKSj6DhKYBA",
+                "title": "Phim Kinh Dị Mỹ Hay Nhất Thế Giới ► QUÁI VẬT MA CÂY KINH HOÀNG Phần 2",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8ZY2d6IGssE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8ZY2d6IGssE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8ZY2d6IGssE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Best Music",
+                "playlistId": "PL2Ag4k5-6gYs9JcVMu9lbikMWf5PYoBcD",
+                "position": 59,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8ZY2d6IGssE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "8ZY2d6IGssE",
+                "videoPublishedAt": "2016-12-13T01:17:59Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rA4nJP29WJvfmCQqazWgcMo1z9Y",
+            "id": "UEwyQWc0azUtNmdZczlKY1ZNdTlsYmlrTVdmNVBZb0JjRC44QTY2MEEzNzBFQUJCMUQ2",
+            "snippet": {
+                "publishedAt": "2018-03-14T15:45:35Z",
+                "channelId": "UCk9qz9ZUZcLWPKSj6DhKYBA",
+                "title": "Phim Kinh Dị Hay \"The Forest / Khu Rừng Tự Sát\" Trailer Chính Thức",
+                "description": "Điều gì sẽ xảy đến khi bạn dám đặt chân vào khu rừng tự sát nổi tiếng ở Nhật Bản? Nơi ngập đầy các linh hồn giận dữ? Xem ngay. \n\nKHU RỪNG TỰ SÁT theo chân cô gái trẻ người Mỹ Sara (Natalie Dormer) trong hành trình tìm hiểu chuyện đã xảy ra với em gái song sinh của mình. Cuộc điều tra của Sara dẫn dắt cô đến với khu rừng Aokigahara huyền thoại. Mặc cho lời cảnh báo phải “đi đúng đường mòn”, Sara vẫn dấn thân vào chốn hoang vu và rơi vào một thế giới đen tối huyền hoặc, nơi những linh hồn giận giữ đang chờ đợi con mồi của chúng.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WuUCC9Gli9E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WuUCC9Gli9E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WuUCC9Gli9E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WuUCC9Gli9E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WuUCC9Gli9E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Best Music",
+                "playlistId": "PL2Ag4k5-6gYs9JcVMu9lbikMWf5PYoBcD",
+                "position": 60,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WuUCC9Gli9E"
+                }
+            },
+            "contentDetails": {
+                "videoId": "WuUCC9Gli9E",
+                "videoPublishedAt": "2016-01-04T04:19:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "SxKzrDx-v4EcFNX5x5Vgb8OsfDw",
+            "id": "UEwyQWc0azUtNmdZczlKY1ZNdTlsYmlrTVdmNVBZb0JjRC4xNjIyNEE0MDEyRDlCMjBE",
+            "snippet": {
+                "publishedAt": "2018-03-14T03:59:32Z",
+                "channelId": "UCk9qz9ZUZcLWPKSj6DhKYBA",
+                "title": "Phim kinh dị 18+  Hồn ma phim kinh dị hay nhất 2015 4",
+                "description": "설명",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RbAP6czdBZU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RbAP6czdBZU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RbAP6czdBZU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RbAP6czdBZU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Best Music",
+                "playlistId": "PL2Ag4k5-6gYs9JcVMu9lbikMWf5PYoBcD",
+                "position": 61,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RbAP6czdBZU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "RbAP6czdBZU",
+                "videoPublishedAt": "2015-06-11T11:41:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wOf4YgYKRdwLoZtkXJgedqd7JdA",
+            "id": "UEwyQWc0azUtNmdZczlKY1ZNdTlsYmlrTVdmNVBZb0JjRC40MDNEMzA0QTBFRThFMzBE",
+            "snippet": {
+                "publishedAt": "2018-03-08T16:38:23Z",
+                "channelId": "UCk9qz9ZUZcLWPKSj6DhKYBA",
+                "title": "Phim Kinh Dị ;Trò Chơi ma Quỷ || Kinh dị mới nhất 2015 - 2016 || Horror Films , Games devil .",
+                "description": "Phim Kinh Dị ;Trò Chơi ma Quỷ || Horror Films , Games devil || Latest Horror 2015 - 2016;\nBộ phim được dàn dựng một cách kỹ xảo đến kinh ngạc .Mời các bạn cùng thưởng thức nhé [lưu ý ] - không dành cho những người yếu tim\nEnglish :\nThe film was staged an amazing technique .Each you enjoy offline [ note ] - not for the faint of heart",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aa7B3lo_mtc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aa7B3lo_mtc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aa7B3lo_mtc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aa7B3lo_mtc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aa7B3lo_mtc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Best Music",
+                "playlistId": "PL2Ag4k5-6gYs9JcVMu9lbikMWf5PYoBcD",
+                "position": 62,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "aa7B3lo_mtc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "aa7B3lo_mtc",
+                "videoPublishedAt": "2015-11-25T06:50:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OzJ6H4-pyijNmzhzZm1HkMQ7FjM",
+            "id": "UEwyQWc0azUtNmdZczlKY1ZNdTlsYmlrTVdmNVBZb0JjRC42MjYzMTMyQjA0QURCN0JF",
+            "snippet": {
+                "publishedAt": "2018-03-06T07:20:54Z",
+                "channelId": "UCk9qz9ZUZcLWPKSj6DhKYBA",
+                "title": "Phim Ma Kinh Dị Hay Nhất 2016   Phim Ma Thái Lan Xem Sợ Tè Ra Quần",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vosQtYARYrE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vosQtYARYrE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vosQtYARYrE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Best Music",
+                "playlistId": "PL2Ag4k5-6gYs9JcVMu9lbikMWf5PYoBcD",
+                "position": 63,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vosQtYARYrE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "vosQtYARYrE",
+                "videoPublishedAt": "2016-09-24T15:43:41Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "l3OXwYqpTFCzdq-qMw2E877dBgM",
+            "id": "UEwyQWc0azUtNmdZczlKY1ZNdTlsYmlrTVdmNVBZb0JjRC5ERkUyQTM0MzEwQjZCMTY5",
+            "snippet": {
+                "publishedAt": "2018-03-05T11:07:56Z",
+                "channelId": "UCk9qz9ZUZcLWPKSj6DhKYBA",
+                "title": "Phim Ma Kinh Dị Thái Lan 2019 Phim Ma Kinh Dị Nhất Thế Giới Oan Hồn Báo Thù",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K8G77y7hS8M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K8G77y7hS8M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K8G77y7hS8M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/K8G77y7hS8M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Best Music",
+                "playlistId": "PL2Ag4k5-6gYs9JcVMu9lbikMWf5PYoBcD",
+                "position": 65,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "K8G77y7hS8M"
+                }
+            },
+            "contentDetails": {
+                "videoId": "K8G77y7hS8M",
+                "videoPublishedAt": "2017-03-18T02:59:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "22Er3CNAzIzXTmRtW1On9Z4uGiI",
+            "id": "UEwyQWc0azUtNmdZczlKY1ZNdTlsYmlrTVdmNVBZb0JjRC41OURENDc2NEM1MDI5Mjky",
+            "snippet": {
+                "publishedAt": "2018-03-03T14:16:52Z",
+                "channelId": "UCk9qz9ZUZcLWPKSj6DhKYBA",
+                "title": "Phim Ma Kinh Dị Hay Nhất | Back Toward The Sun | Phim Hay Nhất",
+                "description": "Phim Ma Kinh Dị Hay Nhất | Back Toward The Sun | Phim Hay Nhất\nPhim Ngắn 2017: https://goo.gl/E4mM99\nPhim Chiếu Rạp 2017: https://goo.gl/8cGvY9\nPhim Việt Nam Hay: https://goo.gl/K1B580\n\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qhfkc2Dk40A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qhfkc2Dk40A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qhfkc2Dk40A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qhfkc2Dk40A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qhfkc2Dk40A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Best Music",
+                "playlistId": "PL2Ag4k5-6gYs9JcVMu9lbikMWf5PYoBcD",
+                "position": 66,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qhfkc2Dk40A"
+                }
+            },
+            "contentDetails": {
+                "videoId": "qhfkc2Dk40A",
+                "videoPublishedAt": "2016-02-15T05:05:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cDz2_nbroOid-XEBuH8Z977MeII",
+            "id": "UEwyQWc0azUtNmdZczlKY1ZNdTlsYmlrTVdmNVBZb0JjRC42QzdBMzlBQzQzRjQ0QkQy",
+            "snippet": {
+                "publishedAt": "2018-03-03T04:13:54Z",
+                "channelId": "UCk9qz9ZUZcLWPKSj6DhKYBA",
+                "title": "Phim kinh dị, phim ma hay nhất, mới ra đã bị cấm chiếu tại Thái Lan : Sự thật rùng rợn",
+                "description": "Phim ma, kinh hay, không thích hợp cho những người bị bệnh tim\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTôi đã tạo video này bằng Trình chỉnh sửa video của YouTube (http://www.youtube.com/editor)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AQHwcfuX8sY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AQHwcfuX8sY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AQHwcfuX8sY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Best Music",
+                "playlistId": "PL2Ag4k5-6gYs9JcVMu9lbikMWf5PYoBcD",
+                "position": 67,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "AQHwcfuX8sY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "AQHwcfuX8sY",
+                "videoPublishedAt": "2016-08-10T10:17:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5UR0oX4eWzQAcGHTRgcXRvd_mk0",
+            "id": "UEwyQWc0azUtNmdZczlKY1ZNdTlsYmlrTVdmNVBZb0JjRC4zMUEyMkQwOTk0NTg4MDgw",
+            "snippet": {
+                "publishedAt": "2018-03-02T19:19:33Z",
+                "channelId": "UCk9qz9ZUZcLWPKSj6DhKYBA",
+                "title": "8 con ma kinh dị nhất trong truyền thuyết Nhật Bản - Khám phá thế giới, bí ẩn kinh hoàng",
+                "description": "8 con ma kinh dị nhất trong truyền thuyết Nhật Bản - Khám phá thế giới, bí ẩn kinh hoàng\nNhững truyền thuyết quái dị gắn liền với 8 con ma gây bao nỗi sợ \"kinh hoàng\" cho người Nhật chắc chắn sẽ khiến bạn khóc thét khi chỉ mới nghe tên.\nCùng đồng hành cùng iSoul - Khám phá bản thân thay đổi vận mệnh\n\"iSoul - Khám phá bản thân thay đổi vận mệnh\" - kênh thông tin tổng hợp chuyên về tử vi, phong thủy, nhân tướng học, cung hoàng đạo\nĐăng ký theo dõi kênh miễn phí: https://goo.gl/670FIk",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yF-E4cvGoS8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yF-E4cvGoS8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yF-E4cvGoS8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Best Music",
+                "playlistId": "PL2Ag4k5-6gYs9JcVMu9lbikMWf5PYoBcD",
+                "position": 68,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yF-E4cvGoS8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "yF-E4cvGoS8",
+                "videoPublishedAt": "2016-07-26T13:41:48Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "YVGGXvb7Y52FJ7wz-oL2GP9MZnw",
+            "id": "UEwyQWc0azUtNmdZczlKY1ZNdTlsYmlrTVdmNVBZb0JjRC5CQkEwRDA0MDkwNUM2MDY1",
+            "snippet": {
+                "publishedAt": "2018-03-01T15:31:45Z",
+                "channelId": "UCk9qz9ZUZcLWPKSj6DhKYBA",
+                "title": "[TOP MOVIE 2] 10 Con Búp Bê Trong Phim Kinh Dị| Con Búp Bê Nào Là Nỗi Ám Ảnh Của Bạn.",
+                "description": "[TOP MOVIE] 10 Con Búp Bê Trong Phim Kinh Dị| Con Búp Bê Nào Là Nỗi Ám Ảnh Của Bạn.\nKênh Youtube này mình sẽ lập dựa trên đam mê phim điện ảnh của mình. Đặc biệt là những bộ phim hành động, phim khoa học giả tưởng, phim kinh dị.\nKênh sẽ là những tổng hợp hay nhất trong khả năng của mình.\nTrong quá trình xây dựng và phát triển kênh mong nhận được sự ủng hộ của các bạn. mình sẽ lắng nge mọi ý kiến đóng góp.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/18M8o02_qns/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/18M8o02_qns/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/18M8o02_qns/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/18M8o02_qns/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/18M8o02_qns/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Best Music",
+                "playlistId": "PL2Ag4k5-6gYs9JcVMu9lbikMWf5PYoBcD",
+                "position": 69,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "18M8o02_qns"
+                }
+            },
+            "contentDetails": {
+                "videoId": "18M8o02_qns",
+                "videoPublishedAt": "2017-08-17T10:15:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5mEDlUY1iZq-jnVPxLDBUkYiO6E",
+            "id": "UEwyQWc0azUtNmdZczlKY1ZNdTlsYmlrTVdmNVBZb0JjRC43NERCMDIzQzFBMERCMEE3",
+            "snippet": {
+                "publishedAt": "2018-02-28T22:05:38Z",
+                "channelId": "UCk9qz9ZUZcLWPKSj6DhKYBA",
+                "title": "Top 10 phim kinh dị Việt Nam khiến cho người xem phải xanh mặt - Top 10 kì thú",
+                "description": "Phim kinh dị Việt Nam-Top 10 phim kinh dị Việt Nam khiến cho người xem phải xanh mặt - Top 10 kì thú.\nPhim kinh dị tuy số lượng nhiều nhưng chất lượng không phải là thế mạnh của điện ảnh Việt, tuy vậy vẫn có những tác phẩm nổi bật, đủ sức làm khán giả 'mất ngủ'.\nCùng với phong trào làm phim \"hài nhảm\" là sự ra đời của hàng loạt bộ phim \"kinh dị nhảm\". Nước phim tối mờ, câu chuyện rời rạc pha trộn kinh dị và hài hước khiến những bộ phim này bị đánh giá là quá thị trường, không hề gây ám ảnh. Vậy nhưng giữa nhiều tác phẩm phim ma hời hợt, vẫn có những bộ phim kinh dị Việt đủ sức sánh với các \"cường quốc kinh dị\" như Thái Lan, Nhật Bản.\n\nCó thể bạn muốn xem:\n1. Top 10 bộ phim về siêu anh hùng hay hơn cả Wonder Woman\nhttps://www.youtube.com/watch?v=LAndVU004Xo&t=57s\n2. Top 10 kiến trúc đẹp nhất trên thế giới phải đi 1 lần trong đời \nhttps://www.youtube.com/watch?v=eqwtQsVfp-U\n3. Top 10 nhạc sĩ vĩ đại nhất trong lịch sử nhân loại bạn có biết\nhttps://www.youtube.com/watch?v=mT0Kgw8gFv4&t=335s\n4. Top 10 phim Hàn Quốc hay nhất từng khiến công chúng chao đảo một thời\nhttps://www.youtube.com/watch?v=m0fPxG4Ngwg&t=25s\n5. Top 10 sinh vật biển nguy hiểm nhất trên thế giới bạn có biết không \nhttps://www.youtube.com/watch?v=A_Hfpds6oPw&t=34s",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uaiDg22pnXA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uaiDg22pnXA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uaiDg22pnXA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uaiDg22pnXA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uaiDg22pnXA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Best Music",
+                "playlistId": "PL2Ag4k5-6gYs9JcVMu9lbikMWf5PYoBcD",
+                "position": 70,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "uaiDg22pnXA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "uaiDg22pnXA",
+                "videoPublishedAt": "2017-06-27T03:33:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vlPI-uzLBGzAF9Y8uvtmL2INMbc",
+            "id": "UEwyQWc0azUtNmdZczlKY1ZNdTlsYmlrTVdmNVBZb0JjRC40QzRDOEU0QUYwNUIxN0M1",
+            "snippet": {
+                "publishedAt": "2018-02-25T19:22:33Z",
+                "channelId": "UCk9qz9ZUZcLWPKSj6DhKYBA",
+                "title": "5 truyện ma kinh dị hay nhất 2016 đố bạn dám nghe",
+                "description": "Mời các bạn nghe tuyển tập 5 câu truyện ma có thật kinh dị mới và hay nhất năm 2016 qua giọng đọc của chị Ngọc Hà. Đây là tuyển tập những chuyện ma rùng rợn, đáng sợ nhưng cũng không kém phần ly kỳ. Nhiều tình tiết của truyện khiến người nghe phải rùng mình.\nNếu là 1 FAN của thể loại truyện kinh dị thì đừng bỏ qua những câu chuyện ma này.\nChuyên mục nghe đọc truyện đêm khuya xin giới thiệu với bạn đọc 5 câu truyện:\n00:04 Bóng Ma Nơi Học Đường\n01:02:01 Phòng 308\n01:14:41 Phòng Trọ Kinh Hoàng\n01:31:05 Truyện Ma Ở Sông Hồng\n01:41:45 Ma Nhập\nNgười đọc: Ngọc Hà\nNguồn website: http://gocaudio.com/\nFanpage: http://fb.com/gocaudiocom/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d2PxZIzo0zI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d2PxZIzo0zI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d2PxZIzo0zI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/d2PxZIzo0zI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Best Music",
+                "playlistId": "PL2Ag4k5-6gYs9JcVMu9lbikMWf5PYoBcD",
+                "position": 73,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "d2PxZIzo0zI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "d2PxZIzo0zI",
+                "videoPublishedAt": "2016-06-07T13:47:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3LSvLpbidS2e5bekgUS4mgTAr5E",
+            "id": "UEwyQWc0azUtNmdZczlKY1ZNdTlsYmlrTVdmNVBZb0JjRC5GNDg1Njc1QzZERjlFRjE5",
+            "snippet": {
+                "publishedAt": "2018-02-23T14:52:33Z",
+                "channelId": "UCk9qz9ZUZcLWPKSj6DhKYBA",
+                "title": "Top 5 phim hoạt hình kinh dị Nhật Bản hay nhất",
+                "description": "Phim hoat hinh kinh di nhat ban hay nhat - Top 5 phim hoạt hình kinh dị Nhật Bản hay nhất",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ima2O68gjoY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ima2O68gjoY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ima2O68gjoY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ima2O68gjoY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ima2O68gjoY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Best Music",
+                "playlistId": "PL2Ag4k5-6gYs9JcVMu9lbikMWf5PYoBcD",
+                "position": 75,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Ima2O68gjoY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Ima2O68gjoY",
+                "videoPublishedAt": "2016-01-25T10:32:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "90xB1JVR0YaJYxx6nSKhDqPSI3A",
+            "id": "UEwyQWc0azUtNmdZczlKY1ZNdTlsYmlrTVdmNVBZb0JjRC5BRjJDODk5REM0NjkzMUIy",
+            "snippet": {
+                "publishedAt": "2018-02-22T11:49:36Z",
+                "channelId": "UCk9qz9ZUZcLWPKSj6DhKYBA",
+                "title": "\"Huyết hoạ\" - bản full- phim kinh dị đáng xem nhất 2017[banktv]",
+                "description": "Đăng ký xem nhiều phim ngắn hay hơn tại đây: https://goo.gl/HQwc8K\nTitle: Công Bố Phim Kinh Dị Mới 2017: Huyết Họa (Phim kinh dị tình cảm Rất Nhẹ Nhàng Đáng Xem)\n\nNỘI DUNG PHIM KINH DỊ 2017 HUYẾT HỌA\nTruyện phim kể về chàng họa sĩ nghèo chuyên vẽ tranh chân dung. Chàng họa sĩ có một cô bạn gái xinh đẹp, dịu dàng và trong sáng. Hai người đã cùng gắn bó với nhau từ những ngày đầu chàng bước vào nghề, từ những ngày khó khăn nhất của chàng họa sĩ. Hai người có một phòng tranh nhỏ tại nhà của chàng họa sĩ, nhưng phòng tranh rất vắng khách. Cho đến một ngày đang ngồi vẽ, chàng họa sĩ bị con chuột làm phiền gặm nhấm màu vẽ và những thứ dụng cụ vẽ của mình. \nTrong lúc đang thiếu màu đỏ để vẽ chàng đã giết con chuột dùng máu chuột để vẽ bức tranh chân dung chính con chuột đó. Thật không ngờ, bức tranh chân dung con chuột lại được khách hàng thích và mua chứ không mua những bức tranh màu mè treo trong cửa hàng của chàng. Chàng bắt đầu để ý tới việc vẽ tranh bằng máu, chàng họa sĩ lên mạng tìm hiểu những thông tin về việc vẽ tranh bằng máu. \nBức tranh vẽ bằng máu của chàng họa sĩ được khách hàng biết tới và chàng bắt đầu kiếm được tiền. Từ đó trở đi, càng ngày chàng họa sĩ lại càng trở thành kẻ khát máu cho tranh. Đi chơi với bạn gái bắt được con rắn cũng giết lấy máu rắn vẽ chân dung con rắn, vẽ những cô gái khỏa thân, rồi chàng họa sĩ giết chết người mẫu của mình, lấy máu họ vẽ chân dung chính họ. \nKhi bị người yêu phát hiện, chàng đã bắt và chói người yêu mình lại mục đích là giết cô và vẽ chân dung cô, nhưng trong lúc giành giật bỏ trốn, cô người yêu đưa bức tranh chàng vẽ mình lên đỡ, chợt chàng khựng lại và nghĩ về những tháng ngày xưa cũ khi anh ta còn nghèo, cô người yêu đã ở bên cạnh, hai người đã chia sẻ những khoảnh khắc vui buồn trong cuộc sống. Trong lúc chàng họa sĩ đang ngơ ngẩn, thì cô đẩy anh ta té và trốn thoát. \nKết phim là chàng họa sĩ vào tù, trong tù anh ta luôn nghĩ về người yêu mình. Nghĩ lại những hình ảnh mình đã giết chuột, giết người... Ra sao. Anh ta tự dùng máu mình để vẽ một bức tranh trên tường của nhà tù, lúc anh ta gục chết cũng là lúc bức tranh hoàn thành. Chàng họa sĩ chết, để lại bức tranh vẽ anh ta cùng người yêu mình trên tường của nhà tù bằng máu của chính anh ta. \n\nMặc dù đây là phim kinh dị ngắn nhưng phim rất tình cảm mang hơi hướng liêu trai chứ không giống các phim mà rùng rợn và ám ảnh các bạn ạ\n\nPhim kinh dị hay nhất 2017. phim kd 2017, phim kinh dị 2017 hay nhất\n\nBank TV rất mong nhận được sự ủng hộ của các bạn!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Af1XDkPvIrI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Af1XDkPvIrI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Af1XDkPvIrI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Af1XDkPvIrI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Best Music",
+                "playlistId": "PL2Ag4k5-6gYs9JcVMu9lbikMWf5PYoBcD",
+                "position": 76,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Af1XDkPvIrI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Af1XDkPvIrI",
+                "videoPublishedAt": "2017-07-06T14:06:10Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 77,
+        "resultsPerPage": 50
+    }
+}

@@ -1,0 +1,490 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "5c4w_5_oKvnIJVF0Xlum5TKCpxU",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "b72MSIwk3y6CtFHKutXX8w3ouMI",
+            "id": "UExDckdiZHU3N3RtdEtWQXJGUlJ4QW5SVUJHTEFETDZHQi41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2020-06-11T08:30:36Z",
+                "channelId": "UClvycAQKZgLSxAaeis7DzJg",
+                "title": "CDFFASo 1591769617",
+                "description": "SDF ÁDASDASD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sgNXWvO88Wc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sgNXWvO88Wc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sgNXWvO88Wc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Carlie Berry",
+                "playlistId": "PLCrGbdu77tmtKVArFRRxAnRUBGLADL6GB",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sgNXWvO88Wc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "sgNXWvO88Wc",
+                "videoPublishedAt": "2020-06-10T06:15:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FyT4guUnW6Tg5mFB2mcAiQsg0jg",
+            "id": "UExDckdiZHU3N3RtdEtWQXJGUlJ4QW5SVUJHTEFETDZHQi5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2020-06-14T00:46:37Z",
+                "channelId": "UClvycAQKZgLSxAaeis7DzJg",
+                "title": "Nhử gà nước (cúm núm.gà đồng) với file chuẩn.bổi về quá nhanh",
+                "description": "Ae xem đăng kí ủng hộ kênh để xem thêm nhiều video hấp dẫn tiếp theo.cảm ơn ae nhiều....",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X7lXrjGD67E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X7lXrjGD67E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X7lXrjGD67E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/X7lXrjGD67E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/X7lXrjGD67E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Carlie Berry",
+                "playlistId": "PLCrGbdu77tmtKVArFRRxAnRUBGLADL6GB",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "X7lXrjGD67E"
+                }
+            },
+            "contentDetails": {
+                "videoId": "X7lXrjGD67E",
+                "videoPublishedAt": "2020-06-11T14:01:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fpLVKi3ptleKGcD2RHZsRatEIxM",
+            "id": "UExDckdiZHU3N3RtdEtWQXJGUlJ4QW5SVUJHTEFETDZHQi40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2020-06-13T16:22:27Z",
+                "channelId": "UClvycAQKZgLSxAaeis7DzJg",
+                "title": "Nhử gà nước (cúm núm.gà đồng) với file chuẩn.bổi về quá nhanh",
+                "description": "Ae xem đăng kí ủng hộ kênh để xem thêm nhiều video hấp dẫn tiếp theo.cảm ơn ae nhiều....",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X7lXrjGD67E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X7lXrjGD67E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X7lXrjGD67E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/X7lXrjGD67E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/X7lXrjGD67E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Carlie Berry",
+                "playlistId": "PLCrGbdu77tmtKVArFRRxAnRUBGLADL6GB",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "X7lXrjGD67E"
+                }
+            },
+            "contentDetails": {
+                "videoId": "X7lXrjGD67E",
+                "videoPublishedAt": "2020-06-11T14:01:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tgMzgxhp2FxPt4uySP3vg_ZsxXg",
+            "id": "UExDckdiZHU3N3RtdEtWQXJGUlJ4QW5SVUJHTEFETDZHQi41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2020-06-11T08:30:39Z",
+                "channelId": "UClvycAQKZgLSxAaeis7DzJg",
+                "title": "Phim Hành Động Võ Thuật 2020 Hay Nhất | Đặc Nhiệm Săn Tội Phạm | Phim Hình Sự 2020",
+                "description": "Phim Hành Động Võ Thuật 2020 Hay Nhất | Đặc Nhiệm Săn Tội Phạm | Phim Hình Sự 2020\n*Các bạn xem thêm:\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/I94zHeivupw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/I94zHeivupw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/I94zHeivupw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/I94zHeivupw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/I94zHeivupw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Carlie Berry",
+                "playlistId": "PLCrGbdu77tmtKVArFRRxAnRUBGLADL6GB",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "I94zHeivupw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "I94zHeivupw",
+                "videoPublishedAt": "2020-06-11T04:24:51Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yaBHKsp-axD57yN1P6SgXIQCr9M",
+            "id": "UExDckdiZHU3N3RtdEtWQXJGUlJ4QW5SVUJHTEFETDZHQi4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2020-06-11T08:30:39Z",
+                "channelId": "UClvycAQKZgLSxAaeis7DzJg",
+                "title": "Phim Hành Động Võ Thuật Xã Hội Đen | Lật Mặt Ông Trùm Phim Mới 2020",
+                "description": "Phim Hành Động Võ Thuật Xã Hội Đen | Lật Mặt Ông Trùm Phim Mới 2020\n***Các bạn xem thêm Phim Hay:\nPhim Hay 2019: https://goo.gl/r8RE54\nPhim Ngắn Tình Yêu 2019 : https://goo.gl/JZ2njJ\nPhim Hay Mới Nhất 2019: https://goo.gl/Hk8Fo4\n-------------------------------------------------------------------\n-------------------------------------------------------------------\nFanpage: https://www.facebook.com/PhimHayPage/?ref=br_rs\nHỏi Đáp:https://www.facebook.com/tienccnp\nBản quyền thuộc về BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0DNoT4692uo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0DNoT4692uo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0DNoT4692uo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0DNoT4692uo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0DNoT4692uo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Carlie Berry",
+                "playlistId": "PLCrGbdu77tmtKVArFRRxAnRUBGLADL6GB",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0DNoT4692uo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "0DNoT4692uo",
+                "videoPublishedAt": "2020-06-10T04:32:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6j8PGuA92BcSTyG8swMl06vQvQo",
+            "id": "UExDckdiZHU3N3RtdEtWQXJGUlJ4QW5SVUJHTEFETDZHQi4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2020-06-11T08:30:40Z",
+                "channelId": "UClvycAQKZgLSxAaeis7DzJg",
+                "title": "Tái Xuất Giang Hồ Phần 2 - Tập 96 | Phim Bộ Hành Động Võ Thuật Thuyết Minh",
+                "description": "Tái Xuất Giang Hồ là phim hành động võ thuật Trung Quôc thuyết minh, phim hành động, phim tâm lý ,phim tình cảm , phim Đài Loan , phim bộ hay nhất 2020\nBộ phim tâm lý tình cảm sâu sắc của Đài Loan với chủ đề cuộc sống gia đình, thương trường và những mâu thuân chốn giang hồ. Phim không chỉ mang màu sắc xã hội đen với sự thanh trừng của những băng nhóm thế giới ngầm mà còn ẩn chứa nhiều bài học sâu sắc về tình cảm gia đình và sự hy sinh cao cả trong tình yêu.\n--------------------\nChào mừng các bạn đến với Phim Kiếm Hiệp 2020.\nNơi tổng hợp những bộ phim cổ trang, kiếm hiệp Trung Quốc hay nhất mọi thời đại.\n\n⭐ Đăng ký kênh và nhấn chuông thông báo để đón xem những tập phim hay nhất:\nhttps://www.youtube.com/PhimKiemHiepOfficial?sub_confirmation=1\n--------------------\n🎬 Tron bộ TÂY DU KÝ TRƯ BÁT GIỚI TRUYỀN KÌ:\nhttps://www.youtube.com/playlist?list=PLSnt4engIsKU3EDJczIt-Sa5racow7kpW\n\n🎬Trọn bộ TÁI XUẤT GIANG HỒ Phần 1:\nhttps://www.youtube.com/playlist?list=PLSnt4engIsKWG66ZZiJvLPDXGxsVxxcTq\n\n🎬Trọn bộ TÁI XUẤT GIANG HỒ Phần 2:\nhttps://www.youtube.com/playlist?list=PLSnt4engIsKVkxAJelQpZdUjWJmA0snjX\n\n🎬Trọn bộ UYÊN ƯƠNG HỒ ĐIỆP: \nhttps://www.youtube.com/watch?v=EEea49cUM58&list=PLSnt4engIsKUn7qtEP-uY_wZAv83usioS\n\n🎬Trọn bộ TRINH QUAN TRƯỜNG CA: \nhttps://www.youtube.com/watch?v=NC_BMbMG5Ok&list=PLSnt4engIsKXjHxeuKDPBiMfA0hLJLbFH\n--------------------\n🌐 Phim Kiếm Hiệp Official site: https://phimkiemhiep.vn/\n\n✈️Tham gia Fanpage để chém gió nhiều hơn cùng ad:\nhttps://www.facebook.com/phimkiemhiep86/\n\n🚀Cộng đồng fan Phim Kiếp Hiệp 2020 đông đảo nhất mọi thời đại:\nhttps://www.facebook.com/groups/2602551893293990\n--------------------\n© Bản quyền phim thuộc về Phim Kiếm Hiệp Official.\nVui lòng không reup dưới mọi hình thức!\n\n#phimcotrang #phimkiemhiep #taixuatgiangho#phimkiemhiep2020 #phimbothuyetminh #phimcotrang2020 #phimcotrangtrungquoc #phimbotrungquoc #phimbo #phimhay #phimthuyetminh #phimtrungquoc  #phimcotrangtrungquoc #taixuatgianghophan2",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kxQ7sreYLec/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kxQ7sreYLec/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kxQ7sreYLec/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kxQ7sreYLec/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kxQ7sreYLec/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Carlie Berry",
+                "playlistId": "PLCrGbdu77tmtKVArFRRxAnRUBGLADL6GB",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kxQ7sreYLec"
+                }
+            },
+            "contentDetails": {
+                "videoId": "kxQ7sreYLec",
+                "videoPublishedAt": "2020-06-11T04:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Zfrvk4VX9s6zQA3fnysH959Y72g",
+            "id": "UExDckdiZHU3N3RtdEtWQXJGUlJ4QW5SVUJHTEFETDZHQi41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2020-06-11T08:30:41Z",
+                "channelId": "UClvycAQKZgLSxAaeis7DzJg",
+                "title": "Phim Hành Động Võ Thuật Xã Hội Đen | Săn Lùng Đại Ca | Phim Mới 2020",
+                "description": "Phim Hành Động Võ Thuật Xã Hội Đen | Săn Lùng Đại Ca | Phim Mới 2020\n***Các bạn xem thêm Phim Hay:\nPhim Hay 2019: https://goo.gl/r8RE54\nPhim Ngắn Tình Yêu 2019 : https://goo.gl/JZ2njJ\nPhim Hay Mới Nhất 2019: https://goo.gl/Hk8Fo4\n-------------------------------------------------------------------\n-------------------------------------------------------------------\nFanpage: https://www.facebook.com/PhimHayPage/?ref=br_rs\nHỏi Đáp:https://www.facebook.com/tienccnp\nBản quyền thuộc về BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QV4bKjfbNRw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QV4bKjfbNRw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QV4bKjfbNRw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QV4bKjfbNRw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QV4bKjfbNRw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Carlie Berry",
+                "playlistId": "PLCrGbdu77tmtKVArFRRxAnRUBGLADL6GB",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "QV4bKjfbNRw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "QV4bKjfbNRw",
+                "videoPublishedAt": "2020-06-08T03:26:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mOS2SsXLH6Ke1F85LB11GpJIaEo",
+            "id": "UExDckdiZHU3N3RtdEtWQXJGUlJ4QW5SVUJHTEFETDZHQi5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2020-06-11T08:30:42Z",
+                "channelId": "UClvycAQKZgLSxAaeis7DzJg",
+                "title": "Phim Hành Động Võ Thuật Xã Hội Đen | Vây Bắt Đại Ca | Phim Mới 2020",
+                "description": "Phim Hành Động Võ Thuật Xã Hội Đen | Vây Bắt Đại Ca | Phim Mới 2020\n***Các bạn xem thêm Phim Hay:\nPhim Hay 2019: https://goo.gl/r8RE54\nPhim Ngắn Tình Yêu 2019 : https://goo.gl/JZ2njJ\nPhim Hay Mới Nhất 2019: https://goo.gl/Hk8Fo4\n-------------------------------------------------------------------\n-------------------------------------------------------------------\nFanpage: https://www.facebook.com/PhimHayPage/?ref=br_rs\nHỏi Đáp:https://www.facebook.com/tienccnp\nBản quyền thuộc về BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PTfq_Q5MkFI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PTfq_Q5MkFI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PTfq_Q5MkFI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PTfq_Q5MkFI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PTfq_Q5MkFI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Carlie Berry",
+                "playlistId": "PLCrGbdu77tmtKVArFRRxAnRUBGLADL6GB",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PTfq_Q5MkFI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "PTfq_Q5MkFI",
+                "videoPublishedAt": "2020-06-04T08:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "k63_pTotnrAha8sQJhjhFuxxE_s",
+            "id": "UExDckdiZHU3N3RtdEtWQXJGUlJ4QW5SVUJHTEFETDZHQi45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2020-06-11T08:30:43Z",
+                "channelId": "UClvycAQKZgLSxAaeis7DzJg",
+                "title": "SÁT THỦ GỢI CẢM - Đừng đùa với em - Phim Hành Động Hong Kong Thuyết Minh",
+                "description": "ĐỪNG ĐÙA VỚI EM | Nữ Sát Thủ Gợi Cảm - Phim Hành Động Hay\n\nLà câu chuyện xoay quanh một nữ sát thủ xinh đẹp, quyến rũ tên Chanel (Đặng Lệ Hân đóng) có cuộc sống hôn nhân viên mãn trong suốt 10 năm, tuy nhiên mọi thứ sụp đổ khi cô phát hiện ra chồng có bồ – một phụ nữ tên Dior. Hai kẻ tình địch sau đó phát hiện ra người đàn ông còn có một cô bồ nhí nữa tên là Hermes. Cả ba bắt đầu bước vào một cuộc chiến để trả thù…",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZTdYrjby3as/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZTdYrjby3as/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZTdYrjby3as/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZTdYrjby3as/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZTdYrjby3as/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Carlie Berry",
+                "playlistId": "PLCrGbdu77tmtKVArFRRxAnRUBGLADL6GB",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZTdYrjby3as"
+                }
+            },
+            "contentDetails": {
+                "videoId": "ZTdYrjby3as",
+                "videoPublishedAt": "2019-11-09T13:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "betpAJBHTp6eRGjwVn7ZOFPP0Ik",
+            "id": "UExDckdiZHU3N3RtdEtWQXJGUlJ4QW5SVUJHTEFETDZHQi5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2020-06-11T08:30:43Z",
+                "channelId": "UClvycAQKZgLSxAaeis7DzJg",
+                "title": "Phim Hành Động Võ Thuật 2020 Hay Nhất | Tiêu Diệt Ông Trùm | Phim Hình Sự 2020",
+                "description": "Phim Hành Động Võ Thuật 2020 Hay Nhất | Tiêu Diệt Ông Trùm | Phim Hình Sự 2020\n*Các bạn xem thêm:\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jchcCta5hvs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jchcCta5hvs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jchcCta5hvs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jchcCta5hvs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jchcCta5hvs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Carlie Berry",
+                "playlistId": "PLCrGbdu77tmtKVArFRRxAnRUBGLADL6GB",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jchcCta5hvs"
+                }
+            },
+            "contentDetails": {
+                "videoId": "jchcCta5hvs",
+                "videoPublishedAt": "2020-06-07T11:15:52Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 10,
+        "resultsPerPage": 50
+    }
+}

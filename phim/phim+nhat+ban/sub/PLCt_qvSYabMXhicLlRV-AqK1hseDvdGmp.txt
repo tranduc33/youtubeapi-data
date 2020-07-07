@@ -1,0 +1,744 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "iwDhtBwc3JxI_f1b9FdjN7dCrFc",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "E6TMqfHq22c3xXu1wQcIFCw9yZA",
+            "id": "UExDdF9xdlNZYWJNWGhpY0xsUlYtQXFLMWhzZUR2ZEdtcC41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2017-12-07T05:17:25Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMXhicLlRV-AqK1hseDvdGmp",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "rWkigMjdWP4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "rWkigMjdWP4"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "aMvpmNa3tTBWoreJTLyGVrSVMdg",
+            "id": "UExDdF9xdlNZYWJNWGhpY0xsUlYtQXFLMWhzZUR2ZEdtcC4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2017-12-07T05:17:27Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Phim Hành Động Thành Long Mới Nhất 2017",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8AXS9MdV-e4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8AXS9MdV-e4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8AXS9MdV-e4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMXhicLlRV-AqK1hseDvdGmp",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8AXS9MdV-e4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "8AXS9MdV-e4",
+                "videoPublishedAt": "2017-02-18T14:26:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cnTUp6rgNZp94uFH_v931Cuq0gk",
+            "id": "UExDdF9xdlNZYWJNWGhpY0xsUlYtQXFLMWhzZUR2ZEdtcC5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2017-12-07T05:17:30Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Phim Hành Động Hài Hước Mới Nhất - Cười Xuyên Việt với Hoài Linh",
+                "description": "Phim Hành Động Hài Hước Mới Nhất - Cười Xuyên Việt với Hoài Linh\nPhim Chiếu Rạp 2017: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\n\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Et_msO2gP3U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Et_msO2gP3U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Et_msO2gP3U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Et_msO2gP3U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Et_msO2gP3U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMXhicLlRV-AqK1hseDvdGmp",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Et_msO2gP3U"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Et_msO2gP3U",
+                "videoPublishedAt": "2017-07-14T02:12:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wlEhi-tsqlKZFHQaRxZ2XHjJ9tQ",
+            "id": "UExDdF9xdlNZYWJNWGhpY0xsUlYtQXFLMWhzZUR2ZEdtcC5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2017-12-07T05:17:33Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Xem phim Kinh Dị Mỹ hay nhất 2017 || Ngôi Nhà Bí Ẩn - Dark House",
+                "description": "Ngôi Nhà Bí Ẩn - Dark House - Xem Phim Kinh Dị Mỹ 2017\nThể loại: Phim Kinh dị \nDiễn viên: Luke Kleintank, Alex McKenna, Anthony Rey Perez\n\n**********************************************************\n\nBộ phim này do đạo diễn nổi tiếng Victor Salva (đạo diễn film Jeepers Creepers) và với ngôi sao phim kinh dị Tobin Bell (Saw), Zack Ward (Transformers) và Luke Kleintank . Phim nói về những câu chuyện của Nick Di Santo (Kleintank) có thể nhìn thấy trong tương lai. Nick biết khi nào và làm thế nào mọi người sẽ chết. Anh này đến thăm mẹ trong bệnh viện tâm thần, chỉ biết rằng cha mình đã mất từ ​​lâu vẫn còn sống. Ngay sau đó, Nick thấy cha của mình trong một căn biệt thự bị bỏ hoang, trong đó nhà một thế lực đen tối và bí ẩn....\n\nMời các bạn đón xem tiếp bộ phim.\nChúc bạn xem phim vui vẻ!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yON_xdVAS3Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yON_xdVAS3Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yON_xdVAS3Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yON_xdVAS3Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMXhicLlRV-AqK1hseDvdGmp",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yON_xdVAS3Q"
+                }
+            },
+            "contentDetails": {
+                "videoId": "yON_xdVAS3Q",
+                "videoPublishedAt": "2014-07-04T07:47:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oncs8iOyJWChcRs-UsDcQ_wj9Ko",
+            "id": "UExDdF9xdlNZYWJNWGhpY0xsUlYtQXFLMWhzZUR2ZEdtcC45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2017-12-07T05:17:34Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Phim hành động xã hội đen hay nhất hiện nay, Phim Chiếu Rạp thuyết minh",
+                "description": "Phim hành động xã hội đen hay nhất hiện nay, Phim Chiếu Rạp thuyết minh \nPhim hành động xã hội đen hay nhất hiện nay, Phim Chiếu Rạp thuyết minh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RgyR5RsX6FQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RgyR5RsX6FQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RgyR5RsX6FQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RgyR5RsX6FQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RgyR5RsX6FQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMXhicLlRV-AqK1hseDvdGmp",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RgyR5RsX6FQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "RgyR5RsX6FQ",
+                "videoPublishedAt": "2016-11-09T08:59:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "a_FO0mb5qhtWVIFsS1pi50dh3r4",
+            "id": "UExDdF9xdlNZYWJNWGhpY0xsUlYtQXFLMWhzZUR2ZEdtcC41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2017-12-07T05:17:36Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Phim Tâm Lý Tình Cảm Hàn Quốc Hay Nhất 2016 | Nơi Tình Yêu Bắt Đầu [Full HD]",
+                "description": "Phim Tâm Lý Tình Cảm Hàn Quốc Hay Nhất 2016 | Nơi Tình Yêu Bắt Đầu [Full HD]\nPhim Tâm Lý Tình Cảm Hàn Quốc Hay Nhất 2016 | Nơi Tình Yêu Bắt Đầu [Full HD]",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/I6Vfm9h2BBg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/I6Vfm9h2BBg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/I6Vfm9h2BBg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/I6Vfm9h2BBg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/I6Vfm9h2BBg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMXhicLlRV-AqK1hseDvdGmp",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "I6Vfm9h2BBg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "I6Vfm9h2BBg",
+                "videoPublishedAt": "2016-10-06T13:41:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ulW4im1bVF0FmzmkDCXiwTzUO8k",
+            "id": "UExDdF9xdlNZYWJNWGhpY0xsUlYtQXFLMWhzZUR2ZEdtcC4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2017-12-07T05:17:37Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Phim Hành Động Hài 2017 Buông Súng - Nhật Nguyệt Band, Hứa Minh Đạt, Tiến Luật, Thanh Tân, Hoàng Mèo",
+                "description": "► Phim Hành Động Hài 2017 Buông Súng - Nhật Nguyệt Band, Hứa Minh Đạt, Tiến Luật, Thanh Tân, Hoàng Mèo\n► Đăng ký xem phim mới: https://goo.gl/qLUb5t\n--------------------------------\n♫ Kịch bản (Script) : Dương Nhất Linh\n♫ Đạo diễn (Director) : Dương Nhất Linh\n♫ Nhạc phim (OST) : Nếu Ta Là Của Nhau\n♫ Nhạc sĩ (Composer) : LilGee Phạm\n♫ Diễn Viên Khách Mời (Guest Starring) : Tiến Luật, Hoàng Mèo, Hứa Minh Đạt, Thanh Tân và một số diễn viên khác\n\n♫ Đạo diễn hình ảnh (D.O.P) : NA Entertainment - PKA Production\n♫ Quay phim (Camera) : Kỳ Anh - Maxt Bảo Nam - Hề Nguyễn\n♫ Dựng phim (Editor) : Kỳ Anh\n♫ Ánh sáng (Lighting) : Tuấn Ngọng\n♫ Âm thanh (Sound) : Anh Quốc\n♫ Hoá trang (Makeup) : Hạnh Trần\n\n- Nhóm Nhật Nguyệt chân thành cảm ơn cách anh em bạn bè đồng nghiệp đã hỗ trợ tạo nên sự thành công của phim ca nhạc Buông Súng.\n- Xin Chân Thành Cảm Ơn !!!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y9QCYl3f3ik/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y9QCYl3f3ik/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y9QCYl3f3ik/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Y9QCYl3f3ik/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Y9QCYl3f3ik/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMXhicLlRV-AqK1hseDvdGmp",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Y9QCYl3f3ik"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Y9QCYl3f3ik",
+                "videoPublishedAt": "2017-05-09T04:30:33Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "D8swrSHKGf8HVtKW54HTksiad3s",
+            "id": "UExDdF9xdlNZYWJNWGhpY0xsUlYtQXFLMWhzZUR2ZEdtcC4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2017-12-07T05:17:41Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Phim Cảnh Sát Hình Sự Việt Nam Hay Mới Nhất | Kiểm Lâm bù Nhìn Full HD",
+                "description": "Phim Cảnh Sát Hình Sự Việt Nam Hay Mới Nhất | Kiểm Lâm bù Nhìn Full HD\nPhim Hài Tết 2017 : https://youtu.be/PCBz03KBy98\nĐăng ký Xem Hài Tết Mới Nhất: https://www.youtube.com/channel/UCb3YAZtb19iYJngfZ9R--KA?sub_confirmation=1",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ic3jvg1RZjA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ic3jvg1RZjA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ic3jvg1RZjA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ic3jvg1RZjA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ic3jvg1RZjA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMXhicLlRV-AqK1hseDvdGmp",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Ic3jvg1RZjA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Ic3jvg1RZjA",
+                "videoPublishedAt": "2016-12-05T02:20:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Sj6lvRHlhN7TshKR_rcOwM_D6HU",
+            "id": "UExDdF9xdlNZYWJNWGhpY0xsUlYtQXFLMWhzZUR2ZEdtcC5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2017-12-07T05:17:44Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMXhicLlRV-AqK1hseDvdGmp",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "MNefqpgVqBk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "MNefqpgVqBk"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zRTL7pJZz89d4oWVmc6jNuiM3IU",
+            "id": "UExDdF9xdlNZYWJNWGhpY0xsUlYtQXFLMWhzZUR2ZEdtcC41QUZGQTY5OTE4QTREQUU4",
+            "snippet": {
+                "publishedAt": "2017-12-07T05:17:47Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Phim người lớn 18+ thuyết minh tình cảm hay nhất Hàn Quốc",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WsVnI7m4UJ0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WsVnI7m4UJ0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WsVnI7m4UJ0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WsVnI7m4UJ0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMXhicLlRV-AqK1hseDvdGmp",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WsVnI7m4UJ0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "WsVnI7m4UJ0",
+                "videoPublishedAt": "2017-05-16T07:05:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jj1L1GHXUmoMqTH3H84QW7x09tI",
+            "id": "UExDdF9xdlNZYWJNWGhpY0xsUlYtQXFLMWhzZUR2ZEdtcC5CMEQ2Mjk5NTc3NDZFRUNB",
+            "snippet": {
+                "publishedAt": "2017-12-07T05:17:48Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Phim ca nhạc 2017 |  ĐỘC CÔ SÁT THỦ Full HD |  Phim ca nhạc mới nhất 2017| Phan Thanh, Bé Châu",
+                "description": "Phim ca nhạc mới nhất 2017, phim ca nhac  moi nhat 2017. Phim hành động mới nhất, phim ca nhac moi nhat 2017.  Phim ca nhạc hài tết 2017 mới nhất. #thanhquanmusicfilm \nĐăng ký kênh tại : https://goo.gl/AgDHV6\nFanpage : https://www.facebook.com/thanhquanmusicfilm\nĐỘC CÔ SÁT THỦ Full HD | Phim ca nhạc hành động hài tết 2017 | Phan Thanh, Bé Châu, Nguyễn Phương, Minh Nhựt, Hậu Nguyễn, AXN Club. \nPhim ca nhạc mới nhất 2017, Phim ca nhac moi nhat 2017. \nPhim ca nhạc 2017 mới hay nhất, Phim ca nhac 2017 moi hay nhat. \nPhim ca nhạc hay mới nhất việt nam 2017, Phim ca nhac hay moi nhat viet nam 2017. \nPhim ca nhạc hài, Phim ca nhac hai. \nPhim ca nhạc hành động võ thuật, Phim ca nhac hanh dong vo thuat.\nPhim ca nhạc mới nhất 2017 việt nam, phim ca nhac moi nhat 2017 viet nam.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/73jE-Dy7WP8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/73jE-Dy7WP8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/73jE-Dy7WP8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMXhicLlRV-AqK1hseDvdGmp",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "73jE-Dy7WP8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "73jE-Dy7WP8",
+                "videoPublishedAt": "2017-01-17T18:12:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "NORamMKaIj-7pcr5cvggkcVJlhc",
+            "id": "UExDdF9xdlNZYWJNWGhpY0xsUlYtQXFLMWhzZUR2ZEdtcC45RjNFMDhGQ0Q2RkFCQTc1",
+            "snippet": {
+                "publishedAt": "2017-12-07T05:17:49Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "BI MAT TAM GIAC VANG PHIM HANH DONG VO THUAT HAY NHAT  MOI NHAT 2017-2018 PHIM HANH DONG HOT NHAT",
+                "description": "BI MAT TAM GIAC VANG PHIM HANH DONG VO THUAT HAY NHAT  MOI NHAT 2017-2018 PHIM HANH DONG HOT NHAT NU SAT THU",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SR9jdJwtyfg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SR9jdJwtyfg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SR9jdJwtyfg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SR9jdJwtyfg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SR9jdJwtyfg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMXhicLlRV-AqK1hseDvdGmp",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "SR9jdJwtyfg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "SR9jdJwtyfg",
+                "videoPublishedAt": "2017-11-01T13:15:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gSr6vpkOzB58V9Fe9d3RwVKAhOA",
+            "id": "UExDdF9xdlNZYWJNWGhpY0xsUlYtQXFLMWhzZUR2ZEdtcC40QTA3NTU2RkM1QzlCMzYx",
+            "snippet": {
+                "publishedAt": "2017-12-07T05:17:50Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMXhicLlRV-AqK1hseDvdGmp",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "d7VY7T4Dv18"
+                }
+            },
+            "contentDetails": {
+                "videoId": "d7VY7T4Dv18"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Nvzlp3lF3HLSgVZwCI2tlnOzgtk",
+            "id": "UExDdF9xdlNZYWJNWGhpY0xsUlYtQXFLMWhzZUR2ZEdtcC5GNDg1Njc1QzZERjlFRjE5",
+            "snippet": {
+                "publishedAt": "2017-12-07T05:17:52Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMXhicLlRV-AqK1hseDvdGmp",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6tbSCvVUXYs"
+                }
+            },
+            "contentDetails": {
+                "videoId": "6tbSCvVUXYs"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IACaFG44Qv6f_8HgJZt--t7t0jw",
+            "id": "UExDdF9xdlNZYWJNWGhpY0xsUlYtQXFLMWhzZUR2ZEdtcC45NkVENTkxRDdCQUFBMDY4",
+            "snippet": {
+                "publishedAt": "2017-12-07T05:17:53Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Phim Ca Nhạc ĐIỆP VỤ HOA HỒNG 2 | Kim Ny Ngọc, Lâm Minh Thắng | Phim Xã Hội Đen Hot Nhất",
+                "description": "BẤM SUBCRIBE ĐỂ THEO DÕI SẢN PHẨM MỚI NHẤT CỦA KÊNH NHÉ! PHIM CA NHẠC HAY NHẤT, MỚI NHẤT. \nCa sĩ Kim Ny Ngọc\n➤ Nhấp  vào link subcribes Youtube: https://goo.gl/Z56E63 \n➤Facebook Kim  Ny Ngọc : https://www.facebook.com/kimnyngocofficial30\n Fanpage: https://www.facebook.com/casi.kimnyngoc \n Liên hệ quảng cáo : Kimthanhngockute@gmail.com \n➤ ➤ Mv ca nhạc mới nhất của Kim Ny Ngọc (Rối bời):https://www.youtube.com/watch?v=Tsbya5TDgWk\n➤Phim ca nhạc\n★ Điêp vụ hoa hồng 1:https://www.youtube.com/watch?v=zhX8lnsGhBY\n*********✦**************✦******************✦*******\n➤Phim  ca nhạc, hành động mới nhất Điệp vụ hoa hồng (Phần 2)- Kim Ny Ngọc,Lâm Minh Thắng\nPhim ca nhạc giang hồ,xã hội đen hay nhất\nPhim ca nhạc hay nhat 2018\n➤Phim sản xuất  KNN PRODUCTION\n ➤Diễn  viên:   Kim Ny Ngọc,Lâm Minh Thắng,Khôi Trần,Minh Nhựt,Mai Ngọc,Hà Anh Tấn, Vũ Lâm,David Nguyễn,Bảo Nhi,Cu Lì,Nhung Dona ,Quách Phú Thành,Võ Hoàng Quân,Diệp Quốc Tuấn...\nCùng Cascader Axn và một số diễn viên khác,Fc Kim Ny Ngọc\n➤Kich bản& Đạo diễn: Diệp Quốc Tuấn\n➤Đạo diễn hành động: Hồ Hiếu\n➤Trợ  lí: Hà Anh Tấn\n➤ Quay phim: Nguyễn Hoàng\n➤D.O.P: Nguyễn Hoàng \n➤ Thiết kế:Phi Long(Cu Lì),Văn Lợi,Xuân Tiến,Mai Ngọc,Tân Nguyễn\n➤  Phụ quay: Hoàng Quân,Trần Thanh Trung\n➤ Ánh sáng,dolly,bomb: nhóm Lương Sơn Bạc \n➤ Dựng phim& Kỹ xảo: Unn Thành, Matma Hoang Tuan Anh \n➤Hậu trường: Matma HoàngTuấn Anh\n➤Make up: Diễm Á \n➤Đơn vị tài trợ: Club 141 \nĐc: 141 Nguyễn Đình Chính,quận Phú Nhuận\n➤Bài hát trong phim:\n1.Lầm tưởng anh yêu em\nSáng tác: Nhi Thoại \n2.Để anh rời xa\nSáng tác: Kim Ny Ngọc\n➤ Nhạc trong phim\nem sợ định mệnh Remix beat (34:00)(1:10:20)\nĐối với anh em không còn cảm giác remix beat(9:36)\n➤ Kim Ny Ngọc chân thành cảm ơn tất cả ekip Axn Film , các diễn viên và các cascader \nCảm ơn nhà tài trợ club 141",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jUhL0yVkWH0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jUhL0yVkWH0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jUhL0yVkWH0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jUhL0yVkWH0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMXhicLlRV-AqK1hseDvdGmp",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jUhL0yVkWH0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "jUhL0yVkWH0",
+                "videoPublishedAt": "2016-11-18T21:01:55Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wW6EDLrleyO7YJz8xosWvRGruas",
+            "id": "UExDdF9xdlNZYWJNWGhpY0xsUlYtQXFLMWhzZUR2ZEdtcC5DNkMwRUI2MkI4QkI4NDFG",
+            "snippet": {
+                "publishedAt": "2017-12-07T05:17:54Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMXhicLlRV-AqK1hseDvdGmp",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "l621P_xMCfs"
+                }
+            },
+            "contentDetails": {
+                "videoId": "l621P_xMCfs"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "BoDxPOfTyZs4jXnzCEaBo-6nCS4",
+            "id": "UExDdF9xdlNZYWJNWGhpY0xsUlYtQXFLMWhzZUR2ZEdtcC41MzY4MzcwOUFFRUU3QzEx",
+            "snippet": {
+                "publishedAt": "2017-12-07T05:17:55Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMXhicLlRV-AqK1hseDvdGmp",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "fo7FD_4eews"
+                }
+            },
+            "contentDetails": {
+                "videoId": "fo7FD_4eews"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "TwP-BwsGbCte5ogW6_K8R6L9ttA",
+            "id": "UExDdF9xdlNZYWJNWGhpY0xsUlYtQXFLMWhzZUR2ZEdtcC5ENjI1QUI0MDI5NEQzODFE",
+            "snippet": {
+                "publishedAt": "2017-12-07T05:17:59Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Phim Bom Tấn Mới Nhất 2017 - Phim Hành Động Mỹ Hay Nhất 2017 18+",
+                "description": "Kênh Giải Trí , Chán Đủ Thứ Xin Chào Các Bạn.\n\nSubscribe channels for more videos, thanks.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FdFg6yiESGo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FdFg6yiESGo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FdFg6yiESGo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FdFg6yiESGo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FdFg6yiESGo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMXhicLlRV-AqK1hseDvdGmp",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FdFg6yiESGo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "FdFg6yiESGo",
+                "videoPublishedAt": "2017-05-21T04:59:55Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "M_466jGzPTO13B4Q_-Z9uB4xDBs",
+            "id": "UExDdF9xdlNZYWJNWGhpY0xsUlYtQXFLMWhzZUR2ZEdtcC4zMEQ1MEIyRTFGNzhDQzFB",
+            "snippet": {
+                "publishedAt": "2017-12-07T05:18:01Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Phim Tình Cảm Thái Lan /  Phim Tâm Lý Thái Lan Hay Nhất 2016",
+                "description": "Phim Tình Cảm Thái Lan  Phim Tâm Lý Thái Lan Hay Nhất  - Phim Tình Cảm Thái Lan  Phim Tâm Lý Thái Lan Hay Nhất \nhttps://www.youtube.com/channel/UC7G6CMUIVALr6P1lpSrSyIA",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m0eQKZcfuTE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m0eQKZcfuTE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m0eQKZcfuTE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/m0eQKZcfuTE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/m0eQKZcfuTE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMXhicLlRV-AqK1hseDvdGmp",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "m0eQKZcfuTE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "m0eQKZcfuTE",
+                "videoPublishedAt": "2016-04-26T22:55:30Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 34,
+        "resultsPerPage": 50
+    }
+}

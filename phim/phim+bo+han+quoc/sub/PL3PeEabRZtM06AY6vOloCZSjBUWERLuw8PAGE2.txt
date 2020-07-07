@@ -1,0 +1,109 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "gFvjmooNEDVk90bw3FP0akhYDno",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "f3qC-eLDlFUH_GAwU7RnOTOajB4",
+            "id": "UEwzUGVFYWJSWnRNMDZBWTZ2T2xvQ1pTakJVV0VSTHV3OC42QzdBMzlBQzQzRjQ0QkQy",
+            "snippet": {
+                "publishedAt": "2017-12-12T07:14:50Z",
+                "channelId": "UCUniG9ALfMbjOn7v11Mptng",
+                "title": "Binh đoàn La Mã",
+                "description": "Kênh DU LỊCH và CHO THUÊ XE cạnh tranh nhất tại TPHCM\nhttp://nucuoiviet.com.vn\nhttp://thuexedulichre.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/07WOMx_slaY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/07WOMx_slaY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/07WOMx_slaY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/07WOMx_slaY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/07WOMx_slaY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Pham Tam",
+                "playlistId": "PL3PeEabRZtM06AY6vOloCZSjBUWERLuw8",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "07WOMx_slaY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "07WOMx_slaY",
+                "videoPublishedAt": "2014-10-05T10:01:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bNN5ESvohsL_tsvJpTFHURzJJA8",
+            "id": "UEwzUGVFYWJSWnRNMDZBWTZ2T2xvQ1pTakJVV0VSTHV3OC41OURENDc2NEM1MDI5Mjky",
+            "snippet": {
+                "publishedAt": "2017-12-12T07:14:51Z",
+                "channelId": "UCUniG9ALfMbjOn7v11Mptng",
+                "title": "Phim chiếu rạp mới nhất+ phim lồng tiếng cực đỉnh, bộ phim đặc sắc nhất châu Á 2015",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k59mQHk0eu0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k59mQHk0eu0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k59mQHk0eu0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/k59mQHk0eu0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/k59mQHk0eu0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Pham Tam",
+                "playlistId": "PL3PeEabRZtM06AY6vOloCZSjBUWERLuw8",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "k59mQHk0eu0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "k59mQHk0eu0",
+                "videoPublishedAt": "2015-08-05T09:08:25Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 52,
+        "resultsPerPage": 50
+    }
+}

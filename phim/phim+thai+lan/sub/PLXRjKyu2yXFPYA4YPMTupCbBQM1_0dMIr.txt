@@ -1,0 +1,939 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "2TshTngBV4IffuquuIeeYADWxcA",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "PqkgThobisyRxG_xCcuHDfZY5c4",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:25:31Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "Lửa hận hóa yêu thương - tập 1",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hV7tTYb2Vr0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hV7tTYb2Vr0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hV7tTYb2Vr0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hV7tTYb2Vr0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "hV7tTYb2Vr0",
+                "videoPublishedAt": "2019-02-01T04:36:50Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "w26YcZOqwp3AaE3A-JJlm8gNzTk",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:25:53Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "Lửa hận hóa yêu thương - tập 2",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZtsM-gE_BuY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZtsM-gE_BuY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZtsM-gE_BuY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZtsM-gE_BuY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "ZtsM-gE_BuY",
+                "videoPublishedAt": "2019-02-01T04:38:48Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Gu7uwWK-LrJTSlz0LkYsPz1uA8k",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:25:57Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "t3op77CyLUo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "t3op77CyLUo"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "eSIGFWQjJGkhlEkN1jL-tr4Rvdc",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:26:02Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "Lửa hận hóa yêu thương - tập 5",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SUqnBMXiY5o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SUqnBMXiY5o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SUqnBMXiY5o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "SUqnBMXiY5o"
+                }
+            },
+            "contentDetails": {
+                "videoId": "SUqnBMXiY5o",
+                "videoPublishedAt": "2019-02-01T06:05:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "GkpexJMie993GL9pC7H9YvLb0qI",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:26:06Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "Lửa hận hóa yêu thương - tập 6",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NTJfnTvj_QM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NTJfnTvj_QM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NTJfnTvj_QM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NTJfnTvj_QM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "NTJfnTvj_QM",
+                "videoPublishedAt": "2019-02-01T06:11:48Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6GcPOzWCFR4dVAv0tVKYL47tL-U",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:26:10Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "lửa hận hóa yêu thương - tập 7",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-Nc5iE_KDSY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-Nc5iE_KDSY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-Nc5iE_KDSY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-Nc5iE_KDSY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "-Nc5iE_KDSY",
+                "videoPublishedAt": "2019-02-01T06:35:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "TTxrStUEiwidS0tYwOILSIK_td4",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:26:14Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "lửa hận hóa yêu thương - tập 8",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IJCtQQyVjqQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IJCtQQyVjqQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IJCtQQyVjqQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "IJCtQQyVjqQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "IJCtQQyVjqQ",
+                "videoPublishedAt": "2019-02-01T06:37:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zEsyycr4znmlZM0fb0_Mj7PWKQI",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:26:17Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "lửa hận hóa yêu thương - tập 9",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mr4L_f1ofkM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mr4L_f1ofkM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mr4L_f1ofkM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "mr4L_f1ofkM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "mr4L_f1ofkM",
+                "videoPublishedAt": "2019-02-01T06:43:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "CEk3NQo2WIHwD_3-DNtyQOLZmlU",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:26:21Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "lửa hận hóa yêu thương - tập 10",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Xg0ZjdiUffk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Xg0ZjdiUffk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Xg0ZjdiUffk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Xg0ZjdiUffk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Xg0ZjdiUffk",
+                "videoPublishedAt": "2019-02-01T06:43:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7vocT-RepYC7Htw1sz5Y80Zwvj4",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:26:26Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "lửa hận hóa yêu thương - tập 11",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GdBhGlZZHy8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GdBhGlZZHy8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GdBhGlZZHy8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GdBhGlZZHy8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "GdBhGlZZHy8",
+                "videoPublishedAt": "2019-02-01T06:45:41Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "eMcwgC2Bv19lfY8pDBeUrZZuS7E",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:26:29Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "lửa hận hóa yêu thương - tập 12",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GGo-Fqgn_0M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GGo-Fqgn_0M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GGo-Fqgn_0M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GGo-Fqgn_0M"
+                }
+            },
+            "contentDetails": {
+                "videoId": "GGo-Fqgn_0M",
+                "videoPublishedAt": "2019-02-01T06:46:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_Zcm_bi6kEPPt5bh9RuCBFX-ztk",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:26:46Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "lửa hận hóa yêu thương - tập 13",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8p112VpGaiA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8p112VpGaiA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8p112VpGaiA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8p112VpGaiA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "8p112VpGaiA",
+                "videoPublishedAt": "2019-02-01T06:47:56Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "p6MjNUsE52OTTBdhCef5b6a_EKg",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:27:02Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "lửa hận hóa yêu thương - tập 14",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BbY-sxiGiMA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BbY-sxiGiMA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BbY-sxiGiMA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BbY-sxiGiMA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "BbY-sxiGiMA",
+                "videoPublishedAt": "2019-02-01T06:49:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "PBfCtGcYxjlZ2rgB277YO3TJLaA",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:27:09Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "lửa hận hóa yêu thương - tập 15",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/grKFV2Ujt-U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/grKFV2Ujt-U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/grKFV2Ujt-U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "grKFV2Ujt-U"
+                }
+            },
+            "contentDetails": {
+                "videoId": "grKFV2Ujt-U",
+                "videoPublishedAt": "2019-02-01T06:50:15Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4lNVhiQ8ihIbvoBVFk_G4hsVLT0",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:27:12Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "lửa hận hóa yêu thương - tập 16",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BIMitK1KhCI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BIMitK1KhCI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BIMitK1KhCI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BIMitK1KhCI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "BIMitK1KhCI",
+                "videoPublishedAt": "2019-02-01T06:51:06Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uhNoe7elRIZ7BhxR-BoCAPMccds",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:27:45Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "lửa hận hóa yêu thương - tập 17",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IR7raOnNFEs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IR7raOnNFEs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IR7raOnNFEs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "IR7raOnNFEs"
+                }
+            },
+            "contentDetails": {
+                "videoId": "IR7raOnNFEs",
+                "videoPublishedAt": "2019-02-01T06:52:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "SZL7ZrAX-7FceFwHO1y_aBConTU",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:27:49Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "lửa hận hóa yêu thương - tập 18",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WRq7DfSOvL0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WRq7DfSOvL0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WRq7DfSOvL0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WRq7DfSOvL0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "WRq7DfSOvL0",
+                "videoPublishedAt": "2019-02-01T06:53:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pHG7N4RH3OZBunI8JO9lLcZBAkw",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:27:52Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "C-PenSNCuJ8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "C-PenSNCuJ8"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uIYTPVOscRKw25nhF62byJKNEUA",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:27:55Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "lửa hận hóa yêu thương - tập 20",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/T-kAFfD06zQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/T-kAFfD06zQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/T-kAFfD06zQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "T-kAFfD06zQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "T-kAFfD06zQ",
+                "videoPublishedAt": "2019-02-01T06:56:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2kLH26YLganqUoOyDie9O1VovdU",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:27:58Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GRl9nbQBmWY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "GRl9nbQBmWY"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "n1rh1rucPgUAZJ3tT0OThskyxiU",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:28:01Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "lửa hận hóa yêu thương - tập 22",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CkLaXhVbfjE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CkLaXhVbfjE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CkLaXhVbfjE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "CkLaXhVbfjE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "CkLaXhVbfjE",
+                "videoPublishedAt": "2019-02-01T07:01:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Lv7P7m6y9_opsiqr7R2-j1WuX74",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:28:05Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "lửa hận hóa yêu thương - tập 23 có link tập 24 bên dưới",
+                "description": "Lửa hận hóa yêu thương Tập 24\nhttps://dailymotion.com/playlist/x6ie9k",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Lf7AgBZHZ44/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Lf7AgBZHZ44/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Lf7AgBZHZ44/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Lf7AgBZHZ44"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Lf7AgBZHZ44",
+                "videoPublishedAt": "2019-02-01T07:02:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MXEdwp4uHLsYJ-pIRFlKTrKrN4Y",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:28:08Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "lửa hận hóa yêu thương - tập 25",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8gfR_leWhic/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8gfR_leWhic/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8gfR_leWhic/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8gfR_leWhic"
+                }
+            },
+            "contentDetails": {
+                "videoId": "8gfR_leWhic",
+                "videoPublishedAt": "2019-02-01T07:03:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OILl0YXSYVgY3_iv9lfQYCwUFDY",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:28:11Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BnbLaU_6R8E"
+                }
+            },
+            "contentDetails": {
+                "videoId": "BnbLaU_6R8E"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "AnyD_PoRchFyjbcRIV_LkjPFb6Y",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:28:14Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "lửa hận hóa yêu thương - tập 27",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/n7UagrNQRME/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/n7UagrNQRME/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/n7UagrNQRME/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "n7UagrNQRME"
+                }
+            },
+            "contentDetails": {
+                "videoId": "n7UagrNQRME",
+                "videoPublishedAt": "2019-02-01T07:06:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "qaHYu02Jd91Q2WTnfyYIcjlkGug",
+            "id": "UExYUmpLeXUyeVhGUFlBNFlQTVR1cENiQlFNMV8wZE1Jci43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2019-03-02T07:28:17Z",
+                "channelId": "UCDtbEtjPWbkPcCT2FbMsOAw",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Thảo Lucky",
+                "playlistId": "PLXRjKyu2yXFPYA4YPMTupCbBQM1_0dMIr",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "d9LeAzyB9oM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "d9LeAzyB9oM"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 26,
+        "resultsPerPage": 50
+    }
+}

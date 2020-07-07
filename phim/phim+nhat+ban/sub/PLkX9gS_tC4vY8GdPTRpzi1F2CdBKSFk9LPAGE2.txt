@@ -1,0 +1,55 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "ZulGg82vbKT4PrcX5JygUvUmoPM",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hbG9_plrD7ejyvt6Ncwd4dsVWI4",
+            "id": "UExrWDlnU190QzR2WThHZFBUUnB6aTFGMkNkQktTRms5TC42MjYzMTMyQjA0QURCN0JF",
+            "snippet": {
+                "publishedAt": "2017-12-07T09:04:12Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Phim Hành Động Mỹ-Nhật Ký-Phim Chiếu Rạp Hay Nhất 2016",
+                "description": "Phim Hành Động Mỹ-Nhật Ký-Phim Chiếu Rạp Hay Nhất 2016\nPhim Hành Động Mỹ-Nhật Ký-Phim Chiếu Rạp Hay Nhất 2016",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PGIrvOqG7ak/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PGIrvOqG7ak/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PGIrvOqG7ak/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PGIrvOqG7ak/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vY8GdPTRpzi1F2CdBKSFk9L",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PGIrvOqG7ak"
+                }
+            },
+            "contentDetails": {
+                "videoId": "PGIrvOqG7ak",
+                "videoPublishedAt": "2016-12-03T14:28:09Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 51,
+        "resultsPerPage": 50
+    }
+}

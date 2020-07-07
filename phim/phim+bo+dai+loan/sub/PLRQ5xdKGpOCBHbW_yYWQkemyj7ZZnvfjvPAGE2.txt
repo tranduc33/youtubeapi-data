@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "HkxvGhjKWeTz6u0kix9O7DAkLAc",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "y7X7r8sEdC-JRJy_embsn6h99jM",
+            "id": "UExSUTV4ZEtHcE9DQkhiV195WVdRa2VteWo3WlpudmZqdi44QzVGQUU2QjE2NDgxM0M4",
+            "snippet": {
+                "publishedAt": "2020-05-15T05:15:36Z",
+                "channelId": "UCMyBvmz5ArsRMs21YErY1PA",
+                "title": "Cô Chị Gái Xinh Đẹp Ra Tay Giúp Em Gái Bị Hại Giữa Đêm Khuya Cực Thông Minh | Anh Có Yêu Em Không",
+                "description": "Cô Chị Gái Xinh Đẹp Ra Tay Giúp Em Gái Bị Hại Giữa Đêm Khuya Cực Thông Minh | Anh Có Yêu Em Không\n🔰 Đăng Ký Kênh: https://bit.ly/2Pfmz6R\n▶ Yêu Em Say Đắm: https://bit.ly/39NCxel\n▶ Cô Nàng Đa Cảm : https://bit.ly/3cJMZ8d\n▶ Chỉ Cần Có Em : https://bit.ly/3aKGNLF\n▶ Phía Sau Showbiz : http://bit.ly/2WfWUL8\n▶ Cám Dỗ Cuộc Đời : http://bit.ly/2NgZrAG\n▶ Nhân Tình Của Nhau: http://bit.ly/31t3qPs\n▶ Tình Yêu Thật Sự: http://bit.ly/2oRfg8V\n► Trò Chơi Gia Tài: http://bit.ly/2MClQrS\n► Phía Sau Màn Bạc: http://bit.ly/2VD6CH9\n► Tình Yêu Không Trọn Vẹn | Phim Ngôn Tình Thái Lan : https://bit.ly/2ZnJ4pP",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uT9ugccOvZU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uT9ugccOvZU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uT9ugccOvZU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uT9ugccOvZU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uT9ugccOvZU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phim Thái Tube",
+                "playlistId": "PLRQ5xdKGpOCBHbW_yYWQkemyj7ZZnvfjv",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "uT9ugccOvZU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "uT9ugccOvZU",
+                "videoPublishedAt": "2020-05-15T12:00:34Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 51,
+        "resultsPerPage": 50
+    }
+}

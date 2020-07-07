@@ -1,0 +1,99 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "SZ4WbWu4CPx2Dv-kGHfwVXid-Zg",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9BeHlAOOLBmhmpqm7K6x0vUujwY",
+            "id": "UExDdF9xdlNZYWJNWDFzc3R6Z3pFbnM3czhLaVktX0V0Yi43QzNCNkZENzIyMDY2MjZB",
+            "snippet": {
+                "publishedAt": "2017-12-07T08:59:35Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Bản Năng Thứ 2    Phim Le Hanh Dong My, Phim Hay Moi",
+                "description": "Bản Năng Thứ 2    Phim Le Hanh Dong My, Phim Hay Moi   YouTube",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Me5qtnXv8JE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Me5qtnXv8JE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Me5qtnXv8JE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMX1sstzgzEns7s8KiY-_Etb",
+                "position": 54,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Me5qtnXv8JE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Me5qtnXv8JE",
+                "videoPublishedAt": "2014-09-07T21:17:50Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9XRscR6HaEJqr_pIcuAh1_ANzE0",
+            "id": "UExDdF9xdlNZYWJNWDFzc3R6Z3pFbnM3czhLaVktX0V0Yi4yQzk4QTA5QjkzMTFFOEI1",
+            "snippet": {
+                "publishedAt": "2017-12-07T08:59:36Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Nhạc sàn- phim hành động hay Hơn 500 ngàn lượt coi :D",
+                "description": "Like Channel để có những clip hay khác. Xiexie!!!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/x81PY-9Poxc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/x81PY-9Poxc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/x81PY-9Poxc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/x81PY-9Poxc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/x81PY-9Poxc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMX1sstzgzEns7s8KiY-_Etb",
+                "position": 55,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "x81PY-9Poxc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "x81PY-9Poxc",
+                "videoPublishedAt": "2013-04-25T07:54:09Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 58,
+        "resultsPerPage": 50
+    }
+}

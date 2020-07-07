@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "_bQhZ1A229vemEgj32mrOVOEoOE",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "la3awS2U5F2Wf3ZSoKW2ULqfL_Q",
+            "id": "UExHM0xyX1RpS1lDUl9pVm12RWhQRFZaN1UtNkRTUGVGUC4xN0Y2QjVBOEI2MzQ5OUM5",
+            "snippet": {
+                "publishedAt": "2019-06-28T10:20:05Z",
+                "channelId": "UCYFknY7eX7vFn58UiT39xJw",
+                "title": "Đồ Chơi Trẻ Em Tin Siêu Còi ❤ Tin và Anh Hai đi hồ bơi với Ba, Mẹ",
+                "description": "Tin và Anh Hai đi hồ bơi với ba mẹ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YkXrHC_TL7Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YkXrHC_TL7Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YkXrHC_TL7Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YkXrHC_TL7Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YkXrHC_TL7Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Văn Toàn",
+                "playlistId": "PLG3Lr_TiKYCR_iVmvEhPDVZ7U-6DSPeFP",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YkXrHC_TL7Q"
+                }
+            },
+            "contentDetails": {
+                "videoId": "YkXrHC_TL7Q",
+                "videoPublishedAt": "2019-06-19T03:00:47Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 51,
+        "resultsPerPage": 50
+    }
+}

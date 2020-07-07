@@ -1,0 +1,870 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "lXpx5NGoDgLnfT6kU_yEVNvZEas",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "svqp56xCvekQOABQyZn6YhvYWh4",
+            "id": "UExVQWh6WENUUFI0MGh1bGNNcDUxLWp3QTNmSFhJSkRTZy41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2020-05-03T23:13:53Z",
+                "channelId": "UCufo7OwZ-oEgk1p3RMCs2Aw",
+                "title": "Vực thẳm tội lỗi tập 1( Lòng chàng sắc đá )Giang Hoa Ngô Tuyết Văn",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LzP4ROUax2M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LzP4ROUax2M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LzP4ROUax2M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phim bộ Đài Loan Xưa by IVY DU",
+                "playlistId": "PLUAhzXCTPR40hulcMp51-jwA3fHXIJDSg",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "LzP4ROUax2M"
+                }
+            },
+            "contentDetails": {
+                "videoId": "LzP4ROUax2M",
+                "videoPublishedAt": "2020-05-03T04:33:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "I9xWlUOYYkwDI6Lw5emdjrF9KiM",
+            "id": "UExVQWh6WENUUFI0MGh1bGNNcDUxLWp3QTNmSFhJSkRTZy4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2020-05-23T01:13:57Z",
+                "channelId": "UCufo7OwZ-oEgk1p3RMCs2Aw",
+                "title": "Vực thẳm tội lỗi tập 2",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/57ZgqM5XOYo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/57ZgqM5XOYo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/57ZgqM5XOYo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/57ZgqM5XOYo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phim bộ Đài Loan Xưa by IVY DU",
+                "playlistId": "PLUAhzXCTPR40hulcMp51-jwA3fHXIJDSg",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "57ZgqM5XOYo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "57ZgqM5XOYo",
+                "videoPublishedAt": "2020-05-23T01:31:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "WtIhvCDHHq0FBp3WDkIXrG4GdJk",
+            "id": "UExVQWh6WENUUFI0MGh1bGNNcDUxLWp3QTNmSFhJSkRTZy4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2020-05-23T01:14:24Z",
+                "channelId": "UCufo7OwZ-oEgk1p3RMCs2Aw",
+                "title": "Vực thẳm tôi lôi tập 3",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QyICycWjYNA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QyICycWjYNA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QyICycWjYNA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phim bộ Đài Loan Xưa by IVY DU",
+                "playlistId": "PLUAhzXCTPR40hulcMp51-jwA3fHXIJDSg",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "QyICycWjYNA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "QyICycWjYNA",
+                "videoPublishedAt": "2020-05-03T19:46:18Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jf6IEOAkubLSNHxqrY05mU4NLjY",
+            "id": "UExVQWh6WENUUFI0MGh1bGNNcDUxLWp3QTNmSFhJSkRTZy41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2020-05-23T02:48:14Z",
+                "channelId": "UCufo7OwZ-oEgk1p3RMCs2Aw",
+                "title": "Vực thẳm tội lỗi tập 4",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oLbEVOdsayI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oLbEVOdsayI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oLbEVOdsayI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oLbEVOdsayI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phim bộ Đài Loan Xưa by IVY DU",
+                "playlistId": "PLUAhzXCTPR40hulcMp51-jwA3fHXIJDSg",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "oLbEVOdsayI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "oLbEVOdsayI",
+                "videoPublishedAt": "2020-05-23T03:28:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ARBLsHt-dspwLJwvXYoGhlIK7Sg",
+            "id": "UExVQWh6WENUUFI0MGh1bGNNcDUxLWp3QTNmSFhJSkRTZy4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2020-05-23T02:55:53Z",
+                "channelId": "UCufo7OwZ-oEgk1p3RMCs2Aw",
+                "title": "Vực thẳm tội lỗi tập 5",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S6sZgmGBY6c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S6sZgmGBY6c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S6sZgmGBY6c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/S6sZgmGBY6c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phim bộ Đài Loan Xưa by IVY DU",
+                "playlistId": "PLUAhzXCTPR40hulcMp51-jwA3fHXIJDSg",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "S6sZgmGBY6c"
+                }
+            },
+            "contentDetails": {
+                "videoId": "S6sZgmGBY6c",
+                "videoPublishedAt": "2020-05-03T18:34:41Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MN2N8_An8ZZQh4j5yQGdW1mBAiU",
+            "id": "UExVQWh6WENUUFI0MGh1bGNNcDUxLWp3QTNmSFhJSkRTZy41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2020-05-23T05:01:00Z",
+                "channelId": "UCufo7OwZ-oEgk1p3RMCs2Aw",
+                "title": "Vực thẳm tội lỗi tập 6",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/diYzapzkaMU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/diYzapzkaMU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/diYzapzkaMU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/diYzapzkaMU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phim bộ Đài Loan Xưa by IVY DU",
+                "playlistId": "PLUAhzXCTPR40hulcMp51-jwA3fHXIJDSg",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "diYzapzkaMU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "diYzapzkaMU",
+                "videoPublishedAt": "2020-05-23T06:06:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "GLNuAIcmDIs-6_oUEhqmsEFY_rs",
+            "id": "UExVQWh6WENUUFI0MGh1bGNNcDUxLWp3QTNmSFhJSkRTZy5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2020-05-23T07:04:38Z",
+                "channelId": "UCufo7OwZ-oEgk1p3RMCs2Aw",
+                "title": "Vực thẳm tôi lôi tập 7",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ujrz9cOd90c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ujrz9cOd90c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ujrz9cOd90c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ujrz9cOd90c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phim bộ Đài Loan Xưa by IVY DU",
+                "playlistId": "PLUAhzXCTPR40hulcMp51-jwA3fHXIJDSg",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Ujrz9cOd90c"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Ujrz9cOd90c",
+                "videoPublishedAt": "2020-05-03T21:36:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8yliTIXVlgmSpYSVWt5ZlY2oimY",
+            "id": "UExVQWh6WENUUFI0MGh1bGNNcDUxLWp3QTNmSFhJSkRTZy45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2020-05-23T23:14:15Z",
+                "channelId": "UCufo7OwZ-oEgk1p3RMCs2Aw",
+                "title": "Vực thẳm tội lỗi tập 8",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EU9xEhQ8FCg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EU9xEhQ8FCg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EU9xEhQ8FCg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EU9xEhQ8FCg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phim bộ Đài Loan Xưa by IVY DU",
+                "playlistId": "PLUAhzXCTPR40hulcMp51-jwA3fHXIJDSg",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EU9xEhQ8FCg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "EU9xEhQ8FCg",
+                "videoPublishedAt": "2020-05-23T23:10:54Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8vhfGljPT1x8YHYl3RzIH_1VZwY",
+            "id": "UExVQWh6WENUUFI0MGh1bGNNcDUxLWp3QTNmSFhJSkRTZy5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2020-05-23T23:14:45Z",
+                "channelId": "UCufo7OwZ-oEgk1p3RMCs2Aw",
+                "title": "Vực thẳm tội lỗi tập 9",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oVGkPSc6KZY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oVGkPSc6KZY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oVGkPSc6KZY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phim bộ Đài Loan Xưa by IVY DU",
+                "playlistId": "PLUAhzXCTPR40hulcMp51-jwA3fHXIJDSg",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "oVGkPSc6KZY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "oVGkPSc6KZY",
+                "videoPublishedAt": "2020-05-08T19:06:59Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "AUYzG_kX0JCjTlkjr3XkFdNb52M",
+            "id": "UExVQWh6WENUUFI0MGh1bGNNcDUxLWp3QTNmSFhJSkRTZy40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2020-05-24T02:12:44Z",
+                "channelId": "UCufo7OwZ-oEgk1p3RMCs2Aw",
+                "title": "Vực thẳm tội lỗi tập 10",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6JPMALuoDtY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6JPMALuoDtY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6JPMALuoDtY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6JPMALuoDtY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phim bộ Đài Loan Xưa by IVY DU",
+                "playlistId": "PLUAhzXCTPR40hulcMp51-jwA3fHXIJDSg",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6JPMALuoDtY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "6JPMALuoDtY",
+                "videoPublishedAt": "2020-05-23T23:30:54Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "61jWXiKEiOZWteZX55KNUTAYPB4",
+            "id": "UExVQWh6WENUUFI0MGh1bGNNcDUxLWp3QTNmSFhJSkRTZy5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2020-05-24T02:13:10Z",
+                "channelId": "UCufo7OwZ-oEgk1p3RMCs2Aw",
+                "title": "Vực thẳm tội lỗi tập 11",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wB4mj_1U_Yo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wB4mj_1U_Yo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wB4mj_1U_Yo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wB4mj_1U_Yo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phim bộ Đài Loan Xưa by IVY DU",
+                "playlistId": "PLUAhzXCTPR40hulcMp51-jwA3fHXIJDSg",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "wB4mj_1U_Yo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "wB4mj_1U_Yo",
+                "videoPublishedAt": "2020-05-09T18:05:48Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6PJQKu7Z0AltpY2hMPhACnhGszE",
+            "id": "UExVQWh6WENUUFI0MGh1bGNNcDUxLWp3QTNmSFhJSkRTZy45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2020-05-24T06:05:43Z",
+                "channelId": "UCufo7OwZ-oEgk1p3RMCs2Aw",
+                "title": "Vực thẳm tội lỗi tập 12",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uJjx_grp450/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uJjx_grp450/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uJjx_grp450/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uJjx_grp450/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phim bộ Đài Loan Xưa by IVY DU",
+                "playlistId": "PLUAhzXCTPR40hulcMp51-jwA3fHXIJDSg",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "uJjx_grp450"
+                }
+            },
+            "contentDetails": {
+                "videoId": "uJjx_grp450",
+                "videoPublishedAt": "2020-05-24T05:04:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Vxov99QGFk6daWhsdzYUp1mM3XA",
+            "id": "UExVQWh6WENUUFI0MGh1bGNNcDUxLWp3QTNmSFhJSkRTZy4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2020-05-24T06:06:22Z",
+                "channelId": "UCufo7OwZ-oEgk1p3RMCs2Aw",
+                "title": "Vực thẳm tội lỗi tập 13",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2yACK4ptFXU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2yACK4ptFXU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2yACK4ptFXU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2yACK4ptFXU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phim bộ Đài Loan Xưa by IVY DU",
+                "playlistId": "PLUAhzXCTPR40hulcMp51-jwA3fHXIJDSg",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2yACK4ptFXU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "2yACK4ptFXU",
+                "videoPublishedAt": "2020-05-10T00:42:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "r-fQLYLZVKPVG4K2NgC1BujPj14",
+            "id": "UExVQWh6WENUUFI0MGh1bGNNcDUxLWp3QTNmSFhJSkRTZy5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2020-05-24T17:39:14Z",
+                "channelId": "UCufo7OwZ-oEgk1p3RMCs2Aw",
+                "title": "vuc tham toi loi tap 14",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tQuocarZ_oc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tQuocarZ_oc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tQuocarZ_oc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tQuocarZ_oc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phim bộ Đài Loan Xưa by IVY DU",
+                "playlistId": "PLUAhzXCTPR40hulcMp51-jwA3fHXIJDSg",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "tQuocarZ_oc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "tQuocarZ_oc",
+                "videoPublishedAt": "2020-05-24T06:42:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "PxmtgvvM7GjCQUi9mMIYtXcbPTg",
+            "id": "UExVQWh6WENUUFI0MGh1bGNNcDUxLWp3QTNmSFhJSkRTZy41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2020-05-24T17:40:11Z",
+                "channelId": "UCufo7OwZ-oEgk1p3RMCs2Aw",
+                "title": "Vực thẳm tội lỗi tập 15",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kJ5yfPe-_1g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kJ5yfPe-_1g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kJ5yfPe-_1g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phim bộ Đài Loan Xưa by IVY DU",
+                "playlistId": "PLUAhzXCTPR40hulcMp51-jwA3fHXIJDSg",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kJ5yfPe-_1g"
+                }
+            },
+            "contentDetails": {
+                "videoId": "kJ5yfPe-_1g",
+                "videoPublishedAt": "2020-05-15T01:26:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Y5hCs3EpG0ExbhyuRUKsPpP8a2U",
+            "id": "UExVQWh6WENUUFI0MGh1bGNNcDUxLWp3QTNmSFhJSkRTZy4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2020-05-24T18:00:58Z",
+                "channelId": "UCufo7OwZ-oEgk1p3RMCs2Aw",
+                "title": "vuc tham toi loi tap 16",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S6Vrwhcy0ak/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S6Vrwhcy0ak/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S6Vrwhcy0ak/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/S6Vrwhcy0ak/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phim bộ Đài Loan Xưa by IVY DU",
+                "playlistId": "PLUAhzXCTPR40hulcMp51-jwA3fHXIJDSg",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "S6Vrwhcy0ak"
+                }
+            },
+            "contentDetails": {
+                "videoId": "S6Vrwhcy0ak",
+                "videoPublishedAt": "2020-05-24T18:59:41Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "WWbwdBJCy3CFQ1Gjnu2sV5auuv4",
+            "id": "UExVQWh6WENUUFI0MGh1bGNNcDUxLWp3QTNmSFhJSkRTZy45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2020-05-24T19:05:00Z",
+                "channelId": "UCufo7OwZ-oEgk1p3RMCs2Aw",
+                "title": "Vực thẳm tội lỗi tập 17",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pFewcqWPPZ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pFewcqWPPZ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pFewcqWPPZ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pFewcqWPPZ4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phim bộ Đài Loan Xưa by IVY DU",
+                "playlistId": "PLUAhzXCTPR40hulcMp51-jwA3fHXIJDSg",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "pFewcqWPPZ4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "pFewcqWPPZ4",
+                "videoPublishedAt": "2020-05-18T21:20:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fcO19Ldvz8VD8DqWUrVoMClnGNA",
+            "id": "UExVQWh6WENUUFI0MGh1bGNNcDUxLWp3QTNmSFhJSkRTZy5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2020-05-24T22:52:47Z",
+                "channelId": "UCufo7OwZ-oEgk1p3RMCs2Aw",
+                "title": "vuc tham toi loi 18",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DbwDw6nF_6E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DbwDw6nF_6E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DbwDw6nF_6E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DbwDw6nF_6E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phim bộ Đài Loan Xưa by IVY DU",
+                "playlistId": "PLUAhzXCTPR40hulcMp51-jwA3fHXIJDSg",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DbwDw6nF_6E"
+                }
+            },
+            "contentDetails": {
+                "videoId": "DbwDw6nF_6E",
+                "videoPublishedAt": "2020-05-24T21:52:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Yp7sewfJVeu5lz67nILUvFVwAlA",
+            "id": "UExVQWh6WENUUFI0MGh1bGNNcDUxLWp3QTNmSFhJSkRTZy4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2020-05-24T22:53:20Z",
+                "channelId": "UCufo7OwZ-oEgk1p3RMCs2Aw",
+                "title": "Vực thẳm tội lỗi tập 19",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JJq6KPmwsGc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JJq6KPmwsGc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JJq6KPmwsGc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JJq6KPmwsGc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phim bộ Đài Loan Xưa by IVY DU",
+                "playlistId": "PLUAhzXCTPR40hulcMp51-jwA3fHXIJDSg",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "JJq6KPmwsGc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "JJq6KPmwsGc",
+                "videoPublishedAt": "2020-05-19T03:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "svkAap7Mt6Cv802Z29bWTtz5ne8",
+            "id": "UExVQWh6WENUUFI0MGh1bGNNcDUxLWp3QTNmSFhJSkRTZy5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2020-05-24T22:53:49Z",
+                "channelId": "UCufo7OwZ-oEgk1p3RMCs2Aw",
+                "title": "Vực thẳm tội lỗi tập 20 END",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/f_o6XQBFj0Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/f_o6XQBFj0Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/f_o6XQBFj0Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/f_o6XQBFj0Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phim bộ Đài Loan Xưa by IVY DU",
+                "playlistId": "PLUAhzXCTPR40hulcMp51-jwA3fHXIJDSg",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "f_o6XQBFj0Y"
+                }
+            },
+            "contentDetails": {
+                "videoId": "f_o6XQBFj0Y",
+                "videoPublishedAt": "2020-05-22T16:32:47Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 20,
+        "resultsPerPage": 50
+    }
+}

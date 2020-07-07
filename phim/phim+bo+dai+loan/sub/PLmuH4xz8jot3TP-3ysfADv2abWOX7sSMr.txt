@@ -1,0 +1,588 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "yvzcjClGo3Eu50S3muu7Yl2Kjd4",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rsElyDAOoNqFYwWwQ0UBvK95RhI",
+            "id": "UExtdUg0eHo4am90M1RQLTN5c2ZBRHYyYWJXT1g3c1NNci41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2020-06-11T14:35:50Z",
+                "channelId": "UCkOyiGueo6Qj-4BTfwvHiBA",
+                "title": "CDFFASo 1591769617",
+                "description": "SDF ÁDASDASD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sgNXWvO88Wc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sgNXWvO88Wc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sgNXWvO88Wc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Madisyn Bradley",
+                "playlistId": "PLmuH4xz8jot3TP-3ysfADv2abWOX7sSMr",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sgNXWvO88Wc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "sgNXWvO88Wc",
+                "videoPublishedAt": "2020-06-10T06:15:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zJgPGl1wlEO5dMoGGP9FcQMwgr0",
+            "id": "UExtdUg0eHo4am90M1RQLTN5c2ZBRHYyYWJXT1g3c1NNci45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2020-06-14T00:54:50Z",
+                "channelId": "UCkOyiGueo6Qj-4BTfwvHiBA",
+                "title": "Nhử gà nước (cúm núm.gà đồng) với file chuẩn.bổi về quá nhanh",
+                "description": "Ae xem đăng kí ủng hộ kênh để xem thêm nhiều video hấp dẫn tiếp theo.cảm ơn ae nhiều....",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X7lXrjGD67E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X7lXrjGD67E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X7lXrjGD67E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/X7lXrjGD67E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/X7lXrjGD67E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Madisyn Bradley",
+                "playlistId": "PLmuH4xz8jot3TP-3ysfADv2abWOX7sSMr",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "X7lXrjGD67E"
+                }
+            },
+            "contentDetails": {
+                "videoId": "X7lXrjGD67E",
+                "videoPublishedAt": "2020-06-11T14:01:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tcDd3Uw0MsvoXVmtynDXW9Edl9M",
+            "id": "UExtdUg0eHo4am90M1RQLTN5c2ZBRHYyYWJXT1g3c1NNci5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2020-06-13T16:29:22Z",
+                "channelId": "UCkOyiGueo6Qj-4BTfwvHiBA",
+                "title": "Nhử gà nước (cúm núm.gà đồng) với file chuẩn.bổi về quá nhanh",
+                "description": "Ae xem đăng kí ủng hộ kênh để xem thêm nhiều video hấp dẫn tiếp theo.cảm ơn ae nhiều....",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X7lXrjGD67E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X7lXrjGD67E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X7lXrjGD67E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/X7lXrjGD67E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/X7lXrjGD67E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Madisyn Bradley",
+                "playlistId": "PLmuH4xz8jot3TP-3ysfADv2abWOX7sSMr",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "X7lXrjGD67E"
+                }
+            },
+            "contentDetails": {
+                "videoId": "X7lXrjGD67E",
+                "videoPublishedAt": "2020-06-11T14:01:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uQLJz2g5DJNk-YjknAkSicqdrw8",
+            "id": "UExtdUg0eHo4am90M1RQLTN5c2ZBRHYyYWJXT1g3c1NNci40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2020-06-12T05:12:21Z",
+                "channelId": "UCkOyiGueo6Qj-4BTfwvHiBA",
+                "title": "IJ x Ledzi x AR - BASIC (Official Lyric Video)",
+                "description": "Stream Here: https://ditto.fm/basic-ijledzi-ar\n\nConnect with artist:\n📸Instagram: \nIJ - http://bit.ly/2MrN5qp\nLedzi - http://bit.ly/IG_Ledzi\nAR - \n\n🎹Instrumental: GroveBeatsz\n📀Mix/Master: Alizie | New Wave REC.\n🎥Video: Alizie\n\nFollow our Spotify Playlist: https://sptfy.com/8XGR\n\n© ℗ 2020 New Wave Records - All Rights Reserved\nhttp://newwaverecords.net",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/47lR9fUTDLA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/47lR9fUTDLA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/47lR9fUTDLA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/47lR9fUTDLA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/47lR9fUTDLA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Madisyn Bradley",
+                "playlistId": "PLmuH4xz8jot3TP-3ysfADv2abWOX7sSMr",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "47lR9fUTDLA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "47lR9fUTDLA",
+                "videoPublishedAt": "2020-06-10T16:17:33Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "26qrbl0EoZyEkl0KC0apDdslUKQ",
+            "id": "UExtdUg0eHo4am90M1RQLTN5c2ZBRHYyYWJXT1g3c1NNci4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2020-06-11T14:35:51Z",
+                "channelId": "UCkOyiGueo6Qj-4BTfwvHiBA",
+                "title": "IJ x Ledzi x AR - BASIC (Official Lyric Video)",
+                "description": "Stream Here: https://ditto.fm/basic-ijledzi-ar\n\nConnect with artist:\n📸Instagram: \nIJ - http://bit.ly/2MrN5qp\nLedzi - http://bit.ly/IG_Ledzi\nAR - \n\n🎹Instrumental: GroveBeatsz\n📀Mix/Master: Alizie | New Wave REC.\n🎥Video: Alizie\n\nFollow our Spotify Playlist: https://sptfy.com/8XGR\n\n© ℗ 2020 New Wave Records - All Rights Reserved\nhttp://newwaverecords.net",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/47lR9fUTDLA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/47lR9fUTDLA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/47lR9fUTDLA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/47lR9fUTDLA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/47lR9fUTDLA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Madisyn Bradley",
+                "playlistId": "PLmuH4xz8jot3TP-3ysfADv2abWOX7sSMr",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "47lR9fUTDLA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "47lR9fUTDLA",
+                "videoPublishedAt": "2020-06-10T16:17:33Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pbd7NpOhuhORPF-CAw8CXeqOXgE",
+            "id": "UExtdUg0eHo4am90M1RQLTN5c2ZBRHYyYWJXT1g3c1NNci41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2020-06-11T14:35:52Z",
+                "channelId": "UCkOyiGueo6Qj-4BTfwvHiBA",
+                "title": "Phim Bộ Hàn Quốc Mới Nhất 2020 | DÙ GHÉT VẪN YÊU - Tập 11 |  Phim Tâm Lý Tình Cảm Hay Nhất 2020",
+                "description": "Phim Bộ Hàn Quốc Mới Nhất 2020 | DÙ GHÉT VẪN YÊU - Tập 11 |  Phim Tâm Lý Tình Cảm Hay Nhất 2020\n\n👉 Xem Nhiều Phim Hay tại : http://metub.net/sieuthifilm\n\n👉 Trọn bộ Dù Ghét Vẫn Yêu : https://bitly.com.vn/UYnkX\n\n👉 Trọn bộ ĐÃ LÂU KHÔNG GẶP : https://bitly.com.vn/kHDcb\n\n👉 Trọn bộ BỐ MẸ TRẺ : https://bitly.com.vn/MxSBz\n\n\n\nTiêu Đề Phim :  Dù Ghét Vẫn Yêu\nSố Tập : 120 Tập\nDiễn Viên : Han Hye Rin, Lee Dong Ha, Lee Sung Yeol, Pyo Ye Jin,\nĐạo Diễn : Park Ki Ho\n\nNội Dung : Phim  xoay quanh cuộc sống và công việc của cô gái Gil Eun-jo. Là một cô gái bướng nhỉnh và đa cảm, Eun-jo luôn có ấn tượng không tốt với mẹ kế mặc dù bà đối xử với cô giống như con gái ruột của mình. Nhưng sau khi cha qua đời, và không còn mẹ kế bên cạnh, Eun-jo mới cảm nhận được sự quan trọng của gia đình. Từ đó, cô bắt đầu với một cuộc sống mới và đi tìm hạnh phúc thực sự của bản thân. Hong Seok-Pyo, anh lớn lên mà không biết tình yêu của mẹ vì bố mẹ anh luôn bận rộn với công việc. Nhờ mẹ là người sáng lập Genius Cosmetics nên Seok-Pyo được tiếp nhận vị trí CEO của công ty, đồng thời trở thành cổ đông lớn nhất. Và tình cờ, hai con người một số phận gặp được nhau, họ nhanh chóng mang đến những cảm giác đặc biệt với đối phương.\n\n#sieuthifilm #dughetvanyeu #chammatdinhmenh #phimhay2020 #phimmoi2020 #phimchieurap #phimbo #phimcotrang #phimbohanquoc #phimbohanquoc #phimhanquocmoinhat2020 #phimhan",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6jdWf0W586k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6jdWf0W586k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6jdWf0W586k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6jdWf0W586k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6jdWf0W586k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Madisyn Bradley",
+                "playlistId": "PLmuH4xz8jot3TP-3ysfADv2abWOX7sSMr",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6jdWf0W586k"
+                }
+            },
+            "contentDetails": {
+                "videoId": "6jdWf0W586k",
+                "videoPublishedAt": "2020-06-11T05:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "umUUbM6_JmQr0wleb5WTQgG8Vhw",
+            "id": "UExtdUg0eHo4am90M1RQLTN5c2ZBRHYyYWJXT1g3c1NNci4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2020-06-11T14:35:53Z",
+                "channelId": "UCkOyiGueo6Qj-4BTfwvHiBA",
+                "title": "[Sexy] Phim tình cảm 18 + Trung Quốc hay nhất,tâm lý tình cảm dành cho người lớn.(Trích đoạn)",
+                "description": "Phim tình cảm 18 + Trung Quốc hay nhất\nTrích đoạn tình cảm 18 + hơi sex của phim \" trời xanh đổ lệ \" .Phim tâm lý tình cảm này của Đài Loan làm khá hay.Diễn viên lại xinh quá.\nChúc các bạn xem Film vui vẻ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G1NAXPs7MW0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G1NAXPs7MW0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G1NAXPs7MW0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/G1NAXPs7MW0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/G1NAXPs7MW0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Madisyn Bradley",
+                "playlistId": "PLmuH4xz8jot3TP-3ysfADv2abWOX7sSMr",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "G1NAXPs7MW0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "G1NAXPs7MW0",
+                "videoPublishedAt": "2020-04-13T05:56:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "z4hQ9hXwn94y6aD7fxjVjzHaLbA",
+            "id": "UExtdUg0eHo4am90M1RQLTN5c2ZBRHYyYWJXT1g3c1NNci4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2020-06-11T14:35:54Z",
+                "channelId": "UCkOyiGueo6Qj-4BTfwvHiBA",
+                "title": "Phim Bộ Tình Cảm Tâm Lý Đài Loan Mới Hay Nhất 2020 (Thuyết Minh ) - HOA VƯƠN GIỮA TRỜI - TẬP 103",
+                "description": "Phim Bộ Tình Cảm Tâm Lý Đài Loan Mới Hay Nhất 2020 (Thuyết Minh ) - HOA VƯƠN GIỮA TRỜI - TẬP 103\nTheo dõi Trọn Bộ \"  HOA VƯƠN GIỮA TRỜI \" :  https://bit.ly/HOA-VUON\nĐăng Kí Theo Dõi \" Li1 Movies \" để nhận được những bộ phim mới nhất: http://bit.ly/2SYsCLa\n\nPhim \"HOA VƯƠN GIỮA TRỜI \" là một trong những Bộ Tình Cảm , Tâm Lý Đài Loan, TVB Trung Quốc hay nhất , mới nhất 2020 mà các ngôi sao của màn ảnh của Hoa Ngữ Trung Quốc mang đến quý khán giả Trung Quốc , Việt Nam và toàn Châu Á. Bộ phim đã đạt được những thành công rực rỡ trong làng phim tình cảm, tâm lý  tại Đài Loan, Trung Quốc , TVB và toàn quốc tế,  \" Li1 Movies  \" rất hân hạnh mang lại bộ phim \" Hoa Vươn Giữa Trời \"  bản Thuyết Minh Lồng Tiếng đến với các những khán giả nhiệt thành của Việt Nam. Chúc các bạn xem phim vui vẻ. Chào Thân ái!\n\nTóm Tắt Nội Dung Phim :\n\nTrước những năm 1980, Đài Loan bắt đầu xây dựng  khoảng 10 công trình kiến trúc trong lúc nền kinh tế bắt đầu cất cánh. Trong thời kỳ hỗn loạn này, Đài Loan chứng kiến bao sự thay đổi sâu sắc khi nền kinh tế chuyển từ nông nghiệp lên giai đoạn phát triển công nghiệp sau biến đổi chính trị với Trung Quốc. Cũng trong thời kì này, mối quan hệ ngoại giao giữa Trung Quốc và Mỹ được cải thiện đáng kể, quân đội Mỹ rút hết quân về nước, Đài Loan dần trở thành một đất nước hòa bình, an cư. Nhưng đặc biệt, bộ phim “ Hoa Vươn Giữa Trời  ” đã khắc họa hình ảnh chân thực của người dân của vùng đất này với những công việc nặng máu, mồ hôi, sự nóng bức và ánh sáng hội nhập.\nNhân vật chính trong bộ phim là là một cô gái nhỏ bé , dù được sinh ra trong khoảng thời Đài Loan đi vào ổn định nhưng số phận của cô lại gặp phải những trắc trở không ngờ. Được phát hiện trong một căn nhà bị bỏ hoang, cô bị mọi người xem là cô gái ba không: Không xinh đẹp, không gia đình và không có tiền bạc.\nNhan đề bộ phim “ Hoa Vươn Giữa Trời ”, là lời động viên cũng như mong muốn từ những người thực hiện. Khi theo dõi bộ phim này, khán giả sẽ thấy hình ảnh của chính mình bên trong nhân vật, để rồi dù gặp phải những khó khăn vẫn luôn đủ lạc quan, đủ khả năng mà tự mình đứng dậy. \" Hoa Vươn Giữa Trời \" xứng đáng là một những bộ phim tình cảm , tâm lý mà Đài Loan , TVB Trung Quốc hợp tác sản xuất hay nhất cùa thập kỉ 2020.\n\n© Bản quyền thuộc về Li1 Movies \n© Copyright by Li1 Movies   ❌ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s4p392ml3ek/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s4p392ml3ek/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s4p392ml3ek/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/s4p392ml3ek/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/s4p392ml3ek/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Madisyn Bradley",
+                "playlistId": "PLmuH4xz8jot3TP-3ysfADv2abWOX7sSMr",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "s4p392ml3ek"
+                }
+            },
+            "contentDetails": {
+                "videoId": "s4p392ml3ek",
+                "videoPublishedAt": "2020-06-11T12:30:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UWsZIxJMCDlKrumAxW39n0Qxkvk",
+            "id": "UExtdUg0eHo4am90M1RQLTN5c2ZBRHYyYWJXT1g3c1NNci41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2020-06-11T14:35:55Z",
+                "channelId": "UCkOyiGueo6Qj-4BTfwvHiBA",
+                "title": "Nỗi Khổ Lấy Chồng Già - Tập 1 | Phim Tình Cảm Việt Nam Mới Hay Nhất 2020",
+                "description": "Nỗi Khổ Lấy Chồng Già - Tập 1 | Phim Tình Cảm Việt Nam Mới Hay Nhất 2020\nNỗi Khổ Lấy Chồng già Full Bộ : https://bit.ly/336pMsy\nPhim hai hoai linh 2019: https://goo.gl/QEoJgq\nphim việt nam mới nhất: https://goo.gl/Mr2Pk2\nĐăng ký xem phim hài tết 2018: https://goo.gl/QEoJgq",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Zo47cxB2IIg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Zo47cxB2IIg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Zo47cxB2IIg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Zo47cxB2IIg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Zo47cxB2IIg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Madisyn Bradley",
+                "playlistId": "PLmuH4xz8jot3TP-3ysfADv2abWOX7sSMr",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Zo47cxB2IIg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Zo47cxB2IIg",
+                "videoPublishedAt": "2020-03-12T04:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "K5DisGgT5FPfI1P8lNUJ0ylbfw8",
+            "id": "UExtdUg0eHo4am90M1RQLTN5c2ZBRHYyYWJXT1g3c1NNci5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2020-06-11T14:35:55Z",
+                "channelId": "UCkOyiGueo6Qj-4BTfwvHiBA",
+                "title": "Cô Giáo Quyến Rũ 2020  - Phim Tình Cảm Nóng Bỏng Không Thể Bỏ Qua - Phim Mỹ Thuyết Minh 2020",
+                "description": "Cô Giáo Quyến Rũ 2020  - Phim Tình Cảm Nóng Bỏng Không Thể Bỏ Qua - Phim Mỹ Thuyết Minh 2020\n\nLucy Sherrington, một giáo viên nghệ thuật xinh đẹp luôn được mọi nam giới mà cô biết mê mẩn theo đuổi từ học sinh đến cả hiệu trưởng trường trung học. Lucy từ chối họ vì cô đang dự định ngoại tình với huấn luyện viên bóng đá trường trung học đã kết hôn, Clint Coburn. Để trấn an Lucy, người đang nghi ngờ về mối quan hệ của họ, Clint thề sẽ không quan hệ tình dục với cô cho đến khi cô nói với anh rằng cô yêu anh. Lucy miễn cưỡng nói với anh rằng cô yêu anh, tuy nhiên ngay sau khi một lỗ đen mở ra trên sàn phòng khách của Lucy hút mất Clint.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gjHK_Yh3tXg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gjHK_Yh3tXg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gjHK_Yh3tXg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gjHK_Yh3tXg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gjHK_Yh3tXg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Madisyn Bradley",
+                "playlistId": "PLmuH4xz8jot3TP-3ysfADv2abWOX7sSMr",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "gjHK_Yh3tXg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "gjHK_Yh3tXg",
+                "videoPublishedAt": "2019-08-19T11:57:48Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HTSv3ZfIRmF0hTmvzElOx-GMDE8",
+            "id": "UExtdUg0eHo4am90M1RQLTN5c2ZBRHYyYWJXT1g3c1NNci45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2020-06-11T14:35:56Z",
+                "channelId": "UCkOyiGueo6Qj-4BTfwvHiBA",
+                "title": "Phim Bộ Tình Cảm Tâm Lý Đài Loan Mới Hay Nhất 2020 (Thuyết Minh ) - HOA VƯƠN GIỮA TRỜI - TẬP 102",
+                "description": "Phim Bộ Tình Cảm Tâm Lý Đài Loan Mới Hay Nhất 2020 (Thuyết Minh ) - HOA VƯƠN GIỮA TRỜI - TẬP 102\nTheo dõi Trọn Bộ \"  HOA VƯƠN GIỮA TRỜI \" :  https://bit.ly/HOA-VUON\nĐăng Kí Theo Dõi \" Li1 Movies \" để nhận được những bộ phim mới nhất: http://bit.ly/2SYsCLa\n\nPhim \"HOA VƯƠN GIỮA TRỜI \" là một trong những Bộ Tình Cảm , Tâm Lý Đài Loan, TVB Trung Quốc hay nhất , mới nhất 2020 mà các ngôi sao của màn ảnh của Hoa Ngữ Trung Quốc mang đến quý khán giả Trung Quốc , Việt Nam và toàn Châu Á. Bộ phim đã đạt được những thành công rực rỡ trong làng phim tình cảm, tâm lý  tại Đài Loan, Trung Quốc , TVB và toàn quốc tế,  \" Li1 Movies  \" rất hân hạnh mang lại bộ phim \" Hoa Vươn Giữa Trời \"  bản Thuyết Minh Lồng Tiếng đến với các những khán giả nhiệt thành của Việt Nam. Chúc các bạn xem phim vui vẻ. Chào Thân ái!\n\nTóm Tắt Nội Dung Phim :\n\nTrước những năm 1980, Đài Loan bắt đầu xây dựng  khoảng 10 công trình kiến trúc trong lúc nền kinh tế bắt đầu cất cánh. Trong thời kỳ hỗn loạn này, Đài Loan chứng kiến bao sự thay đổi sâu sắc khi nền kinh tế chuyển từ nông nghiệp lên giai đoạn phát triển công nghiệp sau biến đổi chính trị với Trung Quốc. Cũng trong thời kì này, mối quan hệ ngoại giao giữa Trung Quốc và Mỹ được cải thiện đáng kể, quân đội Mỹ rút hết quân về nước, Đài Loan dần trở thành một đất nước hòa bình, an cư. Nhưng đặc biệt, bộ phim “ Hoa Vươn Giữa Trời  ” đã khắc họa hình ảnh chân thực của người dân của vùng đất này với những công việc nặng máu, mồ hôi, sự nóng bức và ánh sáng hội nhập.\nNhân vật chính trong bộ phim là là một cô gái nhỏ bé , dù được sinh ra trong khoảng thời Đài Loan đi vào ổn định nhưng số phận của cô lại gặp phải những trắc trở không ngờ. Được phát hiện trong một căn nhà bị bỏ hoang, cô bị mọi người xem là cô gái ba không: Không xinh đẹp, không gia đình và không có tiền bạc.\nNhan đề bộ phim “ Hoa Vươn Giữa Trời ”, là lời động viên cũng như mong muốn từ những người thực hiện. Khi theo dõi bộ phim này, khán giả sẽ thấy hình ảnh của chính mình bên trong nhân vật, để rồi dù gặp phải những khó khăn vẫn luôn đủ lạc quan, đủ khả năng mà tự mình đứng dậy. \" Hoa Vươn Giữa Trời \" xứng đáng là một những bộ phim tình cảm , tâm lý mà Đài Loan , TVB Trung Quốc hợp tác sản xuất hay nhất cùa thập kỉ 2020.\n\n© Bản quyền thuộc về Li1 Movies \n© Copyright by Li1 Movies   ❌ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E7aDVe_LjDk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E7aDVe_LjDk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E7aDVe_LjDk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/E7aDVe_LjDk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/E7aDVe_LjDk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Madisyn Bradley",
+                "playlistId": "PLmuH4xz8jot3TP-3ysfADv2abWOX7sSMr",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "E7aDVe_LjDk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "E7aDVe_LjDk",
+                "videoPublishedAt": "2020-06-11T11:30:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Jiza6Gc78tjrVg2D6BmWQkv_mJs",
+            "id": "UExtdUg0eHo4am90M1RQLTN5c2ZBRHYyYWJXT1g3c1NNci5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2020-06-11T14:35:57Z",
+                "channelId": "UCkOyiGueo6Qj-4BTfwvHiBA",
+                "title": "Phim Bộ Hàn Quốc Mới Nhất 2020 | Phim Tâm Lý Tình Cảm Hay Nhất 2020 | DÙ GHÉT VẪN YÊU - Tập 1-5",
+                "description": "Phim Bộ Hàn Quốc Mới Nhất 2020 | Phim Tâm Lý Tình Cảm Hay Nhất 2020 | DÙ GHÉT VẪN YÊU - Tập 1-5\n\n👉 Xem Nhiều Phim Hay tại : http://metub.net/sieuthifilm\n\n👉 Trọn bộ Dù Ghét Vẫn Yêu : https://bitly.com.vn/UYnkX\n\n👉 Trọn bộ ĐÃ LÂU KHÔNG GẶP : https://bitly.com.vn/kHDcb\n\n👉 Trọn bộ BỐ MẸ TRẺ : https://bitly.com.vn/MxSBz\n\n\n\nTiêu Đề Phim :  Dù Ghét Vẫn Yêu\nSố Tập : 120 Tập\nDiễn Viên : Han Hye Rin, Lee Dong Ha, Lee Sung Yeol, Pyo Ye Jin,\nĐạo Diễn : Park Ki Ho\n\nNội Dung : Phim  xoay quanh cuộc sống và công việc của cô gái Gil Eun-jo. Là một cô gái bướng nhỉnh và đa cảm, Eun-jo luôn có ấn tượng không tốt với mẹ kế mặc dù bà đối xử với cô giống như con gái ruột của mình. Nhưng sau khi cha qua đời, và không còn mẹ kế bên cạnh, Eun-jo mới cảm nhận được sự quan trọng của gia đình. Từ đó, cô bắt đầu với một cuộc sống mới và đi tìm hạnh phúc thực sự của bản thân. Hong Seok-Pyo, anh lớn lên mà không biết tình yêu của mẹ vì bố mẹ anh luôn bận rộn với công việc. Nhờ mẹ là người sáng lập Genius Cosmetics nên Seok-Pyo được tiếp nhận vị trí CEO của công ty, đồng thời trở thành cổ đông lớn nhất. Và tình cờ, hai con người một số phận gặp được nhau, họ nhanh chóng mang đến những cảm giác đặc biệt với đối phương.\n\n#sieuthifilm #dughetvanyeu #phim #phimhay2020 #phimmoi2020 #phimchieurap #phimbo #phimcotrang #phimbohanquoc #phimbohanquoc",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gRfCVLJ7aB0/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gRfCVLJ7aB0/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gRfCVLJ7aB0/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gRfCVLJ7aB0/sddefault_live.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gRfCVLJ7aB0/maxresdefault_live.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Madisyn Bradley",
+                "playlistId": "PLmuH4xz8jot3TP-3ysfADv2abWOX7sSMr",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "gRfCVLJ7aB0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "gRfCVLJ7aB0",
+                "videoPublishedAt": "2020-06-07T05:32:48Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 12,
+        "resultsPerPage": 50
+    }
+}

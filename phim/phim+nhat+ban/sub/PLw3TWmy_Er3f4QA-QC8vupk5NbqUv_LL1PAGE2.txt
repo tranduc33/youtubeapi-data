@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "Szl0NUKOtqGK1GFQ1IdW_LSa4C8",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wJmMdbn-nK-2gtO_b7S98r83JkU",
+            "id": "UEx3M1RXbXlfRXIzZjRRQS1RQzh2dXBrNU5icVV2X0xMMS43QzNCNkZENzIyMDY2MjZB",
+            "snippet": {
+                "publishedAt": "2017-12-12T03:19:45Z",
+                "channelId": "UCOtZzqaWX6NRgCnParRjMuA",
+                "title": "Trailer Phim Iron Man II (Người Sắt 2) [HD] - 3dboxvn",
+                "description": "Iron Man 2: Phần hai của phim Người Sắt nối tiếp câu chuyện của phần 1, bắt đầu bằng việc thân phận người sắt của Tony Stark bị lộ ra ngoài công chúng. Trong phần hai  Người sắt Stark bắt đầu cuộc chiến chống lại sự trả thù của kẻ thù người Nga, Whiplash, và đối thủ cạnh tranh Justin Hammer. Phần hai còn có sự tham gia của Scarlett Johnansson với vai trò là điệp viên xinh đẹp người Nga Black Widow.\nCùng với việc được thế giới biết đến là siêu anh hùng Người Sắt, nhà phát minh tỷ phú Tony Stark (Robert Downey Jr.) phải đối mặt với áp lực từ chính phủ, báo chí và công chúng về việc chia sẻ công nghệ của mình với quân đội. Không chấp nhận việc phát minh của mình phải ra đi, Người sắt Stark, cùng với Pepper Potts (Gwyneth Paltrow) và James \"Rhodey\" Rhodes (Don Cheadle) phải thành lập một liên minh mới để đương đầu với kẻ thù rất mạnh ngoài kia.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZWB29aTYJS0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZWB29aTYJS0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZWB29aTYJS0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZWB29aTYJS0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZWB29aTYJS0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Bui Khoa",
+                "playlistId": "PLw3TWmy_Er3f4QA-QC8vupk5NbqUv_LL1",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZWB29aTYJS0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "ZWB29aTYJS0",
+                "videoPublishedAt": "2012-08-28T06:27:39Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 51,
+        "resultsPerPage": 50
+    }
+}

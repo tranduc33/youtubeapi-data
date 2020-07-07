@@ -1,0 +1,77 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "iiQJkerXUqsXJGOtfufV1RhqFpA",
+    "prevPageToken": "CGQQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "opgIuJhZfUxvfjzTkZYItiJRcCM",
+            "id": "UExjTnQzMmpTbkhuR2Z5VWtNRjRORGdIUVl5V25JeFhJYy45QTMxRDQ1Q0FENTI0NkM1",
+            "snippet": {
+                "publishedAt": "2019-12-23T09:28:36Z",
+                "channelId": "UCMQ3Kjky3JW35VhRYx9dGTg",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Kênh phim Truyện",
+                "playlistId": "PLcNt32jSnHnGfyUkMF4NDgHQYyWnIxXIc",
+                "position": 100,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "q4ktt0a6hu4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "q4ktt0a6hu4"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yzRtGDSdZhjAQcQoTGXojZKJMjQ",
+            "id": "UExjTnQzMmpTbkhuR2Z5VWtNRjRORGdIUVl5V25JeFhJYy5BODc5NkUyMTAwN0IwRkY4",
+            "snippet": {
+                "publishedAt": "2019-12-31T10:03:49Z",
+                "channelId": "UCMQ3Kjky3JW35VhRYx9dGTg",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Kênh phim Truyện",
+                "playlistId": "PLcNt32jSnHnGfyUkMF4NDgHQYyWnIxXIc",
+                "position": 101,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "MaisL1hYr1M"
+                }
+            },
+            "contentDetails": {
+                "videoId": "MaisL1hYr1M"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6pvevM-j4G2XY15HeHW9uJJW0w8",
+            "id": "UExjTnQzMmpTbkhuR2Z5VWtNRjRORGdIUVl5V25JeFhJYy45RjgyODEyNEJEREM5Nzkx",
+            "snippet": {
+                "publishedAt": "2020-03-08T10:38:40Z",
+                "channelId": "UCMQ3Kjky3JW35VhRYx9dGTg",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Kênh phim Truyện",
+                "playlistId": "PLcNt32jSnHnGfyUkMF4NDgHQYyWnIxXIc",
+                "position": 102,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Iufj18eYauY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Iufj18eYauY"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 103,
+        "resultsPerPage": 50
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "mGZMpADx60TpxOtHDhED9Ov1Qt8",
+    "nextPageToken": "CDIQAA",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-8dx9L3IPtFjOEchLXVpERxUFc8",
+            "id": "UExSaWI3MFZLN2NacWRVWjFzdUlReURQdUxvaVpLZTYwRi4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2018-04-16T09:18:21Z",
+                "channelId": "UCHnCbO5yAW4Ky1GYuD97yPQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "thành đô vlog",
+                "playlistId": "PLRib70VK7cZqdUZ1suIQyDPuLoiZKe60F",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sOPQ2hlgBhc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "sOPQ2hlgBhc"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ak7qRk_SdNkKMNafRCpsZE_1pFM",
+            "id": "UExSaWI3MFZLN2NacWRVWjFzdUlReURQdUxvaVpLZTYwRi5DRUQwODMxQzUyRTlGRkY3",
+            "snippet": {
+                "publishedAt": "2018-04-17T00:52:40Z",
+                "channelId": "UCHnCbO5yAW4Ky1GYuD97yPQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "thành đô vlog",
+                "playlistId": "PLRib70VK7cZqdUZ1suIQyDPuLoiZKe60F",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ywO22xPA-NI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "ywO22xPA-NI"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ANZzxyWSNkya98QUEsDTK5VN5OA",
+            "id": "UExSaWI3MFZLN2NacWRVWjFzdUlReURQdUxvaVpLZTYwRi42RTNCOEMxREI3Q0VDMjU2",
+            "snippet": {
+                "publishedAt": "2018-04-17T09:58:51Z",
+                "channelId": "UCHnCbO5yAW4Ky1GYuD97yPQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "thành đô vlog",
+                "playlistId": "PLRib70VK7cZqdUZ1suIQyDPuLoiZKe60F",
+                "position": 49,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "gSgZTEYHoqQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "gSgZTEYHoqQ"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 139,
+        "resultsPerPage": 50
+    }
+}

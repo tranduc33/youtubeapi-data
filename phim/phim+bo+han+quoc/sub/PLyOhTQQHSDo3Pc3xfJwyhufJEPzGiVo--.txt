@@ -1,0 +1,502 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "uqRyBV-W651ENOm0d0osl1vzYhA",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_MQuBLLXLN_xZY7McFtliFYbRng",
+            "id": "UEx5T2hUUVFIU0RvM1BjM3hmSnd5aHVmSkVQekdpVm8tLS41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2019-11-30T05:17:32Z",
+                "channelId": "UCau2JgN-slljHCqKH9tUClw",
+                "title": "Ngôi nhà hạnh phúc - Tập 2",
+                "description": "Full House",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b7BFNNuYd84/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b7BFNNuYd84/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b7BFNNuYd84/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Trang Thi",
+                "playlistId": "PLyOhTQQHSDo3Pc3xfJwyhufJEPzGiVo--",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "b7BFNNuYd84"
+                }
+            },
+            "contentDetails": {
+                "videoId": "b7BFNNuYd84",
+                "videoPublishedAt": "2008-07-02T16:55:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "k3iyMjFLwL7UDvTecs-S1RVL5KA",
+            "id": "UEx5T2hUUVFIU0RvM1BjM3hmSnd5aHVmSkVQekdpVm8tLS4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2019-12-05T01:27:22Z",
+                "channelId": "UCau2JgN-slljHCqKH9tUClw",
+                "title": "DAC CANH DIET MA.mpg",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eLvGJnrdkGM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eLvGJnrdkGM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eLvGJnrdkGM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Trang Thi",
+                "playlistId": "PLyOhTQQHSDo3Pc3xfJwyhufJEPzGiVo--",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eLvGJnrdkGM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "eLvGJnrdkGM",
+                "videoPublishedAt": "2011-11-10T15:11:31Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fYiRq5SXmM7IG0xSpJ_5wBGe_KM",
+            "id": "UEx5T2hUUVFIU0RvM1BjM3hmSnd5aHVmSkVQekdpVm8tLS4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2019-12-11T12:07:52Z",
+                "channelId": "UCau2JgN-slljHCqKH9tUClw",
+                "title": "Thánh Sún Ngân Thảo và Long nón lá cực kì “lầy lội “trong gameshow mới khiến Khương Dừa cười té ghế",
+                "description": "Thánh Sún Ngân Thảo và Long nón lá cực kì “ lầy lội “ trong gameshow Trí khôn của ta đây .\n#TrầnThanhChương #tranthanhchuong #ThánhSúnNgânThảo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c-5N5ymlI2g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c-5N5ymlI2g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c-5N5ymlI2g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/c-5N5ymlI2g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/c-5N5ymlI2g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Trang Thi",
+                "playlistId": "PLyOhTQQHSDo3Pc3xfJwyhufJEPzGiVo--",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "c-5N5ymlI2g"
+                }
+            },
+            "contentDetails": {
+                "videoId": "c-5N5ymlI2g",
+                "videoPublishedAt": "2019-12-09T01:15:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "t5UBbxTjtQ8G8sTNdTibpIKPQUo",
+            "id": "UEx5T2hUUVFIU0RvM1BjM3hmSnd5aHVmSkVQekdpVm8tLS4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2019-12-26T14:57:28Z",
+                "channelId": "UCau2JgN-slljHCqKH9tUClw",
+                "title": "Hà Rầm Hà Rạc | Phim Truyện Cổ Tích Việt Nam [Full HD]",
+                "description": "Phim Hà Rầm Hà Rạc | Cổ Tích Việt Nam\nCổ Tích Người Hóa Dế: https://goo.gl/YkZ1Hn\nMụ Yêu Tinh Và Bầy Trẻ: https://goo.gl/MGsRqN\nPhim Hài Chàng Ngốc: https://goo.gl/kJsnmt\nHài Cổ Tích Phượng Hoàng Đất: https://goo.gl/hXetMs\n\n► Đăng ký theo dõi Kênh Thiếu Nhi - BHMEDIA: https://goo.gl/LiQZ0g\n\nKể Chuyện Cổ Tích Bé Nghe: https://goo.gl/Yyrg2K\nTruyện Cổ Tích Việt Nam: https://goo.gl/YRDw9f\nHoạt Hình 3D Vui Nhộn: https://goo.gl/dGClz3\n\n♫ Lk Nhạc Đoàn Tàu Nhỏ Xíu: https://goo.gl/DJTBg0\n♫ Liên Khúc Nhạc Thiếu Nhi: https://goo.gl/rhBQFD\n♫ Top Nhạc Tiếng Anh Thiếu Nhi: https://goo.gl/xQEnBK\n\n►Tóm Tắt: \n\nNgày xưa, một nhà nọ có hai anh em cha mẹ mất sớm để lại một tư cơ cũng vào hạng khá trong vùng.\nTừ trước hai người vẫn ở chung với nhau. Người anh lấy vợ bèn tính kế chia tài sản. Người anh bảo em:\n\n- Bây giờ đã đến lúc phải chia gia tài ra để cho mày học ăn học làm với người ta.\nĐến ngày chia của, anh chìa một tờ giấy, bảo em:\n\n- Của cải của cha mẹ để lại chỉ có ba giống: Giống đực, giống cái và giống con. Mày bé bỏng nên tao nhường cho mày tất cả những đồ đạc giống đực, còn giống cái và giống con thì phần tao. Nghe chưa, nếu mày bằng lòng thì ký vào đây!\n-------------  \n►  © Bản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O_0Bc4TmVNY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O_0Bc4TmVNY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O_0Bc4TmVNY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/O_0Bc4TmVNY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/O_0Bc4TmVNY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Trang Thi",
+                "playlistId": "PLyOhTQQHSDo3Pc3xfJwyhufJEPzGiVo--",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "O_0Bc4TmVNY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "O_0Bc4TmVNY",
+                "videoPublishedAt": "2016-05-20T09:31:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yjsXqUOuZVL86puNuRufFSwiEfc",
+            "id": "UEx5T2hUUVFIU0RvM1BjM3hmSnd5aHVmSkVQekdpVm8tLS41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2020-01-02T08:29:49Z",
+                "channelId": "UCau2JgN-slljHCqKH9tUClw",
+                "title": "7 NỤ CƯỜI XUÂN | Kim Tử Long bị Lâm Vỹ Dạ - Thúy Ngân \"xử\" hội đồng|  MÙA 3 - #6 7NCX",
+                "description": "\"7 nụ cười xuân - Mùa 3\" phát sóng lúc 21 giờ, thứ hai hàng tuần, trên HTV7\n\n\"7 nụ cười xuân - Mùa 3\" trở lại với dàn nghệ sĩ chủ chốt đang được khán giả yêu thích hiện nay:  Trường Giang, Tiến Luật, Lâm Vỹ Dạ, Ninh Dương Lan Ngọc, Trương Thế Vinh và thành viên mới toanh - Thúy Ngân. Chương trình còn có sự xuất hiện của dàn khách mời như Jack & K-ICM , Mạc Văn Khoa, Puka, Lê Dương Bảo Lâm, BB Trần, Huỳnh Lập, Lâm Khánh Chi… Vẫn giữ format cũ nhưng với phiên bản nâng cấp, gameshow mang đến các trò chơi vận động vui nhộn, hài hước.\nSau 2 mùa phát sóng, khán giả được mang đến một bức tranh đa sắc màu từ “7 Nụ Cười Xuân” khi liên tục thay đổi cảm xúc với những tiểu phẩm mà thành viên của gia đình 7 Nụ mang lại. Thông qua đó, những thông điệp đầy tính nhân văn được lồng ghép một cách khéo léo gửi đến khán giả.\n\nCú pháp tìm nhanh chính xác: \"HTV 7NCX\" hoặc \"#HTV 7NCX Tap XYZ\".\nHTV 7 NỤ CƯỜI XUÂN | #HTV 7NCX #6 MÙA 3 FULL | 30/12/2019\n\n#HTV #HaiHTV #7nucuoixuanHTV\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.facebook.com/htv.hcm",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Aqz2OB7mgc0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Aqz2OB7mgc0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Aqz2OB7mgc0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Aqz2OB7mgc0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Aqz2OB7mgc0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Trang Thi",
+                "playlistId": "PLyOhTQQHSDo3Pc3xfJwyhufJEPzGiVo--",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Aqz2OB7mgc0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Aqz2OB7mgc0",
+                "videoPublishedAt": "2019-12-30T15:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "1uPAG24bZb45Hg0ZmMOe0KTJ6Us",
+            "id": "UEx5T2hUUVFIU0RvM1BjM3hmSnd5aHVmSkVQekdpVm8tLS5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2020-01-22T05:01:03Z",
+                "channelId": "UCau2JgN-slljHCqKH9tUClw",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Trang Thi",
+                "playlistId": "PLyOhTQQHSDo3Pc3xfJwyhufJEPzGiVo--",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1q5kP7399-o"
+                }
+            },
+            "contentDetails": {
+                "videoId": "1q5kP7399-o"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jwjmqnfh2I__QhfJtP4xMpE1bZ8",
+            "id": "UEx5T2hUUVFIU0RvM1BjM3hmSnd5aHVmSkVQekdpVm8tLS45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2020-02-09T04:20:22Z",
+                "channelId": "UCau2JgN-slljHCqKH9tUClw",
+                "title": "NHANH NHƯ CHỚP 2 | Người hùng Anh Đức cứu mỹ nhân Lâm Vỹ Dạ | NNC #10 FULL | 1/6/2019",
+                "description": "\"Nhanh như chớp\" phát sóng 21g, thứ bảy hàng tuần trên HTV7\n\n\"Nhanh Như Chớp\" là gameshow truyền hình với luật chơi đơn giản và cực kỳ hấp dẫn. Hai đội chơi gồm 6 nghệ sĩ khách mời sẽ phải vượt qua những câu hỏi cực kỳ hóc búa, trải rộng từ những kiến thức đa lĩnh vực cho đến những câu đố mẹo hài hước, để giành lấy những phần thưởng hấp dẫn. \n\nCú pháp tìm nhanh chính xác: \"HTV NNC\" hoặc \"#HTV NNC Tap XYZ\".\nHTV NHANH NHƯ CHỚP | #HTV NNC #10 MÙA 2 FULL | 1/6/2019\nPlaylist Full: https://www.youtube.com/playlist?list=PLJSRfYQoW3dkbLJI7ihbhV6ykeqaRbIHe\n\n#HTV #gameshowHTV #nhanhnhuchopHTV\n********************\n********************\nHTV Entertainment, kênh Youtube chính thức của Đài truyền hình TP. HCM (HTV). \n* Đăng ký: https://www.youtube.com/user/htvonlinetube?sub_confirmation=1 \n* Website: http://www.htv.com.vn \n* Facebook:https://www.facebook.com/htv.hcm",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8re9HhoH3bc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8re9HhoH3bc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8re9HhoH3bc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8re9HhoH3bc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8re9HhoH3bc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Trang Thi",
+                "playlistId": "PLyOhTQQHSDo3Pc3xfJwyhufJEPzGiVo--",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8re9HhoH3bc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "8re9HhoH3bc",
+                "videoPublishedAt": "2019-06-01T14:52:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "dIzN4tkmS_4fikbZgxCYrwW50k0",
+            "id": "UEx5T2hUUVFIU0RvM1BjM3hmSnd5aHVmSkVQekdpVm8tLS5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2020-03-03T08:17:16Z",
+                "channelId": "UCau2JgN-slljHCqKH9tUClw",
+                "title": "Tinh Hổ Ra Tay Tàn Độc Với Phụ Nữ Cũng Chỉ Vì Đàn Bà | Truyền Thuyết 12 Con Giáp",
+                "description": "►Mọt Phim Hay giới Thiệu Phim: Truyền Thuyết 12 Con Giáp\n►Tổng Hợp Clip Phim: https://bit.ly/375chtG\n►Trọn bộ:  http://bit.ly/39B2xcd\n►Diễn Viên: Dương Mịch, Trần Hạo Dân, Thích Tiểu Long, Quách Phẩm Siêu, Triệu Nghị, Lý Mạn....\n\n❖ Đăng ký kênh để đón xem những clip phim mới các bạn nhé !\n\n\n#truyềnthuyết12congiáp #phimmới2020 #dươngmịch",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2RW38CoksnA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2RW38CoksnA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2RW38CoksnA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2RW38CoksnA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2RW38CoksnA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Trang Thi",
+                "playlistId": "PLyOhTQQHSDo3Pc3xfJwyhufJEPzGiVo--",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2RW38CoksnA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "2RW38CoksnA",
+                "videoPublishedAt": "2020-02-18T11:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fvBfbjtUYpZoeRLu04ErNtXcwR0",
+            "id": "UEx5T2hUUVFIU0RvM1BjM3hmSnd5aHVmSkVQekdpVm8tLS40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2020-03-06T14:08:03Z",
+                "channelId": "UCau2JgN-slljHCqKH9tUClw",
+                "title": "Phim Mới Hay Nhất 2020 | TRUYỀN THUYẾT 12 CON GIÁP - TẬP 20 | Phim Bộ Trung Quốc Hay Nhất 2020",
+                "description": "►Trọn bộ Truyền Thuyết 12 Con Giáp: http://bit.ly/39B2xcd\n►Các phim hay khác: http://bit.ly/2m1ZLZR\n►Tên phim: Truyền Thuyết 12 Con Giáp.\n\nPhim Truyền Thuyết 12 Con Giáp kể về thời thượng cổ hồng hoang, khi Hoàng Đế cùng Xi Vưu đại chiến. Xi Vưu bị yêu ma quỷ quái mê hoặc, bán đứng linh hồn của chính mình. Trong phim hay này, sau khi đánh bại hoàng đế, Xi Vưu biến nhân gian thành địa ngục. Ngày tận thế, Dược Vương Thần Nông làm phép cho Hổ Tinh, cùng Ngọc Thố theo mệnh lệnh tìm kiếm phân tán khắp nhân gian các loại cầm tinh, đem 12 cầm tinh nguyên thần trở về vị trí cũ, giúp Hoàng Đế đả bại tà ma, cứu vớt thiên hạ. 12 cầm tinh này sau đó được phong sắc làm thần bảo hộ thời gian, đại diện cho từng năm khác nhau để tiếp tục bảo vệ hạnh phúc cho loài người.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P0a2PZkufjQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P0a2PZkufjQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P0a2PZkufjQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/P0a2PZkufjQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/P0a2PZkufjQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Trang Thi",
+                "playlistId": "PLyOhTQQHSDo3Pc3xfJwyhufJEPzGiVo--",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "P0a2PZkufjQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "P0a2PZkufjQ",
+                "videoPublishedAt": "2020-03-06T13:15:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yKshhydv_3iZbaKb_sjBn7u6Z4E",
+            "id": "UEx5T2hUUVFIU0RvM1BjM3hmSnd5aHVmSkVQekdpVm8tLS45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2020-04-10T06:26:59Z",
+                "channelId": "UCau2JgN-slljHCqKH9tUClw",
+                "title": "VÂN SƠN Ca Nhạc Kịch |  HẮC BẠCH CÔNG TỬ  | Van Son -  Hoài Linh - Hồng Đào - Út Mập - Bé Mập",
+                "description": "👉. SUBSCRIBE | ĐỂ ĐÓN XEM  những video mới nhất gửi đến Quí Vị từ TRUNG TÂM VÂN SƠN TẠI : http://bit.ly/VanSonEntertainment\n➤ Đón xem chương trình VÂN SƠN DU KÝ 63 Tỉnh Thành hàng tuần.\n\n👉XIN QUÍ VỊ VÀO LINK  sau đây để có TRỌN BỘ DVD TRUNG TÂM VÂN SƠN & NHỮNG SẢN PHẨM TRUNG TÂM VÂN SƠN.\n➤ Website:   http://bit.ly/2J9cX7f\n➤ Website:   https://www.vansonentertainment.com\n➤ Website:   http://www.vansonchoice.com\n\n👉LIÊN HỆ  QUẢNG CÁO : \n➤ Mail: Vansonshow@yahoo.com\n➤ Adv | Quảng cáo (USA) +1 714 799 1566  ; (VIỆT NAM ) 092 319 5888\n\n👉FOLLOW VAN SON ENTERTAINMENT và  KÊNH YOUTUBE CHÍNH THỨC CỦA VÂN SƠN \n➤ YOUTUBE: https://www.youtube.com/c/VanSon\n➤ YOUTUBE: https://www.youtube.com/c/VanSonBolero\n➤ YOUTUBE: https://www.youtube.com/c/VanSonFoodTravel\n➤ Facebook: https://www.facebook.com/VanSonFC\n➤ #VanSonDuKy #HaiVanSon #VanSonFoodTravel\n\n👉THÔNG BÁO: \n➤ Các video trên Vân Sơn Youtube Channel đã được Vân Sơn  đăng ký bản quyền với YouTube. Vui lòng không sao chép HOẶC  re-upload dưới mọi hình thức. \n➤ Với mọi hình thức sao chép HOẶC re-upload có thể dẫn đến  tài khoản channel  của bạn bị khóa vĩnh viễn.\nTrân trọng & rất cám ơn sự hơp tác của Quí Vị !\nVAN SON ENTERTAINMENT.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4HDH2ebBQOI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4HDH2ebBQOI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4HDH2ebBQOI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4HDH2ebBQOI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4HDH2ebBQOI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Trang Thi",
+                "playlistId": "PLyOhTQQHSDo3Pc3xfJwyhufJEPzGiVo--",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4HDH2ebBQOI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "4HDH2ebBQOI",
+                "videoPublishedAt": "2019-10-18T03:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IpG3d1-9eADIPaJEu0ve2dziWh4",
+            "id": "UEx5T2hUUVFIU0RvM1BjM3hmSnd5aHVmSkVQekdpVm8tLS4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2020-04-11T07:05:55Z",
+                "channelId": "UCau2JgN-slljHCqKH9tUClw",
+                "title": "#14 Hoàng Mập quyết chén sạch \"món 7 ngày ăn không hết\" của Trường Giang | Muốn Ăn Phải Lăn Vào Bếp",
+                "description": "#14 Hoàng Mập quyết chén sạch \"món 7 ngày ăn không hết\" của Trường Giang | Muốn Ăn Phải Lăn Vào Bếp Mùa 2\n► Đăng ký kênh YouTube: http://popsww.com/TruongGiang\n\nMuốn Ăn Phải Lăn Vào Bếp là chương trình thực tế về hành trình khám phá văn hóa ẩm thực các vùng miền đầy ắp những điều bất ngờ, hài hước nhưng không kém phần kịch tính. \n\nChương trình do Trường Giang làm \"\"chủ xị\"\", quy tụ dàn khách mời nổi tiếng trong Mùa 2 như: Huỳnh Lập, Diệu Nhi, Ngô Kiến Huy, Đức Phúc, Lê Dương Bảo Lâm, Quang Trung, Hồ Quang Hiếu, Color Man, Trương Thế Vinh...\n\nTại mỗi địa điểm khác nhau, Trường Giang sẽ cùng các khách mời đi khám phá những món ăn đặc trưng cực kỳ hấp dẫn và trải qua hàng loạt các thách thức: từ khâu tìm kiếm nguyên liệu, đến khâu chế biến món ăn theo đúng “điệu” của địa phương...\n\nSự lóng ngóng, vụng về hay những phát kiến độc đáo trong lần đầu trải nghiệm của các khách mời, hứa hẹn sẽ mang lại nhiều tiếng cười sảng khoái và những giờ phút giải trí bổ ích cho các khán giả. \n\nĐón xem chương trình Muốn Ăn Phải Lăn Vào Bếp vào lúc 20h00 thứ 5 hàng tuần trên kênh YouTube Trường Giang.\n\nChân thành cảm ơn Knorr đã đồng hành cùng chương trình.\n\n#TruongGiang #HoangMap #Knorr #MuonAnPhaiLanVaoBep #AmThucViet #HaiTruongGiang \n\n► Đăng ký kênh YouTube: http://popsww.com/TruongGiang\n► Theo dõi Facebook : https://www.facebook.com/TruongGiangDanhHai\n► Tuyển tập hài Trường Giang hay nhất : http://bit.ly/2IDT9fh\n► Xem Full - Muốn Ăn Phải Lăn Vào Bếp: http://bit.ly/2HU0sNK",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rfoLdZrRa3Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rfoLdZrRa3Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rfoLdZrRa3Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rfoLdZrRa3Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rfoLdZrRa3Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Trang Thi",
+                "playlistId": "PLyOhTQQHSDo3Pc3xfJwyhufJEPzGiVo--",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "rfoLdZrRa3Q"
+                }
+            },
+            "contentDetails": {
+                "videoId": "rfoLdZrRa3Q",
+                "videoPublishedAt": "2020-04-09T13:00:11Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 12,
+        "resultsPerPage": 50
+    }
+}

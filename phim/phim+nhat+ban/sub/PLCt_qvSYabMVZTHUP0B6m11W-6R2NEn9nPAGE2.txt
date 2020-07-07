@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "554bDhxpH5ub0VOjVDWM6yJ5eKM",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "JAfnKWMrdsYpcLjn8I09saLseyA",
+            "id": "UExDdF9xdlNZYWJNVlpUSFVQMEI2bTExVy02UjJORW45bi40MDNEMzA0QTBFRThFMzBE",
+            "snippet": {
+                "publishedAt": "2017-12-08T05:21:29Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Võ Thuật Thái Lan Hay Nhất  Quyền Thái",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C9kHyHlGS2Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C9kHyHlGS2Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C9kHyHlGS2Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/C9kHyHlGS2Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/C9kHyHlGS2Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMVZTHUP0B6m11W-6R2NEn9n",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "C9kHyHlGS2Q"
+                }
+            },
+            "contentDetails": {
+                "videoId": "C9kHyHlGS2Q",
+                "videoPublishedAt": "2015-03-01T12:26:19Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 53,
+        "resultsPerPage": 50
+    }
+}

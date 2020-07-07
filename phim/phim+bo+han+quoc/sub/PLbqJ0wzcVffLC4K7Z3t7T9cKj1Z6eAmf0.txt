@@ -1,0 +1,908 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "ylbHOdYs1JdR7QnLx1bcH-sFKec",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "C5WGj1rMMzmx9fZ-k4SpsSlv0IU",
+            "id": "UExicUowd3pjVmZmTEM0SzdaM3Q3VDljS2oxWjZlQW1mMC43NDhFRTgwOTRERTU4Rjg3",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:53:40Z",
+                "channelId": "UC-LGvv4OWnS8516GJowHg-A",
+                "title": "Phim Hàn 2017",
+                "description": "Phim Hàn 2017",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1Ggt-qTaW1E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1Ggt-qTaW1E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1Ggt-qTaW1E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1Ggt-qTaW1E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Brooke Weber",
+                "playlistId": "PLbqJ0wzcVffLC4K7Z3t7T9cKj1Z6eAmf0",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1Ggt-qTaW1E"
+                }
+            },
+            "contentDetails": {
+                "videoId": "1Ggt-qTaW1E",
+                "videoPublishedAt": "2017-01-23T03:23:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HxCIEZBOwC1QPfvYo7XYULY_E4s",
+            "id": "UExicUowd3pjVmZmTEM0SzdaM3Q3VDljS2oxWjZlQW1mMC41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:52:39Z",
+                "channelId": "UC-LGvv4OWnS8516GJowHg-A",
+                "title": "Ác Chiến Tụ Hiền Trang Tiêu Phong Suýt Bỏ Mạng Dưới Tay Võ Lâm Trung Nguyên   Tân Thiên Long Bát Bộ",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qQm8Jnv9KjM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qQm8Jnv9KjM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qQm8Jnv9KjM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qQm8Jnv9KjM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qQm8Jnv9KjM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Brooke Weber",
+                "playlistId": "PLbqJ0wzcVffLC4K7Z3t7T9cKj1Z6eAmf0",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qQm8Jnv9KjM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "qQm8Jnv9KjM",
+                "videoPublishedAt": "2019-12-24T04:29:31Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bal-DJTk1iwSiEH3DPJaKWrNClY",
+            "id": "UExicUowd3pjVmZmTEM0SzdaM3Q3VDljS2oxWjZlQW1mMC41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:53:40Z",
+                "channelId": "UC-LGvv4OWnS8516GJowHg-A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Brooke Weber",
+                "playlistId": "PLbqJ0wzcVffLC4K7Z3t7T9cKj1Z6eAmf0",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DQIl9-yjEos"
+                }
+            },
+            "contentDetails": {
+                "videoId": "DQIl9-yjEos"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UYDXeEqsT9SAABuJlm8yWeAp-lY",
+            "id": "UExicUowd3pjVmZmTEM0SzdaM3Q3VDljS2oxWjZlQW1mMC4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:53:40Z",
+                "channelId": "UC-LGvv4OWnS8516GJowHg-A",
+                "title": "[HTV2] - Dã Vương",
+                "description": "Hệ thống HTV2:\n►Website:http://htv2channel.vn/\n►Fanpage facebook HTV2: https://www.facebook.com/HTV2channel\n►G+: https://goo.gl/izjFOD\n\nXem các chương trình phim - hài khác của HTV2:\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3ZYT7GWEm-w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3ZYT7GWEm-w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3ZYT7GWEm-w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3ZYT7GWEm-w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Brooke Weber",
+                "playlistId": "PLbqJ0wzcVffLC4K7Z3t7T9cKj1Z6eAmf0",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3ZYT7GWEm-w"
+                }
+            },
+            "contentDetails": {
+                "videoId": "3ZYT7GWEm-w",
+                "videoPublishedAt": "2014-04-08T10:17:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UXzQQryKjW1ILIYHPdNu56BH8XU",
+            "id": "UExicUowd3pjVmZmTEM0SzdaM3Q3VDljS2oxWjZlQW1mMC41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:53:40Z",
+                "channelId": "UC-LGvv4OWnS8516GJowHg-A",
+                "title": "[HTV2] - Hôn nhân vàng - v1",
+                "description": "Hệ thống HTV2:\n►Website:http://htv2channel.vn/\n►Fanpage facebook HTV2: https://www.facebook.com/HTV2channel\n►G+: https://goo.gl/izjFOD\n\nXem các chương trình phim - hài khác của HTV2:\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K9vMKrsjfxY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K9vMKrsjfxY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K9vMKrsjfxY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/K9vMKrsjfxY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Brooke Weber",
+                "playlistId": "PLbqJ0wzcVffLC4K7Z3t7T9cKj1Z6eAmf0",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "K9vMKrsjfxY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "K9vMKrsjfxY",
+                "videoPublishedAt": "2014-08-25T08:51:40Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "51UFhQpERNOQTNd1IQlqTSJ5F_w",
+            "id": "UExicUowd3pjVmZmTEM0SzdaM3Q3VDljS2oxWjZlQW1mMC5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:53:40Z",
+                "channelId": "UC-LGvv4OWnS8516GJowHg-A",
+                "title": "Khi Yêu Nhau Sẽ Tuyệt Vời Như Thế Nào | Phim Hàn Quốc Lồng Tiếng Cực Hấp Dẫn",
+                "description": "Trọn bộ Cô Gái Thấy Mùi Hương tại: https://goo.gl/KRc3ww\nXem những phân cảnh hay nhất tại: https://goo.gl/M8Vg98\n\nẤn để theo dõi HTV2: http://youtube.com/HTV2Channel\n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.facebook.com/HTV2channel\n►G+: https://goo.gl/izjFOD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mjOnlzSsEJE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mjOnlzSsEJE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mjOnlzSsEJE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mjOnlzSsEJE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mjOnlzSsEJE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Brooke Weber",
+                "playlistId": "PLbqJ0wzcVffLC4K7Z3t7T9cKj1Z6eAmf0",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "mjOnlzSsEJE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "mjOnlzSsEJE",
+                "videoPublishedAt": "2018-03-19T12:30:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DiUf7UCdRJiDITJ-aBz04j0DUyA",
+            "id": "UExicUowd3pjVmZmTEM0SzdaM3Q3VDljS2oxWjZlQW1mMC45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:53:40Z",
+                "channelId": "UC-LGvv4OWnS8516GJowHg-A",
+                "title": "Khám phá những giọng lồng phim Hàn trên HTV2",
+                "description": "Hệ thống HTV2:\n►Website:http://htv2channel.vn/\n►Fanpage facebook HTV2: https://www.facebook.com/HTV2channel\n►G+: https://goo.gl/izjFOD\n\nXem các chương trình phim - hài khác của HTV2:\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BiJnWijTuew/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BiJnWijTuew/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BiJnWijTuew/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BiJnWijTuew/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Brooke Weber",
+                "playlistId": "PLbqJ0wzcVffLC4K7Z3t7T9cKj1Z6eAmf0",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BiJnWijTuew"
+                }
+            },
+            "contentDetails": {
+                "videoId": "BiJnWijTuew",
+                "videoPublishedAt": "2015-07-24T09:45:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "A-weLrlOORhx1JxjC_Ax2Viz3zA",
+            "id": "UExicUowd3pjVmZmTEM0SzdaM3Q3VDljS2oxWjZlQW1mMC5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:53:40Z",
+                "channelId": "UC-LGvv4OWnS8516GJowHg-A",
+                "title": "Khi Con Gái Say Rượu Thật Là Dễ Thương | Phim Hàn Quốc Lồng Tiếng Cực Hấp Dẫn",
+                "description": "Trọn bộ Cô Gái Thấy Mùi Hương tại: https://goo.gl/KRc3ww\nXem những phân cảnh hay nhất tại: https://goo.gl/M8Vg98\n\nẤn để theo dõi HTV2: http://youtube.com/HTV2Channel\n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.facebook.com/HTV2channel\n►G+: https://goo.gl/izjFOD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Wl8hXT1haXQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Wl8hXT1haXQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Wl8hXT1haXQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Wl8hXT1haXQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Wl8hXT1haXQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Brooke Weber",
+                "playlistId": "PLbqJ0wzcVffLC4K7Z3t7T9cKj1Z6eAmf0",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Wl8hXT1haXQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Wl8hXT1haXQ",
+                "videoPublishedAt": "2018-03-19T03:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "EgRmu0qby_hFXY_2DswRyo-reIw",
+            "id": "UExicUowd3pjVmZmTEM0SzdaM3Q3VDljS2oxWjZlQW1mMC45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:53:40Z",
+                "channelId": "UC-LGvv4OWnS8516GJowHg-A",
+                "title": "[D DRAMAS] Cám dỗ",
+                "description": "CÁM DỖ\nPhim phát sóng lúc 20:00 hàng ngày trên kênh DDramas, từ 29.6.2016",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ztY7S08glsM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ztY7S08glsM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ztY7S08glsM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ztY7S08glsM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ztY7S08glsM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Brooke Weber",
+                "playlistId": "PLbqJ0wzcVffLC4K7Z3t7T9cKj1Z6eAmf0",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ztY7S08glsM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "ztY7S08glsM",
+                "videoPublishedAt": "2016-06-27T03:54:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Dv_iQ90bRO_Xa-La2zXgMAHkyiE",
+            "id": "UExicUowd3pjVmZmTEM0SzdaM3Q3VDljS2oxWjZlQW1mMC41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:53:40Z",
+                "channelId": "UC-LGvv4OWnS8516GJowHg-A",
+                "title": "HTV2 - Mê phim Hàn - mê ngay HTV2",
+                "description": "Thu trực tiếp bằng đầu thu\n----\n1/10/15",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7V4nbFm1cco/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7V4nbFm1cco/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7V4nbFm1cco/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7V4nbFm1cco/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Brooke Weber",
+                "playlistId": "PLbqJ0wzcVffLC4K7Z3t7T9cKj1Z6eAmf0",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7V4nbFm1cco"
+                }
+            },
+            "contentDetails": {
+                "videoId": "7V4nbFm1cco",
+                "videoPublishedAt": "2015-10-02T01:30:58Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9Ofb1SP6OUnOrh1dNhF0d-51xbk",
+            "id": "UExicUowd3pjVmZmTEM0SzdaM3Q3VDljS2oxWjZlQW1mMC5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:53:40Z",
+                "channelId": "UC-LGvv4OWnS8516GJowHg-A",
+                "title": "TVC Lãng mạn như phim Hàn trên HTV2",
+                "description": "🌿Xem các cảnh hot nhất KTM tại https://goo.gl/RH13Tb\n🌿Xem full các tập KTM tại https://goo.gl/5FTWRD\n🎄🎄🎄Đăng ký để xem video mới: https://goo.gl/oDR7VP\n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.fb.com/HTV2channel\n►G+: https://goo.gl/izjFOD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jh0GQvdKPMc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jh0GQvdKPMc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jh0GQvdKPMc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jh0GQvdKPMc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Brooke Weber",
+                "playlistId": "PLbqJ0wzcVffLC4K7Z3t7T9cKj1Z6eAmf0",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jh0GQvdKPMc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "jh0GQvdKPMc",
+                "videoPublishedAt": "2015-10-01T09:41:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "V3Ah4jndvYNhkQ_s4ISt2ZL1KUs",
+            "id": "UExicUowd3pjVmZmTEM0SzdaM3Q3VDljS2oxWjZlQW1mMC4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:53:40Z",
+                "channelId": "UC-LGvv4OWnS8516GJowHg-A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Brooke Weber",
+                "playlistId": "PLbqJ0wzcVffLC4K7Z3t7T9cKj1Z6eAmf0",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xMSMZqtFWqU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "xMSMZqtFWqU"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nVJocn-dYW0UvN5YuNCagTfrkkM",
+            "id": "UExicUowd3pjVmZmTEM0SzdaM3Q3VDljS2oxWjZlQW1mMC45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:53:40Z",
+                "channelId": "UC-LGvv4OWnS8516GJowHg-A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Brooke Weber",
+                "playlistId": "PLbqJ0wzcVffLC4K7Z3t7T9cKj1Z6eAmf0",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RTQEB1nvORs"
+                }
+            },
+            "contentDetails": {
+                "videoId": "RTQEB1nvORs"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "q1_DrqDjV8RIJ7yiueF1YasoR2c",
+            "id": "UExicUowd3pjVmZmTEM0SzdaM3Q3VDljS2oxWjZlQW1mMC5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:53:40Z",
+                "channelId": "UC-LGvv4OWnS8516GJowHg-A",
+                "title": "Cặp Đôi Thách Hôn Nhau Siêu Đáng Yêu | Phim Hàn Quốc Lồng Tiếng Cực Hấp Dẫn",
+                "description": "Trọn bộ Cô Gái Thấy Mùi Hương tại: https://goo.gl/KRc3ww\nXem những phân cảnh hay nhất tại: https://goo.gl/M8Vg98\n\nẤn để theo dõi HTV2: http://youtube.com/HTV2Channel\n\nXem các chương trình phim - hài khác của HTV2:\n►Ai cũng bật cười Full: https://goo.gl/glS4sF\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG\n\nHoặc xem thêm trên hệ thống HTV2:\n►Website: http://htv2channel.vn/\n►Fanpage: https://www.facebook.com/HTV2channel\n►G+: https://goo.gl/izjFOD",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r6bGsolF-FU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r6bGsolF-FU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r6bGsolF-FU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/r6bGsolF-FU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/r6bGsolF-FU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Brooke Weber",
+                "playlistId": "PLbqJ0wzcVffLC4K7Z3t7T9cKj1Z6eAmf0",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "r6bGsolF-FU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "r6bGsolF-FU",
+                "videoPublishedAt": "2018-03-20T03:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "p2uFBStJqFO93SJWQ2CzKxjdMYI",
+            "id": "UExicUowd3pjVmZmTEM0SzdaM3Q3VDljS2oxWjZlQW1mMC4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:53:40Z",
+                "channelId": "UC-LGvv4OWnS8516GJowHg-A",
+                "title": "Yêu Trong Biển Hận Tập 1| Phim Ngôn Tình Trung Quốc Hàn Quốc Hay Nhất 2019",
+                "description": "Phim trung quốc, yêu trong biển hận cũng là phim bộ hàn quốc hay nhất, phim bộ phim hàn quốc lồng tiếng hay nhất, phim bộ trung quốc hay nhất, phim ngôn tình hay nhất 2019\n\n❤️❤️ Xem full bộ phim: https://bit.ly/2WPJ5BC\n\n❤️❤️ Chúc các bạn có những phút giây thư giãn và đừng quên đăng ký kênh, tích chuông để theo dõi những bộ phim hay và mới nhất nhé!!!!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OVMHwDWeWAY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OVMHwDWeWAY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OVMHwDWeWAY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OVMHwDWeWAY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OVMHwDWeWAY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Brooke Weber",
+                "playlistId": "PLbqJ0wzcVffLC4K7Z3t7T9cKj1Z6eAmf0",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OVMHwDWeWAY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "OVMHwDWeWAY",
+                "videoPublishedAt": "2019-06-19T12:28:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Occyd08kfPWi_SaOxKtCD3XFrqw",
+            "id": "UExicUowd3pjVmZmTEM0SzdaM3Q3VDljS2oxWjZlQW1mMC5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:53:40Z",
+                "channelId": "UC-LGvv4OWnS8516GJowHg-A",
+                "title": "Hướng dẫn xem Mẹ muốn lấy chồng tập cuối (HTV2 phim Hàn Quốc lồng tiếng)",
+                "description": "Mọi người đăng kí kênh để xem các tập phim mới nhất nhé\r\nTrọn bộ phim này mọi người xem ở đây: https://tinyurl.com/qltsxkq\nVideo được tìm thấy, cập nhật, tổng hợp URL từ nhiều nguồn trên Google và Internet. xemlaitv-net không giữ nội dung và cũng không lưu trữ các videos này trên website xemlaitv-net.\r\n\nKênh giới thiệu các phim truyền hình hay nhất của THVL, VTV, HTV..., Full màn hình, bản đẹp sắc nét, bản xem trước từ đầu đến tập cuối.\r\n\nMọi người xem tập mới nhất cập nhật mỗi ngày tại trang web: https://tinyurl.com/yxs3v9jr",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7BiCQiIWMJM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7BiCQiIWMJM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7BiCQiIWMJM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7BiCQiIWMJM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7BiCQiIWMJM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Brooke Weber",
+                "playlistId": "PLbqJ0wzcVffLC4K7Z3t7T9cKj1Z6eAmf0",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7BiCQiIWMJM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "7BiCQiIWMJM",
+                "videoPublishedAt": "2019-12-05T00:53:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "N6UqpZYQBz3ZO0xD-rcxfx7G7dI",
+            "id": "UExicUowd3pjVmZmTEM0SzdaM3Q3VDljS2oxWjZlQW1mMC4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:53:40Z",
+                "channelId": "UC-LGvv4OWnS8516GJowHg-A",
+                "title": "MV phim PHẢI SỐNG - Love Leaves - Ahn Ye Seul - HTV2",
+                "description": "Hệ thống HTV2:\n►Website:http://htv2channel.vn/\n►Fanpage facebook HTV2: https://www.facebook.com/HTV2channel\n►G+: https://goo.gl/izjFOD\n\nXem các chương trình phim - hài khác của HTV2:\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Hhwd085_YHo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Hhwd085_YHo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Hhwd085_YHo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Hhwd085_YHo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Brooke Weber",
+                "playlistId": "PLbqJ0wzcVffLC4K7Z3t7T9cKj1Z6eAmf0",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Hhwd085_YHo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Hhwd085_YHo",
+                "videoPublishedAt": "2014-12-11T07:09:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "N7o0iv_HUQM0FtNodBwWLHOKb7w",
+            "id": "UExicUowd3pjVmZmTEM0SzdaM3Q3VDljS2oxWjZlQW1mMC43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:53:40Z",
+                "channelId": "UC-LGvv4OWnS8516GJowHg-A",
+                "title": "Tổng hợp những trang web xem hậu duệ mặt trời thuyết minh (P1)",
+                "description": "AD Có Trọn  Bộ Bản Gốc Của Hậu Duệ Mặt Trời Thuyết Minh Bởi HTV (Đã từng phát sóng trên youtube nhưng nay đã gỡ) Nếu bạn nào có nhu cầu liên hệ ngay cho mình qua 2 cách sau:\n1 . Nhắn tin qua fanpage của kênh: https://www.facebook.com/Hauduemattroibanhanquoc\n2. Gửi mail cho admin : lienhe.hauduemattroi@gmail.com\n\nHãy đăng kí kênh và nhấn like fanpage để được nhận link video mới nhất nhé",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_d2SLYyzmI4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_d2SLYyzmI4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_d2SLYyzmI4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_d2SLYyzmI4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_d2SLYyzmI4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Brooke Weber",
+                "playlistId": "PLbqJ0wzcVffLC4K7Z3t7T9cKj1Z6eAmf0",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_d2SLYyzmI4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "_d2SLYyzmI4",
+                "videoPublishedAt": "2019-06-25T01:31:55Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4RgpEYT3VrrpI2NZ0UXc4526kC8",
+            "id": "UExicUowd3pjVmZmTEM0SzdaM3Q3VDljS2oxWjZlQW1mMC4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:53:40Z",
+                "channelId": "UC-LGvv4OWnS8516GJowHg-A",
+                "title": "[HTV2] - Vũ khí sắc đẹp",
+                "description": "Hệ thống HTV2:\n►Website:http://htv2channel.vn/\n►Fanpage facebook HTV2: https://www.facebook.com/HTV2channel\n►G+: https://goo.gl/izjFOD\n\nXem các chương trình phim - hài khác của HTV2:\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QdisAWrTF9c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QdisAWrTF9c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QdisAWrTF9c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QdisAWrTF9c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Brooke Weber",
+                "playlistId": "PLbqJ0wzcVffLC4K7Z3t7T9cKj1Z6eAmf0",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "QdisAWrTF9c"
+                }
+            },
+            "contentDetails": {
+                "videoId": "QdisAWrTF9c",
+                "videoPublishedAt": "2014-06-30T02:02:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QrFYFCXRTB86bnE1qmcKFsiYOn0",
+            "id": "UExicUowd3pjVmZmTEM0SzdaM3Q3VDljS2oxWjZlQW1mMC5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:53:40Z",
+                "channelId": "UC-LGvv4OWnS8516GJowHg-A",
+                "title": "[HTV2] - Hôn nhân vàng v2",
+                "description": "Hệ thống HTV2:\n►Website:http://htv2channel.vn/\n►Fanpage facebook HTV2: https://www.facebook.com/HTV2channel\n►G+: https://goo.gl/izjFOD\n\nXem các chương trình phim - hài khác của HTV2:\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/muIKDPcvXlg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/muIKDPcvXlg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/muIKDPcvXlg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/muIKDPcvXlg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Brooke Weber",
+                "playlistId": "PLbqJ0wzcVffLC4K7Z3t7T9cKj1Z6eAmf0",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "muIKDPcvXlg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "muIKDPcvXlg",
+                "videoPublishedAt": "2014-08-25T08:51:38Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8pCCgtFkFztdb73dg1WahEAcozI",
+            "id": "UExicUowd3pjVmZmTEM0SzdaM3Q3VDljS2oxWjZlQW1mMC44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:53:40Z",
+                "channelId": "UC-LGvv4OWnS8516GJowHg-A",
+                "title": "[HTV2] - Hôn nhân vàng V3",
+                "description": "Hệ thống HTV2:\n►Website:http://htv2channel.vn/\n►Fanpage facebook HTV2: https://www.facebook.com/HTV2channel\n►G+: https://goo.gl/izjFOD\n\nXem các chương trình phim - hài khác của HTV2:\n►Tài tiếu tuyệt Full: https://goo.gl/c0Qw7H\n►Lần đầu tôi kể: https://goo.gl/UsYrQG",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZjtvWHXI3Ys/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZjtvWHXI3Ys/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZjtvWHXI3Ys/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZjtvWHXI3Ys/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Brooke Weber",
+                "playlistId": "PLbqJ0wzcVffLC4K7Z3t7T9cKj1Z6eAmf0",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZjtvWHXI3Ys"
+                }
+            },
+            "contentDetails": {
+                "videoId": "ZjtvWHXI3Ys",
+                "videoPublishedAt": "2014-08-25T08:51:34Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 23,
+        "resultsPerPage": 50
+    }
+}

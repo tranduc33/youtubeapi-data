@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "NetC1AYEUCrIxAxEL67h6bbhtsQ",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Iok69xWjX5YrfHdXe6t1oWE3u1M",
+            "id": "UExrWDlnU190QzR2WXp6clJGX3pucTdoTDdHTG9HYzJwcC5FQUY2Qzk4RUFDN0ZFRkZF",
+            "snippet": {
+                "publishedAt": "2017-12-10T11:33:52Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Phim Hành Động - Phim Xã Hội Đen Mỹ Thái Lan Hay Nhất 2016",
+                "description": "phim hay nhớ dk ủng hộ em nhe mọi người",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/l4q9z7QNcdo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/l4q9z7QNcdo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/l4q9z7QNcdo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/l4q9z7QNcdo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/l4q9z7QNcdo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vYzzrRF_znq7hL7GLoGc2pp",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "l4q9z7QNcdo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "l4q9z7QNcdo",
+                "videoPublishedAt": "2016-11-28T05:35:31Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 52,
+        "resultsPerPage": 50
+    }
+}

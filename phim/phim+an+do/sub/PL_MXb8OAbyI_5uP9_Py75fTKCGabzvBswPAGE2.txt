@@ -1,0 +1,104 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "Lyar7i6m-3PtcJ_tOaAXWrcxmBI",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "A-jarK2ncIX8ghwWQmJiGpqYzBM",
+            "id": "UExfTVhiOE9BYnlJXzV1UDlfUHk3NWZUS0NHYWJ6dkJzdy41NTZEOThBNThFOUVGQkVB",
+            "snippet": {
+                "publishedAt": "2020-05-09T03:17:09Z",
+                "channelId": "UCjnk_fziVXBxAZVMfm_yzkA",
+                "title": "THVL | Nữ sát thủ - Tập 38",
+                "description": "Link full: http://goo.gl/6HEcrn\nTheo dõi THVL: \nSubscribe: https://www.youtube.com/user/VinhLongTV?sub_confirmation=1\nFacebook: https://www.facebook.com/VinhLongTV\nGoogle Plus: https://www.google.com/+VinhLongTV",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5AyOG24_srg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5AyOG24_srg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5AyOG24_srg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5AyOG24_srg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Nguyễn Đăng Khoa",
+                "playlistId": "PL_MXb8OAbyI_5uP9_Py75fTKCGabzvBsw",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5AyOG24_srg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "5AyOG24_srg",
+                "videoPublishedAt": "2015-01-09T09:47:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "qampR-5YLERa9bODxyZmZFFwydc",
+            "id": "UExfTVhiOE9BYnlJXzV1UDlfUHk3NWZUS0NHYWJ6dkJzdy43NERCMDIzQzFBMERCMEE3",
+            "snippet": {
+                "publishedAt": "2020-05-19T08:18:04Z",
+                "channelId": "UCjnk_fziVXBxAZVMfm_yzkA",
+                "title": "Cỗ Kiếm Hồn Tàn Sát Võ Lâm Quần Hùng Khiến Cao Thủ Trong Thiên Hạ Phải Khiếp Sợ",
+                "description": "drama99 : Giới Thiệu Phim Hay : Như Lai Thần Chưởng\n\nNội Dung Clip : Kẻ Vô Danh Tung Tuyệt Chiêu Như Lai Thần Chưởng Đại Chiến Thần Ưng Sát Thủ\n\nClip Tổng Hợp : https://www.youtube.com/watch?v=58m0CXUgKsg&list=PLejsqbhsTNVAImsSwBejI-3qZ733jncgz\n\n#drama99#NhưLaiThầnChưởng",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IaQyhelpunI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IaQyhelpunI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IaQyhelpunI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IaQyhelpunI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IaQyhelpunI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Nguyễn Đăng Khoa",
+                "playlistId": "PL_MXb8OAbyI_5uP9_Py75fTKCGabzvBsw",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "IaQyhelpunI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "IaQyhelpunI",
+                "videoPublishedAt": "2020-05-07T12:30:02Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 52,
+        "resultsPerPage": 50
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "R-UAHOpOMQ9D9Bf4dFCWVXfgsrQ",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "muoO6tz41_8jeHmbeVytivvgSyU",
+            "id": "UExIdEhJSUZOdll5VmVQN28tMWZXS3ZlVzBhMUEwU3RGby42Qzk5MkEzQjVFQjYwRDA4",
+            "snippet": {
+                "publishedAt": "2020-05-06T16:36:49Z",
+                "channelId": "UCeJFe-PskDl2Hg_GygVmJFw",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Siêu thị Film",
+                "playlistId": "PLHtHIIFNvYyVeP7o-1fWKveW0a1A0StFo",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_uI2ITn7Z2E"
+                }
+            },
+            "contentDetails": {
+                "videoId": "_uI2ITn7Z2E"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "V-BpVnrRtqT8k3G8ZzSS3jlstCY",
+            "id": "UExIdEhJSUZOdll5VmVQN28tMWZXS3ZlVzBhMUEwU3RGby5CQkEwRDA0MDkwNUM2MDY1",
+            "snippet": {
+                "publishedAt": "2020-05-06T16:37:19Z",
+                "channelId": "UCeJFe-PskDl2Hg_GygVmJFw",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Siêu thị Film",
+                "playlistId": "PLHtHIIFNvYyVeP7o-1fWKveW0a1A0StFo",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "C77s7GWLqq0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "C77s7GWLqq0"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "037C-OvrZxQLcm49MjAtBiOW6zk",
+            "id": "UExIdEhJSUZOdll5VmVQN28tMWZXS3ZlVzBhMUEwU3RGby4wNEU1MTI4NkZEMzVBN0JF",
+            "snippet": {
+                "publishedAt": "2020-05-06T16:37:30Z",
+                "channelId": "UCeJFe-PskDl2Hg_GygVmJFw",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Siêu thị Film",
+                "playlistId": "PLHtHIIFNvYyVeP7o-1fWKveW0a1A0StFo",
+                "position": 52,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HrY5C_xSobA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "HrY5C_xSobA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bVez95i_2lYGvpVSyCphkC0RZk0",
+            "id": "UExIdEhJSUZOdll5VmVQN28tMWZXS3ZlVzBhMUEwU3RGby4wMTYxQzVBRDI1NEVDQUZE",
+            "snippet": {
+                "publishedAt": "2020-05-06T16:37:44Z",
+                "channelId": "UCeJFe-PskDl2Hg_GygVmJFw",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Siêu thị Film",
+                "playlistId": "PLHtHIIFNvYyVeP7o-1fWKveW0a1A0StFo",
+                "position": 53,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "QCuVwAa4iqA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "QCuVwAa4iqA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "YNBdyiLWA73hw9XV37ugU_yps4A",
+            "id": "UExIdEhJSUZOdll5VmVQN28tMWZXS3ZlVzBhMUEwU3RGby4zMEQ1MEIyRTFGNzhDQzFB",
+            "snippet": {
+                "publishedAt": "2020-05-06T16:36:45Z",
+                "channelId": "UCeJFe-PskDl2Hg_GygVmJFw",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Siêu thị Film",
+                "playlistId": "PLHtHIIFNvYyVeP7o-1fWKveW0a1A0StFo",
+                "position": 54,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hHt3pEVpnw0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "hHt3pEVpnw0"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 55,
+        "resultsPerPage": 50
+    }
+}

@@ -1,0 +1,978 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "0n5Hp_wfWmSr6RsNNWr6VSK-UAE",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vJgOoFdh3srpnHdCQbDCxyXJo74",
+            "id": "UExGTnBLd0t1dDdBSFphVHVCMm9sNkN3UmRfN3B2ejBPSy41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2020-06-21T12:12:38Z",
+                "channelId": "UCTfNvCnmBrJACGolV1o4tvA",
+                "title": "Giấc mộng sau rèm  Tập 1",
+                "description": "Phim bộ  Tình Cảm Đài Loan 1995  Giấc mộng sau rèm \nLưu Đức Khải  ~~ Trần Đức Dung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bmAiiQ2hMOw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bmAiiQ2hMOw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bmAiiQ2hMOw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bmAiiQ2hMOw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "trangmuathu",
+                "playlistId": "PLFNpKwKut7AHZaTuB2ol6CwRd_7pvz0OK",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bmAiiQ2hMOw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "bmAiiQ2hMOw",
+                "videoPublishedAt": "2020-06-24T04:04:50Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9Q80Z9ooowubMeLZUO919Ts8ZrA",
+            "id": "UExGTnBLd0t1dDdBSFphVHVCMm9sNkN3UmRfN3B2ejBPSy4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2020-06-21T22:33:13Z",
+                "channelId": "UCTfNvCnmBrJACGolV1o4tvA",
+                "title": "Giấc mộng sau rèm  Tập 2",
+                "description": "Phim bộ  Tình Cảm Đài Loan 1995  Giấc mộng sau rèm \nLưu Đức Khải  ~~ Trần Đức Dung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NME_CHtBKtA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NME_CHtBKtA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NME_CHtBKtA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NME_CHtBKtA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "trangmuathu",
+                "playlistId": "PLFNpKwKut7AHZaTuB2ol6CwRd_7pvz0OK",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NME_CHtBKtA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "NME_CHtBKtA",
+                "videoPublishedAt": "2020-06-24T06:47:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "sMaGXAdduaQTXi9oJJQGVoGWkmo",
+            "id": "UExGTnBLd0t1dDdBSFphVHVCMm9sNkN3UmRfN3B2ejBPSy4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2020-06-25T06:55:58Z",
+                "channelId": "UCTfNvCnmBrJACGolV1o4tvA",
+                "title": "Giấc mộng sau rèm  Tập 3",
+                "description": "Phim bộ  Tình Cảm Đài Loan 1995  Giấc mộng sau rèm \nLưu Đức Khải  ~~ Trần Đức Dung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CEoinQS63Ao/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CEoinQS63Ao/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CEoinQS63Ao/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CEoinQS63Ao/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "trangmuathu",
+                "playlistId": "PLFNpKwKut7AHZaTuB2ol6CwRd_7pvz0OK",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "CEoinQS63Ao"
+                }
+            },
+            "contentDetails": {
+                "videoId": "CEoinQS63Ao",
+                "videoPublishedAt": "2020-06-25T05:40:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-1YJN_OjXpChfEittGLjGvVYFpo",
+            "id": "UExGTnBLd0t1dDdBSFphVHVCMm9sNkN3UmRfN3B2ejBPSy41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2020-06-25T21:06:45Z",
+                "channelId": "UCTfNvCnmBrJACGolV1o4tvA",
+                "title": "Giấc mộng sau rèm  Tập 4",
+                "description": "Phim bộ  Tình Cảm Đài Loan 1995  Giấc mộng sau rèm \nLưu Đức Khải  ~~ Trần Đức Dung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Bx9UsW8mp9A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Bx9UsW8mp9A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Bx9UsW8mp9A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Bx9UsW8mp9A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "trangmuathu",
+                "playlistId": "PLFNpKwKut7AHZaTuB2ol6CwRd_7pvz0OK",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Bx9UsW8mp9A"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Bx9UsW8mp9A",
+                "videoPublishedAt": "2020-06-25T20:09:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9cM-O0bHSfYj4Bqt8XTQyPO3D38",
+            "id": "UExGTnBLd0t1dDdBSFphVHVCMm9sNkN3UmRfN3B2ejBPSy4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2020-06-26T06:31:37Z",
+                "channelId": "UCTfNvCnmBrJACGolV1o4tvA",
+                "title": "Giấc mộng sau rèm  Tập 5",
+                "description": "Phim bộ  Tình Cảm Đài Loan 1995  Giấc mộng sau rèm \nLưu Đức Khải  ~~ Trần Đức Dung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/up2hXu4mO9g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/up2hXu4mO9g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/up2hXu4mO9g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/up2hXu4mO9g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "trangmuathu",
+                "playlistId": "PLFNpKwKut7AHZaTuB2ol6CwRd_7pvz0OK",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "up2hXu4mO9g"
+                }
+            },
+            "contentDetails": {
+                "videoId": "up2hXu4mO9g",
+                "videoPublishedAt": "2020-06-26T05:36:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "1gBHXD1alomBOu2xbIYABmcJwjY",
+            "id": "UExGTnBLd0t1dDdBSFphVHVCMm9sNkN3UmRfN3B2ejBPSy4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2020-06-26T23:05:31Z",
+                "channelId": "UCTfNvCnmBrJACGolV1o4tvA",
+                "title": "Giấc mộng sau rèm  Tập 6",
+                "description": "Phim bộ  Tình Cảm Đài Loan 1995  Giấc mộng sau rèm \nLưu Đức Khải  ~~ Trần Đức Dung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qs_enYIaH2c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qs_enYIaH2c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qs_enYIaH2c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qs_enYIaH2c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "trangmuathu",
+                "playlistId": "PLFNpKwKut7AHZaTuB2ol6CwRd_7pvz0OK",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qs_enYIaH2c"
+                }
+            },
+            "contentDetails": {
+                "videoId": "qs_enYIaH2c",
+                "videoPublishedAt": "2020-06-26T16:16:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "P8oLlSN0wzQXObR6g9PJLnpmEB8",
+            "id": "UExGTnBLd0t1dDdBSFphVHVCMm9sNkN3UmRfN3B2ejBPSy41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2020-06-27T09:25:50Z",
+                "channelId": "UCTfNvCnmBrJACGolV1o4tvA",
+                "title": "Giấc mộng sau rèm  Tập 7",
+                "description": "Phim bộ  Tình Cảm Đài Loan 1995  Giấc mộng sau rèm \nLưu Đức Khải  ~~ Trần Đức Dung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CNBK2RN-Z-U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CNBK2RN-Z-U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CNBK2RN-Z-U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CNBK2RN-Z-U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "trangmuathu",
+                "playlistId": "PLFNpKwKut7AHZaTuB2ol6CwRd_7pvz0OK",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "CNBK2RN-Z-U"
+                }
+            },
+            "contentDetails": {
+                "videoId": "CNBK2RN-Z-U",
+                "videoPublishedAt": "2020-06-27T08:51:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3aw6635dNqlY5W8CfhETscVVvPU",
+            "id": "UExGTnBLd0t1dDdBSFphVHVCMm9sNkN3UmRfN3B2ejBPSy5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2020-06-28T10:52:00Z",
+                "channelId": "UCTfNvCnmBrJACGolV1o4tvA",
+                "title": "Giấc mộng sau rèm  Tập 8",
+                "description": "Phim bộ  Tình Cảm Đài Loan 1995  Giấc mộng sau rèm \nLưu Đức Khải  ~~ Trần Đức Dung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5eU27hM0vDM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5eU27hM0vDM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5eU27hM0vDM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5eU27hM0vDM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "trangmuathu",
+                "playlistId": "PLFNpKwKut7AHZaTuB2ol6CwRd_7pvz0OK",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5eU27hM0vDM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "5eU27hM0vDM",
+                "videoPublishedAt": "2020-06-28T10:50:55Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5wQMUWvbEUiStmAPCO_vNZ3lhA0",
+            "id": "UExGTnBLd0t1dDdBSFphVHVCMm9sNkN3UmRfN3B2ejBPSy45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2020-06-29T08:23:14Z",
+                "channelId": "UCTfNvCnmBrJACGolV1o4tvA",
+                "title": "Giấc mộng sau rèm  Tập 9",
+                "description": "Phim bộ  Tình Cảm Đài Loan 1995  Giấc mộng sau rèm \nLưu Đức Khải  ~~ Trần Đức Dung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sZpSol4fKqM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sZpSol4fKqM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sZpSol4fKqM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sZpSol4fKqM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "trangmuathu",
+                "playlistId": "PLFNpKwKut7AHZaTuB2ol6CwRd_7pvz0OK",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sZpSol4fKqM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "sZpSol4fKqM",
+                "videoPublishedAt": "2020-06-29T07:09:50Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "o2TTWqbYg8XuVPTE3JVTHXTkeyw",
+            "id": "UExGTnBLd0t1dDdBSFphVHVCMm9sNkN3UmRfN3B2ejBPSy5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2020-06-29T22:40:51Z",
+                "channelId": "UCTfNvCnmBrJACGolV1o4tvA",
+                "title": "Giấc mộng sau rèm  Tập 10",
+                "description": "Phim bộ  Tình Cảm Đài Loan 1995  Giấc mộng sau rèm \nLưu Đức Khải  ~~ Trần Đức Dung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LLXHZ36QAH4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LLXHZ36QAH4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LLXHZ36QAH4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LLXHZ36QAH4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "trangmuathu",
+                "playlistId": "PLFNpKwKut7AHZaTuB2ol6CwRd_7pvz0OK",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "LLXHZ36QAH4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "LLXHZ36QAH4",
+                "videoPublishedAt": "2020-06-29T17:09:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yQLno8zB7VCYrTLbffFjbWrrOLk",
+            "id": "UExGTnBLd0t1dDdBSFphVHVCMm9sNkN3UmRfN3B2ejBPSy40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2020-06-29T22:41:06Z",
+                "channelId": "UCTfNvCnmBrJACGolV1o4tvA",
+                "title": "Giấc mộng sau rèm  Tập 11",
+                "description": "Phim bộ  Tình Cảm Đài Loan 1995  Giấc mộng sau rèm \nLưu Đức Khải  ~~ Trần Đức Dung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ka8VSEfCjY0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ka8VSEfCjY0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ka8VSEfCjY0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ka8VSEfCjY0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "trangmuathu",
+                "playlistId": "PLFNpKwKut7AHZaTuB2ol6CwRd_7pvz0OK",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ka8VSEfCjY0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "ka8VSEfCjY0",
+                "videoPublishedAt": "2020-06-29T21:11:54Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gt_IvuPYRcPJNp3rDybb73zknbY",
+            "id": "UExGTnBLd0t1dDdBSFphVHVCMm9sNkN3UmRfN3B2ejBPSy5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2020-06-30T11:19:26Z",
+                "channelId": "UCTfNvCnmBrJACGolV1o4tvA",
+                "title": "Giấc mộng sau rèm  Tập 12",
+                "description": "Phim bộ  Tình Cảm Đài Loan 1995  Giấc mộng sau rèm \nLưu Đức Khải  ~~ Trần Đức Dung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JhTHugAa2Ag/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JhTHugAa2Ag/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JhTHugAa2Ag/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JhTHugAa2Ag/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "trangmuathu",
+                "playlistId": "PLFNpKwKut7AHZaTuB2ol6CwRd_7pvz0OK",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "JhTHugAa2Ag"
+                }
+            },
+            "contentDetails": {
+                "videoId": "JhTHugAa2Ag",
+                "videoPublishedAt": "2020-06-30T07:29:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kn4iyaQ7Dtn1dbGjFIuHxRNs-4g",
+            "id": "UExGTnBLd0t1dDdBSFphVHVCMm9sNkN3UmRfN3B2ejBPSy45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2020-07-02T06:38:23Z",
+                "channelId": "UCTfNvCnmBrJACGolV1o4tvA",
+                "title": "Giấc mộng sau rèm  Tập 13",
+                "description": "Phim bộ  Tình Cảm Đài Loan 1995  Giấc mộng sau rèm \nLưu Đức Khải  ~~ Trần Đức Dung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ri7Ti_KUQoQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ri7Ti_KUQoQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ri7Ti_KUQoQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ri7Ti_KUQoQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "trangmuathu",
+                "playlistId": "PLFNpKwKut7AHZaTuB2ol6CwRd_7pvz0OK",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ri7Ti_KUQoQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "ri7Ti_KUQoQ",
+                "videoPublishedAt": "2020-07-02T06:37:18Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "p-di8kLL2Hw3GvdQwhpy6LOdfsU",
+            "id": "UExGTnBLd0t1dDdBSFphVHVCMm9sNkN3UmRfN3B2ejBPSy4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2020-07-02T06:38:37Z",
+                "channelId": "UCTfNvCnmBrJACGolV1o4tvA",
+                "title": "Giấc mộng sau rèm  Tập 14",
+                "description": "Phim bộ  Tình Cảm Đài Loan 1995  Giấc mộng sau rèm \nLưu Đức Khải  ~~ Trần Đức Dung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R7IaBjUFRmQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R7IaBjUFRmQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R7IaBjUFRmQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/R7IaBjUFRmQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "trangmuathu",
+                "playlistId": "PLFNpKwKut7AHZaTuB2ol6CwRd_7pvz0OK",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "R7IaBjUFRmQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "R7IaBjUFRmQ",
+                "videoPublishedAt": "2020-07-01T11:35:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "plsZCma-PC62ZB-lg-b2YxU1e5I",
+            "id": "UExGTnBLd0t1dDdBSFphVHVCMm9sNkN3UmRfN3B2ejBPSy41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2020-07-02T06:39:10Z",
+                "channelId": "UCTfNvCnmBrJACGolV1o4tvA",
+                "title": "Giấc mộng sau rèm  Tập 15",
+                "description": "Phim bộ  Tình Cảm Đài Loan 1995  Giấc mộng sau rèm \nLưu Đức Khải  ~~ Trần Đức Dung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hQ8J80R529c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hQ8J80R529c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hQ8J80R529c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hQ8J80R529c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "trangmuathu",
+                "playlistId": "PLFNpKwKut7AHZaTuB2ol6CwRd_7pvz0OK",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hQ8J80R529c"
+                }
+            },
+            "contentDetails": {
+                "videoId": "hQ8J80R529c",
+                "videoPublishedAt": "2020-07-02T06:37:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "j-o0mIO9DKpipKcyg-V06FOr4Po",
+            "id": "UExGTnBLd0t1dDdBSFphVHVCMm9sNkN3UmRfN3B2ejBPSy5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2020-07-04T11:56:20Z",
+                "channelId": "UCTfNvCnmBrJACGolV1o4tvA",
+                "title": "Giấc mộng sau rèm  Tập 16",
+                "description": "Phim bộ  Tình Cảm Đài Loan 1995  Giấc mộng sau rèm \nLưu Đức Khải  ~~ Trần Đức Dung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MTcuVA6BXU4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MTcuVA6BXU4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MTcuVA6BXU4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MTcuVA6BXU4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "trangmuathu",
+                "playlistId": "PLFNpKwKut7AHZaTuB2ol6CwRd_7pvz0OK",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "MTcuVA6BXU4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "MTcuVA6BXU4",
+                "videoPublishedAt": "2020-07-04T11:49:51Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "R8hTi2go7mPX9fNWhMpO05tIpFA",
+            "id": "UExGTnBLd0t1dDdBSFphVHVCMm9sNkN3UmRfN3B2ejBPSy41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2020-07-04T13:49:45Z",
+                "channelId": "UCTfNvCnmBrJACGolV1o4tvA",
+                "title": "Giấc mộng sau rèm  Tập 17",
+                "description": "Phim bộ  Tình Cảm Đài Loan 1995  Giấc mộng sau rèm \nLưu Đức Khải  ~~ Trần Đức Dung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A5U9O38-qp0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A5U9O38-qp0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A5U9O38-qp0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/A5U9O38-qp0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "trangmuathu",
+                "playlistId": "PLFNpKwKut7AHZaTuB2ol6CwRd_7pvz0OK",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "A5U9O38-qp0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "A5U9O38-qp0",
+                "videoPublishedAt": "2020-07-04T13:36:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fUaWISzgu5-uauZLcg_5pU3atcE",
+            "id": "UExGTnBLd0t1dDdBSFphVHVCMm9sNkN3UmRfN3B2ejBPSy4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2020-07-04T13:52:07Z",
+                "channelId": "UCTfNvCnmBrJACGolV1o4tvA",
+                "title": "Giấc mộng sau rèm  Tập 18",
+                "description": "Phim bộ  Tình Cảm Đài Loan 1995  Giấc mộng sau rèm \nLưu Đức Khải  ~~ Trần Đức Dung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NbHywXuyhEw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NbHywXuyhEw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NbHywXuyhEw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NbHywXuyhEw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "trangmuathu",
+                "playlistId": "PLFNpKwKut7AHZaTuB2ol6CwRd_7pvz0OK",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NbHywXuyhEw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "NbHywXuyhEw",
+                "videoPublishedAt": "2020-07-04T13:51:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "H6IAj62oEpZ8PIk9degnuMwy8wE",
+            "id": "UExGTnBLd0t1dDdBSFphVHVCMm9sNkN3UmRfN3B2ejBPSy45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2020-07-05T21:26:15Z",
+                "channelId": "UCTfNvCnmBrJACGolV1o4tvA",
+                "title": "Giấc mộng sau rèm  Tập 19",
+                "description": "Phim bộ  Tình Cảm Đài Loan 1995  Giấc mộng sau rèm \nLưu Đức Khải  ~~ Trần Đức Dung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q-hqmxl1-mA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q-hqmxl1-mA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q-hqmxl1-mA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Q-hqmxl1-mA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "trangmuathu",
+                "playlistId": "PLFNpKwKut7AHZaTuB2ol6CwRd_7pvz0OK",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Q-hqmxl1-mA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Q-hqmxl1-mA",
+                "videoPublishedAt": "2020-07-05T15:36:15Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fDbHd0DqfRh6IwkwdiqmvoS-SAY",
+            "id": "UExGTnBLd0t1dDdBSFphVHVCMm9sNkN3UmRfN3B2ejBPSy5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2020-07-05T21:26:32Z",
+                "channelId": "UCTfNvCnmBrJACGolV1o4tvA",
+                "title": "Giấc mộng sau rèm  Tập 20",
+                "description": "Phim bộ  Tình Cảm Đài Loan 1995  Giấc mộng sau rèm \nLưu Đức Khải  ~~ Trần Đức Dung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m48Go4pHbzE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m48Go4pHbzE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m48Go4pHbzE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/m48Go4pHbzE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "trangmuathu",
+                "playlistId": "PLFNpKwKut7AHZaTuB2ol6CwRd_7pvz0OK",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "m48Go4pHbzE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "m48Go4pHbzE",
+                "videoPublishedAt": "2020-07-05T15:46:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6wbLcgsGiiKvktmTDzw51pDCOO4",
+            "id": "UExGTnBLd0t1dDdBSFphVHVCMm9sNkN3UmRfN3B2ejBPSy4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2020-07-06T07:10:57Z",
+                "channelId": "UCTfNvCnmBrJACGolV1o4tvA",
+                "title": "Giấc mộng sau rèm  Tập 21",
+                "description": "Phim bộ  Tình Cảm Đài Loan 1995  Giấc mộng sau rèm \nLưu Đức Khải  ~~ Trần Đức Dung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PhDobOusBv0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PhDobOusBv0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PhDobOusBv0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PhDobOusBv0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "trangmuathu",
+                "playlistId": "PLFNpKwKut7AHZaTuB2ol6CwRd_7pvz0OK",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PhDobOusBv0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "PhDobOusBv0",
+                "videoPublishedAt": "2020-07-06T06:24:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3UkYiiIi3P5eQpZTjsx7tU7_mVs",
+            "id": "UExGTnBLd0t1dDdBSFphVHVCMm9sNkN3UmRfN3B2ejBPSy5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2020-07-06T22:26:14Z",
+                "channelId": "UCTfNvCnmBrJACGolV1o4tvA",
+                "title": "Giấc mộng sau rèm  Tập 22",
+                "description": "Phim bộ  Tình Cảm Đài Loan 1995  Giấc mộng sau rèm \nLưu Đức Khải  ~~ Trần Đức Dung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xQOorQNp1T4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xQOorQNp1T4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xQOorQNp1T4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xQOorQNp1T4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "trangmuathu",
+                "playlistId": "PLFNpKwKut7AHZaTuB2ol6CwRd_7pvz0OK",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xQOorQNp1T4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "xQOorQNp1T4",
+                "videoPublishedAt": "2020-07-06T13:39:07Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 22,
+        "resultsPerPage": 50
+    }
+}

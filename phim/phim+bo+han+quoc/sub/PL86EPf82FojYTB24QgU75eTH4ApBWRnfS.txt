@@ -1,0 +1,982 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "qV-vzMuMzkOxpgxkOAU4T24mt6w",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "EdRyyUGpD3uo-WxBixNRxJAUny4",
+            "id": "UEw4NkVQZjgyRm9qWVRCMjRRZ1U3NWVUSDRBcEJXUm5mUy43NDhFRTgwOTRERTU4Rjg3",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:20:10Z",
+                "channelId": "UC2e3kawrWpuq8gGzsJkkUcQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Rickey Zimmerman",
+                "playlistId": "PL86EPf82FojYTB24QgU75eTH4ApBWRnfS",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WlDCdbSzLwQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "WlDCdbSzLwQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QpfaAkD4BZFrZ4w1tXupc7MR2jw",
+            "id": "UEw4NkVQZjgyRm9qWVRCMjRRZ1U3NWVUSDRBcEJXUm5mUy41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:19:08Z",
+                "channelId": "UC2e3kawrWpuq8gGzsJkkUcQ",
+                "title": "Ác Chiến Tụ Hiền Trang Tiêu Phong Suýt Bỏ Mạng Dưới Tay Võ Lâm Trung Nguyên   Tân Thiên Long Bát Bộ",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qQm8Jnv9KjM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qQm8Jnv9KjM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qQm8Jnv9KjM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qQm8Jnv9KjM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qQm8Jnv9KjM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Rickey Zimmerman",
+                "playlistId": "PL86EPf82FojYTB24QgU75eTH4ApBWRnfS",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qQm8Jnv9KjM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "qQm8Jnv9KjM",
+                "videoPublishedAt": "2019-12-24T04:29:31Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "lCBSCnpFG-HYMUdvmiF9dcqawX4",
+            "id": "UEw4NkVQZjgyRm9qWVRCMjRRZ1U3NWVUSDRBcEJXUm5mUy4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:20:10Z",
+                "channelId": "UC2e3kawrWpuq8gGzsJkkUcQ",
+                "title": "Trailer phim hoang cung.flv",
+                "description": "Trong tháng 4 này, Khán giả của VTC2  sẽ được gặp lại dàn diễn viên Hàn Quốc nổi tiếng Yoon Eun Hee, Joo Ji Hoon và Kim Jeong Hoon qua bộ phim truyền hình dài tập \"Hoàng Cung\" (Goong) được phát sóng vào lúc 21h từ thứ 2 đến chủ nhật hàng tuần, bắt đầu từ ngày 24/04/2012",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sQBtf7kBDTg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sQBtf7kBDTg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sQBtf7kBDTg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rickey Zimmerman",
+                "playlistId": "PL86EPf82FojYTB24QgU75eTH4ApBWRnfS",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sQBtf7kBDTg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "sQBtf7kBDTg",
+                "videoPublishedAt": "2012-04-26T09:06:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ixg9skcW6eEwx5jKaVcD8gJSpZc",
+            "id": "UEw4NkVQZjgyRm9qWVRCMjRRZ1U3NWVUSDRBcEJXUm5mUy41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:20:10Z",
+                "channelId": "UC2e3kawrWpuq8gGzsJkkUcQ",
+                "title": "tình yêu tuổi 19",
+                "description": "MV Goong",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w-xj2Zsp69c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w-xj2Zsp69c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w-xj2Zsp69c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/w-xj2Zsp69c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/w-xj2Zsp69c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Rickey Zimmerman",
+                "playlistId": "PL86EPf82FojYTB24QgU75eTH4ApBWRnfS",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "w-xj2Zsp69c"
+                }
+            },
+            "contentDetails": {
+                "videoId": "w-xj2Zsp69c",
+                "videoPublishedAt": "2009-06-08T13:09:49Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "YHFZSir9Q1L_lB3owUyBppogZ4E",
+            "id": "UEw4NkVQZjgyRm9qWVRCMjRRZ1U3NWVUSDRBcEJXUm5mUy4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:20:10Z",
+                "channelId": "UC2e3kawrWpuq8gGzsJkkUcQ",
+                "title": "Hoang Cung  Trailer VTC2",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YwRpnSZJRFA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YwRpnSZJRFA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YwRpnSZJRFA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YwRpnSZJRFA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Rickey Zimmerman",
+                "playlistId": "PL86EPf82FojYTB24QgU75eTH4ApBWRnfS",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YwRpnSZJRFA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "YwRpnSZJRFA",
+                "videoPublishedAt": "2012-04-23T10:12:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Wq7DF8eAbKe67DJYVFTvgi3gIyc",
+            "id": "UEw4NkVQZjgyRm9qWVRCMjRRZ1U3NWVUSDRBcEJXUm5mUy41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:20:10Z",
+                "channelId": "UC2e3kawrWpuq8gGzsJkkUcQ",
+                "title": "Yoon Eun Hye - “Thái Tử Phi” Của Màn Ảnh Hàn Và Sự Nghiệp Sớm Nở Tối Tàn",
+                "description": "Yoon Eun Hye - “Thái Tử Phi” Của Màn Ảnh Hàn Và Sự Nghiệp Sớm Nở Tối Tàn\n\nTừ một nữ hoàng ratings với hàng loạt phim truyền hình thành công như Hoàng cung (2006), Tiệm cafe hoàng tử số 1 (2007), và Chàng trai vườn nho (2006)…, sự nghiệp của Yoon Eun Hye bỗng tụt dốc không phanh và cô trở thành một trong những nữ diễn viên có nhiều antifan nhất nhì tại Hàn Quốc. Sau khoảng thời gian dài im hơi lặng tiếng, cuối cùng cô cũng trở lại màn ảnh nhỏ với Love Alert, tuy nhiên con đường để Eun Hye tìm lại sự yêu mến từ khán giả còn rất nhiều khó khăn.\n\n-------------------------------------\n\nCám ơn bạn đã xem video Yoon Eun Hye - “Thái Tử Phi” Của Màn Ảnh Hàn Và Sự Nghiệp Sớm Nở Tối Tàn\n\nĐăng ký kênh Người Thành Công: https://youtu.be/cr6A21uTmxY\n\nFanpage Người Nổi Tiếng: http://bit.ly/1QjTuzn \n\nGroup Người Nổi Tiếng: http://bit.ly/2uOuo9p\n\nWebsite Người Nổi Tiếng 102: http://nguoinoitieng102.vn/\n\n-------------------------------------\n\nNhững video có thể bạn thích:\n\nSong Hye Kyo – Ngọc Nữ Nghèo Khó Và Cuộc Tình Định Mệnh Thay Đổi Cuộc Đời: https://youtu.be/H2U70DkJHcA\n\nKim Tae Hee - “Quốc Bảo Xứ Kim Chi” Và Chuyện Tình Đẹp Với “Hoàng Tử Mắt Hí”: https://youtu.be/SVRIoQP2Sq4\n\nKim Jae Joong - Từ Bán Máu Mua Thức Ăn, Đến Ca Sĩ Thần Tượng Giàu Nhất Kpop: https://youtu.be/g6IGEDPmIbE\n\nLee Min Ho - Tai Nạn Định Mệnh Tạo Nên “Nam Thần Thanh Xuân” Của Showbiz Hàn: https://youtu.be/Fzin_5xDeRU\n\nDiễn Viên 'Vườn Sao Băng' Hàn Quốc Sau 9 Năm: Người Vang Danh, Kẻ Loay Hoay Tìm Chỗ Đứng: https://youtu.be/i35HPUZ_ZS0\n\n\"Chị Đại\" Kim Hye Soo - Nữ Hoàng Gợi Cảm Và Quyền Lực Bậc Nhất Showbiz Hàn Quốc: http://bit.ly/2GASha5\n\nDàn Diễn Viên “Bản Tình Ca Mùa Đông” Sau 16 Năm: Người Hạnh Phúc Viên Mãn, Kẻ Từ Giã Cõi Đời:  http://bit.ly/2LfazfZ\n\nNgày Ấy – Bây Giờ Của Dàn Diễn Viên \"Ước Mơ Vươn Tới Một Ngôi Sao\": http://bit.ly/2Ewl39Y\n\nDàn Sao Đình Đám Của Phim Thần Bài (1989) Ngày Ấy, Bây Giờ Ra Sao? http://bit.ly/2zT336d\n\nAi Là Đoàn Dự Hoàn Hảo Nhất Trong Thiên Long Bát Bộ? http://bit.ly/2NtaDNk\n\nVăn Tụng Nhàn - “Em gái” Thành Long Bỏ Lại Hào Quang Phía Sau Để Làm Mẹ Hiền, Vợ Đảm: http://bit.ly/2Qly8pn\n\nGia Tộc Họ Viên – Dòng Họ “Điện Ảnh - Võ Thuật” Hùng Mạnh Nhất Hong Kong: http://bit.ly/2wuXSql\n\nAi Là Nàng “Bạch Xà” Đẹp Nhất Màn Ảnh Hoa Ngữ - Phần 1: http://bit.ly/2ODCmai\n\nBí Ẩn Thân Thế Của Lão Tử, Nhân Vật Có Tầm Ảnh Hưởng Bậc Nhất Lịch Sử Trung Hoa: http://bit.ly/2vL2ok0\n\nBí Ẩn Cái Chết Của Tần Thủy Hoàng Và Sự Thật Về Giấc Mơ Bất Tử: http://bit.ly/2vCFF9G\n\nNhững Giọng Ca Nam \"Tượng Đài\" Của Làng Nhạc Hoa Ngữ - Phần 1: http://bit.ly/2Ku6eU2\n\nĐào Đại Vũ – Tài Tử Hàng Đầu Hong Kong Mất Đi Sự Nghiệp Và Gia Đình Chỉ Vì Cô Hoa Hậu: http://bit.ly/2IPzjg5\n\nDàn Sao 'Đường Bá Hổ Điểm Thu Hương' Sau 25 Năm, Giờ Ra Sao? Phần 1: http://bit.ly/2rS1hx3\n\nDàn Diễn Viên ‘Cái Thế Hào Hiệp - Tác Phẩm Giúp Châu Tinh Trì Nổi Tiếng’ Bây Giờ Ra Sao? http://bit.ly/2IIYxc8\n\nLý Do Thực Sự Khiến Châu Tinh Trì Không Còn Tha Thiết Đóng Phim: http://bit.ly/2JCdwWE\n\nMỹ Nhân Từng ‘Phản Bội’ Châu Tinh Trì – 8 Năm Sau, Cái Kết Không Ai Ngờ Tới Đã Xảy Ra!: http://bit.ly/2pNXDUD\n\nChâu Tinh Trì Và Những Mối Tình ‘Khắc Cốt Ghi Tâm’ Ít Ai Biết: http://bit.ly/2A7zRpA\n\nCuộc Đời Bi Đát Của 'Kỳ Nhân Võ Cóc' Trong 'Tuyệt Đỉnh Kungfu', Cao Thủ Võ Thuật Sa Cơ Suốt 20 Năm: http://bit.ly/2iw3ObN\n\nGia Thế Hiển Hách Của Lão Ăn Mày Và Cao Thủ Thiếu Lâm Trong 'Tuyệt Đỉnh Kungfu'': http://bit.ly/2iunlJx\n\nDàn Diễn Viên Phụ ‘Đình Đám’ Của “Đội Bóng Thiếu Lâm” Bây Giờ Ra Sao?: http://bit.ly/2iYNeVJ\n\n\"Hoa Đán Hàng Đầu TVB\" Quan Vịnh Hà Và Mối Tình Chị Em Gần 3 Thập Kỷ: http://bit.ly/2iwKleq\n\nNhững Cặp Đôi ‘Thiên Trường Địa Cửu’ Của TVB, Giờ Ra Sao? Phần 1: http://bit.ly/2yIZtwa\n\nTrương Quốc Vinh – Tuổi Thơ Bất Hạnh & Chuyện Tình ‘Bất Tử’ Của Huyền Thoại Châu Á: http://bit.ly/2ylZiaj\n\n‘Huyền Thoại Châu Á’ Mai Diễm Phương - Cuộc Đời Huy Hoàng Mà Ngắn Ngủi Và Cô Độc: http://bit.ly/2zdqDvw\n\nVì Sao 14 Năm Qua Người Hong Kong Không Thích Lưu Đức Hoa? http://bit.ly/2ilWzqh\n\nDàn Diễn Viên “Người Trong Giang Hồ” Sau 20 Năm, Bây Giờ Ra Sao? Phần 1: http://bit.ly/2hcb7p4\n\nNhững Chàng Cảnh Sát Được Mệnh Danh “Sát Thủ Bà Nội Trợ” Của TVB: http://bit.ly/2iA4Dnm\n\n#YoonEunHye #ShowbizHanQuoc #NguoiNoiTieng",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4M1HsXLsSQA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4M1HsXLsSQA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4M1HsXLsSQA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4M1HsXLsSQA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4M1HsXLsSQA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Rickey Zimmerman",
+                "playlistId": "PL86EPf82FojYTB24QgU75eTH4ApBWRnfS",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4M1HsXLsSQA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "4M1HsXLsSQA",
+                "videoPublishedAt": "2019-02-21T04:45:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "N5BKalBttfDH0lvYNutYAtE3hAs",
+            "id": "UEw4NkVQZjgyRm9qWVRCMjRRZ1U3NWVUSDRBcEJXUm5mUy45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:20:10Z",
+                "channelId": "UC2e3kawrWpuq8gGzsJkkUcQ",
+                "title": "예측불허 황실입궁기 [궁] Princess Hours 화해하고 사랑을 확인하는 신과 채경",
+                "description": "Click \"CC for subtitles\n\nPrincess Hours(궁) 23회 EP23 2006/03/29 MBC TV Republic of Korea \n\n궁 FULL버전 다시 보러가기\n▶WAVVE\nhttps://m.wavve.com/player/vod.html?contentid=M_1000143100001100000.1\n▶imbc \nhttp://m.imbc.com/Vod/VodPlay?progCode=1000143100000100000&broadcastID=1000143100001100000&type=VOD\n\n#윤은혜 #주지훈 #19세기와21세기의만남",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PIpKjs3tdts/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PIpKjs3tdts/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PIpKjs3tdts/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PIpKjs3tdts/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PIpKjs3tdts/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Rickey Zimmerman",
+                "playlistId": "PL86EPf82FojYTB24QgU75eTH4ApBWRnfS",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PIpKjs3tdts"
+                }
+            },
+            "contentDetails": {
+                "videoId": "PIpKjs3tdts",
+                "videoPublishedAt": "2012-03-19T04:52:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "1OciSXG5B-WcpNr8qnF34NFVuBo",
+            "id": "UEw4NkVQZjgyRm9qWVRCMjRRZ1U3NWVUSDRBcEJXUm5mUy5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:20:10Z",
+                "channelId": "UC2e3kawrWpuq8gGzsJkkUcQ",
+                "title": "3 vị hoàng hậu nổi tiếng nhất trong lịch sử Han Quốc",
+                "description": "TINH HOA LỊCH SỬ LÀ CHANEL LÀM CHỦ ĐỀ LỊCH SỬ GIÚP CÁC BẠN HIỂU RÕ HƠN VỀ TIẾN TRÌNH LỊCH SỬ TRUNG HOA VÀ VIỆT NAM ĐẶC BIỆT LÀ TRUNG HOA.THÔNG QUA KÊNH CÁC BẠN SẼ ĐƯỢC HIỂU RÕ HƠN VỀ CÁC VỊ HOÀNG HẬU, HOÀNG ĐẾ, THÁI TỬ,CÔNG CHÚA CỦA CÁC THỜI ĐẠI PHONG KIẾN XƯA GIỮA HAI NƯỚC VIỆT NAM, TRUNG HOA.\nHÃY LIKE- SHARE- SUBCRIBE VÀ ĐÓNG GÓP Ý KIẾN VỀ NHÂN VẬT LỊCH SỬ BẠN MUỐN TÌM HIỂU.\nCẢM ƠN CÁC BẠN ĐÃ THEO DÕI KÊNH\n- NGUỒN: KÊNH 14, ĐẠI KỈ NGUYÊN, BÁO DÂN VIỆT, BÁO KIẾN THỨC..\n Đăng kí kênh : \n  -      UCvdFbNYr9KPr8AdAfHNmTFQ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CcOj3JuDLBk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CcOj3JuDLBk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CcOj3JuDLBk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CcOj3JuDLBk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CcOj3JuDLBk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Rickey Zimmerman",
+                "playlistId": "PL86EPf82FojYTB24QgU75eTH4ApBWRnfS",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "CcOj3JuDLBk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "CcOj3JuDLBk",
+                "videoPublishedAt": "2018-08-17T14:18:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8O1ZzrVsMyhNQmeiT_GedaNE9eU",
+            "id": "UEw4NkVQZjgyRm9qWVRCMjRRZ1U3NWVUSDRBcEJXUm5mUy45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:20:10Z",
+                "channelId": "UC2e3kawrWpuq8gGzsJkkUcQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Rickey Zimmerman",
+                "playlistId": "PL86EPf82FojYTB24QgU75eTH4ApBWRnfS",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_6wotY5FzKE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "_6wotY5FzKE"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "I_1iBm1T8YWY9P0JukwZctgVAbY",
+            "id": "UEw4NkVQZjgyRm9qWVRCMjRRZ1U3NWVUSDRBcEJXUm5mUy4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:20:10Z",
+                "channelId": "UC2e3kawrWpuq8gGzsJkkUcQ",
+                "title": "Phim Kinh Điển | Hậu Cung Chân Hoàn Truyện - Tập 1 | Phim Cổ Trang Trung Quốc Hay Nhất 2019",
+                "description": "Hậu Cung Chân Hoàn Truyện tập 1 phim cổ trang trung quốc hay nhất 2019. Phim bộ trung quốc hay nhất lồng tiếng 2019.\n☑ Số tập: 52 tập\n☑ Xem trọn bộ: https://www.youtube.com/playlist?list=PLPNLQUVxXRZjuvYTbb7dNyJbV6BbB2wK0\nHậu cung Chân Hoàn truyện, thường gọi tắt là Chân Hoàn Truyện, là một bộ phim truyền hình cổ trang kinh điển của Trung Quốc, tương tự như Tây du ký (1986) hay Hoàn Châu cách cách (1997). Bộ phim nổi tiếng tới mức là bộ phim Trung Quốc đầu tiên được mua bản quyền và lồng tiếng Anh để phát sóng tại Mỹ.\n\nĐây là bộ phim cung đình ăn khách nhất trên màn ảnh Đại lục năm 2012 (được mua bản quyền và phát sóng chính thức trên kênh Youtube Việt Nam ID Media TV năm 2019) và được đánh giá là tác phẩm cổ trang kinh điển của Trung Quốc trong nhiều năm trở lại đây. Bộ phim tạo nên cơn sốt tương tự như Tây du ký (1986) hay Hoàn Châu cách cách (1997), bộ phim là phần trước của Hậu Cung Như Ý truyện. Chân Hoàn truyện có mặt trong danh sách những bộ phim được khán giả đón xem lại hàng năm.\nPhim được chuyển thể từ tiểu thuyết ngôn tình cùng tên của nhà văn trẻ Lưu Liễm Tử.\nNội dung phim xoay quanh những cuộc tranh đấu quyền lực và tình yêu của những nữ nhân trong chốn thâm cung vào triều đại Hoàng đế Ung Chính Nhà Thanh. Các phi tần lập mưu, tranh đấu nhau để có được quyền lực cũng như sự sủng ái của Hoàng đế.\n\nChân Hoàn (do Tôn Lệ thủ vai) là một thiếu nữ hiền lành, không màng danh lợi, thế sự, thế nhưng luôn bị hãm hại bởi những thế lực trong hậu cung. Hoàn cảnh buộc cô phải cứu lấy bản thân mình để rồi sau này cô trở thành phi tần quyền lực bậc nhất trong chốn hậu cung, nhưng điều gì cũng có cái giá của nó, để bước lên bảo tọa Hoàng thái hậu, Chân Hoàn vì mất dần những người thân yêu bên cạnh mình nên trở thành người phụ nữ tự cường, quyền lực, ra tay phòng thủ trước những âm mưu của người khác.\nCó thể xem đây là vai diễn đỉnh cao của mỹ nhân sinh năm 1982 từng múa minh họa cho Triệu Vy trong phim Tân dòng sông ly biệt. Và với vai Chân Hoàn, Tôn Lệ trở thành nữ diễn viên Trung Quốc đầu tiên được đề cử danh hiệu Nữ diễn viên chính xuất sắc giải thưởng truyền hình danh giá Emmy.\nMột món quà xuất phát từ trái tim của đội ngũ ID Media dành cho các bạn khán giả!\n\n►Website: https://cmcmedia.com.vn/\n►Fanpage: https://www.facebook.com/IdmediaPhim/\n►Twitter: https://twitter.com/IDMedia3\nChúc các bạn có những phút giây thư giãn!\n\n© Bản quyền thuộc về ID Media TV\n© Copyright by ID Media TV ❌ Do not Reup\n\nTag:  #CHANHOANTRUYEN #PHIMBOTRUNGQUOC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/anI8aIIECm8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/anI8aIIECm8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/anI8aIIECm8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/anI8aIIECm8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/anI8aIIECm8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Rickey Zimmerman",
+                "playlistId": "PL86EPf82FojYTB24QgU75eTH4ApBWRnfS",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "anI8aIIECm8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "anI8aIIECm8",
+                "videoPublishedAt": "2019-05-25T12:31:40Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "LFxkQd_2AuPU4KfNWv1lb5ltnwg",
+            "id": "UEw4NkVQZjgyRm9qWVRCMjRRZ1U3NWVUSDRBcEJXUm5mUy41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:20:10Z",
+                "channelId": "UC2e3kawrWpuq8gGzsJkkUcQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Rickey Zimmerman",
+                "playlistId": "PL86EPf82FojYTB24QgU75eTH4ApBWRnfS",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DbgjKhVhnyo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "DbgjKhVhnyo"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "x9I9M5n-QQXRFqf7G5pNoIy091w",
+            "id": "UEw4NkVQZjgyRm9qWVRCMjRRZ1U3NWVUSDRBcEJXUm5mUy4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:20:10Z",
+                "channelId": "UC2e3kawrWpuq8gGzsJkkUcQ",
+                "title": "Mỹ Nhân Thiên Hạ Tập 1 | Thuyết Minh | Phim Tình Cảm Trung Quốc Hay",
+                "description": "Xem thêm nhiều phim hay : https://bit.ly/2SWFvql\nXem trọn bộ : https://goo.gl/6HtDmu\n\nPhim Mỹ Nhân Thiên Hạ là bộ phim truyền hình trung quốc dài 27 tập thuyết minh cổ trang xoay quanh chuyện tình Từ Hận. Cũng như những bộ phim khác chuyện tình cảm nào cũng có phần kết cuộc buồn và đau khổ không xuôn sẽ như mình nghĩ, đạo diễn Lý Tuệ Châu muốn nhấn đến khác giải trong tình yêu phải có sữ trong sáng không có thù hận mới đem lại kết quả tốt đẹp như ta mong muốn. Gia Nguyên là một cô gái xinh đẹp, đảm đang, sống và làm việc trong một gia đình có truyền thống may dệt lâu đời và nổi tiếng. Và cô cũng có một mối tình khá êm đẹp với Cảnh Phong, đại công tử của một gia đình giàu có trong vùng. Thế nhưng chuyện tình đó nhanh chóng bị chia cắt do mối thù truyền kiếp của hai gia tộc nay bùng phát. Chia tay Cảnh Phong nàng Gia Nguyên cảm thấy buồn nhưng an ủi được phần nào khi được 2 người đàn ông là Từ Hận và Thiên Vũ quan tâm chăm sóc.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k4EmV6i24v8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k4EmV6i24v8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k4EmV6i24v8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/k4EmV6i24v8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/k4EmV6i24v8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Rickey Zimmerman",
+                "playlistId": "PL86EPf82FojYTB24QgU75eTH4ApBWRnfS",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "k4EmV6i24v8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "k4EmV6i24v8",
+                "videoPublishedAt": "2017-12-25T14:08:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zIecP_h86M3Oht8F8lsLR1YSbTw",
+            "id": "UEw4NkVQZjgyRm9qWVRCMjRRZ1U3NWVUSDRBcEJXUm5mUy4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:20:10Z",
+                "channelId": "UC2e3kawrWpuq8gGzsJkkUcQ",
+                "title": "Cười mỏi hàm hậu trường Gia Đình Là Số 1, Heri trong phim ghét cả thế giới thì ngoài đời ai cũng yêu",
+                "description": "⏩ Xem thêm những clips siêu hài: http://bit.ly/2yLCH7c\n\nSUBSCRIBE MORE FUNNY CLIP!!!\n✅ Subcribe:http://bit.ly/ghienphimhan\n\n✅ All the content in this video, we want to send the highlighted viewers and direct viewers to the full episode. We wanna share the best highlight with people that love serial drama like us.Moreover, all of best cut have just bring the entertainment factor without monetized.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vBuHULdOh08/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vBuHULdOh08/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vBuHULdOh08/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vBuHULdOh08/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vBuHULdOh08/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Rickey Zimmerman",
+                "playlistId": "PL86EPf82FojYTB24QgU75eTH4ApBWRnfS",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vBuHULdOh08"
+                }
+            },
+            "contentDetails": {
+                "videoId": "vBuHULdOh08",
+                "videoPublishedAt": "2018-06-04T05:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IGVpgnfxwUGpP1Pjoa8xDfelInU",
+            "id": "UEw4NkVQZjgyRm9qWVRCMjRRZ1U3NWVUSDRBcEJXUm5mUy5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:20:10Z",
+                "channelId": "UC2e3kawrWpuq8gGzsJkkUcQ",
+                "title": "Video đã xóa",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GYVtsDy8NPY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GYVtsDy8NPY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GYVtsDy8NPY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GYVtsDy8NPY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GYVtsDy8NPY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Rickey Zimmerman",
+                "playlistId": "PL86EPf82FojYTB24QgU75eTH4ApBWRnfS",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GYVtsDy8NPY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "GYVtsDy8NPY",
+                "videoPublishedAt": "2019-12-21T10:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FlUBC50X7n0Ha6cRMJiHTVtckAA",
+            "id": "UEw4NkVQZjgyRm9qWVRCMjRRZ1U3NWVUSDRBcEJXUm5mUy4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:20:10Z",
+                "channelId": "UC2e3kawrWpuq8gGzsJkkUcQ",
+                "title": "LÂM TÂM NHƯ | ĐẠI TỪ ĐƯỜNG - TẬP 1 THUYẾT MINH | PHIM CỔ TRANG TRUNG QUỐC HAY KINH ĐIỂN 2020",
+                "description": "LÂM TÂM NHƯ | ĐẠI TỪ ĐƯỜNG - TẬP 1 THUYẾT MINH | PHIM CỔ TRANG TRUNG QUỐC HAY KINH ĐIỂN 2020\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/DaiTuDuong\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/Yeah1tv\n\nNỘI DUNG PHIM:\n\n\"Đại Từ Đường\" xoay quanh cuộc đời của cô thôn nữ Trịnh Tú Vân. Cha là Trịnh Chi Minh – một chủ gánh hát. Cuộc đời đầy sóng gió và gian khổ của nàng bắt đầu từ lúc được gả vào nhà tiền Tạ, làm vợ của Tạ Trí Khanh – cháu nhà tiền Tạ, người đã thương thầm nhớ trộm nàng từ lâu. Nhưng người Tú Vân yêu trước đó là người bạn thanh mai trúc mã Tạ Trí Thành – cháu của nhà hậu Tạ. Vì nhà hậu Tạ chê gia cảnh của Tú Vân không tương xứng nên đã không đồng ý hôn sự của nàng với Trí Thành. Thay vào đó, người đứng đầu nhà hậu Tạ – Tam gia lại tổ chức hôn sự cho Trí Thành với thiên kim tiểu thư nhà họ Hồ – Xảo Trân, một gia tộc giàu có.\n\nTú Vân vừa bước chân vào nhà tiền Tạ thì Trí Khanh vì nàng mà đã gặp nạn. Sau khi hồi phục, Trí Khanh không thể “động phòng” được, tính tình trở nên cáu gắt dù Tú Vân rất mực ân cần chăm sóc nhưng vẫn không giúp ích gì được, nàng còn chịu biết bao tủi khổ, hành hạ. Muội muội của Trí Khanh là Tạ Ngọc Phần vì mê anh kép chính của gánh hát nhà Tú Vân, bị ngăn cấm nên bỏ nhà ra đi. Trí Khanh khi đó lại muốn đi làm ăn xa dù bệnh vẫn chưa khỏi. Tháng ngày thấm thoát trôi đi trong sự chờ đợi, Tú Vân ở nhà vẫn một mực phụng dưỡng cha chồng và chăm sóc cho đứa em thơ của chồng nàng – Tạ Trí Tương khiến cho tình cảm chị dâu – em chồng ngày càng khăng khít.\n\nTrí Khanh bất ngờ trở về dù không làm nên sự nghiệp gì, rồi lại nhanh chóng ra đi mà không ai biết chàng đã khỏi bệnh. Ngọc Phần quay trở về nhà sau những tháng ngày sống cực khổ, thì bị cha nàng đuổi ra khỏi nhà, khiến nàng nhảy sông tự tử. Và càng bất ngờ hơn, Tú Vân lại mang thai trong sự dèm pha của mọi người. Người đứng ra bảo vệ Tú Vân trước mọi lời dị nghị của dòng tộc chính là Trí Tương. Trong khi đó, vợ của Trí Thành là Xảo Trân thì nghi ngờ bào thai đó chính là của chồng mình khiến cho mọi việc thêm rắc rối... mời mọi người đón xem bộ phim \"Đại Từ Đường\" để biết Tú Vân - Lâm Tâm Như làm bảo vệ đứa con của mình và vượt qua những sóng gió của cuộc đời.\n\nTên tiếng anh: Ancestral Temple (2006)\nNgôn Ngữ : Thuyết Minh\nChât lượng: HD 720p\nThời lượng: 45p/tập\nSố tập: 43 tập\nThể loại : Phim Cổ Trang, Phim Dã Sử\nQuốc gia : Trung Quốc\nĐạo diễn : Diêm Kiến Cương\nDiễn viên: Lâm Tâm Như, Triệu Phi Hồng, Phan Hồng, Cao Minh, Triệu Lương, Nhất  Chân, Vương Mậu Lôi...\nNăm phát hành : 2006\n\n© Các video trên kênh \" http://bit.ly/Yeah1tv \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nInstagram: https://www.instagram.com/yeah1_tv/\n\nSubscribe các kênh chính của Yeah1 Network:\n\nNew Films:                  http://bit.ly/NEWFILMS\nYEAH1 MUSIC :          http://bit.ly/Yeah1music\nYEAH1 MOVIE :          http://bit.ly/Yeah1movies\nYEAH1 KIDS :              http://bit.ly/Yeah1kids\nNgọc Thảo :                 http://bit.ly/Ngocthao\n-----------------------------------------\n#Yeah1TV #LamTamNhu #DaiTuDuong",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JWhVPyBEMMw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JWhVPyBEMMw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JWhVPyBEMMw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JWhVPyBEMMw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JWhVPyBEMMw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Rickey Zimmerman",
+                "playlistId": "PL86EPf82FojYTB24QgU75eTH4ApBWRnfS",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "JWhVPyBEMMw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "JWhVPyBEMMw",
+                "videoPublishedAt": "2019-12-20T11:30:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "JO_4GWZn9qm36h3Xsn5jVzU5csE",
+            "id": "UEw4NkVQZjgyRm9qWVRCMjRRZ1U3NWVUSDRBcEJXUm5mUy45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:20:10Z",
+                "channelId": "UC2e3kawrWpuq8gGzsJkkUcQ",
+                "title": "Top 6 phim truyện Trung Quốc về chốn hậu cung hay nhất",
+                "description": "Top 6 phim truyện Trung Quốc về chốn hậu cung hay nhất\n\nTừ trước đến nay, một trong những đề tài phim cổ trang Trung Quốc được khán giả yêu thích nhất là đề tài về chốn hậu cung. Theo dõi từng tác phẩm phim ảnh ấy, chúng ta không chỉ giải trí, thư giãn sau những ngày làm việc mệt mỏi, mà còn là cơ hội để hiểu thêm về những nét văn hóa cổ xưa chốn thâm cung ở Trung Hoa. Bên cạnh đó, những bộ phim về đề tài tranh đấu chốn hậu cung còn đem đến cho người xem cái nhìn khác, ẩn sau ánh hào quang rực rỡ của chốn cung đình là sự đấu tranh quyết liệt của những phi tần thời xưa được thể hiện lại qua từng vai diễn. Từ đó, chúng ta càng hiểu sâu cũng như cảm thông cho số phận của những kiếp hồng nhan nơi cung cấm. Hôm nay, Toplist xin giới thiệu đến các bạn danh sách 6 bộ phim hay nhất về đề tài chốn hậu cung Trung Hoa. Toplist hi vọng rằng sẽ đem đến cho các bạn những thông tin bổ ích để các bạn tham khảo và chọn lựa cho mình bộ phim giải trí. Và bây giờ, hãy cùng Toplist khám phá xem đó là những cái tên nào nhé!\n\n-----------------------------------------★★★★★-----------------------------------------\n● Tác giả: Phương Nhi\n● Link bài viết: https://toplist.vn/top-list/phim-truyen-trung-quoc-ve-chon-hau-cung-hay-nhat-8986.htm\n●Thu âm: Tâm Tình\n● Video: Trung Thành\n★Like Our Fanpage: https://www.facebook.com/tvtoplist/\n★Website Chính Thức: http://toplist.vn/\n-----------------------------------------★★★★★-----------------------------------------\nTop 6 phim truyện Trung Quốc về chốn hậu cung hay nhất\n1. Hậu cung Chân Hoàn truyện\n2. Mỹ nhân tâm kế\n3. Vạn phụng chi vương\n4. Cung tâm kế\n5. Khuynh thế Hoàng phi\n6. Thâm cung nội chiến\n-----------------------------------------★★★★★-----------------------------------------\nLưu ý: Toplist.vn không sở hữu tất cả tư liệu được sử dụng trong video này. Mọi thắc mắc về bản quyền, tài trợ, quảng cáo, cộng tác vui lòng liên hệ email: toplist.vn2016@gmail.com\n\nWe do NOT own all the materials as well as footages used in this video. Please contact toplist.vn2016@gmail.com for copyright matters!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2iRTb7TEEYA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2iRTb7TEEYA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2iRTb7TEEYA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2iRTb7TEEYA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2iRTb7TEEYA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Rickey Zimmerman",
+                "playlistId": "PL86EPf82FojYTB24QgU75eTH4ApBWRnfS",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2iRTb7TEEYA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "2iRTb7TEEYA",
+                "videoPublishedAt": "2019-01-18T14:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bnWUQEbvhUNNHFChWVzhudEFPBw",
+            "id": "UEw4NkVQZjgyRm9qWVRCMjRRZ1U3NWVUSDRBcEJXUm5mUy5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:20:10Z",
+                "channelId": "UC2e3kawrWpuq8gGzsJkkUcQ",
+                "title": "\"Học lỏm bí kíp phòng the của Hoàng hậu \"kỹ nữ\" khiến vua điên đảo, mê mệt",
+                "description": "\"Học lỏm bí kíp phòng the của Hoàng hậu \"kỹ nữ\" khiến vua điên đảo, mê mệt\nNàng kỹ nữ một bước lên mẫu nghi thiên hạ này đã dùng rất nhiều bí thuật phòng the để khiến ông vua có trong tay nghìn mỹ nữ nhưng vẫn sủng ái và cung phụng mình. Triệu Phi Yến là Hoàng hậu thứ hai của Hán Thành Đế Lưu Ngao, Hoàng đế thứ 12 của nhà Hán trong lịch sử Trung Quốc. Không giống với những vị Hoàng hậu có xuất thân cao sang quyền quý khác, Triệu Phi Yến vốn chỉ là cô ca nữ. Mặc dù đã qua tay không ít đàn ông nhưng Phi Yến lại đốn gục trái tim vị Hoàng đế si tình ngay trong lần gặp đầu tiên.Nổi tiếng với dung mạo tuyệt thế, thân hình uyển chuyển tựa như chim yến nhưng không phải khả năng mê hoặc người khác giới của Phi Yến tự nhiên mà có. Nàng kỹ nữ một bước lên mẫu nghi thiên hạ này đã dùng rất nhiều bí thuật phòng the để khiến ông vua có trong tay nghìn mỹ nữ nhưng vẫn sủng ái và cung phụng mình.Khiến Hoàng đê mê mẩn dù không còn là trinh nữTương truyền, Phi Yến tính cách phóng túng, cuộc đời phiêu bạt nên mới dừng chân trốn kĩ viện và gặp được Lưu Ngao. Vị vua này đã bất chấp thân phận thấp hèn mà vời Phi Yến vào cung hoan lạc ngày đêm. Vốn là ca nữ nên Phi Yến rất biết chiều lòng đàn ông. Những kinh nghiệm phòng the làm Hán Thành Đế càng ngày càng mê mẩn nàng Phi Yến xinh đẹp.Trong lúc ái ân, Phi Yến đã dùng mưu lạc hồng để Lưu Ngao nghĩ mình giữa chốn bùn lầy mà vẫn giữ thân thanh khiết. Nàng rải ít màu nước hồng lên chăn gối khi gần gũi vua. Cho rằng Phi Yến xuất thân kỹ nữ nhưng vẫn tự tôn, thanh cao không bị bụi trần vấy bẩn, Lưu Ngao càng trân trọng và say đắm nàng nhiều hơn.Tạo hình Triệu Phi Yến trên phimChăm sóc thân thể bằng những biện pháp đơn giảnĐể có được làn da trắng hồng, Phi Yến thường dùng trứng gà làm đẹp. Nàng lấy lòng trắng trứng gà bôi đều lên mặt, để khô rồi rửa lại bằng nước ấm. Chỉ cần mỗi tuần thực hiện một lần là Phi Yến đã có làn da căng mịn, rạng rỡ như tuổi đôi mươi.Vòng 2 là điểm gây cảm xúc mạnh với rất nhiều đàn ông. Để có một vòng eo thon gọn, Hoàng hậu họ Triệu thường xuyên mát xa vùng bụng bằng rượu nhằm đốt mỡ thừa. Cách này rất hiệu quả để nàng có một thân hình mềm mại, thướt tha tựa như chim yến.Sử sách Trung Hoa ghi lại rằng, ngoài những cách đơn giản trên, Phi Yến còn đặt một viên thuốc vào rốn. Thành phần chính của loại thuốc này là xạ hương, nhân sâm, lộc nhung và các thành phần quý các. Loại thần dược này có tác dụng vô cùng mạnh mẽ, giúp Triệu Phi Yến lúc nào cũng hừng hực sắc xuân, da dẻ mượt mà, trắng sáng. Nhưng nó lại là con dao hai lưỡi vì nguyên liệu chính trong thuốc sử dụng xạ hương. Xạ hương có tác dụng làm da sáng bóng, mịn màng nhưng lại là liều thuốc độc chặn đứng đường sinh nở của người phụ nữ. Tuy nhiên, nếu sử dụng đúng cách thì nhân sâm và lộc nhung là hai vị thuốc quý có tác dụng rất tốt đối với phụ nữ.Vài động tác phòng the cơ bản của Hoàng hậu họ Triệu và bí kíp trẻ mãi không già nhờ chuyện ấySúc âm công là bí kíp phòng the quen thuộc của những đại mỹ nhân xưa để làm hài lòng các đấng quân vương. Tuy nhiên, cách thi triển và luyện tập của mỗi người lại khác nhau. Triệu Phi Yến đã nghĩ ra những bài tập đơn giản mà mang lại hiệu quả không ngờ.Theo ghi chép trong các cổ thư Trung Hoa, súc âm công là một thuật ngữ chỉ phương pháp luyện tập co giãn cơ cô bé và vận khí công, giúp khí hướng vào bên trong, khiến cô bé dần co hẹp lại. Nhờ đó mà mỗi lần giao hoan, đàn ông đều có cảm giác như lần đầu được khám phá kho báu của người mình yêu.Sách Hậu Hán thư có ghi, việc học bí thuật phòng the này không dễ, chỉ người nào thật sự chuyên tâm với phòng trung mới kiên trì tập luyện thành công. Nhất là khi việc học những điều mới mẻ với các khuê nữ bị ràng buộc bởi nhiều lễ giáo phong kiến lại càng khó. Thường những cô nàng thuần thục được kĩ năng này đều là kỹ nữ, họ luyện để phục vụ nghề nghiệp. Triệu Phi Yến đã vận dụng phương pháp này rất thành công chỉ bằng một dải lụa. Nàng lấy dây lụa cột ngang lưng và tập chuyển động phần từ eo xuống mà phần trên vẫn giữ thăng bằng. Động tác có thể hiểu như người tập lắc vòng ngày nay. Nhưng tập với dải lụa sẽ linh hoạt, mềm mại và nhịp nhàng hơn trong việc phối hợp nhịp nhàng các bộ phận.Tạo hình Phi Yến trên phimNgay sau việc tập luyện với dải lụa, người tập phải dùng bế khí chỉ tức nín thở một hơi thật lâu. Với phương pháp hành khí này, nữ nhân có thể co rút bóp mở vùng kín một cách linh hoạt (tương tự phương pháp kegel của thời hiện đại). Vùng eo lưng cũng trở nên uyển chuyển nuột nà. Theo Đông y cách tập này là để vận hành khí huyết, thông lớn âm dương, vinh nhuận thân thể và tập được bài tập này phải biết kinh mạch cơ bản. Cũng nhờ thủ thuật này mà ngay lần đầu ân ái, Phi Yến đã làm Hán Thành Đế tin tưởng tuyệt đối rằng nàng vẫn còn trinh trắng.Đối chiếu với nghiên cứu hiện đại thì những phương pháp luyện tập này khá có cơ sở. Bởi vì hầu hết các kinh mạch đều đi dọc theo cơ thể, th",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OmMQz11-Qg0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OmMQz11-Qg0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OmMQz11-Qg0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OmMQz11-Qg0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OmMQz11-Qg0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Rickey Zimmerman",
+                "playlistId": "PL86EPf82FojYTB24QgU75eTH4ApBWRnfS",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OmMQz11-Qg0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "OmMQz11-Qg0",
+                "videoPublishedAt": "2018-11-09T07:48:31Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Av0dj3H5_q9whksn7dpyL8DzEF4",
+            "id": "UEw4NkVQZjgyRm9qWVRCMjRRZ1U3NWVUSDRBcEJXUm5mUy43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:20:10Z",
+                "channelId": "UC2e3kawrWpuq8gGzsJkkUcQ",
+                "title": "[Nhạc chế] - BẠCH TUYẾT CHUYỆN HẬU HOÀNG SẮP KỂ",
+                "description": "Vẫn là câu chuyện Bạch Tuyết nhưng đáng iuuuu hơn =)))\n\nNhạc gốc: Tiểu thư kiêu kỳ - Vũ Hà \n#hauhoang #nhacche #bachtuyet #bachtuyetchuyenhauhoangsapke\n--------------------------\nLike and subscribe for more videos !!! \n-Facebook: https://www.facebook.com/ohmahshock\n-Instagram: https://www.instagram.com/ohmahshock/ \n-Youtube: https://www.youtube.com/c/hauhoang\n\n© Bản quyền thuộc về Hậu Hoàng\n© Copyright by Hậu Hoàng ☞ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5OgtHubyrjI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5OgtHubyrjI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5OgtHubyrjI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5OgtHubyrjI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Rickey Zimmerman",
+                "playlistId": "PL86EPf82FojYTB24QgU75eTH4ApBWRnfS",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5OgtHubyrjI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "5OgtHubyrjI",
+                "videoPublishedAt": "2019-11-23T13:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oVbxtmI_MqiTs-WkOFQY9lVG370",
+            "id": "UEw4NkVQZjgyRm9qWVRCMjRRZ1U3NWVUSDRBcEJXUm5mUy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:20:10Z",
+                "channelId": "UC2e3kawrWpuq8gGzsJkkUcQ",
+                "title": "Phim Bộ Trung Quốc Hay | Tứ Đại Tài Tử GIang Nam - Tập 01 | Thuyết Minh",
+                "description": "➤ Xem Thêm Nhiều Phim Hay: https://bit.ly/2qWBg06\n➤ Trọn Bộ Tứ Đại Tài Tử Giang Nam Thuyết Minh: https://bit.ly/2VDl5Sc\n\n✤ Đạo diễn: Lý Lực Trì\n✤ Diễn viên: Cao Hạo, Lưu Khải Uy, Lý Lập, Trì Soái, Trương Lệ, Dương Mịch\n✤ Tứ Đại Tài Tử Giang Nam xoay quanh cậu chuyện 4 chàng tài tử hài hước và đào hoa mỗi người tài giỏi một thứ, người giỏi văn người giỏi vỏ các cô gái trong làng nghe danh đến bố vị tài tử điều chết mê chết mệt, 4 chàng trài tử đi đến đâu là nổi tiếng đến đó. Giang Nam tứ đại tài tử lấy bối cảnh thời Minh, xoay quanh 4 vị công tử có tài trí và khí phách hơn người là Đường Bá Hổ, Chúc Chi Sơn, Văn Chương Minh và Từ Trinh Khanh. Bốn chàng trai này được ví như “F4 cổ trang” bởi chuyên hành hiệp trượng nghĩa, ra tay tương trợ cứu giúp dân nghèo bất cứ khi nào và bất cứ ở đâu.\n\nBản quyền thuộc về : YoYo TeLeViSion VietSub\nCopyright by YoYo TeLeViSion VietSub ☞ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/g8H-O0fXn80/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/g8H-O0fXn80/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/g8H-O0fXn80/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/g8H-O0fXn80/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/g8H-O0fXn80/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Rickey Zimmerman",
+                "playlistId": "PL86EPf82FojYTB24QgU75eTH4ApBWRnfS",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "g8H-O0fXn80"
+                }
+            },
+            "contentDetails": {
+                "videoId": "g8H-O0fXn80",
+                "videoPublishedAt": "2019-03-05T12:08:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "GcQ7MxdBHYcJg-d-MHwk82n-aZc",
+            "id": "UEw4NkVQZjgyRm9qWVRCMjRRZ1U3NWVUSDRBcEJXUm5mUy4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:20:10Z",
+                "channelId": "UC2e3kawrWpuq8gGzsJkkUcQ",
+                "title": "Top 6 phim truyện Trung Quốc về chốn hậu cung hay nhất - Toplist.vn",
+                "description": "Top 6 phim truyện Trung Quốc về chốn hậu cung hay nhất  Từ trước đến nay, một trong những đề tài phim cổ trang Trung Quốc được khán giả yêu thích nhất là đề tài về chốn hậu cung. Theo dõi từng tác phẩm phim ảnh ấy, chúng ta không chỉ giải trí, thư giãn sau những ngày làm việc mệt mỏi, mà còn là cơ hội để hiểu thêm về những nét văn hóa cổ xưa chốn thâm cung ở Trung Hoa. Bên cạnh đó, những bộ phim về đề tài tranh đấu chốn hậu cung còn đem đến cho người xem cái nhìn khác, ẩn sau ánh hào quang rực rỡ của chốn cung đình là sự đấu tranh quyết liệt của những phi tần thời xưa được thể hiện lại qua từng vai diễn. Từ đó, chúng ta càng hiểu sâu cũng như cảm thông cho số phận của những kiếp hồng nhan nơi cung cấm. Hôm nay, Toplist xin giới thiệu đến các bạn danh sách 6 bộ phim hay nhất về đề tài chốn hậu cung Trung Hoa. Toplist hi vọng rằng sẽ đem đến cho các bạn những thông tin bổ ích để các bạn tham khảo và chọn lựa cho mình bộ phim giải trí. Và bây giờ, hãy cùng Toplist khám phá xem đó là những cái tên nào nhé!  1  39  2016-12-25 21:29:00   1  39   2016-12-25 21:29:00  Hậu cung Chân Hoàn truyện  Được xem như một trong những bộ phim kinh điển những năm gần đây của điện ảnh Hoa ngữ, bộ phim \"Hậu cung Chân Hoàn truyện\" đã tạo nên cơn sốt, ghi dấu ấn sâu sắc trong lòng người xem bởi nội dung hay, độc đáo cùng với dàn diễn viên xinh đẹp, chuyên nghiệp cũng như phục trang, bối cảnh được đầu tư hết sức kĩ lưỡng. \"Hậu cung Chân Hoàn truyện\" được sản xuất vào năm 2012 do Trịnh Hiểu Long đóng vai trò đạo diễn, đã gây được tiếng vang lớn cũng như giúp tên tuổi của các diễn viên trong phim đến gần với công chúng hơn.Nếu bạn là một tín đồ của điện ảnh Trung Quốc về đề tài tranh đấu chốn hậu cung, chắc chắn bạn không thể bỏ qua bộ phim này. Từng lời thoại, từng cử chỉ, ánh mắt của các nhân vật đều được thể hiện rất có hồn, chân thật. Xem \"Hậu cung Chân Hoàn truyện\", ta sẽ cảm nhận được những góc khuất ẩn sau chốn cung nghiêm tráng lệ ấy: sự cô đơn, tuyệt vọng; sự mưu tính, đa đoan; sự độc ác, tàn nhẫn. Tất cả đều vì mục đích duy nhất là để có thể tồn tại giữa chốn thâm cung đầy nguy hiểm này. Song song đó, ta còn cảm nhận được những tâm tư, nỗi lòng của những giai nhân. Họ đều là \"quốc sắc thiên hương\", đều là mỹ nhân tuyệt thế. Thế nhưng cuộc đời họ mấy ai may mắn nhận được ân sủng vua ban. Họa chăng chỉ là giây phút hư vô ngắn ngủi của cuộc đời. Chốn hậu cung có thể biến một cô gái ngây thơ, trong trắng như Chân Hoàn trở nên mạnh mẽ, quyết đoán, lạnh lùng; có thể để sự tị hiềm, ghen ghét mà hủy hoại tình tỉ muội thâm giao như An Lăng Dung đối với Thẩm Mỵ Trang, Chân Hoàn. Tất cả chì vì một người đàn ông duy nhất: Hoàng thượng.Không những có chiều sâu về mặt tâm lí, tính cách nhân vật, \"Hậu cung Chân Hoàn truyện\" còn mở ra cho chúng ta những góc nhìn khác về chốn hậu cung, để từ đó thêm thương xót, cảm thông cho những má hồng bạc mệnh. Vì lẽ đó, \"Hậu cung Chân Hoàn truyện\" quả thực vô cùng xứng đáng khi được xem như một trong những bộ phim về chốn hậu cung hay nhất từ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cpdn73J8N-E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cpdn73J8N-E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cpdn73J8N-E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cpdn73J8N-E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Rickey Zimmerman",
+                "playlistId": "PL86EPf82FojYTB24QgU75eTH4ApBWRnfS",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "cpdn73J8N-E"
+                }
+            },
+            "contentDetails": {
+                "videoId": "cpdn73J8N-E",
+                "videoPublishedAt": "2018-11-21T01:50:38Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-mte5gzVuPfrjKB8bBpw_3TjEj8",
+            "id": "UEw4NkVQZjgyRm9qWVRCMjRRZ1U3NWVUSDRBcEJXUm5mUy5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:20:10Z",
+                "channelId": "UC2e3kawrWpuq8gGzsJkkUcQ",
+                "title": "Hậu Trường Vua Bánh Mì phiên bản Việt đẹp hơn Hàn Quốc - Ngọc Thảo \"Vua Bánh Mì \"",
+                "description": "Đăng Ký Kênh và Bấm Chuông Để Xem Video Mới Nhất Của Ngọc Thảo\n►http://metub.net/ngocthao\n-----\nTop Playlist Ngọc Thảo Official:\nMakeup A - Z: https://goo.gl/OvFKwF\nDIY cùng Thảo: https://goo.gl/AYp9eq\nLive Makeup: https://goo.gl/2zk39X\n-----\nFollow Ngọc Thảo:\n►Facebook: https://www.facebook.com/ngocthaovn\n►Instagram: https://www.instagram.com/ngocthao_official",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VPjD0En9ed8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VPjD0En9ed8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VPjD0En9ed8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VPjD0En9ed8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VPjD0En9ed8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Rickey Zimmerman",
+                "playlistId": "PL86EPf82FojYTB24QgU75eTH4ApBWRnfS",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "VPjD0En9ed8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "VPjD0En9ed8",
+                "videoPublishedAt": "2019-07-18T07:19:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZjDEkDySCQTiipwRTZIxtMSdLCI",
+            "id": "UEw4NkVQZjgyRm9qWVRCMjRRZ1U3NWVUSDRBcEJXUm5mUy44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2019-12-26T09:20:10Z",
+                "channelId": "UC2e3kawrWpuq8gGzsJkkUcQ",
+                "title": "Phim Cung Đấu 2019 | Cuộc Chiến Hậu Cung - Tập 2 | Phim Cổ Trang Trung Quốc Hay Nhất",
+                "description": "*Các Bạn Xem Trọn Bộ Phim tại đây: https://goo.gl/uYiaaG\nPhim Hay 2018: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đè Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qV9Ivdd5oNY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qV9Ivdd5oNY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qV9Ivdd5oNY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qV9Ivdd5oNY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qV9Ivdd5oNY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Rickey Zimmerman",
+                "playlistId": "PL86EPf82FojYTB24QgU75eTH4ApBWRnfS",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qV9Ivdd5oNY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "qV9Ivdd5oNY",
+                "videoPublishedAt": "2019-01-29T05:02:13Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 28,
+        "resultsPerPage": 50
+    }
+}
