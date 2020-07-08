@@ -1,0 +1,743 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "qZS6ecrAnpeRaC1uOx1CwRu7eGE",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0HLvyghGJguLDqBhhC2d0sFMSaY",
+            "id": "UExrWDlnU190QzR2WTNfZkFmTk1SSldCNlJ0YmNLOWhIZC4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2017-12-07T03:53:30Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vY3_fAfNMRJWB6RtbcK9hHd",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EWNSFwMmbbU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "EWNSFwMmbbU"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vb3KiQh1_x8ACvDHAJKFfFSsCuY",
+            "id": "UExrWDlnU190QzR2WTNfZkFmTk1SSldCNlJ0YmNLOWhIZC41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2017-12-07T03:53:31Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Phim Tình Cảm Thái Lan /  Phim Tâm Lý Thái Lan Hay Nhất 2016",
+                "description": "Phim Tình Cảm Thái Lan  Phim Tâm Lý Thái Lan Hay Nhất  - Phim Tình Cảm Thái Lan  Phim Tâm Lý Thái Lan Hay Nhất \nhttps://www.youtube.com/channel/UC7G6CMUIVALr6P1lpSrSyIA",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m0eQKZcfuTE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m0eQKZcfuTE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m0eQKZcfuTE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/m0eQKZcfuTE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/m0eQKZcfuTE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vY3_fAfNMRJWB6RtbcK9hHd",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "m0eQKZcfuTE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "m0eQKZcfuTE",
+                "videoPublishedAt": "2016-04-26T22:55:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Wphpx_joLalw7Up4cXVnkkyLU_A",
+            "id": "UExrWDlnU190QzR2WTNfZkFmTk1SSldCNlJ0YmNLOWhIZC45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2017-12-07T03:53:34Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Tập Đoàn Xã Hội Đen - Phim Hành Động  Hàn Quốc - Phim Hài 2015",
+                "description": "Tập Đoàn Xã Hội Đen - Phim Hành Động  Hàn Quốc - Phim Hài 2015\nTập Đoàn Xã Hội Đen - Phim Hành Động  Hàn Quốc - Phim Hài 2015\n\nhttps://www.youtube.com/watch?v=msEBzQTDDTg",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/msEBzQTDDTg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/msEBzQTDDTg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/msEBzQTDDTg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/msEBzQTDDTg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vY3_fAfNMRJWB6RtbcK9hHd",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "msEBzQTDDTg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "msEBzQTDDTg",
+                "videoPublishedAt": "2015-11-05T04:10:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "22nNJGYdrFyN97ZrK6lhpXXIuNk",
+            "id": "UExrWDlnU190QzR2WTNfZkFmTk1SSldCNlJ0YmNLOWhIZC5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2017-12-07T03:53:34Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Phim ma hay nhất Hoán đổi thân xác  Mẹ Ma ( mama ) phim ma thái 2014 ful hd bản đẹp",
+                "description": "Phim ma hay nhất Hoán đổi thân xác  Mẹ Ma ( mama ) phim ma thái 2014 ful hd bản đẹp\nMovie 2014 HDAction Movies 2014 | The Recruit | Al Pacino,Colin Farrell | Full Movie 2014 HDAction Movies 2014 | The Recruit | Al Pacino,Colin Farrell | Full Movie 2014 HDAction Movies 2014 | The Recruit | Al Pacino,Colin Farrell | Full Movie 2014 HD\nAction Movies\nAction Movies\nAction Movies\n\nAction Movies 2014\nAction Movies 2014\nAction Movies 2014\nAction Movies 2014\n\nFull Action Movies 2014 HD\nFull Action Movies 2014 HD\nFull Action Movies 2014 HD\nFull Action Movies 2014 HD\n\nAction Movies - Special Assassination Squad\naction movies,\naction movies 2013 full movie english,\naction movies 2012 full movie english,\naction movies 2013,\naction movies 2014,\naction movies full movie english,\naction movies 2013 full movies,\naction movies full length,\naction movies full,\naction movies 2014 full movie english,\naction movies 2013 full movie english,\naction movies 2012 full movie english,\naction movies 2013,\naction movies 2014,\naction movies full movie english,\naction movies 2013 full movies,\nfull movies,\nfull movies to watch on youtube for free,\nfull movies to watch on youtube for free 2013,\nfull movies 2014\nfull movie disney,\nfull movie frozen,\nfull movie action,\nfull movies english,\nfull movie 2013 english,\nfull movie disney,\nfull movie frozen,\nfull movie action,\nPhim hanh dong hay nhat 2014, phim bom tan moi nhat 2014, phim thuyet minh long tieng vietsub - Biet doi am sat FULL HD\nPhim hành động hay nhất 2014, phim bom tấn mới nhất 2014 thuyết minh lồng tiếng vietsub - Biệt đội ám sát FULL HD\nPhim hành động bom tấn 2014 \nPhim Hành Động\nPhim Hành Động Lồng Tiếng\nPhim Hành Động Hay Nhất\nPhim Hành Động Xã Hội Đen\nPhim Hành Động Võ Thuật\nPhim Hành Động Hồng Kông\nPhim Hành Động Thái Lan\nPhim Hành Động Mỹ\nphim hai hoai linh moi nhat, hai xuan hinh moi nhat, nam 2014\nPhim Hanh Dong Hay Nhat, Phim Hanh Dong 2014, Phim Hanh Dong Long Tieng, Phim Hanh Dong Thuyet Minh, Phim Hanh Dong Hay Nhat 2014, Phim Hanh Dong My, Phim Hanh Dong Thai Lan, Phim Hanh Dong Hay, Phim Hanh Dong Hay Nhat Cua My, Phim Hanh Dong Hay Nhat Hong Kong, Phim Hanh Dong The Gioi, Xem Phim Hanh Dong Hay Nhat, Xem Phim Hanh Dong Long Tieng\nphim hai, phim, phim ma, phim viet nam, phim hoat hinh, hai, chau tinh tri, hai hoai linh, hanh dong,\nPhim Ma Kinh Dị\nPhim Ma Kinh Dị Thái Lan\nPhim Ma Kinh Dị Hồng Kông\nPhim Ma Kinh Dị Trung Quốc\nPhim Ma Kinh Dị Hàn Quốc\nPhim Ma Kinh Dị Nhật Bản\nPhim Ma Kinh Dị Việt Nam\nPhim Ma Hay Nhat nam 2014, Phim Kinh Di Hay Nhat, Phim Ma Hai Huoc,Phim Ma Kinh Di Hay Nhat, Xem Phim Ma Kinh Di 2014, Xem Phim Ma Kinh Di Hay Nhat\n[Lồng Tiếng] Phim Lẻ Hồng Kong - Phim Võ Thuật - Phim Huyết Chiến Chỉ Cấm Thành - Phim Hành Động\nPhim Lẻ Hong Kong\nPhim Hồng Kong Xã Hội Đen\nPhim XHĐ Hong Kong\nPhim Lẻ Hong Kong Mới Mới Nhất\nPhim Lẻ Hong Kong Hai Huoc\nPhim Hong Kong Hay Nhat\nPhim Hong Kong Xa Hoi Den\nTuyển Tập Phim Lẻ Hong Kong Hay Nhất\nPhim Hong Kong,Phim Hai Huoc,Phim Chau Tinh Tri,Phim Ly Lien Kiet,Phim Thanh Long,Phim Thai Lan,Phim Vo Thuat,Phim Hai Huoc,Phim Hong Kong Hai Huoc,Phim Le Hong Kong,Phim Hai Hong Kong,Phim Luu Duc Hoa,Phim Nham Dat Hoa,Phim Xa Hoi Den,Xa Hoi Den Hong Kong,Phim Trinh Y Kien,Phim Tran Tieu Xuan,Phim Nguoi Trong Giang Ho Tron Bo,Phim Huynh Man Dat,Phim Thich Tieu Long,Phim Tran Kim Hong,Phim Ma Hai,Phim Ma Hong Kong.\nPhim HK Lồng Tiếng Mới Nhất 2014 - Phim Hot - Phim Hay - Phim Hot 2014 - Phim Hay 2014 - Phim Xem Nhiều - Phim Chiếu Rạp - Phim Bộ - Phim Hành Động - Phim Võ Thuật - Phim Kiếm Hiệp - Phim Tâm Lý - Phim Tình Cảm - Phim Hài Hước - Phim Kinh Dị - Phim Ma - Phim Phiêu Lưu - Phim Thần Thoại - Phim Viễn Tưởng\nPhim Thái Lan 2014\nPhim Thái Lan Hay Nhất\nPhim Thái Lan Mới Nhất\nPhim Thái Lan Võ Thuật\nPhim Thái Lan Hành Động\nPhim Hành Động Võ Thuật Thái Lan\nPhim Ma Kinh Dị Thái Lan Hay Nhất\nPhim Ma Kinh Dị Thái Lan Mới Nhất\nphim sex,phim cap 3,phim 18+,phim tam ly,phim con heo\nPhim Hay, Phim Lẻ Hay, Phim Lẻ HK, Phim Lẻ Hong Kong, Phim Lẻ Thái Lan, Phim Lẻ Hàn Quốc, Phim Lẻ Việt Nam, Phim Lẻ Mỹ, Phim Lẻ Trung Quốc, Phim Lẻ Hay Nhất 2013, Phim Lẻ Mới Nhất 2013, Phim Lẻ Võ Thuật, Phim Lẻ Hành Động, Phim Lẻ Ma, Phim Lẻ Hình Sự, Phim Lẻ Hài Hước, Phim Lẻ XHD, Phim Lẻ Xã Hội Đen, Xem Phim Lẻ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fAxwqoLrUFw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fAxwqoLrUFw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fAxwqoLrUFw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fAxwqoLrUFw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fAxwqoLrUFw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vY3_fAfNMRJWB6RtbcK9hHd",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "fAxwqoLrUFw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "fAxwqoLrUFw",
+                "videoPublishedAt": "2014-07-22T07:49:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ek_8IyUntbXov1nh_B700tdzllM",
+            "id": "UExrWDlnU190QzR2WTNfZkFmTk1SSldCNlJ0YmNLOWhIZC40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2017-12-07T03:53:35Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vY3_fAfNMRJWB6RtbcK9hHd",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "IxnE2PVeo3M"
+                }
+            },
+            "contentDetails": {
+                "videoId": "IxnE2PVeo3M"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5SaMbpJ1qgnJq0H3uzG4_TyFkj0",
+            "id": "UExrWDlnU190QzR2WTNfZkFmTk1SSldCNlJ0YmNLOWhIZC5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2017-12-07T03:53:35Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vY3_fAfNMRJWB6RtbcK9hHd",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "T8Dl_nBTN3M"
+                }
+            },
+            "contentDetails": {
+                "videoId": "T8Dl_nBTN3M"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5XhcLpAUjaDxO3_P2XRj_al3n-0",
+            "id": "UExrWDlnU190QzR2WTNfZkFmTk1SSldCNlJ0YmNLOWhIZC45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2017-12-07T03:53:36Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vY3_fAfNMRJWB6RtbcK9hHd",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "nog5a1YCxn0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "nog5a1YCxn0"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8ed10gmVhOm_a4BPA8wkFyaE7Hg",
+            "id": "UExrWDlnU190QzR2WTNfZkFmTk1SSldCNlJ0YmNLOWhIZC41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2017-12-07T03:53:37Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Phim Võ Thuật Cổ Trang 2014 Hay Nhất Hiệp Khách thuyết minh FuLL HD",
+                "description": "Phim Võ Thuật Cổ Trang 2014 Hay Nhất Hiệp Khách thuyết minh FuLL HD\n\nphim võ thuật\nphim võ thuật 2014\nphim võ thuật hay nhất 2014\nphim võ thuật trung quốc 2014\nphim võ thuật mĩ 2014\nphim võ thuật cực hay\n\n\nphim kiem hiep\nphim kiem hiep 2014\nphim vo thuat\nvo thuat trung quoc 2014\nphim kiếm hiệp trung quốc 2014\nphim kiếm hiệp 2014\nphim tâm lý\nphim tâm lý 2014\nphim tâm lý xã hội đen\nphim tam ly xa hoi den hong kong\nphim xa hoi den hong kong 2014\nphim võ thuật trung quốc\nphim võ thuật 2014\nphim võ thuật hồng kông 2014\nphim kiếm hiệp hồng kông 2014\nphim tâm lý\nphim tam ly 2014\nphim tam ly xa hoi den\nphim tâm lý xã hội đen hồng kông\nphim xã hội đen hồng kông 2014\nphim võ thuật 2014\nphim võ thuật hông kông 2014\nphim kiếm hiệp hồng kông 2014\nPhim hành động hay nhất 2014 Kẻ giết người hàng loạt Thuyết minh FuLL HD\nPhim Hành Động Mĩ\nPhim Võ Thuật Trung Quốc\nPhim Hành Động\nPhim Khoa Học Viễn Tưởng Mĩ\nPhim Khoa Học Viễn Tưởng\nPhim Tình Cảm Hàn Quốc\nPhim Tâm Lí\nPhim Tình Cảm\nPhim Kinh Dị\nPhim Ma\nPhim Cấp 3\nPhim Tình Cảm Hàn Quốc",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6DvpGLWx-iU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6DvpGLWx-iU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6DvpGLWx-iU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6DvpGLWx-iU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vY3_fAfNMRJWB6RtbcK9hHd",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6DvpGLWx-iU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "6DvpGLWx-iU",
+                "videoPublishedAt": "2014-10-01T05:14:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4-i7E_8rjinjro_Ipi_WOK6pH00",
+            "id": "UExrWDlnU190QzR2WTNfZkFmTk1SSldCNlJ0YmNLOWhIZC5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2017-12-07T03:53:38Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Dòng Máu Xã Hội Đen - Phim hành động mafia hay",
+                "description": "Mafia luôn là thế giới ngầm với những thế lực bóng tối tàn bạo và không từ mọi thủ đoạn dã man. Ai đã bước chân vào đó thì chắc chắn con đường lùi về coi như không có. Bộ phim Blaze You Out 2013 - Dòng Máu Xã Hội Đen lấy đề tài thế giới mafia vô cùng gai góc và nguy hiểm. Phim là hành trình của một cô gái dũng cảm quyết tâm dấn thân vào tổ chức buôn bán ma túy nhằm giải cứu em gái của mình. Thực sự thế giới mafia khốc liệt đến đâu và liệu chị em cô có được đoàn tụ?\nhttp://maxphim.net/\nhttp://maxphim.net/noi-dung-phim/blaze-you-out-2013/dong-mau-xa-hoi-den/5174.html",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HXslo7iK2uY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HXslo7iK2uY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HXslo7iK2uY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vY3_fAfNMRJWB6RtbcK9hHd",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HXslo7iK2uY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "HXslo7iK2uY",
+                "videoPublishedAt": "2013-08-06T03:24:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Gb84aQpcR_a58nWwFB7O5Xk6NUw",
+            "id": "UExrWDlnU190QzR2WTNfZkFmTk1SSldCNlJ0YmNLOWhIZC4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2017-12-07T03:53:39Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Phim Hành Động Bom Tấn Hàn Quốc 2017 - Sát Thủ Giết Thuê Máu Lạnh | Phim Hanh Động Hàn Quốc Hay Nhất",
+                "description": "Phim Hành Động Bom Tấn Hàn Quốc 2017 - Sát Thủ Giết Thuê Máu Lạnh | Phim Hanh Động Hàn Quốc Hay Nhất Hàn Quốc\nCẢM ƠN CÁC BẠN ĐÃ XEM VIDEO\nHÃY BẤM VÀO SUBSCRIBE ĐỂ ĐĂNG KÍ XEM NHỮNG BỘ PHIM HAY NHÉ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9_hUbj6BkxI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9_hUbj6BkxI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9_hUbj6BkxI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vY3_fAfNMRJWB6RtbcK9hHd",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9_hUbj6BkxI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "9_hUbj6BkxI",
+                "videoPublishedAt": "2017-03-06T15:45:51Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QZ7P-sgPn1EgI9ZwHsdyzE0HCTg",
+            "id": "UExrWDlnU190QzR2WTNfZkFmTk1SSldCNlJ0YmNLOWhIZC5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2017-12-07T03:53:41Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vY3_fAfNMRJWB6RtbcK9hHd",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "rNE5bAg0nqs"
+                }
+            },
+            "contentDetails": {
+                "videoId": "rNE5bAg0nqs"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xGOk82NChWlMl4zywDnzGgcO5W4",
+            "id": "UExrWDlnU190QzR2WTNfZkFmTk1SSldCNlJ0YmNLOWhIZC45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2017-12-07T03:53:42Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Phim Ngắn 2016 | Kẻ Giấu Mặt | Phim Hành Động Võ Thuật Hay Nhất | Phim Ngắn Hay.",
+                "description": "Phim Ngắn 2016 | Kẻ Giấu Mặt | Phim Hành Động Võ Thuật Hay Nhất | Phim Hay 2016.\n Phim Ngắn Hay Nhất 2016: https://goo.gl/qOia8Y\n Phim Ngắn Hay Nhất Về Tuổi Học Trò: https://goo.gl/eiq5Ym\n Phim Hành Động Hay Nhất 2016: https://goo.gl/rpYsB6\n Phim Ngắn Chọn Lọc 2016: https://goo.gl/HkvFxD\n Phim Ngắn Tình Yêu 2016: https://goo.gl/SyjlcB",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_44D3JdPWkE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_44D3JdPWkE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_44D3JdPWkE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vY3_fAfNMRJWB6RtbcK9hHd",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_44D3JdPWkE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "_44D3JdPWkE",
+                "videoPublishedAt": "2016-11-03T08:33:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ST08dw7TdDpNQiXXDVd3AHPnrl4",
+            "id": "UExrWDlnU190QzR2WTNfZkFmTk1SSldCNlJ0YmNLOWhIZC4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2017-12-07T03:53:45Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Phim hình sự xã hội đen hay nhất 2015 - Xung Trận Chiến Cảnh",
+                "description": "Phim xã hội đen hay 2015 với những cảnh quay đẹp mắt sẽ thu hút được người xem từ đầu đến phút cuối.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p6IY7FLdCIw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p6IY7FLdCIw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p6IY7FLdCIw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vY3_fAfNMRJWB6RtbcK9hHd",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "p6IY7FLdCIw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "p6IY7FLdCIw",
+                "videoPublishedAt": "2014-12-06T03:41:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "B7oOtGC3kuzBYDxxPjj9lKvOV-k",
+            "id": "UExrWDlnU190QzR2WTNfZkFmTk1SSldCNlJ0YmNLOWhIZC5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2017-12-07T03:53:45Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Phim Hành Động Hài Châu Tinh Trì Mới Nhất 2016 - Chúa Bịp Vương - Phim Châu Tinh Trì",
+                "description": "Phim Hành Động Hài Châu Tinh Trì Mới Nhất 2016 - Chúa Bịp Vương - Phim Châu Tinh Trì\n======================\nphim hanh dong, phim hanh dong my, phim hanh dong hay, phim hanh dong hay nhat, phim hanh dong han quoc, phim hanh dong thai lan, phim phanh dong viet nam,\n======================\nyoutube: https://youtu.be/E946csd7rZQ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E946csd7rZQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E946csd7rZQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E946csd7rZQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/E946csd7rZQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/E946csd7rZQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vY3_fAfNMRJWB6RtbcK9hHd",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "E946csd7rZQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "E946csd7rZQ",
+                "videoPublishedAt": "2016-10-18T16:35:06Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Pqfgy9Ii3Kpa41d6GVd0wQMm5CU",
+            "id": "UExrWDlnU190QzR2WTNfZkFmTk1SSldCNlJ0YmNLOWhIZC45RjNFMDhGQ0Q2RkFCQTc1",
+            "snippet": {
+                "publishedAt": "2017-12-07T03:53:50Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "PHIM HÀNH ĐỘNG MỚI NHẤT 2017- PHIM XÃ HỘI ĐEN Mới nhất 2017 | ÔNG TRÙM XÃ HỘI ĐEN VÔ DANH 2017",
+                "description": "PHIM HÀNH ĐỘNG MỚI NHẤT 2017- PHIM XÃ HỘI ĐEN MỚI NHẤT 2017.HÃY LIKE VÀ SHARE ĐỂ NHẬN NHỮNG BỘ PHIM HAY NHẤT.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eTRGWqTzous/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eTRGWqTzous/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eTRGWqTzous/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vY3_fAfNMRJWB6RtbcK9hHd",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eTRGWqTzous"
+                }
+            },
+            "contentDetails": {
+                "videoId": "eTRGWqTzous",
+                "videoPublishedAt": "2017-03-28T07:27:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4fwdsYA9ISrnzDKPgKzX5zT4TTw",
+            "id": "UExrWDlnU190QzR2WTNfZkFmTk1SSldCNlJ0YmNLOWhIZC4xOTEzQzhBQzU3MDNDNjcz",
+            "snippet": {
+                "publishedAt": "2017-12-07T03:53:51Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Phim Xã Hội Đen Hong Kong Thập Niên 80 ! Bá Vương Hoa 2 ! 2016",
+                "description": "PHIM XÃ HỘI ĐEN HÀI HƯỚC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cvR3x01o2gA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cvR3x01o2gA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cvR3x01o2gA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vY3_fAfNMRJWB6RtbcK9hHd",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "cvR3x01o2gA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "cvR3x01o2gA",
+                "videoPublishedAt": "2016-06-05T06:07:41Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "LD5boYlQ1xDtdwpa9SPcl0cAY-I",
+            "id": "UExrWDlnU190QzR2WTNfZkFmTk1SSldCNlJ0YmNLOWhIZC5GNDg1Njc1QzZERjlFRjE5",
+            "snippet": {
+                "publishedAt": "2017-12-07T03:53:52Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vY3_fAfNMRJWB6RtbcK9hHd",
+                "position": 34,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vC9VyaSCwhc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "vC9VyaSCwhc"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "XNoK1ozozsLZls_lSginwB4IdjE",
+            "id": "UExrWDlnU190QzR2WTNfZkFmTk1SSldCNlJ0YmNLOWhIZC4zQzFBN0RGNzNFREFCMjBE",
+            "snippet": {
+                "publishedAt": "2017-12-07T03:53:53Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Tay Cớm Giang Hồ Siêu Đẳng   Phim Hành Động Mới Nhất,Hay Nhất 2016",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tyvpxXgS4RA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tyvpxXgS4RA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tyvpxXgS4RA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vY3_fAfNMRJWB6RtbcK9hHd",
+                "position": 35,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "tyvpxXgS4RA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "tyvpxXgS4RA",
+                "videoPublishedAt": "2016-12-22T17:36:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VxhisLWFwsK6ReR1VRM5B7iNY40",
+            "id": "UExrWDlnU190QzR2WTNfZkFmTk1SSldCNlJ0YmNLOWhIZC45NkVENTkxRDdCQUFBMDY4",
+            "snippet": {
+                "publishedAt": "2017-12-07T03:53:53Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Phim Hành Động  || Phim Xã Hội Đen Hành Động HongKong || Truy Sát Đẫm Máu",
+                "description": "Phim Hành Động  || Phim Đánh Nhau Xã Hội Đen Hành Động HongKong || Truy Sát Đẫm Máu là 1 trong Phim Hay nhất 2016\n- Phim Tháng 9 và Tháng  10 Đánh Nhau Cực Bốc , phim hơi bạo lực nên không khuyến khích trẻ em dưới 18 tuổi\n- chúc các bạn xem phim vui vẻ \n- Nhớ Đăng Ký Kênh Phim Xã Hội Đen này của mình để mình có động lực up thêm phim mới\n---------------------------------\nKênh mình chuyên tổng hợp những bộ phim hành động xã đen hay nhất trong năm để các bạn khỏi tốn tiền ra rạp xem phim ^^",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FyNh7PasDTA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FyNh7PasDTA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FyNh7PasDTA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FyNh7PasDTA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vY3_fAfNMRJWB6RtbcK9hHd",
+                "position": 36,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FyNh7PasDTA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "FyNh7PasDTA",
+                "videoPublishedAt": "2016-09-17T10:09:28Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "B3pLolJahIYdkVpCDxETlQpgEOo",
+            "id": "UExrWDlnU190QzR2WTNfZkFmTk1SSldCNlJ0YmNLOWhIZC5DNkMwRUI2MkI4QkI4NDFG",
+            "snippet": {
+                "publishedAt": "2017-12-07T03:53:54Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Crows Zero - Bá Vương Học Đường",
+                "description": "Ngày xuất bản: 26/5/2017\n\nhttps://www.youtube.com/channel/UCtoIFh4hxF980TSIRXU6VEw\n\nNội dung: Bộ phim Bá Vương Học Đường được xây dựng dựa trên manga có tên Crows rất nổi tiếng vào những năm 90 của Nhật Bản. Bối cảnh phim được đặt tại trường cấp ba nam sinh Suzaran hay còn được gọi là Ngôi trường của những con quạ, là trường nghèo nàn thành tích nhất và bạo lực nhất ở Nhật Bản. Trong phim hd này, học sinh đến trường không phải để học mà kết bè đảng, đánh lộn lẫn nhau để tranh giành quyền lực và tầm ảnh hưởng trong trường. Một ngôi trường mà phần lớn học sinh sau khi tốt nghiệp đều gia nhập các băng đảng xã hội đen. Genji Takiya, con trai của bố già xã hội đen vừa mới chuyển đến Suzaran với mục tiêu chế ngự trường học để tiếp quản vị trí của bố mình trong tổ chức. Genji trong phim nhanh chóng tìm ra kẻ mạnh nhất là Tamao Serizawa, người cũng đang thiết lập sự thống trị của mình trên các lớp của cấp học. Liệu phim hay sẽ diễn biến thế nào tiếp theo khi Genji dần dần muốn khẳng định vị trí của mình, mời các bạn cùng theo dõi bộ phim Bá Vương Học Đường.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bsJyeUHZkiA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bsJyeUHZkiA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bsJyeUHZkiA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bsJyeUHZkiA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bsJyeUHZkiA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vY3_fAfNMRJWB6RtbcK9hHd",
+                "position": 37,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bsJyeUHZkiA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "bsJyeUHZkiA",
+                "videoPublishedAt": "2017-05-26T10:18:22Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 38,
+        "resultsPerPage": 50
+    }
+}

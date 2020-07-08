@@ -1,0 +1,99 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "W6bwGuSFVMDKXwcvkvv9JrhrXbo",
+    "prevPageToken": "CGQQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3VW_vZh4uYjKEy8wm_a-eBgRuGQ",
+            "id": "UExzT3dDTHliUHVUd2JXczdudDNyX3F1TlNlNF9OSUVYZy44QjNCNkRENjNFQTBEMUND",
+            "snippet": {
+                "publishedAt": "2018-02-25T14:15:30Z",
+                "channelId": "UCYzkaYDjCJSTOeJu_lX8SEA",
+                "title": "NGƯỜI ĐẸP NÓI DỐI    Phim lẻ tình cảm tâm lý   hài hước Hàn Quốc",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Bwre2UfzBE0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Bwre2UfzBE0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Bwre2UfzBE0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Bwre2UfzBE0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Bwre2UfzBE0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "55s day",
+                "playlistId": "PLsOwCLybPuTwbWs7nt3r_quNSe4_NIEXg",
+                "position": 101,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Bwre2UfzBE0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Bwre2UfzBE0",
+                "videoPublishedAt": "2016-07-04T05:11:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fCmw4G9P3-w5eOMo0k9r9CJUywE",
+            "id": "UExzT3dDTHliUHVUd2JXczdudDNyX3F1TlNlNF9OSUVYZy41RDUzRjJFQ0Y0MUI3NzU1",
+            "snippet": {
+                "publishedAt": "2018-02-22T07:22:21Z",
+                "channelId": "UCYzkaYDjCJSTOeJu_lX8SEA",
+                "title": "Triệt Quyền Đạo - Thuyết Minh HD | Phim Lẻ Võ thuật Mới",
+                "description": "Phim Võ Thuật TQ Mới Hay 2015 | Triệt Quyền Đạo | Thuyết Minh HD | Phim Hành Động TQ Mới 2015, Phim Võ Thuật TQ Mới Hay 2015 | Triệt Quyền Đạo | Thuyết Minh HD | Phim Hành Động TQ Mới 2015\n\nXem Thêm Nhiều Phim Khác tại đây : https://www.youtube.com/channel/UCmMKxq3teR4nqu9wrFfjMrg/playlists",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YONQpq9uOlU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YONQpq9uOlU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YONQpq9uOlU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "55s day",
+                "playlistId": "PLsOwCLybPuTwbWs7nt3r_quNSe4_NIEXg",
+                "position": 104,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YONQpq9uOlU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "YONQpq9uOlU",
+                "videoPublishedAt": "2015-05-23T05:07:36Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 106,
+        "resultsPerPage": 50
+    }
+}

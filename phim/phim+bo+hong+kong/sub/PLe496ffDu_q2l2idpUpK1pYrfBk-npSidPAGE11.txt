@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "kvsGzGKJ68aALPTgsGKo82ndFK8",
+    "etag": "NNyy0zMV35cGyvABwgbPaVPOeAY",
     "prevPageToken": "CPQDEAE",
     "items": [
         {
@@ -634,40 +634,14 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "hXmNSNdrAK9djlhb4v3qZamgHdk",
+            "etag": "WQqMuRLlThP2MnbBsKbFLIWfynw",
             "id": "UExlNDk2ZmZEdV9xMmwyaWRwVXBLMXBZcmZCay1ucFNpZC44MDhCNUUzNjc2NTUwQzdG",
             "snippet": {
                 "publishedAt": "2020-07-01T13:18:41Z",
                 "channelId": "UCtCCLV_-QVK_qJvGsQIC5gQ",
-                "title": "Âm mưu thừa kế Tập 1, Full màn hình lồng tiếng phim Hàn Quốc HTV2",
-                "description": "Âm mưu thừa kế - Full màn hình lồng tiếng phim Hàn Quốc HTV2",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/1oiDhNYuaTY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/1oiDhNYuaTY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/1oiDhNYuaTY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/1oiDhNYuaTY/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/1oiDhNYuaTY/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
                 "channelTitle": "Cuong Kha",
                 "playlistId": "PLe496ffDu_q2l2idpUpK1pYrfBk-npSid",
                 "position": 514,
@@ -677,8 +651,7 @@
                 }
             },
             "contentDetails": {
-                "videoId": "1oiDhNYuaTY",
-                "videoPublishedAt": "2020-06-23T03:40:54Z"
+                "videoId": "1oiDhNYuaTY"
             }
         },
         {

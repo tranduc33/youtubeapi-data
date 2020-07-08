@@ -1,0 +1,974 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "0VfgJc3UqC4YLuDMA-MpU784RdU",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hF-7M_FUMw5NnVRYO4Y72wz-Lgk",
+            "id": "UExLakViLTJKQXM1T21XdDI4aWRQN0ZBMDFhNGpIUUxPYS4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2020-06-10T07:55:22Z",
+                "channelId": "UCsp3SOk6ff-HX3boMLNLOUg",
+                "title": "Bỏ vợ ư. Em đừng hòng nhé - Tập: 1",
+                "description": "Bỏ vợ ư. Em đừng hòng nhé - Tập: 1\n-----------------------------------------------\nSubscribe Youtube: https://bit.ly/2Og6PfR\n Page: https://bit.ly/2NMN9kZ  \n#truyenngontinh #mcthuhien #mcthuhue",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0e5pWYZgxqo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0e5pWYZgxqo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0e5pWYZgxqo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0e5pWYZgxqo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0e5pWYZgxqo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phoebe Gwen",
+                "playlistId": "PLKjEb-2JAs5OmWt28idP7FA01a4jHQLOa",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0e5pWYZgxqo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "0e5pWYZgxqo",
+                "videoPublishedAt": "2020-06-09T05:11:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Enrx-uqcZdVNMA1fzITIFFArzSA",
+            "id": "UExLakViLTJKQXM1T21XdDI4aWRQN0ZBMDFhNGpIUUxPYS4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2020-06-10T07:55:22Z",
+                "channelId": "UCsp3SOk6ff-HX3boMLNLOUg",
+                "title": "Phim lẻ Hongkong từng bị cấm chiếu ở Việt Nam",
+                "description": "Nguồn : phim hay mỗi tối",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s6pHZ1T3y8I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s6pHZ1T3y8I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s6pHZ1T3y8I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/s6pHZ1T3y8I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/s6pHZ1T3y8I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phoebe Gwen",
+                "playlistId": "PLKjEb-2JAs5OmWt28idP7FA01a4jHQLOa",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "s6pHZ1T3y8I"
+                }
+            },
+            "contentDetails": {
+                "videoId": "s6pHZ1T3y8I",
+                "videoPublishedAt": "2019-08-30T15:53:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "EL7BPI_4wgzQAMt1-WNMIo9d2jk",
+            "id": "UExLakViLTJKQXM1T21XdDI4aWRQN0ZBMDFhNGpIUUxPYS41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2020-06-10T07:55:22Z",
+                "channelId": "UCsp3SOk6ff-HX3boMLNLOUg",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Phoebe Gwen",
+                "playlistId": "PLKjEb-2JAs5OmWt28idP7FA01a4jHQLOa",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "h-vqOo4vHTI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "h-vqOo4vHTI"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0nLUstny3NV3boIb94CcuXuc1Jg",
+            "id": "UExLakViLTJKQXM1T21XdDI4aWRQN0ZBMDFhNGpIUUxPYS4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2020-06-10T07:55:22Z",
+                "channelId": "UCsp3SOk6ff-HX3boMLNLOUg",
+                "title": "Hỏa Long Án | Lê Minh, Đường Yên, Vương Bảo Cường | Phim Hành Động Võ Thuật HongKong",
+                "description": "Phim Hành Động Võ Thuật HongKong - Hỏa Long Án\n\nTựa đề phim Hỏa Long Án bắt nguồn từ chương trình múa rồng lửa của Hồng Kông. Vào tết trung thu năm 1880, một bệnh dịch lan tràn; sau đó người ta nhờ vào điệu múa rồng lửa để chiến đấu với dịch bệnh. Đạo diễn Lâm Siêu Hiền cho biết: “Múa rồng lửa nhắc nhở tôi rằng mọi người đều có một “dịch bệnh” ở bên trong, khi ý chí của bạn bị suy yếu, nó sẽ lôi kéo bản chất và lương tâm của bạn, vì vậy tôi nghĩ rằng ý nghĩa của múa rồng lửa và những kiểu nhân vật trong phim của tôi phù hợp nhau, một sự ví von hợp lý.\n\nViệc điều tra về một vụ giết gái điếm mang lại sự bất phục, vị thám tử vụng về Manfred đã có cuộc hợp tác bí mật với “người đàn ông của thế giới” – thanh tra viên Kee đến từ Cục Chống Ma Túy. Khi mẫu DNA của một người bạn đồng nghiệp của Manfred được tìm thấy ở hiện trường vụ án, lôi theo sự nghi ngờ về anh ấy, Manfred phải nhìn xa hơn diễn biến sự việc để tìm ra sự thật. Cùng lúc đó, sự háo hức kỳ lạ của Kee đã giúp đỡ trong mọi bước đi của anh bắt đầu lộ chút xấu xa.\n\nTrong lằn ranh lửa giữa những cấp bậc cao của sự tham nhũng và dã tâm, Manfred buột phải giải quyết tất cả những nút thắt và diễn biến của điều bí ẩn, cố gắng suy toán ai là kẻ địch và cứu sống cộng sự vô tội của mình khỏi sự ghét bỏ cùng cực. Vô tình, anh ấy đã mở ra được một bí mật mà có thể đe dọa đến việc cải tạo lại toàn bộ Đơn vị Cảnh Sát Hông Kông.\n\n#phimhànhđộng #vươngbảocường #lêminh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HJGi8v03GoA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HJGi8v03GoA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HJGi8v03GoA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HJGi8v03GoA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HJGi8v03GoA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phoebe Gwen",
+                "playlistId": "PLKjEb-2JAs5OmWt28idP7FA01a4jHQLOa",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HJGi8v03GoA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "HJGi8v03GoA",
+                "videoPublishedAt": "2020-06-01T12:30:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pVzU2AhXCIP_CupemaN3zctzPTE",
+            "id": "UExLakViLTJKQXM1T21XdDI4aWRQN0ZBMDFhNGpIUUxPYS41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2020-06-10T07:55:22Z",
+                "channelId": "UCsp3SOk6ff-HX3boMLNLOUg",
+                "title": "phim lẻ[ ĐỘC BÁ THIÊN HẠ ] thần bài hongkong  lồng tiếng",
+                "description": "Phim lẻ cực hay 2018",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jddkZTUh4Fc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jddkZTUh4Fc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jddkZTUh4Fc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jddkZTUh4Fc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phoebe Gwen",
+                "playlistId": "PLKjEb-2JAs5OmWt28idP7FA01a4jHQLOa",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jddkZTUh4Fc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "jddkZTUh4Fc",
+                "videoPublishedAt": "2018-04-09T16:38:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ydVshudb4TIXffo7d1e9YMNmYzI",
+            "id": "UExLakViLTJKQXM1T21XdDI4aWRQN0ZBMDFhNGpIUUxPYS5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2020-06-10T07:55:22Z",
+                "channelId": "UCsp3SOk6ff-HX3boMLNLOUg",
+                "title": "Phim Giang Hồ Xã Hội Đen Hồng Kong   Hay Nhất Thuyết Minh Full HD1",
+                "description": "Phim Giang Hồ Xã Hội Đen Hồng Kong - Hay Nhất Thuyết Minh Full HD1\nPhim Giang Hồ Xã Hội Đen Hồng Kong - Hay Nhất Thuyết Minh Full HD \n#bấm_đăng_ký_kênh #phimhongkong #phimgiangho \ncảm ơn các bạn đã ủng hộ kênh nhé!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DCL8HWUj29g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DCL8HWUj29g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DCL8HWUj29g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phoebe Gwen",
+                "playlistId": "PLKjEb-2JAs5OmWt28idP7FA01a4jHQLOa",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DCL8HWUj29g"
+                }
+            },
+            "contentDetails": {
+                "videoId": "DCL8HWUj29g",
+                "videoPublishedAt": "2020-01-05T13:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "XN2eZ6fqeB9lO2Vc6qcdirXGyuo",
+            "id": "UExLakViLTJKQXM1T21XdDI4aWRQN0ZBMDFhNGpIUUxPYS5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2020-06-10T07:55:22Z",
+                "channelId": "UCsp3SOk6ff-HX3boMLNLOUg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Phoebe Gwen",
+                "playlistId": "PLKjEb-2JAs5OmWt28idP7FA01a4jHQLOa",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "J6ck2IeRbLg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "J6ck2IeRbLg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pIdIPapYFRKazA0m3eXeKqaUdEI",
+            "id": "UExLakViLTJKQXM1T21XdDI4aWRQN0ZBMDFhNGpIUUxPYS40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2020-06-10T07:55:22Z",
+                "channelId": "UCsp3SOk6ff-HX3boMLNLOUg",
+                "title": "Phim  hài Hồng Kông | Cười mỏi mồm thuyết minh",
+                "description": "Lịch đăng video : 20h\nNếu các bạn thấy video thú vị hay like và đăng ký kênh giúp mình  có thêm động lực  tìm kiểm và sản xuất nhiều video hay thú vị hơn nữa. Và đừng quên để lại  bình luận hay những ý tưởng, hoặc yêu cầu giúp mình nhé !\nFacebook : www.facebook.com/pdhteamyouyuber\nLiên hệ : huynhpdh@gmail.com\n* No copy video \n* Video thuộc quyền sở hữu của PDH Team.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FAa4Dk21WA4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FAa4Dk21WA4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FAa4Dk21WA4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FAa4Dk21WA4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FAa4Dk21WA4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phoebe Gwen",
+                "playlistId": "PLKjEb-2JAs5OmWt28idP7FA01a4jHQLOa",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FAa4Dk21WA4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "FAa4Dk21WA4",
+                "videoPublishedAt": "2020-04-24T13:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MnAg2panPnaB0LMc16CkGhceOl8",
+            "id": "UExLakViLTJKQXM1T21XdDI4aWRQN0ZBMDFhNGpIUUxPYS5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2020-06-10T07:55:22Z",
+                "channelId": "UCsp3SOk6ff-HX3boMLNLOUg",
+                "title": "#Điệp Vụ# Trịnh Y Kiện_Phim xã hội đen hongkong mới nhất 2020.",
+                "description": "#Phim xã hội đen#phim võ thuật.#\n#Phim ma#phim lẻ#\n#Phim kiếm hiệp#phim hoạt hình 3d#\n#Phim hành động#phim viễn tưởng.\n\n#Mọi người xem phim nhớ đăng ký kênh ủng hộ mình để có thể xem thêm được nhiều phim hay hấp dẫn#\n#Nếu thấy phim hay cho mình 1like va bình luận bên dưới.\n#Cảm ơn mọi người đã ủng hộ#.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EMkh8x1Ig7c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EMkh8x1Ig7c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EMkh8x1Ig7c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phoebe Gwen",
+                "playlistId": "PLKjEb-2JAs5OmWt28idP7FA01a4jHQLOa",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EMkh8x1Ig7c"
+                }
+            },
+            "contentDetails": {
+                "videoId": "EMkh8x1Ig7c",
+                "videoPublishedAt": "2020-06-10T04:39:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QhjWjSR0pXcGWvXSHmp9jzqcHbA",
+            "id": "UExLakViLTJKQXM1T21XdDI4aWRQN0ZBMDFhNGpIUUxPYS4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2020-06-10T07:55:22Z",
+                "channelId": "UCsp3SOk6ff-HX3boMLNLOUg",
+                "title": "LONG ẤN CƠ MẬT - Thành Long, Arnold Schwarzenegger | Phim Võ Thuật Viễn Tưởng Chiếu Rạp Thuyết Minh",
+                "description": "Phim Võ Thuât Thần Thoại Chiếu Rạp Mới Nhất - Long Ấn Cơ Mật.\n\nĐạo diễn: Oleg Stepchenko.\nDiễn viên: Thành Long, Arnold Schwarzenegger, Diêu Tinh Đồng, Anna Churina, Jason Flemyng...\nThể loại: Thần thoại, viễn tưởng, võ thuật, hài hước.\n\nNội dung phim:\n\nLong ấn cơ mật là tác phẩm võ thuật - hành động duy nhất đổ bộ màn ảnh rộng Việt trong tháng 9. Phim được đầu tư hoành tráng, quy tụ dàn sao đình đám như: 'vua kungfu' Thành Long, 'kẻ hủy diệt' Arnold Schwarzenegger, ‘chúa quỷ’ Jason Flemyng…\n\nLong Ấn Cơ Mật vẫn theo chân nhà thám hiểm người Anh Jonathan Green trên hành trình vẽ lại bản đồ vùng Viễn Đông Nga theo lệnh Peter Đại Đế. Chuyến đi bất ngờ đưa Jonathan đến với đất nước Trung Hoa đang chứa đầy ma thuật và những sinh vật huyền bí.\n\nTruyền thuyết xa xưa của phương Đông kể rằng Long Vương – vua của các loài rồng chìm vào giấc ngủ và trao lại sức mạnh của mình trong tấm long ấn cho Bạch Pháp sư (Thành Long) và con gái ông là công chúa Thành Lan (Diêu Tinh Đồng) gìn giữ. Nhưng Pháp sư Hắc Ma (Mã Lệ) quỷ quyệt đã tìm cách nhốt cha con công chúa vào ngục tối tại một đất nước xa xôi. Kể từ đó, Pháp sư Hắc Ma mặc sức thâu tóm quyền lực, bóc lột và “ép buộc” người dân phải sống dựa vào ma thuật từ Long Vương trong cảnh lầm than...\n\nBẤM ĐĂNG KÝ (SUBCRIBE) ĐỂ CHÚNG TÔI CÓ KINH PHÍ MANG VỀ NHIỀU PHIM MỚI CHO CÁC BẠN! \n\n#PHIMVIỄNTƯỞNG #THÀNHLONG #IRONMASK\r\n====================================\r\n© Bản quyền thuộc về AP&T Media, vui lòng không reup dưới mọi hình thức.\r\n\r\n►Cám ơn các bạn đã theo dõi và đăng ký kênh AP&T Movies!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/izuyKmhjOWM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/izuyKmhjOWM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/izuyKmhjOWM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/izuyKmhjOWM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/izuyKmhjOWM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phoebe Gwen",
+                "playlistId": "PLKjEb-2JAs5OmWt28idP7FA01a4jHQLOa",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "izuyKmhjOWM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "izuyKmhjOWM",
+                "videoPublishedAt": "2020-06-05T13:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MmFgnuV8zS1LEyqHt9DDkSUDCwc",
+            "id": "UExLakViLTJKQXM1T21XdDI4aWRQN0ZBMDFhNGpIUUxPYS5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2020-06-10T07:55:22Z",
+                "channelId": "UCsp3SOk6ff-HX3boMLNLOUg",
+                "title": "Phim Xã Hội Đen Hongkong - Phim Lẻ Mới Nhất 2020 - Thuyết Minh FullHD",
+                "description": "+ Phim Tổng Hợp Là Một Kênh Giải Trí Online Với Nội Dung Đa Dạng Bao Gồm Phim Tình Cảm, Phim Kiếm Hiệp, Phim Võ Thuật..\n\n+ Phim Tổng Hợp Với Sứ Mệnh Mang Đến Cho Khán Giả Những Chương Trình Giải Trí Chuyên Nghiệp, Độc Đáo, Đặc Sắc, Hấp Dẫn Dành Cho Khán Giả Trong Nước Và Quốc Tế.\n\n+ Hiện Tại Phim Tổng Hợp Đã Đạt Chuẩn Quốc Tế Được Youtube Cấp Phép Là Đối Tác Chiến Lượt Toàn Cầu\n👉 Phim Tổng Hợp – Mang Đến Giá Trị Giải Trí Chuyên Nghiệp.\n#PhimTruyệnViệtNam,#PhimTruyệnViệtNam2020,#PhimTruyệnViệtNamMớiNhất,#PhimTruyệnViệtNamMớiNhất2020,#PhimTruyềnHìnhViệtNam,#PhimTruyềnHìnhViệtNam2020,#PhimMới,#PhimMới2020,#PhimHay,#PhimHay2020,#PhimChiếuRạp,#PhimChiếuRạpMớiNhất,#PhimChiếuRạpMớiNhất2020,#PhimLẻ,#PhimLẻMớiNhất,#PhimLẻMớiNhất2020,#PhimBộ,#PhimBộMớiNhất,#PhimBộMớiNhất2020,#PhimTruyềnHìnhTHVL,#PhimTruyềnHìnhTHVL1,#PhimTruyềnHìnhTHVL2,#PhimTruyềnHìnhTHVL3,#PhimTruyềnHìnhTHVL4,#PhimTruyềnHìnhHTV,#PhimTruyềnHìnhHTV7,#PhimTruyềnHìnhHTV9,#PhimTruyềnHìnhHTV2,#PhimTruyềnHìnhHTV3,#PhimTruyềnHìnhHTV4,#PhimConĐườngHoànLương,#PhimConĐườngHoànLương,#PhimConĐườngHoànLươngMớiNhất,#PhimConĐườngHoànLươngPhần1,#PhimConĐườngHoànLươngPhần2,#PhimConĐườngHoànLươngTHVL,#PhimConĐườngHoànLươngĐạoDiễnNhâmMinhHiền,#phimhanhdong #phimlemoinhat2020thuyetminh #phimhongkong #phimmoi #phimchieurap2020 #phimxahoidenhongkong #phimhanhdongvothuat",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Wt72gDh1Tz8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Wt72gDh1Tz8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Wt72gDh1Tz8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Wt72gDh1Tz8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Wt72gDh1Tz8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phoebe Gwen",
+                "playlistId": "PLKjEb-2JAs5OmWt28idP7FA01a4jHQLOa",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Wt72gDh1Tz8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Wt72gDh1Tz8",
+                "videoPublishedAt": "2020-05-13T23:57:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mgBSXNh1BC4ovyhKWN75ciiuZ_0",
+            "id": "UExLakViLTJKQXM1T21XdDI4aWRQN0ZBMDFhNGpIUUxPYS4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2020-06-10T07:55:22Z",
+                "channelId": "UCsp3SOk6ff-HX3boMLNLOUg",
+                "title": "Phim lẽ hồng kông hay nhất - tặc vương",
+                "description": "Giải trí.........\nĐăng Ký để xem nhiều bộ phim mới từ mình nha\n\n★Lưu ý:\n© Những video này được dùng cho cho mục đích giải trí. Không có ý định vi phạm bản quyền. Tôi không sở hữu bất cứ điều gì, tất cả các quyền đi đến chủ sở hữu mục đích của video này chỉ là để vui chơi và giải trí.\n\nCảm ơn các bạn đã xem clip của tôi:\nPhim hoạt hình Phim hoạt hình hay | Phim hoạt hình chọn lọc | Phim ... tội phạm tình yêu phim ma marvel cảnh sát ma cà rồng xác sống zombie kdrama siêu nhân người ngoài hành tinh siêu anh hùng phim viễn tưởng hay quái vật tận thế sát thủ người máy thảm họa thây ma phim viễn tưởng chọn lọc phù thủy châu tinh trì xã hội đen thám tử robot điệp viên khủng bố trinh thám báo thù giết người PHIM BỘ MỚI CẬP NHẬT PHIM LẺ MỚI CẬP NHẬT Phim Hanh Dong 2002 Hay Nhat phim hanh dong 2020 phim hành đông 2020 phim hài 2020 phim hai 2020 thuyết minh phim kinh dị 2020 phim kinh di 2020 thuyết minh #PDOfficial #phimmớiranhất #phimhay2020thuyetminh #phimhanhdong#phimthailan phim hành động thái lan phim thái lan mới nhất 2020 thuyết minh phim hành động action momoviephim võ thuật phim lẻ phim hành động cổ trang phimthuyết minh phim hành động võ thuật phim hành động mới 2020 phim hành động hay nhất phim hành động chiếu rạp phim võ thuật hay nhất action movie 2020 phim trung quốc hay nhất phim hành động thuyết minh phim chiếu rạp\" Phim hành động mới hay kịch tính, phim Fll HD phim kiếm hiệp võ thuật mới nhất hay nhất 2020, Full HD chiếu rạp, Phim võ thuật trung quốc hoàng phi hồng, phim võ thuật hay 2020, chung tử đơn, phim hành động, phim võ thuật thái lan, phim võ thuật trung quốc, phim hành động 2020 thuyết minh, phim ngô kinh, ngo kinh, phim trung quoc, chiến lang 4, chiến lang3, phim hành đọng hàn quốc thuyết mình, phim ninja, nhật bản, phim khoa học viễn tưởng, mới nhất, phim hành động mỹ thuyết minh, phim hanh dông my moi nhat, phim bom tan, phim bom tấn, phim mỹ, phimmy, phimhay, bẫy cọp, phim avata, lòng tiếng phim, mi, phim moi, phim hai, phim Hay, phim macarong, phim mọi, phim moi, phim ma cà rồng, phim hay 2020 thuyet minh, phim hành đông mỹ thuyết minh, phim học đường, phim người trong giang hồ, phim đánh nhau, thần bài, phim thần bài mới nhất 20, phim thần bài cao tiến lưu đức hòa, người vận chuyển, phim moi nguoi vấn chuyen, phim holywood chiếu rạp thuyết minh 2020, phim holywood chiếu rạp thuyết minh, phim hanh dong hollywood, phim hành đông viễn tưởng mỹ thuyết minh, phim hành đông viễn tưởng mỹ thuyết minh quái vật, phim 2020 thuyet minh, phim 2020 thuyet minh tieng viet, chiến lang, sát phá lang, chung tu đôn, ngôi mộ cổ, ngô kinh 2020, phim moi nhat 2020 chieu rap, phim moi nhat 2020 chieu rap viet nam, người trong giang hồ, phim bom tan, phim le viet nam moi nhat 2020 chieu rap, phim hanh dong hollywood, phim hanh dong vo thuat 2020, phim hanh dong hàn quốc, phim cổ trang mới nhất, phim lẻ, phim liminhho, ngày thứ 2 đẫm máu, ngày thứ hai đáng sợ, mật mã sống, mật mã két, mật mã, phim Hay, phim hàn quốc hành động, phim dương quá, phim điệp viên, phim khủng bố, phim vượt ngục, phim trung wuoc hay nhat mọt thoi, phim lý liên kiệt, phim kinh dị, phim mỹ kinh dị, phim cá mập, phim quoái vật, phim hay nhất mọi thời đại, phim khoa học viễn tưởng, phim mỹ khoa học viễn tưởng thuyết minh, phim hanh dong vo thuat 2020 ong trum, trùm khủng bố, phim khủng bố, phim tóc độ, quá nhanh, phim hanh dong ban tia, phim hành động bắn tỉa, thuyet minh, phim võ thuật thái lan, phim hoàng đế, phim kim tự tháp, phim NGA, lòng tiếng việt, phim ngắn, phim hài hước, phim hanh dong chieu rap, phim hanh dong hollywood moi cap nhat 2020 thuyet minh, phim hanh dong hollywood hay nhat, phim hanh dong hollywood, phim hollywood hay nhất mọi thời đại, phim hollywood 2020 #phimhanhdongmy #phimhan #phimhànhđông#phimhan #phimvothuat #phimvõthuật #phimbomtan #phimle#phimhanhdong #phimmoi #phimmới2020 #phimmoi2020 #phimchieurap#phimtv #phimvothuahay2020 #phimvothuat2020 #phimvothuatxua#phimvothuattrungquoc #phimvothuatchungtudonmoinhat #phimvothuat#ngokinh #ngokinhmoinhat #chienlang #chungtudon20 #phimhayđiệnảnh#phimthailan ,Cảm ơn các bạn đã xem phim, hãy nhấn THÍCH và ĐĂNG KÍ kênh để theo dõi những bộ phim mới nhất nhé !\n#phimchieurap2020 #phimhanhdongmoinhat2020 #phimhanhdong #phimch",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/so3sXx58uKg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/so3sXx58uKg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/so3sXx58uKg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/so3sXx58uKg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phoebe Gwen",
+                "playlistId": "PLKjEb-2JAs5OmWt28idP7FA01a4jHQLOa",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "so3sXx58uKg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "so3sXx58uKg",
+                "videoPublishedAt": "2020-06-03T01:54:23Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rryez45_DMVSyBfUeH6016BF3rs",
+            "id": "UExLakViLTJKQXM1T21XdDI4aWRQN0ZBMDFhNGpIUUxPYS45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2020-06-10T07:55:22Z",
+                "channelId": "UCsp3SOk6ff-HX3boMLNLOUg",
+                "title": "Phim Lưu Đức Hoa Hay Nhất ||90% Các Bạn Chưa Xem | Phim Lẻ Hong Kong Hài Hước Hay Nhất Mọi Thời Đại",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9s9ER_J0Bwg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9s9ER_J0Bwg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9s9ER_J0Bwg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phoebe Gwen",
+                "playlistId": "PLKjEb-2JAs5OmWt28idP7FA01a4jHQLOa",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9s9ER_J0Bwg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "9s9ER_J0Bwg",
+                "videoPublishedAt": "2020-05-02T04:07:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fW7LbSRwzTMNsCgUNZiNym7rxqg",
+            "id": "UExLakViLTJKQXM1T21XdDI4aWRQN0ZBMDFhNGpIUUxPYS5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2020-06-10T07:55:22Z",
+                "channelId": "UCsp3SOk6ff-HX3boMLNLOUg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Phoebe Gwen",
+                "playlistId": "PLKjEb-2JAs5OmWt28idP7FA01a4jHQLOa",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GauQLhmfI8g"
+                }
+            },
+            "contentDetails": {
+                "videoId": "GauQLhmfI8g"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ANVgAt6Tvg__Ko_wzmVf1URWAsk",
+            "id": "UExLakViLTJKQXM1T21XdDI4aWRQN0ZBMDFhNGpIUUxPYS4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2020-06-10T07:55:22Z",
+                "channelId": "UCsp3SOk6ff-HX3boMLNLOUg",
+                "title": "Phim lẽ hồng Kông thuyết minh, Phimchanel",
+                "description": "#Phimchanel\nPhim lẽ hồng Kông thuyết minh chúc mọi người đón xem phim vui vẻ nếu hây đăng ký kênh ủng hộ mình nhé cám ơn mọi người rất nhiều,\n\n➡hoặc xem phim theo đường link ở dưới 👇\n\n➡phim chung tử đơn thuyết minh, https://youtu.be/--Ww1D-E_EI\n\n➡phim lẽ hồng Kông thuyết minh, https://youtu.be/IHQfw0ziOPE\n\n➡phim kiếm hiệp hồng Kông, https://youtu.be/eigqfFz65X0\n\n➡phim lẽ hồng Kông thuyết minh, https://youtu.be/BkS_-B6OwY8\n\n➡phim lẽ hồng Kông thuyết minh, https://youtu.be/5Lji8BgITmQ\n\n➡phim kiếm hiệp hồng Kông thuyết minh, \nhttps://youtu.be/mRtdjZ8RDGQ\n\n👉Email liên hệ fortmientay@gmail.com\n\nhttps://www.youtube.com/channel/UC9t2T3UYecLExA9kN-iN2uQ\nPhim  hành động thuyết minh, Phim thái lan, Phim lẽ võ thuật kiếm hiệp, Phim cương thi hài, Phim cương thi lâm chánh anh, Phim võ thuật thái lan, Phim trích đoạn hây, Phim xưa, Phim cũ nhất, Phim quái vật, Phim kinh dị, Phim viễn tưởng, Phim khoa học mỹ, Phim kinh dị thái lan, Phim kinh dị zoom bi, Phim xác sống, Phim ma thái lan, Phim ma xưa, Phim ma hồng Kông, Phim thành long, Phim châu tinh trì, Phim châu nhuận phát, Phim mới 2020, Phim Tony, \nphim lẽ hồng Kông \nPhim bộ, Phim hành động, Phim lẽ Trung Quốc. Phim kiếm hiệp, Phim thuyết minh, Phim cương thi, Phim hài, Phim xã hội đen, Phim hành động mỹ, Phim hành động thái lan, Phim hành động xã hội đen, Phim Ma thái lan,",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hoc1XcZJkuQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hoc1XcZJkuQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hoc1XcZJkuQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hoc1XcZJkuQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hoc1XcZJkuQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phoebe Gwen",
+                "playlistId": "PLKjEb-2JAs5OmWt28idP7FA01a4jHQLOa",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hoc1XcZJkuQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "hoc1XcZJkuQ",
+                "videoPublishedAt": "2020-06-10T05:30:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IpEdrc-gpV1OlmYS3zC_Rq1WkJo",
+            "id": "UExLakViLTJKQXM1T21XdDI4aWRQN0ZBMDFhNGpIUUxPYS5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2020-06-10T07:55:22Z",
+                "channelId": "UCsp3SOk6ff-HX3boMLNLOUg",
+                "title": "phim lẻ mới.Đẩm Máu.full HD Hay Nhất Hong Kong Xã Hội Đen",
+                "description": "BẤM ĐĂNG KÝ (SUBCRIBE) ĐỂ CHÚNG TÔI CÓ KINH PHÍ MANG VỀ NHIỀU PHIM MỚI CHO CÁC BẠN!\r\n►Cám ơn các bạn đã theo dõi và đăng ký kênh      \r\nphim xã hội đen\r\nphim mỹ \r\nphim hay \r\nphim chiếu rạp\r\nphim hài\r\nphim bộ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Idkn3cxFZXU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Idkn3cxFZXU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Idkn3cxFZXU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Idkn3cxFZXU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phoebe Gwen",
+                "playlistId": "PLKjEb-2JAs5OmWt28idP7FA01a4jHQLOa",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Idkn3cxFZXU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Idkn3cxFZXU",
+                "videoPublishedAt": "2020-06-06T13:49:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "EzoXvijqCaX6rY7Mbow0CAHTc2Q",
+            "id": "UExLakViLTJKQXM1T21XdDI4aWRQN0ZBMDFhNGpIUUxPYS4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2020-06-10T07:55:22Z",
+                "channelId": "UCsp3SOk6ff-HX3boMLNLOUg",
+                "title": "Phim lẻ hay : Nợ Máu   phim lẻ đánh nhau kinh điển   Xã hội đen Hong Kong hay nhất",
+                "description": "Mình tuyển tập series phim lẻ hành động võ thuât nhé.\nđây là danh sách phim : https://www.youtube.com/playlist?list=PLfAeIMT4GJzUST_3Lhxpwlh_MXZO3MpKq\nĐăng kí kênh mình để xem được nhiều phim hay hơn nhé . mình sẽ cố gắng up phim thường xuyên . \nmọi chi tiết xin liên hệ : changeall14@gmail.com\ncảm ơn các fens",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2jVFAiHMazc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2jVFAiHMazc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2jVFAiHMazc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2jVFAiHMazc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2jVFAiHMazc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phoebe Gwen",
+                "playlistId": "PLKjEb-2JAs5OmWt28idP7FA01a4jHQLOa",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2jVFAiHMazc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "2jVFAiHMazc",
+                "videoPublishedAt": "2019-09-09T14:16:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "J-yi2eUgIZ_3xT-NgbhP4E789FU",
+            "id": "UExLakViLTJKQXM1T21XdDI4aWRQN0ZBMDFhNGpIUUxPYS45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2020-06-10T07:55:22Z",
+                "channelId": "UCsp3SOk6ff-HX3boMLNLOUg",
+                "title": "Bá Vương Quyền Cước Trả Thù Cho Cha - Phim Võ Thuật Cổ Trang Đẳng Cấp Thế Giới",
+                "description": "Bá Vương Quyền Cước Trả Thù Cho Cha - Phim Võ Thuật Cổ Trang Đẳng Cấp Thế Giới",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5zgI_hFCxdc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5zgI_hFCxdc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5zgI_hFCxdc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5zgI_hFCxdc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phoebe Gwen",
+                "playlistId": "PLKjEb-2JAs5OmWt28idP7FA01a4jHQLOa",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5zgI_hFCxdc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "5zgI_hFCxdc",
+                "videoPublishedAt": "2019-07-17T07:35:06Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rad9RZg7_tNmU-I-Kz_2Ldr9VZ8",
+            "id": "UExLakViLTJKQXM1T21XdDI4aWRQN0ZBMDFhNGpIUUxPYS5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2020-06-10T07:55:22Z",
+                "channelId": "UCsp3SOk6ff-HX3boMLNLOUg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Phoebe Gwen",
+                "playlistId": "PLKjEb-2JAs5OmWt28idP7FA01a4jHQLOa",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YFGx5-uRcM0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "YFGx5-uRcM0"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7ip4cPI1C0MTzNzx1HdJNEMBRYY",
+            "id": "UExLakViLTJKQXM1T21XdDI4aWRQN0ZBMDFhNGpIUUxPYS43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2020-06-10T07:55:22Z",
+                "channelId": "UCsp3SOk6ff-HX3boMLNLOUg",
+                "title": "Phim ma hài gái đẹp Hong Kong mới nhất 2020 ( lồng tiếng cực hây ) bản đẹp",
+                "description": "Hãy like share và đăng ký kênh để nhận được nhiều phim mới nhất nhé !!!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M12Lt4p6rpY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M12Lt4p6rpY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M12Lt4p6rpY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/M12Lt4p6rpY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/M12Lt4p6rpY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phoebe Gwen",
+                "playlistId": "PLKjEb-2JAs5OmWt28idP7FA01a4jHQLOa",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "M12Lt4p6rpY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "M12Lt4p6rpY",
+                "videoPublishedAt": "2020-04-16T06:07:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VJaaf16qgNUwTNwWu2SJsH8r-Pk",
+            "id": "UExLakViLTJKQXM1T21XdDI4aWRQN0ZBMDFhNGpIUUxPYS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2020-06-10T07:55:22Z",
+                "channelId": "UCsp3SOk6ff-HX3boMLNLOUg",
+                "title": "phim lẻ hồng kông xã hội đen 2020",
+                "description": "Xem phim hay đang ký kênh để theo giỏi video mới nhá",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DEMT1eIp980/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DEMT1eIp980/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DEMT1eIp980/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DEMT1eIp980/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DEMT1eIp980/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phoebe Gwen",
+                "playlistId": "PLKjEb-2JAs5OmWt28idP7FA01a4jHQLOa",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DEMT1eIp980"
+                }
+            },
+            "contentDetails": {
+                "videoId": "DEMT1eIp980",
+                "videoPublishedAt": "2020-05-26T03:14:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oXU_mCBY6LWkD3lRMySDucgnJnw",
+            "id": "UExLakViLTJKQXM1T21XdDI4aWRQN0ZBMDFhNGpIUUxPYS4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2020-06-10T07:55:22Z",
+                "channelId": "UCsp3SOk6ff-HX3boMLNLOUg",
+                "title": "Cuộc Báo Thù Đẫm Máu - Phim Lẻ Xã Hội Đen Hồng Kông - Lồng Tiếng",
+                "description": " Hãy Like - Chia sẻ - Đăng ký kênh(Subscribe) để xem phim mới nhất nhé! Cảm ơn các bạn!\n-------------------------------------\n ĐĂNG KÝ KỆNH TẠI ĐÂY: https://goo.gl/Xk6y3x",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LQkQPCqT09w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LQkQPCqT09w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LQkQPCqT09w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LQkQPCqT09w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LQkQPCqT09w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phoebe Gwen",
+                "playlistId": "PLKjEb-2JAs5OmWt28idP7FA01a4jHQLOa",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "LQkQPCqT09w"
+                }
+            },
+            "contentDetails": {
+                "videoId": "LQkQPCqT09w",
+                "videoPublishedAt": "2017-09-19T07:44:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-G5IR7ymOL3xeawWkwyTnwhIW2s",
+            "id": "UExLakViLTJKQXM1T21XdDI4aWRQN0ZBMDFhNGpIUUxPYS5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2020-06-10T07:55:22Z",
+                "channelId": "UCsp3SOk6ff-HX3boMLNLOUg",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Phoebe Gwen",
+                "playlistId": "PLKjEb-2JAs5OmWt28idP7FA01a4jHQLOa",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zdpLfSJA944"
+                }
+            },
+            "contentDetails": {
+                "videoId": "zdpLfSJA944"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "BPdRCocylgQisBQzOwgNuvvEdtw",
+            "id": "UExLakViLTJKQXM1T21XdDI4aWRQN0ZBMDFhNGpIUUxPYS44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2020-06-10T07:55:22Z",
+                "channelId": "UCsp3SOk6ff-HX3boMLNLOUg",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Phoebe Gwen",
+                "playlistId": "PLKjEb-2JAs5OmWt28idP7FA01a4jHQLOa",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_2OhL3voggY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "_2OhL3voggY"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 30,
+        "resultsPerPage": 50
+    }
+}

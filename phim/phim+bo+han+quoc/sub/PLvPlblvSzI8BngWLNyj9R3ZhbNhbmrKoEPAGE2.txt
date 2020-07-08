@@ -1,0 +1,55 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "prnS-ONICGgItPDm1erqvyVPdfk",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mh6FPNHfFgmdpDT8wyf9P7B_yv0",
+            "id": "UEx2UGxibHZTekk4Qm5nV0xOeWo5UjNaaGJOaGJtcktvRS44QzVGQUU2QjE2NDgxM0M4",
+            "snippet": {
+                "publishedAt": "2020-04-26T16:12:41Z",
+                "channelId": "UCMFdkVVsQwkbsYlYd1ZMW1w",
+                "title": "Đoạn Cảm Động Nhất Trong Phim ( Bí Mật Của Người Vợ)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YMPsc6KrltE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YMPsc6KrltE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YMPsc6KrltE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YMPsc6KrltE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Atquhsuw Haijdie",
+                "playlistId": "PLvPlblvSzI8BngWLNyj9R3ZhbNhbmrKoE",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YMPsc6KrltE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "YMPsc6KrltE",
+                "videoPublishedAt": "2016-12-17T18:46:33Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 51,
+        "resultsPerPage": 50
+    }
+}

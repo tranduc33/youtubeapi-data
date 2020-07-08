@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "5KhzpLe4a2C-P-ilKLaf_x47vgg",
+    "etag": "TuUcOQnpuvFEZzNbCqwOX0l3CWU",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -568,28 +568,6 @@
             "contentDetails": {
                 "videoId": "heby9dbpyN8",
                 "videoPublishedAt": "2017-10-24T05:00:24Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "jJ_smsTgXtm7OI426L15Um2P93Y",
-            "id": "UExOaldxc3hnN3h1NFJ1N2dHeDhCX19PaUJCa2NqalljOC5EQUE1NTFDRjcwMDg0NEMz",
-            "snippet": {
-                "publishedAt": "2020-06-01T09:56:15Z",
-                "channelId": "UCOmz1t_slWGV-JAkpLVCHSQ",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "Hanh Nga",
-                "playlistId": "PLNjWqsxg7xu4Ru7gGx8B__OiBBkcjjYc8",
-                "position": 13,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "MB7dL8zCQV8"
-                }
-            },
-            "contentDetails": {
-                "videoId": "MB7dL8zCQV8"
             }
         },
         {

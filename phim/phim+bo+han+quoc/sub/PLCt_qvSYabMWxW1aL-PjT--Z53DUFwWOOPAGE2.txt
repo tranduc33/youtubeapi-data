@@ -1,0 +1,50 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "ERH0-X3JIIynd-TAo-vbQ2coouE",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "RV-b3eolPaXontdLvQHcCOna_xM",
+            "id": "UExDdF9xdlNZYWJNV3hXMWFMLVBqVC0tWjUzRFVGd1dPTy5ERkUyQTM0MzEwQjZCMTY5",
+            "snippet": {
+                "publishedAt": "2017-12-07T05:20:32Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Phim 18 Đẫm Máu   Phim Hành Động Mỹ Mới Nhất",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XCjQFFCHqh4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XCjQFFCHqh4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XCjQFFCHqh4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMWxW1aL-PjT--Z53DUFwWOO",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XCjQFFCHqh4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "XCjQFFCHqh4",
+                "videoPublishedAt": "2016-12-22T00:12:22Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 56,
+        "resultsPerPage": 50
+    }
+}

@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "hGV36yty52MyF9DDezpZIVSN_AQ",
+    "etag": "fPJh1IKDWA9xfE_y65FtgZr9aTQ",
     "nextPageToken": "CDIQAA",
     "items": [
         {
@@ -1419,28 +1419,6 @@
             "contentDetails": {
                 "videoId": "nuX-zv2r7so",
                 "videoPublishedAt": "2020-05-07T13:00:32Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "W23nR_AKOj4OZNOM5eswAffATtU",
-            "id": "UEwxeFVxTjNJUUpVV3FoZmNKMWczQWVQdE9sWlF6Z1JSbS45RjNFMDhGQ0Q2RkFCQTc1",
-            "snippet": {
-                "publishedAt": "2020-05-25T17:37:02Z",
-                "channelId": "UCiGNj9fIBkpK18aBCVsR5dg",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "Connelly Roosevelt",
-                "playlistId": "PL1xUqN3IQJUWqhfcJ1g3AePtOlZQzgRRm",
-                "position": 39,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "y9czm8JG9XY"
-                }
-            },
-            "contentDetails": {
-                "videoId": "y9czm8JG9XY"
             }
         },
         {

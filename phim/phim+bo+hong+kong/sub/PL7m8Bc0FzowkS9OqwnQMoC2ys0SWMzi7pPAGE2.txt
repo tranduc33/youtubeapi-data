@@ -1,0 +1,55 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "58hoKZ-UtuxCLN8EegsBAt9lO0M",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uLV4KWGQ9Gx46EOD9pMErCaNi9w",
+            "id": "UEw3bThCYzBGem93a1M5T3F3blFNb0MyeXMwU1dNemk3cC5FQUY2Qzk4RUFDN0ZFRkZF",
+            "snippet": {
+                "publishedAt": "2017-12-11T15:48:10Z",
+                "channelId": "UC2kXVw3Ly3Sq7y72mwnu-bA",
+                "title": "Canh nong trong phim hành động võ thuật .............",
+                "description": "Canh nong trong phim hành động võ thuật  .............",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V7Wr6Kg8qFA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V7Wr6Kg8qFA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V7Wr6Kg8qFA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/V7Wr6Kg8qFA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Tran Duon",
+                "playlistId": "PL7m8Bc0FzowkS9OqwnQMoC2ys0SWMzi7p",
+                "position": 52,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "V7Wr6Kg8qFA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "V7Wr6Kg8qFA",
+                "videoPublishedAt": "2015-08-03T10:01:38Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 53,
+        "resultsPerPage": 50
+    }
+}

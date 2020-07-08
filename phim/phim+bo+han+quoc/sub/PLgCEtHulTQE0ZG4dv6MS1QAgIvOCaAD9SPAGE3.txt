@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "2nTGfT5OocVnN-7Y7si0GFLlcWU",
+    "etag": "e0j4hoPPFBi214uk3eZrs2pJzA0",
     "prevPageToken": "CGQQAQ",
     "items": [
         {
@@ -1418,10 +1418,59 @@
                 "videoId": "-ZPd_dWE23o",
                 "videoPublishedAt": "2020-06-26T11:30:49Z"
             }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "u9Vw9zw2ZCIFxEyv1FKyg0xLe1Y",
+            "id": "UExnQ0V0SHVsVFFFMFpHNGR2Nk1TMVFBZ0l2T0NhQUQ5Uy4zNjNFN0I4ODYzQTQ3QTg2",
+            "snippet": {
+                "publishedAt": "2020-07-08T02:34:44Z",
+                "channelId": "UClfwS2zHXYQCzwGfp-Fiw6A",
+                "title": "Phim Hay 2020 Thuyết Minh | Thất Tình Kiếm Full HD | Phim Cổ Trang Chiếu Rạp Mới Nhất 2020",
+                "description": "Phim Hay 2020 Thuyết Minh | Thất Tình Kiếm Full HD | Phim Cổ Trang Chiếu Rạp Mới Nhất 2020 \nPhim Hay 2020 Mới Nhất : https://goo.gl/8cGvY9\nPhim Việt Nam Chiếu Rạp 2020: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PHxyCikp0YU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PHxyCikp0YU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PHxyCikp0YU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PHxyCikp0YU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PHxyCikp0YU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phim Hay Điện Ảnh",
+                "playlistId": "PLgCEtHulTQE0ZG4dv6MS1QAgIvOCaAD9S",
+                "position": 129,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PHxyCikp0YU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "PHxyCikp0YU",
+                "videoPublishedAt": "2020-07-08T03:00:12Z"
+            }
         }
     ],
     "pageInfo": {
-        "totalResults": 129,
+        "totalResults": 130,
         "resultsPerPage": 50
     }
 }

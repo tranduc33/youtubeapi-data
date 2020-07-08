@@ -1,0 +1,33 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "UHkoQuXRub_ZDkM1aM6xPyGUuAE",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uo9DH_koORrBnBb4JIL5snebPXU",
+            "id": "UExDdF9xdlNZYWJNVWFPQUFTUjlBM2JvM3VuWHZNNEFRYy5CNTZFOTNGQzZEODg1RUQx",
+            "snippet": {
+                "publishedAt": "2017-12-07T05:23:48Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMUaOAASR9A3bo3unXvM4AQc",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OWax9JknmTs"
+                }
+            },
+            "contentDetails": {
+                "videoId": "OWax9JknmTs"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 51,
+        "resultsPerPage": 50
+    }
+}

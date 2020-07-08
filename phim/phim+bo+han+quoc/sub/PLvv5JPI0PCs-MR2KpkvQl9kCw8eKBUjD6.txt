@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "vIgcjcI0FQMvc9r_neI1QhfaRqg",
+    "etag": "ta81peW29t1QzGp6W678pWH7COM",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -416,28 +416,6 @@
             "contentDetails": {
                 "videoId": "dOBLRCINJEc",
                 "videoPublishedAt": "2019-09-02T04:00:03Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "5mdF6HlOB5-Ki1evn32lXN93Hnc",
-            "id": "UEx2djVKUEkwUENzLU1SMktwa3ZRbDlrQ3c4ZUtCVWpENi40NzZCMERDMjVEN0RFRThB",
-            "snippet": {
-                "publishedAt": "2020-06-01T09:30:35Z",
-                "channelId": "UCkbW73Tc9YPAws06o2jhKog",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "Hai Vi",
-                "playlistId": "PLvv5JPI0PCs-MR2KpkvQl9kCw8eKBUjD6",
-                "position": 9,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "MB7dL8zCQV8"
-                }
-            },
-            "contentDetails": {
-                "videoId": "MB7dL8zCQV8"
             }
         },
         {

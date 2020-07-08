@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "9pfmTI2RbmAySVEYKTvucAR07V8",
+    "etag": "dBW7ZDkr6h9QgZVGR5VgOBdNjdE",
     "nextPageToken": "CJYBEAA",
     "prevPageToken": "CGQQAQ",
     "items": [
@@ -1739,55 +1739,6 @@
             "contentDetails": {
                 "videoId": "VcAWMs197_U",
                 "videoPublishedAt": "2020-03-01T05:30:11Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "N6XsivwddZYr5Kh8w_Aeb--ZjSA",
-            "id": "UExsUktfeWdmSVZ1ZEI1MTZKb0hPbmJ4RlRPYm80TkMydy5BNTRGQTE1QjY2NUE5NTAz",
-            "snippet": {
-                "publishedAt": "2020-04-16T15:13:01Z",
-                "channelId": "UC1XnqWFdfmFshsWyNcuLipg",
-                "title": "Trailer Itaewon Class Tập 9",
-                "description": "Itaewon Class Tập 9 Thuyết Minh Full HD | Phim Hay 2020",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/3idtVooVK-U/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/3idtVooVK-U/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/3idtVooVK-U/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/3idtVooVK-U/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/3idtVooVK-U/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Xhbxbdb Cbbcbs",
-                "playlistId": "PLlRK_ygfIVudB516JoHOnbxFTObo4NC2w",
-                "position": 138,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "3idtVooVK-U"
-                }
-            },
-            "contentDetails": {
-                "videoId": "3idtVooVK-U",
-                "videoPublishedAt": "2020-04-11T18:54:58Z"
             }
         },
         {

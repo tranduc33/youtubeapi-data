@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "kNNeR2fokl7xUYWbPiHbQPU8ViI",
+    "etag": "j_18Zy9wTWIG2l1lVh82gCgUBy4",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -719,28 +719,6 @@
             "contentDetails": {
                 "videoId": "dP0GTk8lacA",
                 "videoPublishedAt": "2018-11-10T02:47:39Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "ZHXefSrCQlrdxP6j0uMRz5dDiMw",
-            "id": "UExEXzZkcnRDUzZIVVdESThGVUJlTzl4MXFhVVNVOWphdy45RTgxNDRBMzUwRjQ0MDhC",
-            "snippet": {
-                "publishedAt": "2020-06-01T09:50:42Z",
-                "channelId": "UCmF63T3pJUoACtrBvL7Yp-w",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "Roth Floyd",
-                "playlistId": "PLD_6drtCS6HUWDI8FUBeO9x1qaUSU9jaw",
-                "position": 17,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "MB7dL8zCQV8"
-                }
-            },
-            "contentDetails": {
-                "videoId": "MB7dL8zCQV8"
             }
         },
         {

@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "SfBjxr-_UAXAO3u0cioveSxaeGM",
+    "etag": "vKGQcQQc5_8I_xLKfpavNm2G6xo",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -420,40 +420,14 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Q_5MPY19gxTy7v7ArXmswPCSBRk",
+            "etag": "T_pBrq0hkCtDvah7U-uOIylWnFA",
             "id": "UExTeVhHdVZZWXFndEVkNzhmQ1cxTEZ0eExwcldXZnJsbi40NzZCMERDMjVEN0RFRThB",
             "snippet": {
                 "publishedAt": "2020-06-28T07:40:58Z",
                 "channelId": "UCN5klaz5yeGS95Q3vkvWTdQ",
-                "title": "Âm mưu thừa kế Tập 1, Full màn hình lồng tiếng phim Hàn Quốc HTV2",
-                "description": "Âm mưu thừa kế - Full màn hình lồng tiếng phim Hàn Quốc HTV2",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/1oiDhNYuaTY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/1oiDhNYuaTY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/1oiDhNYuaTY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/1oiDhNYuaTY/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/1oiDhNYuaTY/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
                 "channelTitle": "Marina Alicia",
                 "playlistId": "PLSyXGuVYYqgtEd78fCW1LFtxLprWWfrln",
                 "position": 10,
@@ -463,8 +437,7 @@
                 }
             },
             "contentDetails": {
-                "videoId": "1oiDhNYuaTY",
-                "videoPublishedAt": "2020-06-23T03:40:54Z"
+                "videoId": "1oiDhNYuaTY"
             }
         },
         {

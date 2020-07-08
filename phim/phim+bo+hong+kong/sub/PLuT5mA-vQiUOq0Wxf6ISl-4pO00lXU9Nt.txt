@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "m6HJ2EdjPYUoN54RTN8Hai0Y0PQ",
+    "etag": "TdvLOzi9gRSA74crEIWvyE8WP4E",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -53,7 +53,56 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "57JsGdOGxfWZzgQe8kbSdHP07Ek",
+            "etag": "nw-BZnf63Kqd-rm-VSVY05iYD5E",
+            "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2020-07-08T01:54:17Z",
+                "channelId": "UCCu-91EhwEgMPtKPQjzIBZQ",
+                "title": "Hướng Dẫn Chế Tạo Chiếc Tủ Mini Đựng Mọi Thứ Đồ",
+                "description": "Hướng Dẫn Chế Tạo Chiếc Tủ Mini Đựng Mọi Thứ Đồ\n\nXin chào tất cả mọi người, mình là Dao Tien Quan.\nMình có một niềm vui bất tận đó là chế tạo các đồ vật có ích từ những sản phẩm đã vứt đi\nHy vọng những clip sẽ khiến các bạn thích thú và nếu có thể hãy thử làm theo hướng dẫn của mình nhé.\nVà các bạn đừng quên subcribe kênh của mình nha !",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k4jVTgl3Vsg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k4jVTgl3Vsg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k4jVTgl3Vsg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/k4jVTgl3Vsg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/k4jVTgl3Vsg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "skdmkdnfb Mdbdndbb",
+                "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "k4jVTgl3Vsg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "k4jVTgl3Vsg",
+                "videoPublishedAt": "2020-07-06T15:44:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tRQP7631h__CveIRYV3vKx8jt7k",
             "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC5DMkU4NTY1QUFGQTYwMDE3",
             "snippet": {
                 "publishedAt": "2020-07-07T00:12:35Z",
@@ -89,7 +138,7 @@
                 },
                 "channelTitle": "skdmkdnfb Mdbdndbb",
                 "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
-                "position": 1,
+                "position": 2,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "7PzEx-eUXkg"
@@ -102,7 +151,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "SBWmAZh_ykBnfwAAlEHmiXGa3y8",
+            "etag": "ICXLAegitxfEg81SGVFXV4E0yJg",
             "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC4yQUE2Q0JEMTk4NTM3RTZC",
             "snippet": {
                 "publishedAt": "2020-07-05T10:39:55Z",
@@ -138,7 +187,7 @@
                 },
                 "channelTitle": "skdmkdnfb Mdbdndbb",
                 "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
-                "position": 2,
+                "position": 3,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "k3jkAC9T9io"
@@ -151,7 +200,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "-33eFHUkijRhNmA3poQ52xXZQrU",
+            "etag": "ZI5jbF8mbhSDTRt0RyOl2LpL6aw",
             "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC5DQ0MyQ0Y4Mzg0M0VGOEYw",
             "snippet": {
                 "publishedAt": "2020-07-04T15:37:51Z",
@@ -187,7 +236,7 @@
                 },
                 "channelTitle": "skdmkdnfb Mdbdndbb",
                 "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
-                "position": 3,
+                "position": 4,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "c3MADnfaG8I"
@@ -200,7 +249,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "F0PN9rzM6FvqsJCDQ3H9bx-s7zg",
+            "etag": "6YVM50e_Z9-PysiIZmybTLB8lzM",
             "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC43MTI1NDIwOTMwQjIxMzNG",
             "snippet": {
                 "publishedAt": "2020-07-03T16:31:49Z",
@@ -236,7 +285,7 @@
                 },
                 "channelTitle": "skdmkdnfb Mdbdndbb",
                 "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
-                "position": 4,
+                "position": 5,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "C8gZ-zEJiRg"
@@ -249,7 +298,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "81lHoT9d7QDKu8odUes6mFJVDTk",
+            "etag": "-sObX_kVy3RoX-Ge3_QojzFlWLM",
             "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC5DNzE1RjZEMUZCMjA0RDBB",
             "snippet": {
                 "publishedAt": "2020-07-02T17:10:51Z",
@@ -285,7 +334,7 @@
                 },
                 "channelTitle": "skdmkdnfb Mdbdndbb",
                 "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
-                "position": 5,
+                "position": 6,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "AItg-thVTnY"
@@ -298,7 +347,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "cTAS3gzARkrNnfCVLs3MD_JKWkw",
+            "etag": "B7RfDBqMfQ2ftSPfTLjVJYiU_sQ",
             "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC45NzUwQkI1M0UxNThBMkU0",
             "snippet": {
                 "publishedAt": "2020-07-01T01:29:16Z",
@@ -334,7 +383,7 @@
                 },
                 "channelTitle": "skdmkdnfb Mdbdndbb",
                 "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
-                "position": 6,
+                "position": 7,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "xJ0TEIhMADg"
@@ -347,7 +396,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Yguuxh6JKz4wRzZ9TQan9FnrLuE",
+            "etag": "CI60mjv9IOfkiTw8UrLBmT-BeKc",
             "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC4zRjM0MkVCRTg0MkYyQTM0",
             "snippet": {
                 "publishedAt": "2020-06-29T12:56:47Z",
@@ -383,7 +432,7 @@
                 },
                 "channelTitle": "skdmkdnfb Mdbdndbb",
                 "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
-                "position": 7,
+                "position": 8,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "779da-_KNiI"
@@ -396,7 +445,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "l_wVNUqZfLpbd0z1L_8jgxbM-3g",
+            "etag": "f1dt6PdSYr_suMV3Cq56EqdkMCw",
             "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC5GM0Q3M0MzMzY5NTJFNTdE",
             "snippet": {
                 "publishedAt": "2020-06-28T15:17:55Z",
@@ -432,7 +481,7 @@
                 },
                 "channelTitle": "skdmkdnfb Mdbdndbb",
                 "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
-                "position": 8,
+                "position": 9,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "E8QQHNH3HSc"
@@ -445,7 +494,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "3I7Nc932CHPDzDiztcLH5DmgNY4",
+            "etag": "o87Z7pBiGSAX4qzfAVxBuLgwtV8",
             "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC4yMDhBMkNBNjRDMjQxQTg1",
             "snippet": {
                 "publishedAt": "2020-06-27T08:58:58Z",
@@ -476,7 +525,7 @@
                 },
                 "channelTitle": "skdmkdnfb Mdbdndbb",
                 "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
-                "position": 9,
+                "position": 10,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Gs6IQabMbng"
@@ -489,7 +538,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "CoM9ZQVWCulHO2DeGR6WwyiIKAY",
+            "etag": "amjv58UdSDA4u1pCg5UDKB3BZT8",
             "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC5ENDU4Q0M4RDExNzM1Mjcy",
             "snippet": {
                 "publishedAt": "2020-06-26T05:05:24Z",
@@ -525,7 +574,7 @@
                 },
                 "channelTitle": "skdmkdnfb Mdbdndbb",
                 "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
-                "position": 10,
+                "position": 11,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Y_4IMf7M2jM"
@@ -538,7 +587,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "5Prg-vdA-hmweirxLdFZr_EQ1-s",
+            "etag": "6Cj0HTvpaRq0tOuQ5ClSajtu5Kw",
             "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC45RTgxNDRBMzUwRjQ0MDhC",
             "snippet": {
                 "publishedAt": "2020-06-21T08:58:02Z",
@@ -569,7 +618,7 @@
                 },
                 "channelTitle": "skdmkdnfb Mdbdndbb",
                 "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
-                "position": 11,
+                "position": 12,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "ogjJ0waJXtI"
@@ -582,7 +631,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "WJKPMVFt0om02DDUBlf0cSpPsyQ",
+            "etag": "iOrdKyzD7UCdxIYqa4L4MYmsd_g",
             "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC4yMUQyQTQzMjRDNzMyQTMy",
             "snippet": {
                 "publishedAt": "2020-06-18T17:04:25Z",
@@ -613,7 +662,7 @@
                 },
                 "channelTitle": "skdmkdnfb Mdbdndbb",
                 "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
-                "position": 12,
+                "position": 13,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "7fqfPgbhz0I"
@@ -626,7 +675,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "NCCSM7z8APm7yXPVgezhxoPeAhM",
+            "etag": "dIPVnC3RKP4tFhF51L3avXsP53E",
             "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC41QTY1Q0UxMTVCODczNThE",
             "snippet": {
                 "publishedAt": "2020-06-15T04:27:22Z",
@@ -657,7 +706,7 @@
                 },
                 "channelTitle": "skdmkdnfb Mdbdndbb",
                 "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
-                "position": 13,
+                "position": 14,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "b6-vCwhxfac"
@@ -670,54 +719,10 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "PEwsgxXfY2LqrlYp0FmLnuuZdug",
+            "etag": "BbD9jyO3Y4IYtSf05CyzyPlJgdQ",
             "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC5EQUE1NTFDRjcwMDg0NEMz",
             "snippet": {
                 "publishedAt": "2020-06-12T10:32:46Z",
-                "channelId": "UCCu-91EhwEgMPtKPQjzIBZQ",
-                "title": "Nam Per Đem Xe Đi Độ Lại Chất Vô Cùng và Cái Kết",
-                "description": "#NamPer  #PerOfficial  #Per  \n\nLink kênh của ông anh Mã Tư đây nha AE ui : https://bit.ly/2S9nwwg\n\n-------------------------------------------------------------------------------------------------------\n\nKênh YouTube chính thức và duy nhất của Per Official\n\n© Bản quyền thuộc về: Per Official.\n\n© Vui lòng không Reup dưới mọi hình thức!\n\n-------------------------------------------------------------------------------------------------------\n\nHãy theo dõi những video mới nhất & Ủng hộ Nam tại:\nhttp://bit.do/PerOfficial\n\n► FANPAGE: https://www.facebook.com/NamPer28/?re...\n\n► FACEBOOK : http://bit.do/NamPerFB\n\n► INSTAGRAM : https://www.instagram.com/nam.per/\n\n►TikTok : https://vt.tiktok.com/jDp7gb/\n\n►CONTACT FOR WORK :  0971219707",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/bXey2oJ2coo/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/bXey2oJ2coo/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/bXey2oJ2coo/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/bXey2oJ2coo/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "skdmkdnfb Mdbdndbb",
-                "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
-                "position": 14,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "bXey2oJ2coo"
-                }
-            },
-            "contentDetails": {
-                "videoId": "bXey2oJ2coo",
-                "videoPublishedAt": "2020-05-27T13:00:40Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "nlrmXR8FA2nvpdRDttDpfIG-ToQ",
-            "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC41Mzk2QTAxMTkzNDk4MDhF",
-            "snippet": {
-                "publishedAt": "2020-06-12T10:32:10Z",
                 "channelId": "UCCu-91EhwEgMPtKPQjzIBZQ",
                 "title": "Nam Per Đem Xe Đi Độ Lại Chất Vô Cùng và Cái Kết",
                 "description": "#NamPer  #PerOfficial  #Per  \n\nLink kênh của ông anh Mã Tư đây nha AE ui : https://bit.ly/2S9nwwg\n\n-------------------------------------------------------------------------------------------------------\n\nKênh YouTube chính thức và duy nhất của Per Official\n\n© Bản quyền thuộc về: Per Official.\n\n© Vui lòng không Reup dưới mọi hình thức!\n\n-------------------------------------------------------------------------------------------------------\n\nHãy theo dõi những video mới nhất & Ủng hộ Nam tại:\nhttp://bit.do/PerOfficial\n\n► FANPAGE: https://www.facebook.com/NamPer28/?re...\n\n► FACEBOOK : http://bit.do/NamPerFB\n\n► INSTAGRAM : https://www.instagram.com/nam.per/\n\n►TikTok : https://vt.tiktok.com/jDp7gb/\n\n►CONTACT FOR WORK :  0971219707",
@@ -758,7 +763,51 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "y-ijPCL4T9W6ul3fXaeHIvD4eIA",
+            "etag": "fIEIgUqdpj88QL0sXS4Q8YGL-vQ",
+            "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2020-06-12T10:32:10Z",
+                "channelId": "UCCu-91EhwEgMPtKPQjzIBZQ",
+                "title": "Nam Per Đem Xe Đi Độ Lại Chất Vô Cùng và Cái Kết",
+                "description": "#NamPer  #PerOfficial  #Per  \n\nLink kênh của ông anh Mã Tư đây nha AE ui : https://bit.ly/2S9nwwg\n\n-------------------------------------------------------------------------------------------------------\n\nKênh YouTube chính thức và duy nhất của Per Official\n\n© Bản quyền thuộc về: Per Official.\n\n© Vui lòng không Reup dưới mọi hình thức!\n\n-------------------------------------------------------------------------------------------------------\n\nHãy theo dõi những video mới nhất & Ủng hộ Nam tại:\nhttp://bit.do/PerOfficial\n\n► FANPAGE: https://www.facebook.com/NamPer28/?re...\n\n► FACEBOOK : http://bit.do/NamPerFB\n\n► INSTAGRAM : https://www.instagram.com/nam.per/\n\n►TikTok : https://vt.tiktok.com/jDp7gb/\n\n►CONTACT FOR WORK :  0971219707",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bXey2oJ2coo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bXey2oJ2coo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bXey2oJ2coo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bXey2oJ2coo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "skdmkdnfb Mdbdndbb",
+                "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bXey2oJ2coo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "bXey2oJ2coo",
+                "videoPublishedAt": "2020-05-27T13:00:40Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xCCxu-1dzVBrXK1kgvtRcHQAc2M",
             "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
                 "publishedAt": "2020-05-31T17:23:59Z",
@@ -789,7 +838,7 @@
                 },
                 "channelTitle": "skdmkdnfb Mdbdndbb",
                 "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
-                "position": 16,
+                "position": 17,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "K3AQ8eD5seI"
@@ -802,7 +851,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ES_uHycnZQ2_NNgNYkENIswrgWU",
+            "etag": "JZYWhaPmvE1fKavetQ6wFVSGKiU",
             "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
                 "publishedAt": "2020-05-31T17:24:00Z",
@@ -838,7 +887,7 @@
                 },
                 "channelTitle": "skdmkdnfb Mdbdndbb",
                 "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
-                "position": 17,
+                "position": 18,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "27x8lQR3zI4"
@@ -851,7 +900,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "6akwm7jIY4lwfRlbLfPu8v_S5kY",
+            "etag": "tUTrEuda9_KCJkiICAHxeck99Yg",
             "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC41MjE1MkI0OTQ2QzJGNzNG",
             "snippet": {
                 "publishedAt": "2020-05-31T17:24:00Z",
@@ -882,7 +931,7 @@
                 },
                 "channelTitle": "skdmkdnfb Mdbdndbb",
                 "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
-                "position": 18,
+                "position": 19,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "nWmz3J0fvgA"
@@ -895,7 +944,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "euQUOQudXXopO4MalLxhWUCxDLU",
+            "etag": "G9Pg876R8fKjBB8TcsOfWciE2NU",
             "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC4wOTA3OTZBNzVEMTUzOTMy",
             "snippet": {
                 "publishedAt": "2020-05-31T17:24:01Z",
@@ -926,7 +975,7 @@
                 },
                 "channelTitle": "skdmkdnfb Mdbdndbb",
                 "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
-                "position": 19,
+                "position": 20,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Pgz0lOe4Jy0"
@@ -939,7 +988,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "TwaDGg3on0KXVmSJnxaZqiRhqFE",
+            "etag": "vwX2gcHuYbptiEN_l-B8DiofV4o",
             "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC41MzJCQjBCNDIyRkJDN0VD",
             "snippet": {
                 "publishedAt": "2020-05-31T17:24:03Z",
@@ -975,7 +1024,7 @@
                 },
                 "channelTitle": "skdmkdnfb Mdbdndbb",
                 "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
-                "position": 21,
+                "position": 22,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "qs5AB0tHXKE"
@@ -988,7 +1037,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "KFw2r5Lk7fXlHYNHcU2de8k_R0A",
+            "etag": "ghic59TWAirZlYUhFq5f6pMp7JI",
             "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC5DQUNERDQ2NkIzRUQxNTY1",
             "snippet": {
                 "publishedAt": "2020-05-31T17:24:03Z",
@@ -1024,7 +1073,7 @@
                 },
                 "channelTitle": "skdmkdnfb Mdbdndbb",
                 "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
-                "position": 22,
+                "position": 23,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "4hk1wp3t44w"
@@ -1037,7 +1086,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "f66mwSecJxQ2u3jlTH6SLTYdtNQ",
+            "etag": "xpSPoNMPiqZuAy4_H0bPaACOsm4",
             "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC45NDk1REZENzhEMzU5MDQz",
             "snippet": {
                 "publishedAt": "2020-05-31T17:24:04Z",
@@ -1073,7 +1122,7 @@
                 },
                 "channelTitle": "skdmkdnfb Mdbdndbb",
                 "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
-                "position": 23,
+                "position": 24,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "0PQSV3xXLYQ"
@@ -1086,7 +1135,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Z-0MX_y9lnN-JyJNx3A5k9PyNWA",
+            "etag": "JUVkhuDHlg4AfvrjqRRV2lA-lKM",
             "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC5GNjNDRDREMDQxOThCMDQ2",
             "snippet": {
                 "publishedAt": "2020-05-31T17:24:04Z",
@@ -1122,7 +1171,7 @@
                 },
                 "channelTitle": "skdmkdnfb Mdbdndbb",
                 "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
-                "position": 24,
+                "position": 25,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "ahIs3luu7fA"
@@ -1135,7 +1184,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "qQdx7d-3IGE0Wzlr45gGfgY2sJw",
+            "etag": "DkTA8ir_YyKyCRGz51sTOJtu7aw",
             "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC40NzZCMERDMjVEN0RFRThB",
             "snippet": {
                 "publishedAt": "2020-05-31T17:24:05Z",
@@ -1171,7 +1220,7 @@
                 },
                 "channelTitle": "skdmkdnfb Mdbdndbb",
                 "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
-                "position": 25,
+                "position": 26,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "yaZ99aJ2TLY"
@@ -1184,7 +1233,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "0FnS0_XaPDMjWqZQRY3Th0Y9rTs",
+            "etag": "3AIQ4Z6HVwPJT-wux7qeuuKTLco",
             "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC5EMEEwRUY5M0RDRTU3NDJC",
             "snippet": {
                 "publishedAt": "2020-05-31T17:24:06Z",
@@ -1194,7 +1243,7 @@
                 "thumbnails": {},
                 "channelTitle": "skdmkdnfb Mdbdndbb",
                 "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
-                "position": 26,
+                "position": 27,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Cd9NmHwfuYE"
@@ -1206,7 +1255,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "4ZxERJSUnnuYCRSKVsdku2xrggQ",
+            "etag": "F8o5RSFPLCoUJbY3Eas1nvGYlmI",
             "id": "UEx1VDVtQS12UWlVT3EwV3hmNklTbC00cE8wMGxYVTlOdC45ODRDNTg0QjA4NkFBNkQy",
             "snippet": {
                 "publishedAt": "2020-05-31T17:24:06Z",
@@ -1242,7 +1291,7 @@
                 },
                 "channelTitle": "skdmkdnfb Mdbdndbb",
                 "playlistId": "PLuT5mA-vQiUOq0Wxf6ISl-4pO00lXU9Nt",
-                "position": 27,
+                "position": 28,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "E2q8VhgFJCw"
@@ -1255,7 +1304,7 @@
         }
     ],
     "pageInfo": {
-        "totalResults": 28,
+        "totalResults": 29,
         "resultsPerPage": 50
     }
 }

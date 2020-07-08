@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "WByuQWJt8KkcDE_oXOdPgeh1QkU",
+    "etag": "2PrzRIDlglLYVRghOm3wCqv0nLQ",
     "prevPageToken": "CDIQAQ",
     "items": [
         {
@@ -142,40 +142,14 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "zcGh-KWUvnmAwHWkJcF9MK7hz5E",
+            "etag": "CwO0ZRX8AJCi7HNHRJN7QhkZ-lI",
             "id": "UExKWnhTWmlLQVExRC1ZNEs1WFI3cW5ZajBHNmZzSEVnbi40NzE2MTY1QTM3RUI3QkU3",
             "snippet": {
                 "publishedAt": "2020-07-02T06:07:01Z",
                 "channelId": "UCbTBLXKsaCe12iEik0Ygikw",
-                "title": "Âm mưu thừa kế Tập 1, Full màn hình lồng tiếng phim Hàn Quốc HTV2",
-                "description": "Âm mưu thừa kế - Full màn hình lồng tiếng phim Hàn Quốc HTV2",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/1oiDhNYuaTY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/1oiDhNYuaTY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/1oiDhNYuaTY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/1oiDhNYuaTY/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/1oiDhNYuaTY/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
                 "channelTitle": "Kimhuong Tran",
                 "playlistId": "PLJZxSZiKAQ1D-Y4K5XR7qnYj0G6fsHEgn",
                 "position": 54,
@@ -185,8 +159,7 @@
                 }
             },
             "contentDetails": {
-                "videoId": "1oiDhNYuaTY",
-                "videoPublishedAt": "2020-06-23T03:40:54Z"
+                "videoId": "1oiDhNYuaTY"
             }
         },
         {

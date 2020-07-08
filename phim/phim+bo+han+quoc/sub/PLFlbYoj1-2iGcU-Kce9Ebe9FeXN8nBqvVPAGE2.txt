@@ -1,0 +1,55 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "f43QeaGfYfmKBCV7jkIKJzEhh68",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3hJgLQWORSCqeCKznimfUbR1F2U",
+            "id": "UExGbGJZb2oxLTJpR2NVLUtjZTlFYmU5RmVYTjhuQnF2Vi42QzdBMzlBQzQzRjQ0QkQy",
+            "snippet": {
+                "publishedAt": "2019-04-22T17:59:05Z",
+                "channelId": "UC67UnP-6P5mlgK-bM4ljGPg",
+                "title": "Phim cô Vợ Lắm Chiêu -- Phim thuyết minh hàn quốc mới nhất",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8MclqyDGO28/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8MclqyDGO28/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8MclqyDGO28/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8MclqyDGO28/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Bạn Sẽ Thành Công",
+                "playlistId": "PLFlbYoj1-2iGcU-Kce9Ebe9FeXN8nBqvV",
+                "position": 53,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8MclqyDGO28"
+                }
+            },
+            "contentDetails": {
+                "videoId": "8MclqyDGO28",
+                "videoPublishedAt": "2017-09-30T02:44:48Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 54,
+        "resultsPerPage": 50
+    }
+}

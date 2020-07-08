@@ -1,29 +1,7 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "74q-GLkhuLeawU5tydjDngDesKI",
+    "etag": "wbHG9UDF0eIgC9zgUp0_LcwDhmA",
     "items": [
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "7OLmdGpLZQR9KjNLgxgKxwKfDe0",
-            "id": "UExkUzEyWlFVek9BWXFqbmgzbU1vb3J3LW5abDk0Uy12Sy41NkI0NEY2RDEwNTU3Q0M2",
-            "snippet": {
-                "publishedAt": "2020-06-01T09:30:58Z",
-                "channelId": "UCmB66C6_XvjgZFOR5SJJyuA",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "Vien Nguyen",
-                "playlistId": "PLdS12ZQUzOAYqjnh3mMoorw-nZl94S-vK",
-                "position": 0,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "MB7dL8zCQV8"
-                }
-            },
-            "contentDetails": {
-                "videoId": "MB7dL8zCQV8"
-            }
-        },
         {
             "kind": "youtube#playlistItem",
             "etag": "pF3I-zKX0sa8f1JQtdC3FymdNwM",

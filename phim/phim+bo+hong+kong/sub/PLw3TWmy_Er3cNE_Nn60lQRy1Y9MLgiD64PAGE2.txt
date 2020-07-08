@@ -1,0 +1,50 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "SPRDNOcuIQwXnrBF2-ufnfy_-D0",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "crgioA3aoVQo1nmaZlUcH1lpWQk",
+            "id": "UEx3M1RXbXlfRXIzY05FX05uNjBsUVJ5MVk5TUxnaUQ2NC5CQkEwRDA0MDkwNUM2MDY1",
+            "snippet": {
+                "publishedAt": "2017-12-12T08:09:20Z",
+                "channelId": "UCOtZzqaWX6NRgCnParRjMuA",
+                "title": "Cận Vệ Trung Nam Trung Hải Full   can ve trung nam hai   Lồng tiếng",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Yx1x5UWnVGw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Yx1x5UWnVGw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Yx1x5UWnVGw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bui Khoa",
+                "playlistId": "PLw3TWmy_Er3cNE_Nn60lQRy1Y9MLgiD64",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Yx1x5UWnVGw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Yx1x5UWnVGw",
+                "videoPublishedAt": "2016-04-11T13:25:19Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 51,
+        "resultsPerPage": 50
+    }
+}

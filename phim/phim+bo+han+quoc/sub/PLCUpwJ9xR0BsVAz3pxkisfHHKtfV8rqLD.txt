@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "g_w0l5xMjUUPMUHYt_x_IuW2_Hw",
+    "etag": "rMgxZAwZwTlvPkVwwBMP7jaivkY",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -744,28 +744,6 @@
             "contentDetails": {
                 "videoId": "bn4akxFLeJQ",
                 "videoPublishedAt": "2016-06-15T14:32:20Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "kM9XnQNlHKOZGcmRvnapTYJHqvc",
-            "id": "UExDVXB3Sjl4UjBCc1ZBejNweGtpc2ZISEt0ZlY4cnFMRC45RTgxNDRBMzUwRjQ0MDhC",
-            "snippet": {
-                "publishedAt": "2020-06-01T09:56:05Z",
-                "channelId": "UCquNTdHEaP_ees29H34dy4Q",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "Dong Vi",
-                "playlistId": "PLCUpwJ9xR0BsVAz3pxkisfHHKtfV8rqLD",
-                "position": 17,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "MB7dL8zCQV8"
-                }
-            },
-            "contentDetails": {
-                "videoId": "MB7dL8zCQV8"
             }
         },
         {
