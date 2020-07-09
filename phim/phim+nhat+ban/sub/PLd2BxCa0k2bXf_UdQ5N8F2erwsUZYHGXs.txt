@@ -1,56 +1,7 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "rCllF3U6CiZmcm3CxVN_glfCGeg",
+    "etag": "B5PMb1_j9NMJwYqWdG_k8v7zbS0",
     "items": [
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "FNckmHm7cbsZLCihYysf1U92ytw",
-            "id": "UExkMkJ4Q2EwazJiWGZfVWRRNU44RjJlcndzVVpZSEdYcy41NkI0NEY2RDEwNTU3Q0M2",
-            "snippet": {
-                "publishedAt": "2020-06-27T08:42:01Z",
-                "channelId": "UCDOgMLVLrGf4YOjKdhzVaCA",
-                "title": "o nha giat do",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/kmGXLB4Gc_E/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/kmGXLB4Gc_E/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/kmGXLB4Gc_E/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/kmGXLB4Gc_E/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/kmGXLB4Gc_E/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Josie Bradley",
-                "playlistId": "PLd2BxCa0k2bXf_UdQ5N8F2erwsUZYHGXs",
-                "position": 0,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "kmGXLB4Gc_E"
-                }
-            },
-            "contentDetails": {
-                "videoId": "kmGXLB4Gc_E",
-                "videoPublishedAt": "2020-05-14T09:57:04Z"
-            }
-        },
         {
             "kind": "youtube#playlistItem",
             "etag": "q9mCmJaqcr-3nC0SkBMpXPumM4k",
@@ -557,45 +508,6 @@
             "contentDetails": {
                 "videoId": "J2-INm9oGPw",
                 "videoPublishedAt": "2019-10-26T08:26:36Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "WU1_UaKAiU2I3EIByeYiBG0Vxh8",
-            "id": "UExkMkJ4Q2EwazJiWGZfVWRRNU44RjJlcndzVVpZSEdYcy4zMDg5MkQ5MEVDMEM1NTg2",
-            "snippet": {
-                "publishedAt": "2020-06-27T08:42:15Z",
-                "channelId": "UCDOgMLVLrGf4YOjKdhzVaCA",
-                "title": "Ôi cô gái ấy",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/CsCf9VXMnQw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/CsCf9VXMnQw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/CsCf9VXMnQw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Josie Bradley",
-                "playlistId": "PLd2BxCa0k2bXf_UdQ5N8F2erwsUZYHGXs",
-                "position": 13,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "CsCf9VXMnQw"
-                }
-            },
-            "contentDetails": {
-                "videoId": "CsCf9VXMnQw",
-                "videoPublishedAt": "2020-06-10T13:17:51Z"
             }
         },
         {

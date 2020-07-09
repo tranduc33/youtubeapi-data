@@ -1,10 +1,10 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "RD4R0dkTqup3nQexaxHB0-0GT8E",
+    "etag": "GSzt4LZUBkI4uycT-nQ9KWFHxjw",
     "nextPageToken": "CDIQAA",
     "regionCode": "US",
     "pageInfo": {
-        "totalResults": 484265,
+        "totalResults": 457360,
         "resultsPerPage": 50
     },
     "items": [
@@ -44,36 +44,70 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "lGILgQa5eDRZcsKbKu6Of0qG1ZM",
+            "etag": "NeKmvcXtAshc03QfE21C9Pi6g10",
             "id": {
                 "kind": "youtube#playlist",
-                "playlistId": "PLzRKj0jD-GZbn_mRGIRTjI3omaMwWOb_1"
+                "playlistId": "PLGlm19U0PS1jeWFUyfQsQmLnrOhnPRszY"
             },
             "snippet": {
-                "publishedAt": "2018-07-30T14:58:06Z",
-                "channelId": "UC0FT3GYB73T_qJnKHR6qs2w",
-                "title": "⭐⭐⭐⭐ Đất Mặn | Hplus | Full trọn bộ 49/49 | HTV Phim tình cảm Việt Nam hay nhất 2020",
-                "description": "10h00 AM Việt Nam từ 6/2/2020.",
+                "publishedAt": "2019-09-12T11:08:28Z",
+                "channelId": "UCavCHpBWSU6cWJjD3p3cOQg",
+                "title": "Phim bộ Việt Nam",
+                "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/1vzU96RKtfA/default.jpg",
+                        "url": "https://i.ytimg.com/vi/p54bYfFyne0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/1vzU96RKtfA/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/p54bYfFyne0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/1vzU96RKtfA/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/p54bYfFyne0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "HPLUS Films",
+                "channelTitle": "Aline LE",
                 "liveBroadcastContent": "none",
-                "publishTime": "2018-07-30T14:58:06Z"
+                "publishTime": "2019-09-12T11:08:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KuWt7CuPeGvQPhWRLynzGqcCej0",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLe496ffDu_q0uem1i0IeCjmF4uuuYuU9J"
+            },
+            "snippet": {
+                "publishedAt": "2019-04-07T14:09:16Z",
+                "channelId": "UCtCCLV_-QVK_qJvGsQIC5gQ",
+                "title": "Phim bo viet nam",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Pz5gfWg-ilo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Pz5gfWg-ilo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Pz5gfWg-ilo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Cuong Kha",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-04-07T14:09:16Z"
             }
         },
         {
@@ -108,40 +142,6 @@
                 "channelTitle": "Phim Hay Việt Nam",
                 "liveBroadcastContent": "none",
                 "publishTime": "2020-03-31T01:04:54Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "NeKmvcXtAshc03QfE21C9Pi6g10",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLGlm19U0PS1jeWFUyfQsQmLnrOhnPRszY"
-            },
-            "snippet": {
-                "publishedAt": "2019-09-12T11:08:28Z",
-                "channelId": "UCavCHpBWSU6cWJjD3p3cOQg",
-                "title": "Phim bộ Việt Nam",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/p54bYfFyne0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/p54bYfFyne0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/p54bYfFyne0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Aline LE",
-                "liveBroadcastContent": "none",
-                "publishTime": "2019-09-12T11:08:28Z"
             }
         },
         {
@@ -214,40 +214,6 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "KuWt7CuPeGvQPhWRLynzGqcCej0",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLe496ffDu_q0uem1i0IeCjmF4uuuYuU9J"
-            },
-            "snippet": {
-                "publishedAt": "2019-04-07T14:09:16Z",
-                "channelId": "UCtCCLV_-QVK_qJvGsQIC5gQ",
-                "title": "Phim bo viet nam",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Pz5gfWg-ilo/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Pz5gfWg-ilo/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Pz5gfWg-ilo/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Cuong Kha",
-                "liveBroadcastContent": "none",
-                "publishTime": "2019-04-07T14:09:16Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
             "etag": "tLszDOa_4uPdtfOe7Iba-yNWLSg",
             "id": {
                 "kind": "youtube#playlist",
@@ -316,36 +282,138 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "a9Ho91txQ5LjE_maTuYzyFFjqhg",
+            "etag": "1poBbuDXQSOOOX5ASfhpi1bm1ys",
             "id": {
                 "kind": "youtube#playlist",
-                "playlistId": "PLw0qRebeMbpFYBhuR5zylHm_C73wuG3Jy"
+                "playlistId": "PLzRKj0jD-GZbs3rheLwb7ETeCWrYK_Apn"
             },
             "snippet": {
-                "publishedAt": "2019-12-20T08:18:21Z",
-                "channelId": "UCrS7tv883mVqv07HKgVuwAA",
-                "title": "Anh Ba Khía",
+                "publishedAt": "2015-04-13T06:11:52Z",
+                "channelId": "UC0FT3GYB73T_qJnKHR6qs2w",
+                "title": "Tham vọng  | Hplus | HTV Phim tình cảm Việt Nam hay",
                 "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/GSgH4d_D08E/default.jpg",
+                        "url": "https://i.ytimg.com/vi/CSu-8cYRjf0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/GSgH4d_D08E/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/CSu-8cYRjf0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/GSgH4d_D08E/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/CSu-8cYRjf0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "THVL Phim",
+                "channelTitle": "HPLUS Films",
                 "liveBroadcastContent": "none",
-                "publishTime": "2019-12-20T08:18:21Z"
+                "publishTime": "2015-04-13T06:11:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vCBFPusrhUifiFCA52RbL_uWIaA",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLzRKj0jD-GZZrQ8WJfgHgMiOGPejPTQ_O"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-06T09:50:11Z",
+                "channelId": "UC0FT3GYB73T_qJnKHR6qs2w",
+                "title": "🌟🌟🌟🌟 Ầu Ơ Ví Dầu | Hplus | Full trọn bộ 42/42 | HTV Phim tình cảm Việt Nam hay nhất 2018",
+                "description": "Xem trọn bộ 42 Tập #Youtube Hplus.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WnAugVCMiKY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WnAugVCMiKY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WnAugVCMiKY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HPLUS Films",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-03-06T09:50:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fCpbBl7JQC7F52RgNoUWsEf7iAY",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLUdUmLETkfqIIUczzJIwmEqK5cPA_Fiis"
+            },
+            "snippet": {
+                "publishedAt": "2019-02-04T05:18:36Z",
+                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
+                "title": "Bản Năng Thép - Phim Việt Nam",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VJsIGr8y-4k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VJsIGr8y-4k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VJsIGr8y-4k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Let'sViet TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-02-04T05:18:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aEG7tjW6eZpfMAEz3d2Gi-q4NQs",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLzRKj0jD-GZZe2yE5ebDcpr8Kx7d2rIz1"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-27T02:36:36Z",
+                "channelId": "UC0FT3GYB73T_qJnKHR6qs2w",
+                "title": "🌟🌟🌟🌟🌟 Lồng Son | Hplus | Full trọn bộ 30/30 | HTV Phim tình cảm Việt Nam hay nhất 2018",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YZHfU9m7dnQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YZHfU9m7dnQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YZHfU9m7dnQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HPLUS Films",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-09-27T02:36:36Z"
             }
         },
         {
@@ -384,240 +452,36 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "o6tS4sIegROOGu_4c8KJvHikNAk",
+            "etag": "aZbEWec6gB7EF8ATZ1FDwMmHRTg",
             "id": {
                 "kind": "youtube#playlist",
-                "playlistId": "PLzRKj0jD-GZaOrV6MSGG3Cwy4rJP53jTg"
+                "playlistId": "PLI4DZVYqSXKOVScS8Y8M05T_ssgremv1a"
             },
             "snippet": {
-                "publishedAt": "2018-11-08T09:36:00Z",
-                "channelId": "UC0FT3GYB73T_qJnKHR6qs2w",
-                "title": "🌟🌟🌟🌟🌟 Sóng Tình | Hplus | Full trọn bộ 30/30 | HTV Phim tình cảm Việt Nam Đặc Sắc",
-                "description": "YouTube HPlus #sóng tình.",
+                "publishedAt": "2019-01-17T08:47:34Z",
+                "channelId": "UCnihWx76gHjykKYOhvP_v8A",
+                "title": "Tình Yêu Tuổi Dại Thì Full Bộ",
+                "description": "tình yêu tuổi dậy thì tập 1 2 3 4 5 6 7 8 9 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/CA3iyzZW2a0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/DWI3cOWxwZU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/CA3iyzZW2a0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/DWI3cOWxwZU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/CA3iyzZW2a0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/DWI3cOWxwZU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "HPLUS Films",
+                "channelTitle": "Phim Hay Việt Nam",
                 "liveBroadcastContent": "none",
-                "publishTime": "2018-11-08T09:36:00Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "r2zERm3SAulEVq8gGiuyufge3JQ",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLggJwkkGSA_0slbC1m9g76JmQRKpiED1f"
-            },
-            "snippet": {
-                "publishedAt": "2017-10-30T12:18:31Z",
-                "channelId": "UCv0JxnsxtGdhEQ-YixyaYNQ",
-                "title": "Phim bộ việt nam",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/zI9TDQKU06g/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/zI9TDQKU06g/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/zI9TDQKU06g/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Trang Tú",
-                "liveBroadcastContent": "none",
-                "publishTime": "2017-10-30T12:18:31Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "JO1LMZrzTIGl780GGqomBbQF904",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLzRKj0jD-GZahYPImba5pClWLYCrj4uWM"
-            },
-            "snippet": {
-                "publishedAt": "2018-09-18T10:27:49Z",
-                "channelId": "UC0FT3GYB73T_qJnKHR6qs2w",
-                "title": "🌟🌟🌟🌟 Hoa Dại | Hplus | Full trọn bộ 22/22 | HTV Phim tình cảm Việt Nam hay nhất 2018",
-                "description": "Xem trọn bộ 22 Tập trên Youtube Hplus or app HTVC.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/dPZTSGx6WhE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/dPZTSGx6WhE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/dPZTSGx6WhE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "HPLUS Films",
-                "liveBroadcastContent": "none",
-                "publishTime": "2018-09-18T10:27:49Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "q59HkZcBbFGkwT3oKxTvcnY13sc",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLrBAQg86hGY_w28kJXEqCF9sbfPv7aA73"
-            },
-            "snippet": {
-                "publishedAt": "2014-11-12T08:43:52Z",
-                "channelId": "UCYIUuKyiDCBnG-tp6jr-1nA",
-                "title": "Lời Sám Hối - Phim Việt Nam được khán giả yêu thích",
-                "description": "Phim có sự tham gia diễn xuất của Nhật Kim Anh, Lý Hùng, Võ Hiệp, Kiều Trinh, Thủy Cúc, Hà Trí Quang, Quỳnh Lam, Xuân Văn…được phát sóng lúc 19h45 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/yUVyvAyw7S4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/yUVyvAyw7S4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/yUVyvAyw7S4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Truyen Hinh Vinh Long",
-                "liveBroadcastContent": "none",
-                "publishTime": "2014-11-12T08:43:52Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "s0v3H5X5IJ8mGdA58jlkJWqY86M",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLa0N0OPf9eMWy_6_UPyf3IpWsxdW6iJFw"
-            },
-            "snippet": {
-                "publishedAt": "2017-11-05T13:37:28Z",
-                "channelId": "UC2C7aVIheE4ilF_tbolNYEg",
-                "title": "Nước Mắt Làm Thuê Full Bộ - Phim Việt Nam 2017",
-                "description": "nước mắt làm thuê.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/XM7Q2mG_ZBg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/XM7Q2mG_ZBg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/XM7Q2mG_ZBg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Phim Hài Hay Mới",
-                "liveBroadcastContent": "none",
-                "publishTime": "2017-11-05T13:37:28Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "WDkbVpcFqDvHdXW9UeuYiysnHwQ",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLUakBVcmSQuBh6DbGKzbNpZVI0ndlr4WG"
-            },
-            "snippet": {
-                "publishedAt": "2019-09-22T10:59:40Z",
-                "channelId": "UCEWie3ULTB3LC0NDnMDI2-g",
-                "title": "PB VN - Đôi Mắt Của Trái Tim TB",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/pZVe3hgeQQM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/pZVe3hgeQQM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/pZVe3hgeQQM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "chien le",
-                "liveBroadcastContent": "none",
-                "publishTime": "2019-09-22T10:59:40Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "zhmtmxNyB1La1wuSJvZQXRJcySU",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLzRKj0jD-GZanSF27bWPA45CjX7tnQk77"
-            },
-            "snippet": {
-                "publishedAt": "2018-04-16T08:35:43Z",
-                "channelId": "UC0FT3GYB73T_qJnKHR6qs2w",
-                "title": "⭐️⭐️⭐️⭐️⭐️  Tình Yêu Tìm Lại | Hplus | Full trọn bộ 34/34 | HTV Phim tình cảm Việt Nam hay nhất 2018",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/AqSVT4A21uA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/AqSVT4A21uA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/AqSVT4A21uA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "HPLUS Films",
-                "liveBroadcastContent": "none",
-                "publishTime": "2018-04-16T08:35:43Z"
+                "publishTime": "2019-01-17T08:47:34Z"
             }
         },
         {
@@ -656,6 +520,40 @@
         },
         {
             "kind": "youtube#searchResult",
+            "etag": "1Eaer4O8f50bVvcaAIvLgc3lNcc",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL3KtoeI6RFBxIHXIlKKVj8QQr4lWPHMxW"
+            },
+            "snippet": {
+                "publishedAt": "2019-10-18T02:40:21Z",
+                "channelId": "UCpMu4aum7zYhxj1Uv898ePw",
+                "title": "Nhà Là Nơi Để Về - Trọn Bộ | Phim Hài Việt Nam Mới Nhất",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NCEfxEhyeXc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NCEfxEhyeXc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NCEfxEhyeXc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "M&T PICTURES OFFICIAL",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-10-18T02:40:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
             "etag": "AZazuRmxnKDHro8z2hoioCjnc_4",
             "id": {
                 "kind": "youtube#playlist",
@@ -690,36 +588,427 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "CsAP4bw0Jg4sG3ag_sigF29n6T8",
+            "etag": "4dH8wmqj_DmGsGzAsar6tPUpt5w",
             "id": {
                 "kind": "youtube#playlist",
-                "playlistId": "PLI6ph79rf3UG_386OJvR1T6U1S2v2SbD0"
+                "playlistId": "PLO_WVghkLH6bC-jrSEZ6q49BOxjlFkd_4"
             },
             "snippet": {
-                "publishedAt": "2019-09-16T02:58:38Z",
-                "channelId": "UC_0t1a7SVvrNRDL7Ih0L3lA",
-                "title": "Đôi Mắt Của Trái Tim Trọn Bộ | Phim Việt Nam Hay Nhất 2019",
-                "description": "Xem trọn bộ Đôi Mắt Của Trái Tim : http://bit.ly/DoiMatCuaTraiTim ❖Đăng ký kênh: http://bit.ly/Sub_Kenh_TodayFilm ❖Xem các phim hay khác: ...",
+                "publishedAt": "2020-01-23T03:07:28Z",
+                "channelId": "UCH-_NjZ3ojREOwBZt-3pYLA",
+                "title": "Siêu Phẩm Cổ Trang Tình Yêu 2020 | Tam Sinh Tam Thế Chẩm Thượng Thư (Vietsub) | Hãy vào APP WeTV xem full bộ phim bản quyền | WeTV Vietnam",
+                "description": "Đón xem toàn tập phim hay mới nhất, tải ngay APP WeTV: https://lihi.one/Kxnjq ▻Lịch chiếu \"Tam Sinh Tam Thế Chẩm Thượng Thư\": Ngày 22/01 độc quyền ...",
+                "channelTitle": "WeTV Vietnam",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-01-23T03:07:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OiSEYn_lyEjuDDhtuVYnhtQgI_E",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLgCEtHulTQE25UPB2WiIBQIbEtV_2gN0P"
+            },
+            "snippet": {
+                "publishedAt": "2016-02-03T15:08:44Z",
+                "channelId": "UClfwS2zHXYQCzwGfp-Fiw6A",
+                "title": "Phim Việt Nam Chứa Nhiều Cảnh Nóng",
+                "description": "Phim, 18+,phim18+,Phim Tình Cảm , Tâm Lý , Tình Cảm , phim việt nam , phim hay , phim hay nhất , phim hay 2016, phim mới , phim vn, phim online, xem phim ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/pZVe3hgeQQM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/mE_lo7rfjg8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/pZVe3hgeQQM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/mE_lo7rfjg8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/pZVe3hgeQQM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/mE_lo7rfjg8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phim Hay Điện Ảnh",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-02-03T15:08:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QXtMHwYdN0NsSRwC0SsQcWeiqnI",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLqs9tpQUATkLdv7aaqV0I7bSevk3Hm2bh"
+            },
+            "snippet": {
+                "publishedAt": "2016-10-16T06:27:10Z",
+                "channelId": "UCl4luUiV3tp0-ejY9nsLX3w",
+                "title": "Phim Bo Viet nam",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2ynCfC6u-60/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2ynCfC6u-60/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2ynCfC6u-60/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Quang Huy Truong",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-10-16T06:27:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "SNZtNXdHqeVSQkqjSwSdq57VYy8",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLI6ph79rf3UFEANdrT1-rwsqOoXSR72iN"
+            },
+            "snippet": {
+                "publishedAt": "2019-04-28T14:31:33Z",
+                "channelId": "UC_0t1a7SVvrNRDL7Ih0L3lA",
+                "title": "HÔN LỄ MÙA THU Trọn Bộ | Phim Tình Cảm Việt Nam Hay Nhất 2019",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OsFHWaWzah8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OsFHWaWzah8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OsFHWaWzah8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
                 "channelTitle": "TodayFilm",
                 "liveBroadcastContent": "none",
-                "publishTime": "2019-09-16T02:58:38Z"
+                "publishTime": "2019-04-28T14:31:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lyXoK2Fuxm1Xs4ypjo_-H8lWNyc",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLlOIU8De5Nx-okS_by98teOx0YAICE9U4"
+            },
+            "snippet": {
+                "publishedAt": "2020-02-04T07:22:01Z",
+                "channelId": "UCYz_DN9dGqi6GgJOJit1mVw",
+                "title": "VÁCH NGĂN QUÁ KHỨ | PHIM TÌNH CẢM NGÔN TÌNH HAY NHẤT | PHIM BỘ TRUNG QUỐC",
+                "description": "VÁCH NGĂN QUÁ KHỨ | PHIM TÌNH CẢM NGÔN TÌNH HAY NHẤT | PHIM BỘ TRUNG QUỐC Thể loại: Tình cảm, chuyển thể Diễn viên chính: Bạch Bách Hà ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TUBizLdXQaU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TUBizLdXQaU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TUBizLdXQaU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Roses Media",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-02-04T07:22:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "s0v3H5X5IJ8mGdA58jlkJWqY86M",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLa0N0OPf9eMWy_6_UPyf3IpWsxdW6iJFw"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-05T13:37:28Z",
+                "channelId": "UC2C7aVIheE4ilF_tbolNYEg",
+                "title": "Nước Mắt Làm Thuê Full Bộ - Phim Việt Nam 2017",
+                "description": "nước mắt làm thuê.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XM7Q2mG_ZBg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XM7Q2mG_ZBg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XM7Q2mG_ZBg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phim Hài Hay Mới",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-11-05T13:37:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HnFwuUqml8Esd7YOxml9vuhyjAE",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLGXJeL4HUamwqmBIeCWuSauW3t27GdGLI"
+            },
+            "snippet": {
+                "publishedAt": "2016-03-31T18:19:32Z",
+                "channelId": "UC0D8fvgbq3AfzgyCc2RQefA",
+                "title": "phim 12 bến nưới tập 1 2 3 . . .trọn bộ | phim việt nam",
+                "description": "phim việt, phim việt nam, phim việt hay, phim việt mới, kênh phim việt, việt nam flim, viet nam movies, phim bộ, phim bo, phim bộ việt, phim hài việt, phim việt ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B0Tg8ADp9UQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B0Tg8ADp9UQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B0Tg8ADp9UQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "PHIM VIỆT NAM - VIET NAM FLIM",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-03-31T18:19:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aMKVCAfWqToy2rSqsEG2coo47SI",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLzRKj0jD-GZYy5agEYdgsEac8ETAY_K1k"
+            },
+            "snippet": {
+                "publishedAt": "2019-07-18T08:12:19Z",
+                "channelId": "UC0FT3GYB73T_qJnKHR6qs2w",
+                "title": "💎⭐️⭐️⭐️⭐️ Dốc Tình | Hplus | Full trọn bộ 36/36 | HTV Films Tình Cảm Việt Nam hay nhất 2019",
+                "description": "07g00 AM Việt Nam từ 23/7/2019.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DRCP2bksZJQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DRCP2bksZJQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DRCP2bksZJQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HPLUS Films",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-07-18T08:12:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hbblLui2BJb6wbMDzm2ALsmo7B0",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLzRKj0jD-GZby2iq2OL7t9pc3ZPes8R8v"
+            },
+            "snippet": {
+                "publishedAt": "2018-03-19T09:29:22Z",
+                "channelId": "UC0FT3GYB73T_qJnKHR6qs2w",
+                "title": "🌟🌟🌟🌟🌟 Hoa Bay | Hplus | Full trọn bộ 40/40 | HTV Phim tình cảm Việt Nam hay nhất 2018",
+                "description": "06:00 AM Việt Nam hàng ngày từ 14/10/2018.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/805uaEWy_7U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/805uaEWy_7U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/805uaEWy_7U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HPLUS Films",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-03-19T09:29:22Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iq5Q_SGiMZvJPV12nJqoSMnSti4",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLFk1RtAQGTYUxMy0VGcPkSypS67Qf5Xtj"
+            },
+            "snippet": {
+                "publishedAt": "2017-07-13T10:34:19Z",
+                "channelId": "UC3mTT8JcFtivH6wxNyn2xJQ",
+                "title": "Mùa Hè Sôi Động | Full trọn bộ 30/30 | HTVC phim bộ thiếu nhi hay nhất 2018",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LjX_MRUt6lE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LjX_MRUt6lE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LjX_MRUt6lE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HTVC Teen",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-07-13T10:34:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wBrkUnKGeMvi0DWJFUmeolfhWMg",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLzRKj0jD-GZYe6quwLHLL33zanOnCtyQ2"
+            },
+            "snippet": {
+                "publishedAt": "2016-08-18T02:16:26Z",
+                "channelId": "UC0FT3GYB73T_qJnKHR6qs2w",
+                "title": "Mơ Hoang | Hplus | Full trọn bộ 30/30 Tập | HTV Phim bộ Việt Nam Hay Nhất 2017",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CVyQvbCO1Hw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CVyQvbCO1Hw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CVyQvbCO1Hw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HPLUS Films",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-08-18T02:16:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "fuREb1ewshllHCGyY5NL0AvhFEY",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLSpBOthqrKJOWMgPePmoQa2zOQb_6qXXT"
+            },
+            "snippet": {
+                "publishedAt": "2019-08-15T08:25:45Z",
+                "channelId": "UCTJQz3W9s_hCeMptF1ZisyQ",
+                "title": "Tường Vy Cánh Mỏng | Full trọn bộ 35/35 | Giải Trí TV Phim Việt Nam hay nhất 2019",
+                "description": "21h00 Việt Nam hàng ngày trên Giải Trí TV.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/haBwiCpNOwY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/haBwiCpNOwY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/haBwiCpNOwY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Giải Trí TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-08-15T08:25:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "IDT2rjyQ31Mk4JdTX2q4YcErn14",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLxOHYF3Q3u5d0g4yJvGt0pH9vTc5xOHmP"
+            },
+            "snippet": {
+                "publishedAt": "2019-06-03T03:11:08Z",
+                "channelId": "UCEYSeei1C8-uKXbRSVR8CsQ",
+                "title": "VÒNG XOÁY BẠC | Thu Trang, Nhật Kim Anh, Việt Anh, Hồng Thắm | Phim bộ Việt đặc sắc",
+                "description": "VÒNG XOÁY BẠC | Thu Trang, Nhật Kim Anh, Việt Anh, Hồng Thắm | Phim bộ Việt đặc sắc -------------------------------------------------------------------------------------------...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wr4mY5w6X50/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wr4mY5w6X50/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wr4mY5w6X50/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Golden Network Official",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-06-03T03:11:08Z"
             }
         },
         {
@@ -792,240 +1081,70 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "I-68JPm7M2O0DEV_pIN40GgOhZ0",
+            "etag": "xXaGqzKUGqE5vlOJWSojWiQ5xBY",
             "id": {
                 "kind": "youtube#playlist",
-                "playlistId": "PLzRKj0jD-GZb9v_zR4NLfGmk6j3fBGN_C"
+                "playlistId": "PLofpVSCuGBmSnoDyKzbKnQn20JLoz1jDk"
             },
             "snippet": {
-                "publishedAt": "2019-06-28T23:37:49Z",
-                "channelId": "UC0FT3GYB73T_qJnKHR6qs2w",
-                "title": "⭐️⭐️⭐️⭐️⭐️ Sóng Ngầm | Full trọn bộ 40/40 | HTV Films Tình Cảm Việt Nam Hay Nhất 2019",
+                "publishedAt": "2018-11-12T07:44:00Z",
+                "channelId": "UCha5OPSLGU99o_DYSYOb5wQ",
+                "title": "CÔ THẮM VỀ LÀNG PHẦN 2 | PHIM BỘ VIỆT NAM",
                 "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Q4TPZfY-GPE/default.jpg",
+                        "url": "https://i.ytimg.com/vi/dtpHh8245Ck/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Q4TPZfY-GPE/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dtpHh8245Ck/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Q4TPZfY-GPE/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dtpHh8245Ck/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "HPLUS Films",
+                "channelTitle": "Mê Phim",
                 "liveBroadcastContent": "none",
-                "publishTime": "2019-06-28T23:37:49Z"
+                "publishTime": "2018-11-12T07:44:00Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "fuREb1ewshllHCGyY5NL0AvhFEY",
+            "etag": "e1vxszxxw5Yr8ZeB4jtUeaeY9QQ",
             "id": {
                 "kind": "youtube#playlist",
-                "playlistId": "PLSpBOthqrKJOWMgPePmoQa2zOQb_6qXXT"
+                "playlistId": "PLrBAQg86hGY9iWCGQfI745i8-59TWNGAC"
             },
             "snippet": {
-                "publishedAt": "2019-08-15T08:25:45Z",
-                "channelId": "UCTJQz3W9s_hCeMptF1ZisyQ",
-                "title": "Tường Vy Cánh Mỏng | Full trọn bộ 35/35 | Giải Trí TV Phim Việt Nam hay nhất 2019",
-                "description": "21h00 Việt Nam hàng ngày trên Giải Trí TV.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/haBwiCpNOwY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/haBwiCpNOwY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/haBwiCpNOwY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Giải Trí TV",
-                "liveBroadcastContent": "none",
-                "publishTime": "2019-08-15T08:25:45Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "HnFwuUqml8Esd7YOxml9vuhyjAE",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLGXJeL4HUamwqmBIeCWuSauW3t27GdGLI"
-            },
-            "snippet": {
-                "publishedAt": "2016-03-31T18:19:32Z",
-                "channelId": "UC0D8fvgbq3AfzgyCc2RQefA",
-                "title": "phim 12 bến nưới tập 1 2 3 . . .trọn bộ | phim việt nam",
-                "description": "phim việt, phim việt nam, phim việt hay, phim việt mới, kênh phim việt, việt nam flim, viet nam movies, phim bộ, phim bo, phim bộ việt, phim hài việt, phim việt ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/B0Tg8ADp9UQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/B0Tg8ADp9UQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/B0Tg8ADp9UQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "PHIM VIỆT NAM - VIET NAM FLIM",
-                "liveBroadcastContent": "none",
-                "publishTime": "2016-03-31T18:19:32Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "vCBFPusrhUifiFCA52RbL_uWIaA",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLzRKj0jD-GZZrQ8WJfgHgMiOGPejPTQ_O"
-            },
-            "snippet": {
-                "publishedAt": "2018-03-06T09:50:11Z",
-                "channelId": "UC0FT3GYB73T_qJnKHR6qs2w",
-                "title": "🌟🌟🌟🌟 Ầu Ơ Ví Dầu | Hplus | Full trọn bộ 42/42 | HTV Phim tình cảm Việt Nam hay nhất 2018",
-                "description": "Xem trọn bộ 42 Tập #Youtube Hplus.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/WnAugVCMiKY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/WnAugVCMiKY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/WnAugVCMiKY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "HPLUS Films",
-                "liveBroadcastContent": "none",
-                "publishTime": "2018-03-06T09:50:11Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "lvz3s1meU468TuNMzy0fr9jvJbk",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLUdUmLETkfqIDLhjvY7VWVc9nE7lbCY1V"
-            },
-            "snippet": {
-                "publishedAt": "2018-12-02T11:01:34Z",
-                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
-                "title": "THẾ THÁI NHÂN TÌNH - PHIM VIỆT NAM",
+                "publishedAt": "2015-01-03T02:03:31Z",
+                "channelId": "UCYIUuKyiDCBnG-tp6jr-1nA",
+                "title": "Nữ sát thủ",
                 "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/J5SdTseswo0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/e57m06t5y0E/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/J5SdTseswo0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/e57m06t5y0E/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/J5SdTseswo0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/e57m06t5y0E/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Let'sViet TV",
+                "channelTitle": "Truyen Hinh Vinh Long",
                 "liveBroadcastContent": "none",
-                "publishTime": "2018-12-02T11:01:34Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "QXtMHwYdN0NsSRwC0SsQcWeiqnI",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLqs9tpQUATkLdv7aaqV0I7bSevk3Hm2bh"
-            },
-            "snippet": {
-                "publishedAt": "2016-10-16T06:27:10Z",
-                "channelId": "UCl4luUiV3tp0-ejY9nsLX3w",
-                "title": "Phim Bo Viet nam",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/2ynCfC6u-60/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/2ynCfC6u-60/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/2ynCfC6u-60/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Quang Huy Truong",
-                "liveBroadcastContent": "none",
-                "publishTime": "2016-10-16T06:27:10Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "kFau65N8esjinx3xqbqN1QaiAAw",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLLpF4XrTG6OokgDt4pefR0MzI7nG-fFsf"
-            },
-            "snippet": {
-                "publishedAt": "2020-01-05T12:02:12Z",
-                "channelId": "UC3mVQ6aAefvviL0qiYyQfuQ",
-                "title": "Phim Tình Cảm Việt Nam Hay Nhất | Một Nữa Nanh Cọp | Phim   Mới 2020",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/BNYsOiZyuzk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/BNYsOiZyuzk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/BNYsOiZyuzk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "YouFilm",
-                "liveBroadcastContent": "none",
-                "publishTime": "2020-01-05T12:02:12Z"
+                "publishTime": "2015-01-03T02:03:31Z"
             }
         },
         {
@@ -1064,308 +1183,36 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "wBrkUnKGeMvi0DWJFUmeolfhWMg",
+            "etag": "t8vEZQJvhrAvx_RtjAKhcnd2xEk",
             "id": {
                 "kind": "youtube#playlist",
-                "playlistId": "PLzRKj0jD-GZYe6quwLHLL33zanOnCtyQ2"
+                "playlistId": "PLLpF4XrTG6Ooka4xtBp_rypPZR9gx60Si"
             },
             "snippet": {
-                "publishedAt": "2016-08-18T02:16:26Z",
-                "channelId": "UC0FT3GYB73T_qJnKHR6qs2w",
-                "title": "Mơ Hoang | Hplus | Full trọn bộ 30/30 Tập | HTV Phim bộ Việt Nam Hay Nhất 2017",
+                "publishedAt": "2019-12-09T10:45:50Z",
+                "channelId": "UC3mVQ6aAefvviL0qiYyQfuQ",
+                "title": "HẠNH PHÚC CỦA NGƯỜI KHÁC | PHIM VIỆT NAM HAY NHẤT 2020",
                 "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/CVyQvbCO1Hw/default.jpg",
+                        "url": "https://i.ytimg.com/vi/kvRHZGPXPTs/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/CVyQvbCO1Hw/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kvRHZGPXPTs/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/CVyQvbCO1Hw/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kvRHZGPXPTs/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "HPLUS Films",
+                "channelTitle": "YouFilm",
                 "liveBroadcastContent": "none",
-                "publishTime": "2016-08-18T02:16:26Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "vcHLCeO164LdL55ThEVaHS5zvH0",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLL0b_qIPgmjDS7oxNJFjfbYj6Wrba-3ok"
-            },
-            "snippet": {
-                "publishedAt": "2019-03-15T04:42:08Z",
-                "channelId": "UCuJ5k3GndbHnXLYyiIR6Z8Q",
-                "title": "Trò Đời | VTV Giải Trí",
-                "description": "Xem trọn bộ Trò đời trên VTV Giải Trí: http://bit.ly/2Hqr2xW Được chắt lọc từ những tác phẩm nổi tiếng của nhà văn Vũ Trọng Phụng: Số Đỏ, Cơm...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/EPEibLsph0M/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/EPEibLsph0M/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/EPEibLsph0M/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "VTV Giải Trí Official",
-                "liveBroadcastContent": "none",
-                "publishTime": "2019-03-15T04:42:08Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "lyXoK2Fuxm1Xs4ypjo_-H8lWNyc",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLlOIU8De5Nx-okS_by98teOx0YAICE9U4"
-            },
-            "snippet": {
-                "publishedAt": "2020-02-04T07:22:01Z",
-                "channelId": "UCYz_DN9dGqi6GgJOJit1mVw",
-                "title": "VÁCH NGĂN QUÁ KHỨ | PHIM TÌNH CẢM NGÔN TÌNH HAY NHẤT | PHIM BỘ TRUNG QUỐC",
-                "description": "VÁCH NGĂN QUÁ KHỨ | PHIM TÌNH CẢM NGÔN TÌNH HAY NHẤT | PHIM BỘ TRUNG QUỐC Thể loại: Tình cảm, chuyển thể Diễn viên chính: Bạch Bách Hà ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/TUBizLdXQaU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/TUBizLdXQaU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/TUBizLdXQaU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Roses Media",
-                "liveBroadcastContent": "none",
-                "publishTime": "2020-02-04T07:22:01Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "IDT2rjyQ31Mk4JdTX2q4YcErn14",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLxOHYF3Q3u5d0g4yJvGt0pH9vTc5xOHmP"
-            },
-            "snippet": {
-                "publishedAt": "2019-06-03T03:11:08Z",
-                "channelId": "UCEYSeei1C8-uKXbRSVR8CsQ",
-                "title": "VÒNG XOÁY BẠC | Thu Trang, Nhật Kim Anh, Việt Anh, Hồng Thắm | Phim bộ Việt đặc sắc",
-                "description": "VÒNG XOÁY BẠC | Thu Trang, Nhật Kim Anh, Việt Anh, Hồng Thắm | Phim bộ Việt đặc sắc -------------------------------------------------------------------------------------------...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/wr4mY5w6X50/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/wr4mY5w6X50/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/wr4mY5w6X50/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Golden Network Official",
-                "liveBroadcastContent": "none",
-                "publishTime": "2019-06-03T03:11:08Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "GHc9TbMnXZntc2PBtqzU0m1asFQ",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLzRKj0jD-GZZoXBwr9dDTBuV7LrTeJkM0"
-            },
-            "snippet": {
-                "publishedAt": "2017-05-16T03:47:57Z",
-                "channelId": "UC0FT3GYB73T_qJnKHR6qs2w",
-                "title": "Một Thời Lãng Quên | Hplus | Full trọn bộ 30/30 | Phim tình cảm Việt Nam hay nhất 2017",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/TcSRv_R8GXM/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/TcSRv_R8GXM/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/TcSRv_R8GXM/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "HPLUS Films",
-                "liveBroadcastContent": "none",
-                "publishTime": "2017-05-16T03:47:57Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "GG5i-BrIRDQ1VJASPlLxQo-OV7k",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLzRKj0jD-GZajZNg1PksX1aYZcc4AqX_1"
-            },
-            "snippet": {
-                "publishedAt": "2015-11-17T02:33:29Z",
-                "channelId": "UC0FT3GYB73T_qJnKHR6qs2w",
-                "title": "Khi Người Đàn Ông Trở Lại | Hplus | Full trọn bộ 33/33 | HTV Phim tình cảm Việt Nam hay nhất 2017",
-                "description": "Youtube Hplus.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/p3CYMS8-0WU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/p3CYMS8-0WU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/p3CYMS8-0WU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "HPLUS Films",
-                "liveBroadcastContent": "none",
-                "publishTime": "2015-11-17T02:33:29Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "Xq2t_nP3_wfov8AT2fgEwQ81Q94",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLqIk5dyTGuP_dAm3QuEzQccnAMzDBR0Nd"
-            },
-            "snippet": {
-                "publishedAt": "2020-03-16T14:02:21Z",
-                "channelId": "UCb3YAZtb19iYJngfZ9R--KA",
-                "title": "Vạch Mặt Kẻ Đa Tình Full Bộ",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/OzyI7dAouZg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/OzyI7dAouZg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/OzyI7dAouZg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Phim Giải Trí",
-                "liveBroadcastContent": "none",
-                "publishTime": "2020-03-16T14:02:21Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "u9VnRDIDAhf1H8QcncEZg4NayWs",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLzRKj0jD-GZZPaV5uJYNxbeCIP7sfJb-V"
-            },
-            "snippet": {
-                "publishedAt": "2017-11-10T09:44:45Z",
-                "channelId": "UC0FT3GYB73T_qJnKHR6qs2w",
-                "title": "Tại Tôi | Hplus | Full trọn bộ 19/19 | HTV Phim tình cảm Việt Nam hay nhất 2018",
-                "description": "8:00 AM Việt Nam hàng ngày từ 13/12/2017.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/VEWaMFlGwMk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/VEWaMFlGwMk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/VEWaMFlGwMk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "HPLUS Films",
-                "liveBroadcastContent": "none",
-                "publishTime": "2017-11-10T09:44:45Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "YaZZX6gFQDZljtUBgiAyaN4x9Ts",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLzRKj0jD-GZbiMVA95vMjRaZgLZoDh6Tn"
-            },
-            "snippet": {
-                "publishedAt": "2016-11-22T05:50:22Z",
-                "channelId": "UC0FT3GYB73T_qJnKHR6qs2w",
-                "title": "💎💎💎⭐️⭐️ Hợp Đồng Định Mệnh | Hplus | Full trọn bộ 33/33 | HTV Phim bộ Việt Nam",
-                "description": "Đăng ký / Subscribe xem trọn bộ 33 Tập # Youtube Hplus.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/zX_TpC-DwHE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/zX_TpC-DwHE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/zX_TpC-DwHE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "HPLUS Films",
-                "liveBroadcastContent": "none",
-                "publishTime": "2016-11-22T05:50:22Z"
+                "publishTime": "2019-12-09T10:45:50Z"
             }
         },
         {
@@ -1404,36 +1251,206 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "bO5FEfAcReygb0koF9QPD9sYD74",
+            "etag": "nzwS9cy6op9pIyzxVgukFVlUNE4",
             "id": {
                 "kind": "youtube#playlist",
-                "playlistId": "PLzRKj0jD-GZb7fdDDAyo2VKx0x7u9B7Yn"
+                "playlistId": "PLgCEtHulTQE1T6yNQpaNQNk-5SK52wzvx"
             },
             "snippet": {
-                "publishedAt": "2017-06-19T16:36:42Z",
-                "channelId": "UC0FT3GYB73T_qJnKHR6qs2w",
-                "title": "Người Mẹ Nhí | Hplus | Full trọn bộ | Phim bộ Việt Nam",
-                "description": "",
+                "publishedAt": "2019-11-05T06:46:56Z",
+                "channelId": "UClfwS2zHXYQCzwGfp-Fiw6A",
+                "title": "Anh Hùng Nguyễn Trung Trực Full bộ",
+                "description": "anh hùng nguyễn trung trực tập 1 2 3 4 5 6 7 8 9 .... anh hung nguyen trucng truc anh hùng nguyễn trung trực full bộ nguyễn trung trực phim anh hùng nguyễn ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/FyZhIWCxrj0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/V7LfvuM6ziE/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/FyZhIWCxrj0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/V7LfvuM6ziE/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/FyZhIWCxrj0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/V7LfvuM6ziE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phim Hay Điện Ảnh",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-11-05T06:46:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "I-68JPm7M2O0DEV_pIN40GgOhZ0",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLzRKj0jD-GZb9v_zR4NLfGmk6j3fBGN_C"
+            },
+            "snippet": {
+                "publishedAt": "2019-06-28T23:37:49Z",
+                "channelId": "UC0FT3GYB73T_qJnKHR6qs2w",
+                "title": "⭐️⭐️⭐️⭐️⭐️ Sóng Ngầm | Full trọn bộ 40/40 | HTV Films Tình Cảm Việt Nam Hay Nhất 2019",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q4TPZfY-GPE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q4TPZfY-GPE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q4TPZfY-GPE/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
                 "channelTitle": "HPLUS Films",
                 "liveBroadcastContent": "none",
-                "publishTime": "2017-06-19T16:36:42Z"
+                "publishTime": "2019-06-28T23:37:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CsAP4bw0Jg4sG3ag_sigF29n6T8",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLI6ph79rf3UG_386OJvR1T6U1S2v2SbD0"
+            },
+            "snippet": {
+                "publishedAt": "2019-09-16T02:58:38Z",
+                "channelId": "UC_0t1a7SVvrNRDL7Ih0L3lA",
+                "title": "Đôi Mắt Của Trái Tim Trọn Bộ | Phim Việt Nam Hay Nhất 2019",
+                "description": "Xem trọn bộ Đôi Mắt Của Trái Tim : http://bit.ly/DoiMatCuaTraiTim ❖Đăng ký kênh: http://bit.ly/Sub_Kenh_TodayFilm ❖Xem các phim hay khác: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pZVe3hgeQQM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pZVe3hgeQQM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pZVe3hgeQQM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TodayFilm",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-09-16T02:58:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XR7Io8QgGxNICvO7rc0233_4rwo",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLHyJtL_QM64PZbphQLXXGOgfUjqwGNAi3"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-16T16:48:51Z",
+                "channelId": "UC0_opzhOLrkmRoyxxHXotgA",
+                "title": "Phim bo Viet Nam",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RjdFb2_3H_M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RjdFb2_3H_M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RjdFb2_3H_M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Peter Dinh",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-01-16T16:48:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Xq2t_nP3_wfov8AT2fgEwQ81Q94",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLqIk5dyTGuP_dAm3QuEzQccnAMzDBR0Nd"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-16T14:02:21Z",
+                "channelId": "UCb3YAZtb19iYJngfZ9R--KA",
+                "title": "Vạch Mặt Kẻ Đa Tình Full Bộ",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OzyI7dAouZg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OzyI7dAouZg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OzyI7dAouZg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phim Giải Trí",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-16T14:02:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kFau65N8esjinx3xqbqN1QaiAAw",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PLLpF4XrTG6OokgDt4pefR0MzI7nG-fFsf"
+            },
+            "snippet": {
+                "publishedAt": "2020-01-05T12:02:12Z",
+                "channelId": "UC3mVQ6aAefvviL0qiYyQfuQ",
+                "title": "Phim Tình Cảm Việt Nam Hay Nhất | Một Nữa Nanh Cọp | Phim   Mới 2020",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BNYsOiZyuzk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BNYsOiZyuzk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BNYsOiZyuzk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "YouFilm",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-01-05T12:02:12Z"
             }
         },
         {
@@ -1472,240 +1489,206 @@
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "XnPgeAsrwP68YqqQgTLPPeS0Hj8",
+            "etag": "bO5FEfAcReygb0koF9QPD9sYD74",
             "id": {
                 "kind": "youtube#playlist",
-                "playlistId": "PLzRKj0jD-GZZg_mT0z2pIpky6H9cF-Ios"
+                "playlistId": "PLzRKj0jD-GZb7fdDDAyo2VKx0x7u9B7Yn"
             },
             "snippet": {
-                "publishedAt": "2016-11-11T04:22:03Z",
+                "publishedAt": "2017-06-19T16:36:42Z",
                 "channelId": "UC0FT3GYB73T_qJnKHR6qs2w",
-                "title": "⭐️⭐️⭐️⭐️ Thề Không Gục Ngã | Hplus | Full 32/32 tập | HTV Phim tình cảm Việt Nam 2018",
+                "title": "Người Mẹ Nhí | Hplus | Full trọn bộ | Phim bộ Việt Nam",
                 "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/62QyP1fjMdc/default.jpg",
+                        "url": "https://i.ytimg.com/vi/FyZhIWCxrj0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/62QyP1fjMdc/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/FyZhIWCxrj0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/62QyP1fjMdc/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/FyZhIWCxrj0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
                 "channelTitle": "HPLUS Films",
                 "liveBroadcastContent": "none",
-                "publishTime": "2016-11-11T04:22:03Z"
+                "publishTime": "2017-06-19T16:36:42Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "aZbEWec6gB7EF8ATZ1FDwMmHRTg",
+            "etag": "nd3b79RPPyMseHbY1g9_FfO9ozs",
             "id": {
                 "kind": "youtube#playlist",
-                "playlistId": "PLI4DZVYqSXKOVScS8Y8M05T_ssgremv1a"
+                "playlistId": "PLEhBV4sOYnBn8vaLOyVAqSdjGCBeB68FQ"
             },
             "snippet": {
-                "publishedAt": "2019-01-17T08:47:34Z",
-                "channelId": "UCnihWx76gHjykKYOhvP_v8A",
-                "title": "Tình Yêu Tuổi Dại Thì Full Bộ",
-                "description": "tình yêu tuổi dậy thì tập 1 2 3 4 5 6 7 8 9 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/DWI3cOWxwZU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/DWI3cOWxwZU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/DWI3cOWxwZU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Phim Hay Việt Nam",
-                "liveBroadcastContent": "none",
-                "publishTime": "2019-01-17T08:47:34Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "fCpbBl7JQC7F52RgNoUWsEf7iAY",
-            "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PLUdUmLETkfqIIUczzJIwmEqK5cPA_Fiis"
-            },
-            "snippet": {
-                "publishedAt": "2019-02-04T05:18:36Z",
-                "channelId": "UCDpfGXD6TkO8sZeOiNHr2hA",
-                "title": "Bản Năng Thép - Phim Việt Nam",
+                "publishedAt": "2018-12-12T04:08:58Z",
+                "channelId": "UCF5RuEuoGrqGtscvLGLOMew",
+                "title": "Phim Ngược Sóng Trọn Bộ | Phim Bộ Hay Nhất Việt Nam",
                 "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/VJsIGr8y-4k/default.jpg",
+                        "url": "https://i.ytimg.com/vi/1ZlccbJ7zco/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/VJsIGr8y-4k/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1ZlccbJ7zco/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/VJsIGr8y-4k/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/1ZlccbJ7zco/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Let'sViet TV",
+                "channelTitle": "VIVA Network",
                 "liveBroadcastContent": "none",
-                "publishTime": "2019-02-04T05:18:36Z"
+                "publishTime": "2018-12-12T04:08:58Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "t8vEZQJvhrAvx_RtjAKhcnd2xEk",
+            "etag": "vI6hhPozY8iC3n2CUj_lkC7GjR0",
             "id": {
                 "kind": "youtube#playlist",
-                "playlistId": "PLLpF4XrTG6Ooka4xtBp_rypPZR9gx60Si"
+                "playlistId": "PLcMb6-RDWifr5PjxHQ5c1sSKJrA0TNUdW"
             },
             "snippet": {
-                "publishedAt": "2019-12-09T10:45:50Z",
-                "channelId": "UC3mVQ6aAefvviL0qiYyQfuQ",
-                "title": "HẠNH PHÚC CỦA NGƯỜI KHÁC | PHIM VIỆT NAM HAY NHẤT 2020",
-                "description": "",
+                "publishedAt": "2019-10-04T12:08:25Z",
+                "channelId": "UCbpZWeeLoeMlSgj8EsfBPJw",
+                "title": "🎬 Kén Mẹ Chồng Trọn Bộ - Phim Mẹ Chồng Việt Kịch Tính",
+                "description": "Đăng ký kênh tại: http://popsww.com/AquaEntertainment.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/kvRHZGPXPTs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/KXzUdgI6Bwc/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/kvRHZGPXPTs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/KXzUdgI6Bwc/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/kvRHZGPXPTs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/KXzUdgI6Bwc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "YouFilm",
+                "channelTitle": "Aqua Entertainment",
                 "liveBroadcastContent": "none",
-                "publishTime": "2019-12-09T10:45:50Z"
+                "publishTime": "2019-10-04T12:08:25Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "Jx4W7agK_ETWRIoFFI6wlLcOGvk",
+            "etag": "xuNtX3fAgjiRViXUdQ-VuNo_4_s",
             "id": {
                 "kind": "youtube#playlist",
-                "playlistId": "PLzRKj0jD-GZa8nZS7pIn1eQstoXSG4uba"
+                "playlistId": "PLzRKj0jD-GZY7xBq6Y4BavX6xYxToUsgS"
             },
             "snippet": {
-                "publishedAt": "2017-04-12T10:09:20Z",
+                "publishedAt": "2017-02-13T08:03:34Z",
                 "channelId": "UC0FT3GYB73T_qJnKHR6qs2w",
-                "title": "Lối Sống Sai Lầm | Hplus | Full trọn bộ 66/66 tập | Phim tình cảm Việt Nam",
+                "title": "Truy Tìm Dấu Vết | Hplus | Full trọn bộ 20/20 tập | HTV Phim tình cảm Việt Nam",
                 "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/opSNyvcYM0o/default.jpg",
+                        "url": "https://i.ytimg.com/vi/uUsDn7xNESo/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/opSNyvcYM0o/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/uUsDn7xNESo/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/opSNyvcYM0o/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/uUsDn7xNESo/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
                 "channelTitle": "HPLUS Films",
                 "liveBroadcastContent": "none",
-                "publishTime": "2017-04-12T10:09:20Z"
+                "publishTime": "2017-02-13T08:03:34Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "SNZtNXdHqeVSQkqjSwSdq57VYy8",
+            "etag": "TIJccRVLlCjVXPxQP93UGxAhRq8",
             "id": {
                 "kind": "youtube#playlist",
-                "playlistId": "PLI6ph79rf3UFEANdrT1-rwsqOoXSR72iN"
+                "playlistId": "PLrBAQg86hGY-Sy1c12XD_yg1zGqrD-LtR"
             },
             "snippet": {
-                "publishedAt": "2019-04-28T14:31:33Z",
-                "channelId": "UC_0t1a7SVvrNRDL7Ih0L3lA",
-                "title": "HÔN LỄ MÙA THU Trọn Bộ | Phim Tình Cảm Việt Nam Hay Nhất 2019",
+                "publishedAt": "2015-03-02T08:09:07Z",
+                "channelId": "UCYIUuKyiDCBnG-tp6jr-1nA",
+                "title": "Giông tố cuộc đời",
                 "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/OsFHWaWzah8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/z9IGSDy-YQ0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/OsFHWaWzah8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/z9IGSDy-YQ0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/OsFHWaWzah8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/z9IGSDy-YQ0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "TodayFilm",
+                "channelTitle": "Truyen Hinh Vinh Long",
                 "liveBroadcastContent": "none",
-                "publishTime": "2019-04-28T14:31:33Z"
+                "publishTime": "2015-03-02T08:09:07Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "oaUDKFTv7toqv1PJ_bLidqTAfK0",
+            "etag": "JO1LMZrzTIGl780GGqomBbQF904",
             "id": {
                 "kind": "youtube#playlist",
-                "playlistId": "PLzRKj0jD-GZbx_qQmxJO3hZyN1WlEVoiJ"
+                "playlistId": "PLzRKj0jD-GZahYPImba5pClWLYCrj4uWM"
             },
             "snippet": {
-                "publishedAt": "2017-11-13T09:31:15Z",
+                "publishedAt": "2018-09-18T10:27:49Z",
                 "channelId": "UC0FT3GYB73T_qJnKHR6qs2w",
-                "title": "⭐️⭐️⭐️⭐️⭐️ Gió Nghịch Mùa | Hplus | Full trọn bộ 40/40 | HTV Phim tình cảm Việt Nam hay nhất 2018",
-                "description": "",
+                "title": "🌟🌟🌟🌟 Hoa Dại | Hplus | Full trọn bộ 22/22 | HTV Phim tình cảm Việt Nam hay nhất 2018",
+                "description": "Xem trọn bộ 22 Tập trên Youtube Hplus or app HTVC.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/6Hu6tnKuZE0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/dPZTSGx6WhE/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/6Hu6tnKuZE0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dPZTSGx6WhE/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/6Hu6tnKuZE0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/dPZTSGx6WhE/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
                 "channelTitle": "HPLUS Films",
                 "liveBroadcastContent": "none",
-                "publishTime": "2017-11-13T09:31:15Z"
+                "publishTime": "2018-09-18T10:27:49Z"
             }
         }
     ]

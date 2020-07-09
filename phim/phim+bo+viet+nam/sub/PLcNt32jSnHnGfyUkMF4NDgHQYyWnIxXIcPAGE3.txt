@@ -1,33 +1,11 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "iiQJkerXUqsXJGOtfufV1RhqFpA",
+    "etag": "x1DGZO2SJrU4b3E_0VbLDUfqRKA",
     "prevPageToken": "CGQQAQ",
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "opgIuJhZfUxvfjzTkZYItiJRcCM",
-            "id": "UExjTnQzMmpTbkhuR2Z5VWtNRjRORGdIUVl5V25JeFhJYy45QTMxRDQ1Q0FENTI0NkM1",
-            "snippet": {
-                "publishedAt": "2019-12-23T09:28:36Z",
-                "channelId": "UCMQ3Kjky3JW35VhRYx9dGTg",
-                "title": "Private video",
-                "description": "This video is private.",
-                "thumbnails": {},
-                "channelTitle": "Kênh phim Truyện",
-                "playlistId": "PLcNt32jSnHnGfyUkMF4NDgHQYyWnIxXIc",
-                "position": 100,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "q4ktt0a6hu4"
-                }
-            },
-            "contentDetails": {
-                "videoId": "q4ktt0a6hu4"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "yzRtGDSdZhjAQcQoTGXojZKJMjQ",
+            "etag": "vCZ9D-mrsmRupMNZRkPZb9FNDQA",
             "id": "UExjTnQzMmpTbkhuR2Z5VWtNRjRORGdIUVl5V25JeFhJYy5BODc5NkUyMTAwN0IwRkY4",
             "snippet": {
                 "publishedAt": "2019-12-31T10:03:49Z",
@@ -37,7 +15,7 @@
                 "thumbnails": {},
                 "channelTitle": "Kênh phim Truyện",
                 "playlistId": "PLcNt32jSnHnGfyUkMF4NDgHQYyWnIxXIc",
-                "position": 101,
+                "position": 100,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "MaisL1hYr1M"
@@ -49,7 +27,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "6pvevM-j4G2XY15HeHW9uJJW0w8",
+            "etag": "r3RkRW07kyZvWnlWRguHt2vyb6M",
             "id": "UExjTnQzMmpTbkhuR2Z5VWtNRjRORGdIUVl5V25JeFhJYy45RjgyODEyNEJEREM5Nzkx",
             "snippet": {
                 "publishedAt": "2020-03-08T10:38:40Z",
@@ -59,7 +37,7 @@
                 "thumbnails": {},
                 "channelTitle": "Kênh phim Truyện",
                 "playlistId": "PLcNt32jSnHnGfyUkMF4NDgHQYyWnIxXIc",
-                "position": 102,
+                "position": 101,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Iufj18eYauY"
@@ -71,7 +49,7 @@
         }
     ],
     "pageInfo": {
-        "totalResults": 103,
+        "totalResults": 102,
         "resultsPerPage": 50
     }
 }

@@ -1,0 +1,94 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "4BUoRATJ-jLJQUAVFiyMaWxo834",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wBUc0NS4bkrziyXEKwm-5rdhh2g",
+            "id": "UExDdF9xdlNZYWJNWHBvbkhPUHhFTHJKa09xSTZKX2dvaC4xN0Y2QjVBOEI2MzQ5OUM5",
+            "snippet": {
+                "publishedAt": "2017-12-10T03:50:18Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Phim võ thuật  kinh dị",
+                "description": "Chuc cac ban xem phim vui ve",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K52MR7Q2aeo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K52MR7Q2aeo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K52MR7Q2aeo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/K52MR7Q2aeo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMXponHOPxELrJkOqI6J_goh",
+                "position": 52,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "K52MR7Q2aeo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "K52MR7Q2aeo",
+                "videoPublishedAt": "2017-05-07T15:34:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "iGdjgc-uATM_H-mYVHjE4elLnVg",
+            "id": "UExDdF9xdlNZYWJNWHBvbkhPUHhFTHJKa09xSTZKX2dvaC5FQUY2Qzk4RUFDN0ZFRkZF",
+            "snippet": {
+                "publishedAt": "2017-12-10T03:50:19Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Hương Đàn Bà - Phim tâm lý Mỹ hay",
+                "description": "Với vai chính trong bộ phim Scent of a Woman, diễn viên gạo cội Al Pacino đã giành giải Oscar cho nam diễn viên xuất sắc nhất. Bản thân bộ phim cũng đoạt tới 3 giải Quả Cầu Vàng và nhiều đề cử tại Oscar 1993. Làm một bộ phim tâm lý - tình cảm xuất sắc, Scent of a Woman khai thác từng diễn biến tình cảm nhỏ nhất của con người trong mỗi hoàn cảnh khác nhau.\nhttp://maxphim.net/noi-dung-phim/scent-of-a-woman-1992/huong-dan-ba/4974.html\nhttp://maxphim.net/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FS-1zGJ6sXs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FS-1zGJ6sXs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FS-1zGJ6sXs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMXponHOPxELrJkOqI6J_goh",
+                "position": 53,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FS-1zGJ6sXs"
+                }
+            },
+            "contentDetails": {
+                "videoId": "FS-1zGJ6sXs",
+                "videoPublishedAt": "2013-07-02T07:40:36Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 54,
+        "resultsPerPage": 50
+    }
+}

@@ -1,0 +1,1239 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "nqlyyCLV4EgrbZApERzdDnFKHew",
+    "nextPageToken": "CDIQAA",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "42KhCblsdlbRNaLq95bDuI3677A",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:08Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5dUzAJCXUW0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "5dUzAJCXUW0"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nW1somLek6N1WHQkwMs9pe8u_0E",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:10Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Mafia Người Máy ● Phim Hành Động Chiến Tranh Mỹ Mới Nhất 2017 ● Khoa Học Viễn Tưởng Bom Tấn 3D",
+                "description": "★ Please Subscribe, Share, Like and Comment.\n★ Thank for watching!!!\n ● Phim Hành Động Chiến Tranh Mỹ Mới Nhất 2017 ● Khoa Học Viễn Tưởng Bom Tấn 3D",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7EjT1bfVQF4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7EjT1bfVQF4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7EjT1bfVQF4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7EjT1bfVQF4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7EjT1bfVQF4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7EjT1bfVQF4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "7EjT1bfVQF4",
+                "videoPublishedAt": "2017-03-01T04:24:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "SCyafLcv-1cpkWZrgyok1QW3VBo",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:11Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Phim Hành Động Mỹ Mới Nhất 2017 Quái Xế Mafia Full Thuyết Minh",
+                "description": "Nếu các bạn thấy hay nhớ Like, Share and Subscribe để ủng hộ mình.\nCảm ơn mọi người !",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EgfgGv1LjpQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EgfgGv1LjpQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EgfgGv1LjpQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EgfgGv1LjpQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EgfgGv1LjpQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EgfgGv1LjpQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "EgfgGv1LjpQ",
+                "videoPublishedAt": "2017-11-12T16:50:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IUi6a6rb_y8nHRuDgaXrsHb0FTs",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:11Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Mafia...Top 10 thành phố dưới trướng của các băng đảng tội phạm",
+                "description": "[Thế Giới Ngầm] - Sofia (Bulgaria), Casal di Principe (Italy) hay San Pedro Sula (Honduras) là 3 trong số 10 thành phố trên thế giới phải đối diện với các hoạt động phạm tội diễn ra triền miên.\n\n1) Thành phố Ciudad Juarez (Mexico)\nNằm trên biên giới giữa Mỹ và Mexico, thành phố Ciudad Juarez (Mexico) trở thành trung tâm của hoạt động buôn lậu ma túy. Lực lượng cảnh sát của thành phố đã sa thải hơn 800 nhân viên trong một nỗ lực giải quyết vấn nạn sĩ quan nhận tiền hối lộ từ các băng đảng ma túy, theo The Richest. Hai băng nhóm khét tiếng Juarez và Sinaloa giành giật để nắm quyền kiểm soát hoạt động phi pháp tại Ciudad Juarez kể từ năm 2007.\n\n2) Thành phố Grozny (Nga)\nTrong hai cuộc chiến do Nga phát động nhằm chống lực lượng ly khai Chechnya vào những năm 1990, thành phố Grozny hầu như bị xóa sạch, với nhiều tòa nhà tan hoang. Dù chính quyền thành phố đã thực hiện nhiều nỗ lực nhằm tái thiết sau khi cuộc xung đột kết thúc vào đầu những năm 2000, mối quan hệ giữa giới lãnh đạo ở địa phương và các băng đảng Chechnya dần hình thành.\n\n3) Thành phố thủ đô Sofia (Bulgaria)\nSofia là thủ đô của Bulgaria - một trong những nước nghèo nhất châu Âu. Các băng mafia đã thực hiện 140 vụ giết người theo hợp đồng tại thành phố này từ những năm 1990. Năm 2010, một người dẫn chương trình phát thanh địa phương đã bị ám sát giữa ban ngày khi di chuyển trên phố.\n\n4) Thành phố nhỏ Casal di Principe (Italy)\nThành phố nhỏ Casal di Principe là quê hương của Camorr, gia tộc mafia nguy hiểm nhất thế giới ngầm Italy. Trong khi kẻ cầm đầu của băng đảng này đã ngồi tù, thành viên của nhóm tiếp tục làm xáo trộn cuộc sống của cư dân thành phố. Nhiều chính trị gia đã thiệt mạng dưới họng súng của tội phạm. Trong những năm 1990, tỷ lệ các vụ giết người tại Casal di Principe luôn ở mức cao nhất trong các nước châu Âu\n\n5) Thành phố Cali (Colombia)\nCali từng là “nhà” của một trong những tập đoàn buôn bán ma túy lớn nhất của Colombia. Cho tới nay, đây vẫn là nơi diễn ra các vụ đấu đá giữa các tội phạm nhằm chiếm địa bàn phục vụ việc kinh doanh bất hợp pháp. Năm 2014, 7 kẻ cầm đầu tổ chức tội phạm đã bị ám sát, kéo theo hàng loạt vụ giết người tàn bạo trên khắp thành phố trong nhiều ngày.\n\n6) Thành phố Guatemala (Guatemala)\nChính quyền và lực lượng cảnh sát lũng đoạn mở đường cho các hoạt động tội phạm tại thành phố Guatemala thuộc Guatemala. Một nghiên cứu cho thấy thực trạng đáng báo động khi 2.063 vụ giết người đã xảy ra trên tổng số 3.062.519 dân tại đây.\n\n7) Thành phố San Pedro Sula (Honduras)\nThành phố San Pedro Sula của Honduras đang bị cuốn vào cuộc chiến giữa các băng đảng ma túy bởi đây là mảnh đất béo bở cho hoạt động của thế giới ngầm. Nhiều người dân buộc phải rời thành phố để tìm việc ở những nơi khác theo luật của các băng mafia.\n\n8) Thành phố Culiacan (Mexico)\nCuliacan là quê hương của Sinaloa Cartel, một tập đoàn tội phạm có tổ chức ở Mexico. Giới chức Mỹ nhận định Sinaloa là một trong những băng đảng buôn lậu ma túy hùng mạnh nhất trên thế giới bởi nó đang nắm quyền kiểm soát tại toàn bộ 17 bang của Mexico.\n\n9) Thành phố Iguala (Mexico)\nTháng 9/2014, 43 sinh viên tại thành phố Iguala, Mexico, mất tích và sau đó được tìm thấy trong nhiều mồ chôn tập thể. Sau khi khám xét thi thể của các nạn nhân, giới điều tra khẳng định, những kẻ thủ ác đã tra tấn và hành quyết họ.\n\n10) Thành phố thủ đô Pristina (Kosovo)\nSau nhiều năm xung đột sắc tộc giữa người Serbia và Albania, Kosovo tuyên bố trở thành một quốc gia độc lập vào năm 2008. Các lực lượng liên hệ mật thiết với Quân đội Giải phóng Kosovo đã tạo nên một hệ thống quyền lực chính trị tại thủ đô Pristina.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/skm7ia5KU14/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/skm7ia5KU14/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/skm7ia5KU14/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/skm7ia5KU14/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/skm7ia5KU14/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "skm7ia5KU14"
+                }
+            },
+            "contentDetails": {
+                "videoId": "skm7ia5KU14",
+                "videoPublishedAt": "2016-03-09T08:14:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "RH9bFCyAPHp054u000TGmgXYPts",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:12Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "𝓟𝓗𝓘𝓜 𝓗𝓐𝓝𝓗 ĐỘ𝓝𝓖 𝓜𝓨 2017 - 𝓗𝓐𝓝𝓗 𝓠𝓤𝓨Ế𝓣 𝓜𝓐𝓕𝓘𝓐 𝓗𝓞𝓣 𝓝𝓗Ấ𝓣 2016",
+                "description": "𝓟𝓗𝓘𝓜 𝓗𝓐𝓝𝓗 ĐỘ𝓝𝓖 𝓜𝓨 2017 - 𝓗𝓐𝓝𝓗 𝓠𝓤𝓨Ế𝓣 𝓜𝓐𝓕𝓘𝓐 𝓗𝓞𝓣 𝓝𝓗Ấ𝓣 2016",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sTwqlabTcy8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sTwqlabTcy8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sTwqlabTcy8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sTwqlabTcy8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "sTwqlabTcy8",
+                "videoPublishedAt": "2016-10-12T08:35:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5vXPT1fQdn6ilqgo1tY4Ki6lYMU",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:13Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Dòng Máu Xã Hội Đen - Phim hành động mafia hay",
+                "description": "Mafia luôn là thế giới ngầm với những thế lực bóng tối tàn bạo và không từ mọi thủ đoạn dã man. Ai đã bước chân vào đó thì chắc chắn con đường lùi về coi như không có. Bộ phim Blaze You Out 2013 - Dòng Máu Xã Hội Đen lấy đề tài thế giới mafia vô cùng gai góc và nguy hiểm. Phim là hành trình của một cô gái dũng cảm quyết tâm dấn thân vào tổ chức buôn bán ma túy nhằm giải cứu em gái của mình. Thực sự thế giới mafia khốc liệt đến đâu và liệu chị em cô có được đoàn tụ?\nhttp://maxphim.net/\nhttp://maxphim.net/noi-dung-phim/blaze-you-out-2013/dong-mau-xa-hoi-den/5174.html",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HXslo7iK2uY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HXslo7iK2uY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HXslo7iK2uY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HXslo7iK2uY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "HXslo7iK2uY",
+                "videoPublishedAt": "2013-08-06T03:24:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gozL_HSBXV0N0HBn62uALId1hkI",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:14Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "ĐỘI ĐẶC NHIỆM CHỐNG MAFIA - Đỉnh cao của hành động hình sự Ý - Phim Hành Động Bom Tấn 2016",
+                "description": "Link phim \"Antimafia Squad: Season 5\" : http://phim.clip.vn/info/Doi-Dac-Nhiem-Chong-Mafia-Phan-5/32325\n\nTrong phần 5, biệt đội chống mafia bắt tay vào cuộc chiến mới chống lại một gia tộc mafia mới nổi - Ferro. Những manh mối điều tra đã dẫn cả đội đến thành phố Catania và họ đã gia nhập với đội đặc nhiệm địa phương do Colombo Lara làm nữ chỉ huy để cùng tham gia điều tra vụ bắt cóc nhiều uẩn khúc của cậu bé Leonardino Abate.\n\nĐội điều tra đưa ra giả định rằng sự biến mất của cậu bé có liên quan tới hoạt động tội ác tại thị trấn Baia D’Angelo, Domenico, Colombo và các thành viên không chần chừ tiến vào thị trấn này để rồi chợt phát hiện ra rằng nữ thị trưởng - đồng thời là chị gái của Colombo Lara đã cấu kết với mafia để hòng có được số phiếu vượt trội trong cuộc bầu cử sắp tới. Trong khi đó, Rosy cũng dùng mọi cách, lần theo mọi dấu vết để có thể tìm lại con trai, thậm chí không từ việc quay trở lại con đường mafia tội lỗi.\n\nĐội Đặc Nhiệm Chống Mafia:\nPhần 1: http://phim.clip.vn/info/Doi-Dac-Nhiem-Chong-Mafia-Phan-1/31571\nPhần 2: http://phim.clip.vn/info/Doi-Dac-Nhiem-Chong-Mafia-Phan-2/31871\nPhần 3: http://phim.clip.vn/info/Doi-Dac-Nhiem-Chong-Mafia-Phan-3/32093\nPhần 4: http://phim.clip.vn/info/Doi-Dac-Nhiem-Chong-Mafia-Phan-4/32117",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_pQhP74-mIk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_pQhP74-mIk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_pQhP74-mIk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_pQhP74-mIk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_pQhP74-mIk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "_pQhP74-mIk",
+                "videoPublishedAt": "2016-02-04T11:13:51Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vudD3q_3PUTY_6HykvK3GMiQLKI",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:15Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Yakuza Weapon - Vũ khí hủy diệt - Phim mafia Nhật Bản cực hay",
+                "description": "Vũ Khí Hủy Diệt - Yakuza Weapon 2011 là một bộ phim hành động - viễn tưởng với nhân vật chính là một tên Yakuza với cánh tay có gắn súng máy và cái chân có thể phóng tên lửa. Chỉ với đặc điểm riêng quá \"quái\" của mình Yakuza đã làm cho đối thủ của mình phải thất điên bát đảo. Đón xem bộ phim để chứng kiến những trận đấu hấp dẫn nảy lửa với\n các \"vũ khí hủy diệt\".\nhttp://maxphim.net/\nhttp://maxphim.net/noi-dung-phim/yakuza-weapon-2011/vu-khi-huy-diet/4967.html",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e5KrAJUT_c0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e5KrAJUT_c0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e5KrAJUT_c0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/e5KrAJUT_c0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "e5KrAJUT_c0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "e5KrAJUT_c0",
+                "videoPublishedAt": "2013-07-02T08:32:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QvqeXUta715AoV-o-7JHK-SQXE8",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:16Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Top 6 Băng Đảng Mafia Khét Tiếng Nhất Thế Giới - Viet Top 10",
+                "description": "Top 6 Băng Đảng Mafia Khét Tiếng Nhất Thế Giới\nTop 6 The Most Notorious Mafia Party In The World\n-- Top 20 bãi biển đẹp nhất thế giới 🌊🌊🌊: https://youtu.be/73dgu4ke56c\n\nTop 5 Tòa Nhà Có Thiết Kế Không Thể Tin Nổi Trên Thế Giới : https://www.youtube.com/watch?v=v2BezhDX6Cw\nTop 5 Loài Động Vật Lai Khác Loài Không Thể Tin Nổi  : https://www.youtube.com/watch?v=hxWV_5m3PBE\n🐊Top 5 Con Cá Sấu Lớn Nhất Con Người Từng Ghi Nhận : https://www.youtube.com/watch?v=Xsv5kPEfQoc&t=2s\n- Xem toàn bộ video (Danh sách phát - Playlist): https://goo.gl/PkXVXg\n- ĐĂNG KÝ (Subcribe) KÊNH \"Việt Top 10\" để xem được các Video mới nhất (miễn phí)\n- Xem thêm tại Website: http://viettop10.net\n- Facebook | Việt Top 10: https://www.facebook.com/viettop10.net\n- Bấm vào đây để ĐĂNG KÝ (Subcribe): http://www.youtube.com/c/VietTop10viettop10?sub_confirmation=1\n- LIKE, BÌNH LUẬN và CHIA SẺ Video để ủng hộ kênh nhé các bạn !!!\n\nCó thể bạn cũng muốn xem:\n\n-- Top 10 Dị Nhân Có Thật Với Những Khả Năng Siêu Phàm: https://youtu.be/VOMSw2vyLrQ\n-- Top 10 Người Có Cân Nặng Khủng Nhất Từ Trước Tới Giờ: https://youtu.be/gjTnRLmqE_A\n-- Top 10 Người Cao Nhất Thế Giới Hiện Nay: https://youtu.be/OJuvdlkpWBA\n-- Top 10 Vận Động Viên Thể Hình Vĩ Đại Nhất Mọi Thời Đại: https://youtu.be/93_DFxJ0Km0\nTop 6 Băng Đảng Mafia Khét Tiếng Nhất Thế Giới\nbăng đảng mafia đáng sợ nhất, mafia, băng đảng mafia lớn nhất, xã hội đen, băng đảng tội phạm khét tiếng nhất",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yv-HwP_viwE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yv-HwP_viwE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yv-HwP_viwE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yv-HwP_viwE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yv-HwP_viwE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "yv-HwP_viwE",
+                "videoPublishedAt": "2015-08-01T17:56:49Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Vz5Sh0KlwCgYz0FMnoDpxEzQArY",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:17Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Mafia 3 : Đoạn Phim Hay Nhất - Cực Kỳ Ấn Tượng - Đậm Chất Điện Ảnh",
+                "description": "Mafia 3 : Đoạn Phim Hay Nhất -  Cực Kỳ  Ấn Tượng\nLike + Share + CLick đăng ký ủng hộ Channel để cập nhật các video liên tục nhá \nCó một điểm tương đồng nổi bật giữa dòng game Mafia và bộ tiểu thuyết Godfather, đó chính là khả năng truyền tải trải nghiệm về thế giới ngầm của các gia đình tội phạm Ý một cách sống động và thuyết phục nhất.\n\nTuy không phải là dòng game thế giới mở xuất sắc nhất, bởi lẽ vẫn còn rất nhiều các khía cạnh của dạng game đó mà Mafia chưa khai thác hết được, thế nhưng loạt game này lại cực kỳ thành công trong việc phác họa hình ảnh về giới xã hội đen, đem lại trải nghiệm cốt lõi vô cùng ấn tượng, dễ dàng để lại dấu ấn cho bất kì ai một lần chơi thử.\nHy vọng các bạn thích các video do mình up lên..........",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jcnZiAQwckA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jcnZiAQwckA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jcnZiAQwckA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jcnZiAQwckA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jcnZiAQwckA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jcnZiAQwckA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "jcnZiAQwckA",
+                "videoPublishedAt": "2017-01-25T13:10:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "JNkFQ7d6WzaEEsT4CWtlh-25Vvs",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:19Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "PHIM HÀNH ĐỘNG HAY NHẤT 2016 - mafia",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eXQtF5G88BA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eXQtF5G88BA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eXQtF5G88BA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eXQtF5G88BA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eXQtF5G88BA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eXQtF5G88BA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "eXQtF5G88BA",
+                "videoPublishedAt": "2016-11-13T14:29:59Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xEyIjYXeWBtT2yHQpqABSZGPWoo",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:20Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Truy bắt trùm Mafia và băng nhóm tội phạm (CSVN) (GP GAMING) #GTA5",
+                "description": "Các bạn đừng quên like và đăng kí cho mình nha",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-MRF461EYSY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-MRF461EYSY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-MRF461EYSY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-MRF461EYSY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "-MRF461EYSY",
+                "videoPublishedAt": "2017-02-09T13:49:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "56AWOZmsBsTakNpCdp_iWspcR6w",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:22Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8LzbE9KgcOw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "8LzbE9KgcOw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "w5PwjJLSSsS8aYvR99CMIvofjVE",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:23Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Trùm Xã Hội Đen Mafia -   Phim Hành Động hay lThuyết Minh l",
+                "description": "phim hanh dong 2017, phim võ thuật mới, Thiên tài võ học, phim hành động, phim mới 2017, hành động hay, võ thuật trung quốc,phim hay,",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o-arZlLthrY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o-arZlLthrY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o-arZlLthrY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/o-arZlLthrY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/o-arZlLthrY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "o-arZlLthrY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "o-arZlLthrY",
+                "videoPublishedAt": "2017-05-18T15:09:15Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mVR09kL4nR-y2ksmj7clT7ioi4E",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:23Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "\"SIÊU BÃO\" Đội đặc nhiệm chống Mafia - Phần 6 sắp đổ bộ",
+                "description": "\"SIÊU BÃO\" Đội đặc nhiệm chống Mafia - Phần 6 sắp đổ bộ.\nMột nhân vật bí hiểm tưởng chừng đã chết nay bất ngờ trở lại lũng đoạn cả thế giới ngầm Italia. Những tình tiết phức tạp xoay quanh một tổ chức mới \"Con nhộng\". Những bí mật đen tối của các băng đảng Mafia đang dần được vén lên. \nĐội đặc nhiệm chống Mafia phần 6 phát sóng 21h thứ 2 đến thứ 7 hàng tuần, bắt đầu từ ngày 20.1.2016 chỉ có trên ANTV.\n\nKênh ANTV luôn cập nhật tin tức thời sự, tin an ninh với 4 tiêu chí \"Nhân văn, tin cậy, kịp thời, hấp dẫn\". \nRất nhiều chương trình của ANTV đã chiếm được cảm tình và sự quan tâm của độc giả như : Hành trình phá án, cameara giấu kín, thời sự 113 online, an ninh ngày mới... \nĐĂNG KÍ NGAY để được cập nhật những tin tức thời sự mới nhất hàng ngày tại đây https://goo.gl/6ILihu \nCùng dõi theo HÀNH TRÌNH PHÁ ÁN mới nhất tại https://goo.gl/Lx2g6E\nCập nhật TIN AN NINH hàng ngày tại https://goo.gl/0CqaF6\nCảm ơn các bạn đã chú ý quan tâm và theo dõi!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B93oojZzVSo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B93oojZzVSo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B93oojZzVSo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/B93oojZzVSo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "B93oojZzVSo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "B93oojZzVSo",
+                "videoPublishedAt": "2016-01-18T09:34:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OJhMdn4pcPLMfU0BrDq1TptIyGY",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy4zRDBDOEZDOUM0MDY5NEEz",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:25Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8atw4QK20vI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "8atw4QK20vI"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vmywPUaNVR_kqs-LuOlIa5SNe7o",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy5CMEQ2Mjk5NTc3NDZFRUNB",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:25Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Phim ngắn BMW 7 Series 2010 - Mafia Nga giao hàng mật",
+                "description": "www.bimmer.vn - Kênh thông tin chuyên về BMW tại Việt Nam",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FoYnlIrP_LE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FoYnlIrP_LE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FoYnlIrP_LE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FoYnlIrP_LE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FoYnlIrP_LE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FoYnlIrP_LE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "FoYnlIrP_LE",
+                "videoPublishedAt": "2013-04-21T16:36:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fUa_TLnPR08_zAPwSXFIAClrXJg",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy42MTI4Njc2QjM1RjU1MjlG",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:26Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Phim Hành Động , Cuộc Hành Quyết Mafia Phim Lẻ Hay 2016 - End song",
+                "description": "Bài hát chưa tìm thấy tên\n--------------------------------\nTest căt video Youtube\nwww.iwantshare.info",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Xj02FJ8J28Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Xj02FJ8J28Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Xj02FJ8J28Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Xj02FJ8J28Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Xj02FJ8J28Y"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Xj02FJ8J28Y",
+                "videoPublishedAt": "2016-06-21T16:36:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bAb9cN4l49cTH5b1VhqK4UMiTlA",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy5GNDg1Njc1QzZERjlFRjE5",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:28Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "phim hành động – ANH HÙNG VÀ CHÙM MAFIA   phim võ thuật 2015",
+                "description": "phim hành động – ANH HÙNG VÀ CHÙM MAFIA   phim võ thuật 2015\nphim hành động – ANH HÙNG VÀ CHÙM MAFIA   phim võ thuật 2015\nphim hành động – ANH HÙNG VÀ CHÙM MAFIA   phim võ thuật 2015\n===================================\nTags\nphim hành động,\nPhim võ thuật trung quốc, \nphim võ thuật,\nphim võ thuật trung quốc hay nhất ,\nphim vo thuat hay nhat,\nphim vo thuat hay nhat 2015,\nphim vo thuat hai huoc,\nphim võ thuật hành động ,\nphim chiếu rạp hay nhất,\nphim chiếu rạp mới nhất 2015,\nphim hành động võ thuật hay nhất 2015,\nphim mới nhất, \nphim vo thuật mới nhất 2015, \nphim võ thuật bom tấn 2015, \nphim chiếu rạp,\nphim hd,phim mới 2015,\nphim hành động 2015,\nphim hd thuyết minh\nChúc các bạn có 1 buổi tối vui vẻ và có nhiều niềm vui\nĐừng quên nhấn đăng kí và ủng hộ cho mình nhé . \nThanks you so much.!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9KLJtwI2MPM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9KLJtwI2MPM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9KLJtwI2MPM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9KLJtwI2MPM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9KLJtwI2MPM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9KLJtwI2MPM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "9KLJtwI2MPM",
+                "videoPublishedAt": "2015-07-06T04:32:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "BQckyn73yd9LsU3-b7aPGqVcNOU",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy4zQzFBN0RGNzNFREFCMjBE",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:29Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "[Phim Hành Động Hình Sự] ĐỘI ĐẶC NHIỆM CHỐNG MAFIA - Phần 1",
+                "description": "Link phim \"Antimafia Squad Season 1\": http://phim.clip.vn/info/Doi-Dac-Nhiem-Chong-Mafia-Phan-1/31571\n\nClaudia Mares - nữ cảnh sát xinh đẹp, bất ngờ một ngày được chỉ định gia nhập biệt đội chống Mafia sau khi đội trưởng cũ bị ám sát dã man. Từ đây, cô liên tiếp phải đối mặt với những nhiệm vụ nặng nề để triệt phá những ''gia đình'' mafia đang mọc lên như nấm tại thành phố Palermo, Italia.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X19bxRYr_B4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X19bxRYr_B4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X19bxRYr_B4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/X19bxRYr_B4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/X19bxRYr_B4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "X19bxRYr_B4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "X19bxRYr_B4",
+                "videoPublishedAt": "2016-01-28T10:47:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "a05rqY2iM6nJJCPnJ0nXgFm4KHg",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy5DNkMwRUI2MkI4QkI4NDFG",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:30Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Phim Hành Động Mỹ Mới Nhất 2016 Băng Đảng Mafia Phim Chiếu Rạp 2016 Thuyết minh",
+                "description": "Phim Hành Động Mỹ Mới Nhất 2016 Băng Đảng Mafia Phim lẻ 2016 Thuyết minh\nPhim Hành Động Mỹ Mới Nhất 2016 Băng Đảng Mafia Phim lẻ 2016 Thuyết minh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FVaEhvftCds/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FVaEhvftCds/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FVaEhvftCds/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FVaEhvftCds/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FVaEhvftCds/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 35,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FVaEhvftCds"
+                }
+            },
+            "contentDetails": {
+                "videoId": "FVaEhvftCds",
+                "videoPublishedAt": "2016-11-09T08:39:40Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pDo1QzrpnyrE_5G-nRH8YcNhXIM",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy41NTZEOThBNThFOUVGQkVB",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:36Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Phim Xã Hội Đen 2017 - Tiêu Diệt Băng Đảng MaFia - Action Fim",
+                "description": "Phim Xã Hội Đen 2017  Tiêu Diệt Băng Đảng MaFia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0V9K2raAd6k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0V9K2raAd6k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0V9K2raAd6k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0V9K2raAd6k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 42,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0V9K2raAd6k"
+                }
+            },
+            "contentDetails": {
+                "videoId": "0V9K2raAd6k",
+                "videoPublishedAt": "2017-09-15T23:02:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vWOYS83LG4SmsJi6Q5GBQMzoTyw",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy43NERCMDIzQzFBMERCMEE3",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:36Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 43,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "M7CchhzGZDA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "M7CchhzGZDA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "dsprN8zYf0wpnHT9GjvePbuF3eM",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy5GNjAwN0Y0QTFGOTVDMEMy",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:37Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Top 10 Băng Đảng Mafia Khét Tiếng Nhất Thế Giới",
+                "description": "Top 10 Băng Đảng Mafia Khét Tiếng Nhất Thế Giới\n\n----------★★ Info ★★---------\n● Fanpage Facebook: http://fb.com/bietluon\n● Website Chính Thức: http://bietluon.vn\n● Biết Luôn's Playlist: https://goo.gl/YoxXKh\n● Đăng Kí Nhận Video Mới Nhất: https://goo.gl/hA2gaf\n--------★★ Content ★★--------\n\nXin chào, rất vui vì đã được gặp lại các bạn. Trong thế giới chúng ta đang sống hiện nay tồn tại rất nhiều băng nhóm mafia. Hiểu một cách đơn giản, Mafia là một nhóm những người phạm tội, thực hiện các hành vi bất hợp pháp như buôn lậu, buôn bán người, bắt cóc tống tiền, buôn ma túy, cướp…còn họ có hiếp dâm hay không thì có lẽ còn là một điều bí ẩn lớn của nhân loại. Mục đích của tất cả những việc này tất nhiên là vì tiền. Và những người đứng đầu thường được gọi là DON(đi-âu-en). Đây là những tổ chức vô cùng nguy hiểm. Hãy cùng chúng mình tìm hiểu đâu là 10 tổ chức nguy hiểm nhất đang hoạt động trong video hôm nay nhé!\n\n10. Mafia Albanian\n9. Mafia Nga\n8. Hội Tam Hoàng, Trung Quốc\n7. Mafia Israel\n6. Mafia Serbia\n5. Sicilian American Costa Nostra\n4. Cacten Colombia\n3. Yakuza Nhật Bản\n2. Mafia Mexico\n1. Jamaica – British Yardies\n\n------------★★★★★------------\n\nLưu ý: Biết Luôn không sở hữu tất cả tư liệu được sử dụng trong video này. Mọi thắc mắc về bản quyền, tài trợ, quảng cáo, cộng tác vui lòng liên hệ email: admin@ifact.vn\n\nWe do NOT own all the materials as well as footages used in this video. Please contact admin@ifact.vn for copyright matters!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7AsrCC4GIUA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7AsrCC4GIUA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7AsrCC4GIUA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7AsrCC4GIUA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 44,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7AsrCC4GIUA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "7AsrCC4GIUA",
+                "videoPublishedAt": "2017-05-12T07:12:55Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Nit4_d-4R-QBCTieOt0ZLJugzpo",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy4wNEU1MTI4NkZEMzVBN0JF",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:38Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "TRUY LÙNG SÁT THỦ | Phim hành động Mafia hay nhất 2016 (Thuyết minh)",
+                "description": "phim hành động HAY NHÂT 2015 sát thủ hình xăm \r\n\r\nPhim Mỹ - Phim hành động Mỹ hay nhất 2016 Playlist Twenty8k (Sát Thủ Hình Xăm) Full HD - Phim hành động Mỹ hay nhất 2016 Phim Mỹ Hay | Phim Hành .\r\n\r\nPhim 18+|Phim hành động hay nhất 2016|Sát thủ nửa đêm Full HD Thuyết minh. ----------------------------------------------------- nữ sát thủ gợi cảm, nu sat thu.\r\n\r\nPhim Hành Động Mỹ Mới Nhất Hay Nhất 2016 | Sát thủ hình xăm | phim hay Phim Hành Động Mỹ Mới Nhất Hay Nhất 2016 | Sát thủ hình xăm ☀☀☀Phim hành .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-HYyokBY-Ks/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-HYyokBY-Ks/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-HYyokBY-Ks/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 45,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-HYyokBY-Ks"
+                }
+            },
+            "contentDetails": {
+                "videoId": "-HYyokBY-Ks",
+                "videoPublishedAt": "2017-08-17T06:01:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MIOLj8Yk9SzuVwqaYMYdFDEJ-y4",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy4wMTYxQzVBRDI1NEVDQUZE",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:38Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "PHIM HÀNH ĐỘNG MỸ 2017 - MAFIA VÀ MỸ NHÂN",
+                "description": "PHIM HÀNH ĐỘNG MỸ 2017 - MAFIA VÀ MỸ NHÂN",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vBAsMAEDZYo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vBAsMAEDZYo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vBAsMAEDZYo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 46,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vBAsMAEDZYo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "vBAsMAEDZYo",
+                "videoPublishedAt": "2016-12-02T15:57:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FTLBVrg405I8eIBe2ZXgbkj91Ks",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy4zMUEyMkQwOTk0NTg4MDgw",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:39Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "TRUY LÙNG SÁT THỦ | Phim hành động Mafia hay nhất 2016 (Thuyết minh)",
+                "description": "Phim Mỹ - Phim hành động Mỹ hay nhất 2016 Playlist Twenty8k (Sát Thủ Hình Xăm) Full HD - Phim hành động Mỹ hay nhất 2016 Phim Mỹ Hay | Phim Hành .\r\n\r\nPhim hành động hay nhất full thuyết minh 2015 Phim hanh dong hay nhat 2015 phim hanh dong my phim hanh dong my hay nhat full thuyet minh 2015 Phim .\r\n\r\nPhim hành động Mỹ 2016 - Phim Mỹ hay nhất 2015 Playlist: Phim hành động Mỹ Fast and Furious 7 Phim Hành Động Mỹ, Biệt Kích Phim Lẻ Hay [Phim Hành .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iPggHTVWHO8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iPggHTVWHO8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iPggHTVWHO8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iPggHTVWHO8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iPggHTVWHO8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 47,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "iPggHTVWHO8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "iPggHTVWHO8",
+                "videoPublishedAt": "2016-12-23T18:31:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Dm5elXhd-1luHOTOxsGeX7PEiW8",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy42QzdBMzlBQzQzRjQ0QkQy",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:39Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Phim hành động cực hay một mình cân cả tổ chức mafia",
+                "description": "Phim hành động cực hay một mình cân cả tổ chức mafia\nHướng dẫn vào web xem phim:\nBước 1: vào link xem phim: http://ouo.io/HZAz28\nbước 2: kick vào tôi không phải là người máy\nbước 3: chờ 3 giây rồi kick vào get link khoảng 2,3 cái thì bạn sẽ được chuyển đến trang web để xem phim.\nChúc các bạn xem phim vui vẻ!\nNếu có thể hãy đăng kí kênh để mình có thể chia sẻ thêm nhiều phim hay nữa tới các bạn!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B591lXfJ_Gs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B591lXfJ_Gs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B591lXfJ_Gs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/B591lXfJ_Gs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/B591lXfJ_Gs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 48,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "B591lXfJ_Gs"
+                }
+            },
+            "contentDetails": {
+                "videoId": "B591lXfJ_Gs",
+                "videoPublishedAt": "2016-09-10T12:59:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "u1o33WFbpxqcr4C9IbYol6_OIg8",
+            "id": "UExrWDlnU190QzR2YlNWNURfdzhZTnpHLTF6VmE2U25MSy41OURENDc2NEM1MDI5Mjky",
+            "snippet": {
+                "publishedAt": "2017-12-10T04:11:40Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Mafia thanh toán nhau như phim hành động",
+                "description": "Một cuộc chiến mafia thanh toán nhau như phim hành động được đài truyền nước ngoài đưa tin",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gkC7I2MT2p8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gkC7I2MT2p8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gkC7I2MT2p8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gkC7I2MT2p8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gkC7I2MT2p8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vbSV5D_w8YNzG-1zVa6SnLK",
+                "position": 49,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "gkC7I2MT2p8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "gkC7I2MT2p8",
+                "videoPublishedAt": "2016-08-29T01:32:37Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 58,
+        "resultsPerPage": 50
+    }
+}

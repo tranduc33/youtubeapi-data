@@ -1,0 +1,104 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "VeXqdGjMbkIcqfB_2CZmWJxFPSA",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZGicKpXPKqPQ3vxVmVBkh6-70zQ",
+            "id": "UEw3bThCYzBGem93bFA0Xzg1aDJpSHJ0MFNQdGJhSHE1Ri5CQkEwRDA0MDkwNUM2MDY1",
+            "snippet": {
+                "publishedAt": "2017-12-12T07:14:00Z",
+                "channelId": "UC2kXVw3Ly3Sq7y72mwnu-bA",
+                "title": "Phim hành động Trung Quốc | Hổ Quyền | Phim Trung Quốc hay nhất",
+                "description": "Phim hành động Trung Quốc,\nHổ Quyền,\nPhim Trung Quốc hay nhất,\nPhim Hổ Quyền\n\nPhim võ thuật kiếm hiệp trung quốc hay nhất 2015,\n\nPhim Võ Thuật Kiếm Hiệp Mới 2015 | Phim Võ Thuật Trung Quốc\n\nPhim võ thuật kiếm hiệp hay nhất 2015. Đây là một bộ phim võ thuật hay truyền hình dã sử cổ trang do Trung Quốc sản xuất được đạo diễn Cúc Giác..\nVõ Đạo Cô Độc Quyền Thái Mới Nhất 2014 Phim Võ Thuật Hành Động Võ Đạo Cô Độc Quyền Thái Mới Nhất 2014 Phim Võ Thuật Hành Động \n\nPhim võ thuật đặc sắc cực kì hay tên Phim sát thủ Tú Xuân Đao phim hoàn toàn mới của tr\n\nPHIM VÕ THUẬT TRUNG QUỐC HAY NHẤT 2015 | HỔ QUYỀN\n\nPHIM VÕ THUẬT TRUNG QUỐC HAY NHẤT 2015 | HỔ QUYỀN",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s2F3l-dXK4Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s2F3l-dXK4Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s2F3l-dXK4Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/s2F3l-dXK4Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/s2F3l-dXK4Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tran Duon",
+                "playlistId": "PL7m8Bc0FzowlP4_85h2iHrt0SPtbaHq5F",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "s2F3l-dXK4Y"
+                }
+            },
+            "contentDetails": {
+                "videoId": "s2F3l-dXK4Y",
+                "videoPublishedAt": "2015-06-01T18:59:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wmzHjCz4LbDdh8kNy_XEMK-KmrU",
+            "id": "UEw3bThCYzBGem93bFA0Xzg1aDJpSHJ0MFNQdGJhSHE1Ri4wNEU1MTI4NkZEMzVBN0JF",
+            "snippet": {
+                "publishedAt": "2017-12-12T07:14:01Z",
+                "channelId": "UC2kXVw3Ly3Sq7y72mwnu-bA",
+                "title": "Phim hành động Trung Quốc 2014 hay nhất Full HD   Thuyết Minh",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/temhzGTWJgM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/temhzGTWJgM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/temhzGTWJgM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/temhzGTWJgM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Tran Duon",
+                "playlistId": "PL7m8Bc0FzowlP4_85h2iHrt0SPtbaHq5F",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "temhzGTWJgM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "temhzGTWJgM",
+                "videoPublishedAt": "2015-03-31T11:12:54Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 52,
+        "resultsPerPage": 50
+    }
+}

@@ -1,7 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "pBIVm18EvWncHyHpLTFOjh1t-nM",
-    "nextPageToken": "CDIQAA",
+    "etag": "I-eQJdulo5BMyOgk-Lv-jO-_jgM",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -599,29 +598,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "feDJQvT5fJyj-YfgMxHRj5UuDEw",
-            "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC5ENDU4Q0M4RDExNzM1Mjcy",
-            "snippet": {
-                "publishedAt": "2020-06-07T20:45:54Z",
-                "channelId": "UCtBpq3n39sOWDOlcyAu5zow",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
-                "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
-                "position": 19,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "GLnyhdl3CbI"
-                }
-            },
-            "contentDetails": {
-                "videoId": "GLnyhdl3CbI"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "VIWFDCM6qJGa3_CbuC324ZHLv4c",
+            "etag": "7bASXPxaq0FfQNwQJQFJ0vVJw3Y",
             "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC4yMDhBMkNBNjRDMjQxQTg1",
             "snippet": {
                 "publishedAt": "2020-06-07T20:45:54Z",
@@ -657,7 +634,7 @@
                 },
                 "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
                 "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
-                "position": 20,
+                "position": 19,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "8SWW8jAgV1k"
@@ -670,7 +647,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "BJYTckiZ5UVAOWZ01rryd1BhEaY",
+            "etag": "lpsxzNLISPTb77exO2WimeO-lxQ",
             "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC5GM0Q3M0MzMzY5NTJFNTdE",
             "snippet": {
                 "publishedAt": "2020-06-07T20:45:54Z",
@@ -706,7 +683,7 @@
                 },
                 "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
                 "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
-                "position": 21,
+                "position": 20,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Mpp6E2btAu8"
@@ -719,78 +696,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "H2XEiUX81AheBGKAX7lnZvJSivc",
-            "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC45NzUwQkI1M0UxNThBMkU0",
-            "snippet": {
-                "publishedAt": "2020-06-07T20:45:54Z",
-                "channelId": "UCtBpq3n39sOWDOlcyAu5zow",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
-                "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
-                "position": 23,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "UqpzO9yIWBI"
-                }
-            },
-            "contentDetails": {
-                "videoId": "UqpzO9yIWBI"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "Dt2n8rxBzT6HTH6MpEb8J0aMTJk",
-            "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC5DNzE1RjZEMUZCMjA0RDBB",
-            "snippet": {
-                "publishedAt": "2020-06-07T20:45:54Z",
-                "channelId": "UCtBpq3n39sOWDOlcyAu5zow",
-                "title": "Veu khung[ Bigo ] Trang Nguyên vếu khủng.",
-                "description": "các bạn thấy hay thì like và share nhé, nhớ đăng ký kênh",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/OSx6rEFhJSg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/OSx6rEFhJSg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/OSx6rEFhJSg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/OSx6rEFhJSg/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/OSx6rEFhJSg/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
-                "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
-                "position": 24,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "OSx6rEFhJSg"
-                }
-            },
-            "contentDetails": {
-                "videoId": "OSx6rEFhJSg",
-                "videoPublishedAt": "2017-01-20T01:00:01Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "A7tR-c-U51gjeLDkXAR7xXkSaFE",
+            "etag": "TU5zpHIQNa1uZN0ZriuKuz6l81I",
             "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC43MTI1NDIwOTMwQjIxMzNG",
             "snippet": {
                 "publishedAt": "2020-06-07T20:45:54Z",
@@ -826,7 +732,7 @@
                 },
                 "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
                 "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
-                "position": 25,
+                "position": 23,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "U7VYAtUZ_BQ"
@@ -839,7 +745,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "mxgeOPAspBSLprJF3CAYUfGkGsk",
+            "etag": "ApQFxuZ-ZWbi1aMyJbbE7ZJqzbQ",
             "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC5DQ0MyQ0Y4Mzg0M0VGOEYw",
             "snippet": {
                 "publishedAt": "2020-06-07T20:45:54Z",
@@ -849,7 +755,7 @@
                 "thumbnails": {},
                 "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
                 "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
-                "position": 26,
+                "position": 24,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "akelqzG2a68"
@@ -861,7 +767,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "20quGlPikz8vnFDlBttHbOYopy0",
+            "etag": "I_PS0bum0trHbvZh0RphoR-oToU",
             "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC4yQUE2Q0JEMTk4NTM3RTZC",
             "snippet": {
                 "publishedAt": "2020-06-07T20:45:54Z",
@@ -897,7 +803,7 @@
                 },
                 "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
                 "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
-                "position": 27,
+                "position": 25,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "brhLcQxvbU8"
@@ -910,7 +816,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "9hzPXylt5TxmT-hE7E_V7czqhaI",
+            "etag": "nrxHeimpcuBwk4xtcEd045s8DRk",
             "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC5DMkU4NTY1QUFGQTYwMDE3",
             "snippet": {
                 "publishedAt": "2020-06-07T20:45:54Z",
@@ -946,7 +852,7 @@
                 },
                 "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
                 "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
-                "position": 28,
+                "position": 26,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "YZF2-odRhMo"
@@ -959,7 +865,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "8ZUXhbEEKri_-0RIRzG3pIPiR2A",
+            "etag": "-mTmhuEdNf-CPFAIsfjCz3q0OXw",
             "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC43NDhFRTgwOTRERTU4Rjg3",
             "snippet": {
                 "publishedAt": "2020-06-07T20:45:54Z",
@@ -995,7 +901,7 @@
                 },
                 "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
                 "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
-                "position": 30,
+                "position": 28,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "xgmNVpS4Q_0"
@@ -1008,7 +914,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "zQcuf-_gYf5kjSehAWrvHnFEuVg",
+            "etag": "KUCFOzQJsBMd-VJHYwuJZZdWjjg",
             "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC4zRDBDOEZDOUM0MDY5NEEz",
             "snippet": {
                 "publishedAt": "2020-06-07T20:45:54Z",
@@ -1044,7 +950,7 @@
                 },
                 "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
                 "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
-                "position": 32,
+                "position": 30,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "apvVJziJZk8"
@@ -1057,7 +963,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "CA7_j_kvBvN4iyW1LQ6axov1ybQ",
+            "etag": "uL6hGzeEUqwdRdeGLDNY2sprJKY",
             "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC42MTI4Njc2QjM1RjU1MjlG",
             "snippet": {
                 "publishedAt": "2020-06-07T20:45:54Z",
@@ -1093,7 +999,7 @@
                 },
                 "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
                 "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
-                "position": 34,
+                "position": 32,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "gLp99VleQd0"
@@ -1106,7 +1012,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "rKt8aTt3WGQ1QVherVZVLNCO8kU",
+            "etag": "g_CEQ5GgshbG49kRuRpCkQqNISQ",
             "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC45RjNFMDhGQ0Q2RkFCQTc1",
             "snippet": {
                 "publishedAt": "2020-06-07T20:45:54Z",
@@ -1116,7 +1022,7 @@
                 "thumbnails": {},
                 "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
                 "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
-                "position": 35,
+                "position": 33,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "gCppCGQvGXs"
@@ -1128,7 +1034,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "gwJ2mDX86P6Up7fYNsBzbmvoiP8",
+            "etag": "6opXPdCAu1-RdjeuFFuL0jB9Sew",
             "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC40QTA3NTU2RkM1QzlCMzYx",
             "snippet": {
                 "publishedAt": "2020-06-07T20:45:54Z",
@@ -1154,7 +1060,7 @@
                 },
                 "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
                 "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
-                "position": 36,
+                "position": 34,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "OpdwKvBcFg4"
@@ -1167,56 +1073,29 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ACIFdqvoc-rB3ObsxbpmyLMLR4I",
+            "etag": "LSxbN9VpysC60NyFj3wskOVzOz4",
             "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC5BRjJDODk5REM0NjkzMUIy",
             "snippet": {
                 "publishedAt": "2020-06-07T20:45:54Z",
                 "channelId": "UCtBpq3n39sOWDOlcyAu5zow",
-                "title": "today's eating day with my boss",
-                "description": "hello guysss Panda cool SUNDAY FUN DAY Homecoming Yo :)\r\nthank you for watching please subscribe support like and comment more comment DISCLAIMER: This Channel DOES NOT Promote or encourage Any illegal activities , all contents provided by This Channel is meant for EDUCATIONAL PURPOSE only .\n\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/tDYx73_pZv0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/tDYx73_pZv0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/tDYx73_pZv0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/tDYx73_pZv0/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/tDYx73_pZv0/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
                 "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
                 "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
-                "position": 37,
+                "position": 35,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "tDYx73_pZv0"
                 }
             },
             "contentDetails": {
-                "videoId": "tDYx73_pZv0",
-                "videoPublishedAt": "2020-01-30T13:34:32Z"
+                "videoId": "tDYx73_pZv0"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "-FJF_eqcAPwsYl7ysyB2EIUxntQ",
+            "etag": "W-o80iamQLhVXgzfUFUAn8zN324",
             "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC4xOTEzQzhBQzU3MDNDNjcz",
             "snippet": {
                 "publishedAt": "2020-06-07T20:45:54Z",
@@ -1247,7 +1126,7 @@
                 },
                 "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
                 "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
-                "position": 38,
+                "position": 36,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "e7SK1lAfMqQ"
@@ -1260,29 +1139,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "OBrOvoP9IIG92WrNs3tJibiGYnE",
-            "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC5GNDg1Njc1QzZERjlFRjE5",
-            "snippet": {
-                "publishedAt": "2020-06-07T20:45:54Z",
-                "channelId": "UCtBpq3n39sOWDOlcyAu5zow",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
-                "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
-                "position": 39,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "t_x2YDzXVYY"
-                }
-            },
-            "contentDetails": {
-                "videoId": "t_x2YDzXVYY"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "C7Pg-9Ghs9n-US1YAhXpkLMCPAs",
+            "etag": "UerxUE-p8QysOO42rJWzZPil58g",
             "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC4zQzFBN0RGNzNFREFCMjBE",
             "snippet": {
                 "publishedAt": "2020-06-07T20:45:54Z",
@@ -1318,7 +1175,7 @@
                 },
                 "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
                 "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
-                "position": 40,
+                "position": 37,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "FVbOfAlCars"
@@ -1331,7 +1188,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "cyUcV4yZsXf9trai9QDRBzfH08Q",
+            "etag": "6G7yVx9ingObSa37FDjY4j1gP5A",
             "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC5DRUQwODMxQzUyRTlGRkY3",
             "snippet": {
                 "publishedAt": "2020-06-07T20:45:54Z",
@@ -1341,7 +1198,7 @@
                 "thumbnails": {},
                 "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
                 "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
-                "position": 43,
+                "position": 40,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Bo03mDE-ikQ"
@@ -1353,7 +1210,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "MY2YaCAsr3CkKcSRjg4DkyOefF8",
+            "etag": "ef5M-q0YMGsgz0tus1pKKNq0LXQ",
             "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC41MzY4MzcwOUFFRUU3QzEx",
             "snippet": {
                 "publishedAt": "2020-06-07T20:45:54Z",
@@ -1384,7 +1241,7 @@
                 },
                 "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
                 "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
-                "position": 44,
+                "position": 41,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "mMT_CeyyAGc"
@@ -1397,7 +1254,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "yHF_j2MQQnTGKw15ZHW_U1YXED0",
+            "etag": "4MDdE5Dj5JYFJjC3fCOHZdR4ItM",
             "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC4yQjZFRkExQjFGODk3RUFD",
             "snippet": {
                 "publishedAt": "2020-06-07T20:45:54Z",
@@ -1433,7 +1290,7 @@
                 },
                 "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
                 "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
-                "position": 45,
+                "position": 42,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "qt3NVDIdXpQ"
@@ -1446,7 +1303,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Bvbn_qH2-EoKMk8J9bx1X75Mdqw",
+            "etag": "VtmxKiH2eNdcfRM-pgvsjGYuo6g",
             "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC4yQUJFNUVCMzVDNjcxRTlF",
             "snippet": {
                 "publishedAt": "2020-06-07T20:45:54Z",
@@ -1456,7 +1313,7 @@
                 "thumbnails": {},
                 "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
                 "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
-                "position": 46,
+                "position": 43,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "dCiy7QiGAR0"
@@ -1468,7 +1325,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "_GHu6wsPuf_b_c_-KCVNGrJoHIY",
+            "etag": "JvwmKxDFw0B_MwfxRghAztcRktc",
             "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC40QzRDOEU0QUYwNUIxN0M1",
             "snippet": {
                 "publishedAt": "2020-06-07T20:45:54Z",
@@ -1478,7 +1335,7 @@
                 "thumbnails": {},
                 "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
                 "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
-                "position": 47,
+                "position": 44,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Vj29W4GbD8I"
@@ -1490,7 +1347,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "W9mutzhtRf6AI3pqOtnU1okXqRw",
+            "etag": "Y-wwLOLEdsDLiaBSQNNBJbC9m6k",
             "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC41RTNBREYwMkI5QzU3RkY2",
             "snippet": {
                 "publishedAt": "2020-06-07T20:45:54Z",
@@ -1526,7 +1383,7 @@
                 },
                 "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
                 "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
-                "position": 48,
+                "position": 45,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "qOI20lShNNw"
@@ -1539,7 +1396,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "q26g1lFl3THibUzoMAubpYNaMCg",
+            "etag": "pClYM-n72cn3wKcmYACZVaBRENw",
             "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC5ENjI1QUI0MDI5NEQzODFE",
             "snippet": {
                 "publishedAt": "2020-06-07T20:45:54Z",
@@ -1565,7 +1422,7 @@
                 },
                 "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
                 "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
-                "position": 49,
+                "position": 46,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "PsVmxigEbRM"
@@ -1575,10 +1432,81 @@
                 "videoId": "PsVmxigEbRM",
                 "videoPublishedAt": "2020-06-03T12:28:00Z"
             }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jSTPRK5F9X5DTliFIwDet4D6ojA",
+            "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC44QzVGQUU2QjE2NDgxM0M4",
+            "snippet": {
+                "publishedAt": "2020-06-07T20:45:54Z",
+                "channelId": "UCtBpq3n39sOWDOlcyAu5zow",
+                "title": "Hot🔞 Gái xinh lộ hàng khi đang thay đồ",
+                "description": "Tag\n#lohang\n#sexy\n#bigolohang",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M95aZpUPCRw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M95aZpUPCRw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M95aZpUPCRw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/M95aZpUPCRw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/M95aZpUPCRw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
+                "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
+                "position": 47,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "M95aZpUPCRw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "M95aZpUPCRw",
+                "videoPublishedAt": "2020-06-06T14:30:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "br2QbY9dJocP1LbMXtqY59aGrIk",
+            "id": "UExSTllhdlBlVkF1dWRvTFQzQkVCQWg1aXY0ZTZnbGJfUC4xMzgwMzBERjQ4NjEzNUE5",
+            "snippet": {
+                "publishedAt": "2020-06-07T20:45:54Z",
+                "channelId": "UCtBpq3n39sOWDOlcyAu5zow",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Pgkfkfkfjfk Pkgfkkf",
+                "playlistId": "PLRNYavPeVAuudoLT3BEBAh5iv4e6glb_P",
+                "position": 48,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "M8V5ZKHBv-o"
+                }
+            },
+            "contentDetails": {
+                "videoId": "M8V5ZKHBv-o"
+            }
         }
     ],
     "pageInfo": {
-        "totalResults": 52,
+        "totalResults": 49,
         "resultsPerPage": 50
     }
 }

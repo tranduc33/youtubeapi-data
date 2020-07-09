@@ -1,0 +1,99 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "crWZTNiFUshih7yWhAYEasgo1dw",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "W82y4GUdqueOX3s11PTcrg76XYk",
+            "id": "UEw3bThCYzBGem93bjVJWGZhaU9GSHhnbVBzQTJRcE9sMS41OURENDc2NEM1MDI5Mjky",
+            "snippet": {
+                "publishedAt": "2017-12-12T09:53:00Z",
+                "channelId": "UC2kXVw3Ly3Sq7y72mwnu-bA",
+                "title": "Liên Khúc Nhạc Trẻ Hay Nhất 2015 Ngô Kinh 2015 Huyền Thoại Sát Thủ",
+                "description": "Huyen Thoai Sat Thu, Ngo Kinh, Lien Khuc Nhac Tre, Lien KhUC Nhac Tre Huyen Thoai Sat Thu Ngo Kinh, Nhac Long Phim, Sat Thu Ngo Kinh, Phim Ngo Kinh .\r\n\r\nLiên Khúc Nhạc Trẻ Remix Hay Nhất Tháng 7 Phần 4 2015 | Phim Hành Động Võ Thuật 2015 ☞ Đăng Ký Kênh : ▻ Fanpage Facebook .\r\n\r\n\r\n\r\nUpload by Đăng Sơn Channel. Đăng ký để xem những ca khúc mới và hay nhất.. Liên khúc nhạc trẻ Hoàng Châu vs Lương Bích Hữu Phim hành động đặc sắc .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O1QMf060Zhw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O1QMf060Zhw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O1QMf060Zhw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/O1QMf060Zhw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Tran Duon",
+                "playlistId": "PL7m8Bc0Fzown5IXfaiOFHxgmPsA2QpOl1",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "O1QMf060Zhw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "O1QMf060Zhw",
+                "videoPublishedAt": "2015-09-15T22:35:49Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uIe6QTxCHGAHbVbhtk9-cc2ZEt0",
+            "id": "UEw3bThCYzBGem93bjVJWGZhaU9GSHhnbVBzQTJRcE9sMS5CNTZFOTNGQzZEODg1RUQx",
+            "snippet": {
+                "publishedAt": "2017-12-12T09:53:01Z",
+                "channelId": "UC2kXVw3Ly3Sq7y72mwnu-bA",
+                "title": "Phim Hành Động Võ Thuật Ngô Kinh 2016 Thuyết Minh Hay",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xhOyDzvLgg0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xhOyDzvLgg0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xhOyDzvLgg0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xhOyDzvLgg0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Tran Duon",
+                "playlistId": "PL7m8Bc0Fzown5IXfaiOFHxgmPsA2QpOl1",
+                "position": 52,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xhOyDzvLgg0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "xhOyDzvLgg0",
+                "videoPublishedAt": "2016-10-18T14:42:41Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 54,
+        "resultsPerPage": 50
+    }
+}

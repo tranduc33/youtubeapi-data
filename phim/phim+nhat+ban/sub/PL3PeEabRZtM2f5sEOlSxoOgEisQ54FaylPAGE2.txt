@@ -1,0 +1,50 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "AYiXPtXH6_7PAd4onyDsus1an5o",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Bva3LioNka8_fbwPdKM5HQ_6Hng",
+            "id": "UEwzUGVFYWJSWnRNMmY1c0VPbFN4b09nRWlzUTU0RmF5bC43NERCMDIzQzFBMERCMEE3",
+            "snippet": {
+                "publishedAt": "2017-12-12T09:25:57Z",
+                "channelId": "UCUniG9ALfMbjOn7v11Mptng",
+                "title": "Phim cấp 3 2016 (18+)",
+                "description": "Phim cấp 3",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oLiKMKydMBA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oLiKMKydMBA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oLiKMKydMBA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pham Tam",
+                "playlistId": "PL3PeEabRZtM2f5sEOlSxoOgEisQ54Fayl",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "oLiKMKydMBA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "oLiKMKydMBA",
+                "videoPublishedAt": "2016-04-28T04:10:45Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 52,
+        "resultsPerPage": 50
+    }
+}

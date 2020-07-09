@@ -1,11 +1,11 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "UoEI-wPDLzdpE0np34RCtWxe1_k",
+    "etag": "voMpOACstTNPVFpJGM8Pjmag_hU",
     "prevPageToken": "CDIQAQ",
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "gUPnqW6UNmGz5CEaBIfLpqmEbwA",
+            "etag": "bYhSozaUQO1zsgF1K0dQaLBC37Y",
             "id": "UExwMFYzZkVHbmotOVdnMXNGV2d5d2M2RTRDaU96czJiSC4xMzgwMzBERjQ4NjEzNUE5",
             "snippet": {
                 "publishedAt": "2020-06-08T08:36:00Z",
@@ -41,7 +41,7 @@
                 },
                 "channelTitle": "Ayqyeuwye Shwuhsuwue",
                 "playlistId": "PLp0V3fEGnj-9Wg1sFWgywc6E4CiOzs2bH",
-                "position": 51,
+                "position": 50,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "PVeXoyQc084"
@@ -54,7 +54,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "KnRkZo_0mf0fxLj52NMYY-1sxAQ",
+            "etag": "Kq4aPKa8QfkShCtmcSnWHcolB1o",
             "id": "UExwMFYzZkVHbmotOVdnMXNGV2d5d2M2RTRDaU96czJiSC4zMEQ1MEIyRTFGNzhDQzFB",
             "snippet": {
                 "publishedAt": "2020-06-08T08:36:00Z",
@@ -90,7 +90,7 @@
                 },
                 "channelTitle": "Ayqyeuwye Shwuhsuwue",
                 "playlistId": "PLp0V3fEGnj-9Wg1sFWgywc6E4CiOzs2bH",
-                "position": 52,
+                "position": 51,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "-G3OJPijCW8"
@@ -103,7 +103,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ApVTS74jWA8VbW3q3xBCMbFqekk",
+            "etag": "HkzcX_UDha1SOYq8LiFuFFPi1Gw",
             "id": "UExwMFYzZkVHbmotOVdnMXNGV2d5d2M2RTRDaU96czJiSC42Qzk5MkEzQjVFQjYwRDA4",
             "snippet": {
                 "publishedAt": "2020-06-08T08:36:00Z",
@@ -139,7 +139,7 @@
                 },
                 "channelTitle": "Ayqyeuwye Shwuhsuwue",
                 "playlistId": "PLp0V3fEGnj-9Wg1sFWgywc6E4CiOzs2bH",
-                "position": 53,
+                "position": 52,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "R9IwnbHLRCI"
@@ -152,7 +152,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "gWwqmUAGFHetwUzzfD8YsBxaUws",
+            "etag": "Qis3934KpYq2mEOj6ip2LjvWClw",
             "id": "UExwMFYzZkVHbmotOVdnMXNGV2d5d2M2RTRDaU96czJiSC41NTZEOThBNThFOUVGQkVB",
             "snippet": {
                 "publishedAt": "2020-06-08T08:36:00Z",
@@ -188,7 +188,7 @@
                 },
                 "channelTitle": "Ayqyeuwye Shwuhsuwue",
                 "playlistId": "PLp0V3fEGnj-9Wg1sFWgywc6E4CiOzs2bH",
-                "position": 54,
+                "position": 53,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "LhOPMI-_GOM"
@@ -201,7 +201,7 @@
         }
     ],
     "pageInfo": {
-        "totalResults": 55,
+        "totalResults": 54,
         "resultsPerPage": 50
     }
 }

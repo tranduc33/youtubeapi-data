@@ -1,0 +1,33 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "PA-EGnCljNWq3NxhrT9r0CqWuto",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "iCqjeKGy-rfV-rLoRZMpJNQPBro",
+            "id": "UExrWDlnU190QzR2WWNYeUhUYkRPNFFkb1JseUdIbUQxTS5CNTZFOTNGQzZEODg1RUQx",
+            "snippet": {
+                "publishedAt": "2017-12-07T03:15:22Z",
+                "channelId": "UCqCW6_ICs4HdxL88wNvj17A",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Phan Bang",
+                "playlistId": "PLkX9gS_tC4vYcXyHTbDO4QdoRlyGHmD1M",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "j3WLGweIC9g"
+                }
+            },
+            "contentDetails": {
+                "videoId": "j3WLGweIC9g"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 52,
+        "resultsPerPage": 50
+    }
+}

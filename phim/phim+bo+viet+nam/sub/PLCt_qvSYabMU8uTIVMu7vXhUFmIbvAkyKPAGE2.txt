@@ -1,0 +1,109 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "0Z6Lzf_EBK4OMDfRIQVAEERyd04",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wOWFgMylnAuoUFrUeSkbBqJlXbU",
+            "id": "UExDdF9xdlNZYWJNVTh1VElWTXU3dlhoVUZtSWJ2QWt5Sy41OURENDc2NEM1MDI5Mjky",
+            "snippet": {
+                "publishedAt": "2017-12-09T08:32:53Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Top 10 phim về ma cà rồng hay nhất mọi thời đại | Ten Tickers Theater 11",
+                "description": "Ma cà rồng luôn là một trong những sinh vật huyền bí nhất, đẹp nhất mà trí tưởng tượng của nhân loại sản sinh ra. Đã có rất nhiều phim làm về đề tài ma cà rông, nhưng trong một biển hàng nghìn đầu phim của thể loại này, đâu là bộ phim hay nhất? Chào mừng quay trở lại với Ten Tickers Movie và sau đây sẽ là Top 10 bộ phim về ma cà rồng hay nhất mọi thời đại.\n---------------------------------------------\nĐăng kí Ten Tickers Movie ngay tại đây: https://goo.gl/zRfq4O\nđể nhận được những đánh giá, tin tức phim ảnh mới nhất.\nFanpage: https://www.facebook.com/TenTickers/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K-kSM5qHV1M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K-kSM5qHV1M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K-kSM5qHV1M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/K-kSM5qHV1M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/K-kSM5qHV1M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMU8uTIVMu7vXhUFmIbvAkyK",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "K-kSM5qHV1M"
+                }
+            },
+            "contentDetails": {
+                "videoId": "K-kSM5qHV1M",
+                "videoPublishedAt": "2016-08-18T12:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bPrIRa-9wdsDq62sVvvSfkq53js",
+            "id": "UExDdF9xdlNZYWJNVTh1VElWTXU3dlhoVUZtSWJ2QWt5Sy4wRjhFM0MxMTU1MEUzQ0VB",
+            "snippet": {
+                "publishedAt": "2017-12-09T08:32:53Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Phim Hành Động Mỹ Hay Nhất 2016 | Phim Từng Bị Cấm Chiếu Năm 2015",
+                "description": "Phim Hành Động Mỹ Hay Nhất 2016 | Phim Từng Bị Cấm Chiếu Năm 2015",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Z6ZxVUpbWAw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Z6ZxVUpbWAw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Z6ZxVUpbWAw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Z6ZxVUpbWAw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Z6ZxVUpbWAw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMU8uTIVMu7vXhUFmIbvAkyK",
+                "position": 52,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Z6ZxVUpbWAw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Z6ZxVUpbWAw",
+                "videoPublishedAt": "2016-09-18T13:46:05Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 53,
+        "resultsPerPage": 50
+    }
+}
