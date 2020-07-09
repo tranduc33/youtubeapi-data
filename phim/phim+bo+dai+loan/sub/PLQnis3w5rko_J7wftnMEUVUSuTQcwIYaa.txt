@@ -1,13 +1,1492 @@
 {
-    "error": {
-        "code": 403,
-        "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-        "errors": [
-            {
-                "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-                "domain": "youtube.quota",
-                "reason": "quotaExceeded"
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "APuS97uvcEWtHf1OKyJ4hOXcggo",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4G33cHV3WCWcegiBg_-DvwdkEv8",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:34:45Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Mỗi ngày một chút Cẩu Lương, Ghen Tị với Đường Yên làm nũng Trai Đẹp | Ngôn Tình Trung Quốc Hay",
+                "description": "-- Khi nàng đã dỗi thì cả thế giới có thay đổi gì cũng không thèm quan tâm nhưng sự lạnh lùng cùng với cool boy của chàng mà giờ thay đổi để nàng vui đủ hiểu Soái ca đã nhúng nhường như thế nào..\n#phim #Oh!phimhay #duongyen #huynhtongtrach #phimbotrungquoc\n------------------------------------------------------------------------------------------------\n* Đăng Kí Kênh Oh ! Phim Hay nhé : http://bit.ly/ohphimhay\n* Xem Thêm Phim Hay :http://bit.ly/335m3eL\n-Phim Cổ Trang 2020: https://bit.ly/3bwytQ1\n-Phim Tình Cảm 2020: https://bit.ly/3bu9UD5\n------------------------------------------------------------------------------------------------\nOh ! Phim Hay là kênh giải trí tổng hợp, chuyên trình phát các bộ phim hay nhất, mới nhất, được tuyển chọn \nChúc các bạn có giây phút thư giãn ! \nNhớ đăng kí , bình luận và nhấn chuông nhận thông báo từ Oh ! Phim Hay nhé !\nBản Quyền Thuộc Rose Media Việt Nam  ! Mọi thắc mắc xin vui lòng liên hệ email !",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EZ-ex6J_5iM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EZ-ex6J_5iM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EZ-ex6J_5iM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EZ-ex6J_5iM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EZ-ex6J_5iM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EZ-ex6J_5iM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "EZ-ex6J_5iM",
+                "videoPublishedAt": "2020-05-05T07:00:11Z"
             }
-        ]
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ulZjr7uZD9EbI_61Dyn420QDlEc",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Phim Hay Thuyết Minh 2019 | Nợ Nhau Kiếp Trước - Tập 1 | Phim Ngôn Tình Trung Quốc Hay Mới Nhất 2019",
+                "description": "Phim Hay Thuyết Minh 2019 | Nợ Nhau Kiếp Trước - Tập 1 | Phim Ngôn Tình Trung Quốc Hay Mới Nhất 2019 \nNợ Nhau Kiếp Trước Full Bộ : https://bit.ly/2kvkepF\nCá Mực Hầm Mật Thuyết Minh : https://bit.ly/2ZceLDu\nCá Mực Hầm Mật Vietsub Full Bộ : https://bit.ly/30xVUCZ\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2019: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TotncHIV5_A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TotncHIV5_A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TotncHIV5_A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TotncHIV5_A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TotncHIV5_A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "TotncHIV5_A"
+                }
+            },
+            "contentDetails": {
+                "videoId": "TotncHIV5_A",
+                "videoPublishedAt": "2019-09-06T12:44:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vUvqn7hnQpvSkmOJYvQ1LB0TmHQ",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Phim Bộ Hay Nhất 2018 - Đánh Thức Tình Yêu - Tập 6 ( Thuyết Minh ) Phim Tình Cảm Mới Nhất 2018",
+                "description": "Phim Bộ Hay Nhất 2018 - Đánh Thức Tình Yêu - Tập 6 ( Thuyết Minh ) Phim Tình Cảm Mới Nhất 2018\nĐánh Thức Tình Yêu Full Bộ :https://goo.gl/DaaCba\nphim việt nam 2018 : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2018: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\n\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KPc5oZFqYOc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KPc5oZFqYOc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KPc5oZFqYOc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KPc5oZFqYOc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KPc5oZFqYOc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KPc5oZFqYOc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "KPc5oZFqYOc",
+                "videoPublishedAt": "2018-09-02T07:17:28Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MJDhXWP6TBXIDHcFRxfK795yHhs",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Phim Bộ Hay 2019 Trung Quốc Cổ Trang Kiếm Hiệp ( Thuyết Minh ) | TIÊU MÔN QUAN KIẾM - Tập 01",
+                "description": "Phim Bộ Hay 2019 Trung Quốc Cổ Trang Kiếm Hiệp ( Thuyết Minh ) | TIÊU MÔN QUAN KIẾM - Tập 01\nXem FULL bộ tại đây : http://bit.ly/2z12XIp\nĐăng Kí Theo Dõi \" Li1 Family \" để nhận được những bộ phim mới nhất:\nhttp://bit.ly/2SYsCLa\n\n\" Tiêu Môn Quan Kiếm \"  là một trong những bộ phim kiếm hiệp cổ trang hay nhất, thành công nhất mà ngôi sao của màn ảnh của Trung Quốc là Hoắc Kiến Hoa, Giả Thanh thủ vai chính. Bộ phim đã đạt được những thành công rực rỡ trong làng phim cổ trang kiếm hiệp tại đất nước Trung Hoa và toàn quốc tế,  \" Li1 Movies \" rất hân hạnh mang lại bộ phim \"Tiêu Môn Quan Kiếm  \" đến với các những khán giả nhiệt thành của Việt Nam. Chúc các bạn xem phim vui vẻ. Thân ái!\n\nCác diễn viên chính : \nHoắc Kiến Hoa     : Lưu An Thuận\nGiả Thanh             : Lệ Diệu Đình\nLưu Nhất Hàm     : Đới Nhung\nDương Khánh Từ : Đới Hải Thần\nNghê Đại Hồng    : Đỗ Thế Sơn\n...... và một số diễn viên khác.\n\nTóm tắt phim Tiêu Môn Quan Kiếm :\n\nChuyện phim “ Tiêu Môn Quan Kiếm ” lấy bối cảnh vào cuối đời nhà Thanh và những năm đầu Dân Quốc, thời cuộc hỗn loạn. Nhân vật chính là Lưu An Thuận (Hoắc Kiến Hoa đóng) là một tiêu sư, cả đời luôn tuân thủ nghiêm ngặt vào hai chữ \"Quy củ\", lại chẳng may bị kẻ gian hãm hại phải từ bỏ chức vị Tổng Tiêu Đầu, rời khỏi kinh thành để lập nghiệp nơi khác.\nBộ phim xoay quanh cuộc đời và những biến cố của của cuộc đời ông , một người sống luôn giữ cho mình chữ quân tử.\n\n#PhimBộCổTrangTrungQuốcHayNhất2019\n#PhimKiếmHiệpThuyếtMinh\n\n© Bản quyền thuộc về Li1 Movies \n© Copyright by Li1 Movies   ❌ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H4u-kRmOtPU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H4u-kRmOtPU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H4u-kRmOtPU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/H4u-kRmOtPU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/H4u-kRmOtPU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "H4u-kRmOtPU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "H4u-kRmOtPU",
+                "videoPublishedAt": "2019-08-13T11:11:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DIZO7Akt_RbVISKGv9tQtxPsT2M",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Phim Hay 2020 Thuyết Minh | Diễm Cốt - Tập 1 | Phim Bộ Cổ Trang Trung Quốc Mới Hay Nhất 2020",
+                "description": "Phim Hay 2020 Thuyết Minh | Diễm Cốt - Tập 1 | Phim Bộ Cổ Trang Trung Quốc Mới Hay Nhất 2020\nDiễm Cốt Full Bộ:https://goo.gl/ynSZjV\nPhim Bộ Trung Quốc 2019: https://goo.gl/VfPiBm\nĐăng Ký Kênh CachiCachi VN Xem Phim Mới Nhất : https://goo.gl/VfPiBm\n#CachiCachiVN #ĐăngKýKênhXemNgay\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PJseTg6qq5c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PJseTg6qq5c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PJseTg6qq5c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PJseTg6qq5c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PJseTg6qq5c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PJseTg6qq5c"
+                }
+            },
+            "contentDetails": {
+                "videoId": "PJseTg6qq5c",
+                "videoPublishedAt": "2018-12-15T01:58:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5u0TZEyIs6KtE5GzWnME9HgQMj8",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Nam Thành Di Hận - Tập 3 ( Thuyết Minh ) | Phim Bộ Trung Quốc Mới Hay Nhất 2018",
+                "description": "Nam Thành Di Hận - Tập 3 ( Thuyết Minh ) | Phim Bộ Trung Quốc Mới Hay Nhất 2018\nNam Thành Di Hận Full Bộ :https://goo.gl/RpVPsq\nHồng Võ Đại Án Full Bộ : https://goo.gl/qK5Abp\nphim việt nam 2018 : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2018: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\n\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jgIfoH3E3Tc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jgIfoH3E3Tc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jgIfoH3E3Tc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jgIfoH3E3Tc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jgIfoH3E3Tc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jgIfoH3E3Tc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "jgIfoH3E3Tc",
+                "videoPublishedAt": "2018-09-22T03:23:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "dX8fI297FGA6k4hz3G12HcVDuLk",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "[PHIM BỘ HAY] ÁC MỘNG HOÀNG CUNG - TẬP 1 THUYẾT MINH | PHIM CỔ TRANG CUNG ĐẤU TRUNG QUỐC 2020",
+                "description": "[PHIM BỘ HAY] ÁC MỘNG HOÀNG CUNG - TẬP 1 THUYẾT MINH | PHIM CỔ TRANG CUNG ĐẤU TRUNG QUỐC 2020\n------------------------------------------------\nSubscribe kênh để xem thêm các clip khác : https://bit.ly/2t8QL8Q\n❥ Xem Trọn Bộ Ác Mộng Hoàng Cung: https://bit.ly/37i9HBg\n------------------------------------------------\nNỘI DUNG PHIM:\n\n\"Ác Mộng Hoàng Cung\" hư cấu nên sự hồi sinh thần kỳ của trưởng nữ Võ Tắc Thiên là An Định Công Chúa, được nhũ mẫu Chiêu nương lén đưa ra khỏi cung, trên đường trốn chạy đã gặp phải rất nhiều gian nan. Khi An Định công chúa trưởng thành, ở đại mạc nàng đã cùng Đột Quyết thân vương A Sử Na Tư Mộ nảy sinh chuyện tình buồn; sau này biết được thân thế của mình, nàng phẫn nộ mà quyết tâm đứng lên phục thù.\n\nBộ phim xoay quanh việc Chiêu nương đưa An Định Công Chúa vượt qua nguy hiểm trùng trùng, từ kinh thành trốn đến đại mạc; về sau An Định Công Chúa bắt cóc em gái là Thái Bình Công Chúa, thay thế em gái trở về hoàng cung, đợi thời cơ trả thù Võ Tắc Thiên, khởi đầu một cuộc thần long chính biến, tham vọng trở thành nữ hoàng.\n\nTrong phim Giả Tịnh Văn diễn 2 vai phân biệt là Thái Bình Công Chúa trung niên nhu tình tựa thủy và An Định công chúa mạnh mẽ, cương nghị. An Định công chúa là nhân vật chủ đạo, cũng là một trong những điểm đáng xem nhất của phim. Đây là nhân vật hư cấu, nhưng dường như là kết hợp của An Lạc công chúa và Thái Bình công chúa trong chính sử, tính cách cương nghị, cực kỳ tham vọng, khiến bộ phim pha trộn giữa hư ảo và chân thực, tràn đầy màu sắc truyền kỳ.\n------------------------------------------------------\nTên gốc: Thái Bình Công Chúa Bí Sử\nTên tiếng anh: Secret History of Princess Taiping (2012)\nĐạo diễn: Lý Hàn Thao\nQuốc gia: Trung Quốc\nNăm: 2012\nNgày khởi chiếu: 27/3/2012\nThời lượng: 60 phút/tập\nSố tập: 28 tập\nChất lượng: Bản đẹp\nĐộ phân giải: HD 720p\nNgôn ngữ: Thuyết Minh\nThể loại: Phim Cổ Trang, Phim Bộ Trung Quốc, Phim Bộ Hay\nCông ty SX: Tập đoàn truyền thông điện ảnh Trường Thành, Đài truyền hình Hồ Nam\n---------------------------------------------------\nDiễn Viên:\nGiả Tịnh Văn vai Thái Bình công chúa và An công chúa trung niên\nTrịnh Sảng vai Thái Bình công chúa và An công chúa thanh niên\nLâm Diệu Khả vai Thái Bình công chúa và An công chúa thiếu niên\nTrương Hàn vai Lý Long Cơ\nLý Tương vai Võ Tắc Thiên trung niên\nLưu Vũ Hân vai Võ Tắc Thiên thanh niên\nChu Tử Kiêu vai Tiết Thiệu\nĐồ Lê Mạn vai Thượng Quan Uyển Nhi trung niên\nTôn Diệu Kỳ vai Thượng Quan Uyển Nhi thanh niên\nViên Hoằng vai A Sử Na Tư Mộ thân vương\nLam Yến vai Vương hoàng hậu\nTưởng Lâm Tịnh vai Vi Liên Nhi (Vi hoàng hậu)\nTừ Vĩ Lộ vai Vi Đoàn Nhi\nDu Tiểu Phàm vai Chiêu nương\nQuá Tề Minh vai Cao Kỳ\nĐiền Vũ Bằng vai Lý Hiển (Đường Trung Tông)\nDiệp Bằng vai Lý Đán (Đường Duệ Tông)\nDiệp Tân vai Địch Nhân Kiệt\nMã Phi vai Võ Thừa Tự\nKỷ Chí Quân vai Trương Dịch Chi\nViên Gia Bảo vai Trương Xương Tông\nCao Tử Kỳ vai Lý Trị (Đường Cao Tông)\n----------------------------------------------\n© Các video trên kênh \" BBQ Ngôn Tình \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\n🤗 Thành thật cảm ơn quý vị khán giả đã xem và ủng hộ kênh\n\n#PhimCungDau #PhimCoTrang #AcMongHoangCung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xvIGD9BnRRo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xvIGD9BnRRo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xvIGD9BnRRo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xvIGD9BnRRo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xvIGD9BnRRo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xvIGD9BnRRo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "xvIGD9BnRRo",
+                "videoPublishedAt": "2019-12-27T13:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "EvWE-8yfm5zD2QtM-_ABpBF61HI",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Phim Tình Yêu Lãng Mạn Trung - Thái Hay Nhất 2020 (THUYẾT MINH) | Cầu Vồng Trong Tim Em - Tập 01",
+                "description": "➤ Xem Thêm Nhiều Phim Hay : https://bit.ly/2SWFvql\n➤ Trọn Bộ Cầu Vồng Trong Tim Em Thuyết Minh: https://bit.ly/35WbNoS\n➤ Download app Mango tại: http://bit.ly/2XG1OUZ  \n\n✤ Đạo diễn: Ân Duyệt, Hứa Tần Khải\n✤ Diễn viên: Aom Sushar, Chu Hàm Dịch, Hầu Đông\n✤ Cầu Vồng Trong Tim Em xoay quanh cuộc sống của nhân vật Xảo Xảo, một cô nàng xinh đẹp và tốt bụng nhưng bị tổn thương quá lớn về tinh thần sau khi người thân của cô lần lượt qua đời. Sau đó cô đã đến trấn Cầu Vồng để chữa trị . Nhờ đó quen biết được với con trai của Trưởng trấn là Vương Giác, con trai của hiệu trưởng là Lý Tứ Dân , con trai của chủ trang trại là Trương Sinh, con trai của nhà điêu khắc là Triệu Tiêu. Họ cùng hiệp lực khai phá suối nước nóng của trấn Cầu Vồng, cải tạo nguồn nước, giúp trấn Cầu Vồng ngày càng tốt hơn. Dưới sự nỗ lực của mọi người, trấn Cầu Vồng ngày càng phát triển hơn, nhưng lại trở thành trung tâm tranh cãi về lợi ích khiến cho các thành viên trong trấn sụp đổ. Vào lúc nguy nan, năm người họ một lần nữa tụ họp lại, cuối cùng khôi phục được trấn Cầu Vồng xinh đẹp như xưa, cũng từ đó gặt hái được tình yêu cùng tình bạn.\n\n© Bản quyền thuộc về : MGTV VietNam\n© Copyright by MGTV VietNam  ☞ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zAqIaANsowU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zAqIaANsowU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zAqIaANsowU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zAqIaANsowU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zAqIaANsowU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zAqIaANsowU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "zAqIaANsowU",
+                "videoPublishedAt": "2020-01-15T05:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "eweDrStzUkXO41RiL_akqesTPoc",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Phim Bộ Hay Nhất 2018 - Đánh Thức Tình Yêu - Tập 11 ( Thuyết Minh ) Phim Tình Cảm Mới Nhất 2018",
+                "description": "Phim Bộ Hay Nhất 2018 - Đánh Thức Tình Yêu - Tập 11 ( Thuyết Minh ) Phim Tình Cảm Mới Nhất 2018\nĐánh Thức Tình Yêu Full Bộ :https://goo.gl/DaaCba\nphim việt nam 2018 : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2017: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\n\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dWMttRDOJEI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dWMttRDOJEI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dWMttRDOJEI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dWMttRDOJEI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dWMttRDOJEI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dWMttRDOJEI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "dWMttRDOJEI",
+                "videoPublishedAt": "2018-08-12T01:49:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "qjKGopg9tESRrgSDUg8C11tz1sc",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Phim Bộ Hay Nhất 2018 - Đánh Thức Tình Yêu - Tập 16 ( Thuyết Minh ) Phim Tình Cảm Mới Nhất 2018",
+                "description": "Phim Bộ Hay Nhất 2018 - Đánh Thức Tình Yêu - Tập 16 ( Thuyết Minh ) Phim Tình Cảm Mới Nhất 2018\nĐánh Thức Tình Yêu Full Bộ :https://goo.gl/DaaCba\nphim việt nam 2018 : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2017: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\n\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ysM0uiITGtA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ysM0uiITGtA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ysM0uiITGtA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ysM0uiITGtA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ysM0uiITGtA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ysM0uiITGtA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "ysM0uiITGtA",
+                "videoPublishedAt": "2018-08-12T07:52:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "f9Tzo2xiDgJU4LFkfYmyxJ9kYNM",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Nam Thành Di Hận - Tập 4 ( Thuyết Minh ) | Phim Bộ Trung Quốc Mới Hay Nhất 2018",
+                "description": "Nam Thành Di Hận - Tập 4 ( Thuyết Minh ) | Phim Bộ Trung Quốc Mới Hay Nhất 2018\nNam Thành Di Hận Full Bộ :https://goo.gl/RpVPsq\nHồng Võ Đại Án Full Bộ : https://goo.gl/qK5Abp\nphim việt nam 2018 : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2018: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\n\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HuxkjzuCxx8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HuxkjzuCxx8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HuxkjzuCxx8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HuxkjzuCxx8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HuxkjzuCxx8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HuxkjzuCxx8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "HuxkjzuCxx8",
+                "videoPublishedAt": "2018-09-22T11:09:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9XrUPORrZuf3fXcR4rWkMKGvnqk",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Túy Linh Lung Tập 3 Thuyết Minh | Phim Bộ Kiếm Hiệp Hay Nhất 2018",
+                "description": "Túy Linh Lung Thuyết Minh | Phim Bộ Kiếm Hiệp Hay Nhất 2018 | Phim Cổ Trang Trung Quốc\n\nNội dung phim : \nTúy Linh Lung (tiếng Trung: 醉玲珑) là phim truyền hình Trung Quốc với sự tham gia của các diễn viên Trần Vỹ Đình, Lưu Thi Thi và Từ Hải Kiều. Bộ phim được dựa trên tiểu thuyết cùng tên của Thập Tứ Dạ. Nàng là Phụng Khanh Trần: người tiếp quản Minh Y lâu, một tổ chức bí mật được giao phó trách nhiệm bảo vệ hoàng tộc. Chàng là Nguyên Lăng: thái tử anh minh thần võ của Tây Ngụy, vốn là một quốc gia đang lâm nguy vì gian thần lộng quyền, hoàng tộc thất thế. Vô tình gặp gỡ, cùng nhau vượt qua hoạn nạn, vào sinh ra tử, Khanh Trần đem lòng yêu Nguyên Lăng.\n\nNhưng vì chính nghĩa đại cuộc, nàng buộc phài đè nén tình cảm với Nguyên Lăng, dùng thân phận Minh Y lâu lâu chủ bí mật trợ giúp phò tá chàng. Trải qua nhiều sóng gió, cuối cùng Nguyên Lăng thành công lên ngôi đế, lập nên một thời đại thái bình thịnh trị.\n---------------------------------------------------------------------------------------------------------\nPhim hay mỗi ngày :\n► Túy Linh Lung Trọn Bộ : https://bitly.vn/9nct\n---------------------------------------------------------------------------------------------------------\n\nTất cả các phim được xuất bản trên kênh DONG GIAO Official đều đảm bảo đầy đủ bản quyền phát hành.\nMọi vấn đề liên quan đến bản quyền vui lòng gửi email đến địa chỉ: office@banquyenso.net\nWebsite: banquyenso.net\n© Bản quyền thuộc về DONG GIAO Official . Đề nghị không reup dưới mọi  hình thức !\n© Copyright by DONG GIAO Official ☞ Do not Reup\n#phimbotrungquoc #phimkiemhiep #tuylinhlung #donggiaoofficial\n▶️▶️ Click đăng ký, subcribe Page Bài Hát Để Đời và fanpage Hoàng Châu để cập nhật những tin tức và sản phẩm mới sắp tới nha!\nhttps://www.youtube.com/user/DongGiaoOfficial\n\nLink Page Bài Hát Để Đời:\nhttps://www.facebook.com/baihatdedoi.vn\n\nLink Fanpage Hoàng Châu:\nhttps://www.facebook.com/hoangchau.singer",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EJfGKqx67Mc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EJfGKqx67Mc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EJfGKqx67Mc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EJfGKqx67Mc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EJfGKqx67Mc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EJfGKqx67Mc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "EJfGKqx67Mc",
+                "videoPublishedAt": "2019-10-03T04:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Cyq_xFOZafhlV72VhvWq3DGl8sw",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Nam Thành Di Hận - Tập 5 ( Thuyết Minh ) | Phim Bộ Trung Quốc Mới Hay Nhất 2018",
+                "description": "Nam Thành Di Hận - Tập 5 ( Thuyết Minh ) | Phim Bộ Trung Quốc Mới Hay Nhất 2018\nNam Thành Di Hận Full Bộ :https://goo.gl/RpVPsq\nHồng Võ Đại Án Full Bộ : https://goo.gl/qK5Abp\nphim việt nam 2018 : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2018: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\n\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ObAneXJ0hOk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ObAneXJ0hOk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ObAneXJ0hOk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ObAneXJ0hOk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ObAneXJ0hOk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ObAneXJ0hOk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "ObAneXJ0hOk",
+                "videoPublishedAt": "2018-09-22T12:27:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "LuizE-NkLceguTqimS-bbf5eKVc",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Phim Lẻ Hay 2020: HỌC VIỆN SIÊU PHÀM (Thuyết Minh)",
+                "description": "❖Xem các phim hay khác: http://bit.ly/2IOUNaW",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Wu3tIYfmd7U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Wu3tIYfmd7U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Wu3tIYfmd7U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Wu3tIYfmd7U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Wu3tIYfmd7U"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Wu3tIYfmd7U",
+                "videoPublishedAt": "2020-04-19T14:15:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nC-2NC7pLVcd4mqRy4tr8UYwk1s",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Phim Lẻ Hay 2020: MA VƯƠNG CƯƠNG THI  (Thuyết Minh)",
+                "description": "❖Xem các phim hay khác: http://bit.ly/2IOUNaW",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wuKPZAcKDNs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wuKPZAcKDNs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wuKPZAcKDNs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wuKPZAcKDNs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "wuKPZAcKDNs"
+                }
+            },
+            "contentDetails": {
+                "videoId": "wuKPZAcKDNs",
+                "videoPublishedAt": "2020-04-03T14:15:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ifuNpavmESEoFboJBNLc-hftZsI",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "THUYẾT MINH | Ngôn Tình Hoa Ngữ 2020 Siêu Hay | Bạn Gái Lầu Dưới Xin Hãy Ký Nhận - Tập 17",
+                "description": "➤ Xem Thêm Nhiều Phim Hay: https://bit.ly/2SWFvql\n➤ Trọn Bộ Bạn Gái Lầu Dưới Xin Hãy Ký Nhận Thuyết Minh: https://bit.ly/2K5v5zG\n➤ Download app Mango tại: http://bit.ly/2XG1OUZ  \n\n✤ Đạo diễn: Minh Diễm\n✤ Diễn viên: Vương Quán Dật, Từ Hảo\n✤ Bạn Gái Lầu Dưới Xin Hãy Ký Nhận kể về ngôi sao hàng đầu của công ty An Ninh Quốc Tế là Diệp Phi Mặc vì bị bệnh mà biến mất khỏi tầm mắt khán giả khiến mọi người đoán An Ninh Quốc Tế gặp khủng hoảng. Mẹ của Diệp Phi Mặc cho rằng con trai vì người bạn gái cũ mà sinh tâm bệnh nên đã tìm Ôn Noãn (một diễn viên quần chúng đang cần tiền để duy trì gánh hát Hoàng Mai ở quê) để đóng giả làm người yêu thầm CEO Diệp Phi Mặc của công ty An Ninh Quốc Tế, hai người \"phim giả tình thật\" trở thành người yêu thực sự.\n\n© Bản quyền thuộc về : MGTV VietNam\n© Copyright by MGTV VietNam  ☞ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BmL5eVG90sY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BmL5eVG90sY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BmL5eVG90sY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BmL5eVG90sY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BmL5eVG90sY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BmL5eVG90sY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "BmL5eVG90sY",
+                "videoPublishedAt": "2020-05-03T13:30:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "b7qDLQnLUBBsUgrEEZZ11SVAlik",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "nw1pe10P8NI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "nw1pe10P8NI"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6_wxNnYn-I9JnxZep6nOQcovT0g",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Nghi Hương Kiếp - Tập 2 ( Thuyết Minh ) Phim Bộ Trung Quốc Hay Nhất 2018",
+                "description": "Nghi Hương Kiếp - Tập 2 ( Thuyết Minh ) Phim Bộ Trung Quốc Hay Nhất 2018 \nNghi Hương Kiếp Full Bộ: https://bit.ly/2AjnwDs\nAnh Hùng Cảm Tử Quân Full Bộ : https://bit.ly/2uZLfCJ\nphim việt nam 2018 : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2017: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\n\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/la8hBiBy7HU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/la8hBiBy7HU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/la8hBiBy7HU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/la8hBiBy7HU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/la8hBiBy7HU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "la8hBiBy7HU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "la8hBiBy7HU",
+                "videoPublishedAt": "2018-08-01T05:54:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nDeFwGWys8q0pyY8CYU7I_nkV4E",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Phim Bộ Hay Nhất 2018 - Đánh Thức Tình Yêu - Tập 15 ( Thuyết Minh ) Phim Tình Cảm Mới Nhất 2018",
+                "description": "Phim Bộ Hay Nhất 2018 - Đánh Thức Tình Yêu - Tập 15 ( Thuyết Minh ) Phim Tình Cảm Mới Nhất 2018\nĐánh Thức Tình Yêu Full Bộ :https://goo.gl/DaaCba\nphim việt nam 2018 : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2017: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\n\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NOrl5r1aEao/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NOrl5r1aEao/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NOrl5r1aEao/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NOrl5r1aEao/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NOrl5r1aEao/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NOrl5r1aEao"
+                }
+            },
+            "contentDetails": {
+                "videoId": "NOrl5r1aEao",
+                "videoPublishedAt": "2018-08-12T05:37:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HMpqftczgBPqdU9VW75Xm7KSmt0",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Vượt Long Môn - Tập 8 ( Thuyết Minh ) | Phim Bộ Võ Thuật Kiếm Hiệp Trung Quốc Hay Nhất",
+                "description": "Vượt Long Môn - Tập 8 ( Thuyết Minh ) | Phim Bộ Võ Thuật Kiếm Hiệp Trung Quốc Hay Nhất \nVượt Long Môn Full Bộ : https://bit.ly/2lfDqYM\nTuyết Sơn Phi Hồ Full Bộ : https://bit.ly/2m6pyA8\nThiết Liên Hoa Full Bộ : https://bit.ly/2lZWaLS\nTình Yêu Ngang Trái Full Bộ: https://goo.gl/9yrE7j\nYêu Trong Cay Đắng Full Bộ: https://goo.gl/J7ynGV\nCá Mực Hầm Mật Thuyết Minh : https://bit.ly/2ZceLDu\nCá Mực Hầm Mật Vietsub Full Bộ : https://bit.ly/30xVUCZ\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2019: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JASbY5iqKxk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JASbY5iqKxk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JASbY5iqKxk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JASbY5iqKxk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JASbY5iqKxk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "JASbY5iqKxk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "JASbY5iqKxk",
+                "videoPublishedAt": "2019-09-27T11:15:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QIOzLMpQ3Mfs5GM0DnqaCQzzR20",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Phim Bộ Hay Nhất - Đánh Thức Tình Yêu - Tập 2 ( Thuyết Minh ) Phim Tình Cảm Mới Nhất",
+                "description": "Phim Bộ Hay Nhất - Đánh Thức Tình Yêu - Tập 2 ( Thuyết Minh ) Phim Tình Cảm Mới Nhất 2018\nĐánh Thức Tình Yêu Full Bộ :https://goo.gl/DaaCba\nphim việt nam 2018 : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2017: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\n\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d6aDJkITz_I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d6aDJkITz_I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d6aDJkITz_I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/d6aDJkITz_I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/d6aDJkITz_I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "d6aDJkITz_I"
+                }
+            },
+            "contentDetails": {
+                "videoId": "d6aDJkITz_I",
+                "videoPublishedAt": "2018-08-11T03:24:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vLOQs0WkYQbt6QqsQ4C7SjfKQ8s",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Phim Trung Quốc Hay 2020 | Thực Tập Sinh Đáng Yêu - Tập 02 (Thuyết Minh) Triệu Lệ Dĩnh - Trịnh Khải",
+                "description": "➤ Xem Thêm Nhiều Phim Hay: https://bit.ly/2qWBg06\n➤ Trọn Bộ Thực Tập Sinh Đáng Yêu Thuyết Minh: http://bit.ly/2Ypjbcl\n\n✤ Đạo diễn: Tôn Hạo\n✤ Diễn viên: Triệu Lệ Dĩnh, Trịnh Khải, Thái Văn Tịnh\n✤ Thực Tập Sinh Đáng Yêu kể về đời sống công việc tình cảm của các sinh viên mới ra trường với những tính cách, số phận riêng. Tống Noãn, Chu Cách Cách, Cao Ôn Nhược Hàn, Ninh Ba Lạp là bạn cùng lớp ở đại học, cùng ở ký túc xá. Lúc ra trường cả 4 đều thực tập tại một công ty lớn. Tại đó, cậu công tử nhà giàu Trương Thịnh dưới sức ép của mẹ cũng gia nhập đội ngũ thực tập sinh. Và câu chuyện tình quen thuộc bắt đầu, Tống Noãn và Trương Thịnh là một cặp đôi, cô bạn Chu Cách Cách thì lờ đi tình cảm cậu trai dân kỹ thuật Triệu Tiểu Xuyên nghèo để theo đuổi Trương Thịnh...\n\n© Bản quyền thuộc về : YoYo TeLeViSion VietSub\n© Copyright by YoYo TeLeViSion VietSub ☞ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dBH8ea_11Bo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dBH8ea_11Bo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dBH8ea_11Bo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dBH8ea_11Bo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dBH8ea_11Bo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dBH8ea_11Bo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "dBH8ea_11Bo",
+                "videoPublishedAt": "2020-05-02T12:20:31Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "TmTjxWyu1bhHiedvJCC7BXjE98k",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Phim Bộ Hay Nhất 2018 - Đánh Thức Tình Yêu - Tập 37 ( Thuyết Minh ) Phim Tình Cảm Mới Nhất 2018",
+                "description": "Phim Bộ Hay Nhất 2018 - Đánh Thức Tình Yêu - Tập 37 ( Thuyết Minh ) Phim Tình Cảm Mới Nhất 2018\nĐánh Thức Tình Yêu Full Bộ :https://goo.gl/DaaCba\nphim việt nam 2018 : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2018: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\n\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YbUW2fFkdeg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YbUW2fFkdeg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YbUW2fFkdeg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YbUW2fFkdeg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YbUW2fFkdeg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YbUW2fFkdeg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "YbUW2fFkdeg",
+                "videoPublishedAt": "2018-09-02T07:22:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_55tGAqmnxMIMqrNGV5d7EjNZLw",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Phim Bộ Hay Nhất 2018 - Đánh Thức Tình Yêu - Tập 14 ( Thuyết Minh ) Phim Tình Cảm Mới Nhất 2018",
+                "description": "Phim Bộ Hay Nhất 2018 - Đánh Thức Tình Yêu - Tập 14 ( Thuyết Minh ) Phim Tình Cảm Mới Nhất 2018\nĐánh Thức Tình Yêu Full Bộ :https://goo.gl/DaaCba\nphim việt nam 2018 : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2017: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\n\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8OTq_1R16IU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8OTq_1R16IU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8OTq_1R16IU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8OTq_1R16IU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8OTq_1R16IU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8OTq_1R16IU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "8OTq_1R16IU",
+                "videoPublishedAt": "2018-08-12T04:20:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "V3u_ZJsrnk24fFENEQEpTeY048Q",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Phim Bộ Hay Nhất 2018 - Đánh Thức Tình Yêu - Tập 18 ( Thuyết Minh ) Phim Tình Cảm Mới Nhất 2018",
+                "description": "Phim Bộ Hay Nhất 2018 - Đánh Thức Tình Yêu - Tập 18 ( Thuyết Minh ) Phim Tình Cảm Mới Nhất 2018\nĐánh Thức Tình Yêu Full Bộ :https://goo.gl/DaaCba\nphim việt nam 2018 : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2017: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\n\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_A8mGjY23hw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_A8mGjY23hw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_A8mGjY23hw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_A8mGjY23hw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_A8mGjY23hw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_A8mGjY23hw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "_A8mGjY23hw",
+                "videoPublishedAt": "2018-08-12T11:55:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tDBfsMKgI89aHYHLCDCkwrGHPlk",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Phim Bộ Hay Nhất 2018 - Đánh Thức Tình Yêu - Tập 38 ( Thuyết Minh ) Phim Tình Cảm Mới Nhất 2018",
+                "description": "Phim Bộ Hay Nhất 2018 - Đánh Thức Tình Yêu - Tập 38 ( Thuyết Minh ) Phim Tình Cảm Mới Nhất 2018\nĐánh Thức Tình Yêu Full Bộ :https://goo.gl/DaaCba\nphim việt nam 2018 : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2017: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\n\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6xEQUq-qyDY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6xEQUq-qyDY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6xEQUq-qyDY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6xEQUq-qyDY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6xEQUq-qyDY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6xEQUq-qyDY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "6xEQUq-qyDY",
+                "videoPublishedAt": "2018-08-23T03:59:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wFzxXC5UjLyI_B-ZU_QHBHgUfo8",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Phim Bộ Hay Nhất 2018 - Đánh Thức Tình Yêu - Tập 30 ( Thuyết Minh ) Phim Tình Cảm Mới Nhất 2018",
+                "description": "Phim Bộ Hay Nhất 2018 - Đánh Thức Tình Yêu - Tập 30 ( Thuyết Minh ) Phim Tình Cảm Mới Nhất 2018\nĐánh Thức Tình Yêu Full Bộ :https://goo.gl/DaaCba\nphim việt nam 2018 : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2017: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\n\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/U7MM7sVBaJI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/U7MM7sVBaJI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/U7MM7sVBaJI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/U7MM7sVBaJI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/U7MM7sVBaJI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "U7MM7sVBaJI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "U7MM7sVBaJI",
+                "videoPublishedAt": "2018-08-14T01:45:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "A440dA_2psqdLSI96w6F1s5vKTE",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Phim Bộ Cổ Trang Kiếm Hiệp Bao Thanh Thiên Hay Nhất ( Thuyết Minh ) ĐẠI ÁN TRUYỀN KỲ - Tập 03",
+                "description": "Phim Bộ Cổ Trang Kiếm Hiệp Bao Thanh Thiên Hay Nhất ( Thuyết Minh ) ĐẠI ÁN TRUYỀN KỲ - Tập 03\n\nTheo dõi trọn bô tại đây : https://bit.ly/2NTt9Mq\n\n\" ĐẠI ÁN TRUYỀN KỲ - Tân Bao Thanh Thiên \"   là một trong những bộ phim cổ trang kiếm hiệp hay nhất, thành công nhất mà ngôi sao của màn ảnh TVB của Trung Quốc là Kim Siêu Quần, Hà Gia Kính, Phạm Hồng Hiên thủ vai chính. Bộ phim đã đạt được những thành công rực rỡ trong làng phim cổ trang kiếm hiệp tại đất nước Trung Hoa và toàn quốc tế,  \" Li1 TV \" rất hân hạnh mang lại bộ phim \" ĐẠI ÁN TRUYỀN KỲ - Tân Bao Thanh Thiên  \" đến với các những khán giả nhiệt thành của Việt Nam. Chúc các bạn xem phim vui vẻ. Thân ái!\n\nBiên Kịch : \n\nCác diễn viên chính : \nKim Siêu Quần        : Bao Thanh Thiên ( Bao Công, Bao Chửng , Bao Chuẩn )\nHà Gia Kính             :  Triển Chiêu\nPhạm Hồng Hiên    : Công Tôn Sách\nQuan Lễ Kiệt            : Thẩm Nhượng\nHương Hoa              : Tiểu Điền\nCảnh Nam                : Mộc Châu\nTừ Minh                    : Lý Toàn\nĐàm Kiến Xương     :  Vũ Tín\n\n...... và một số diễn viên khác.\n\n Tóm Tắt Phim ĐẠI ÁN TRUYỀN KỲ\n\n- Bộ Phim xoay quanh những tình huống phá án, xử án ly kỳ của Bao Thanh Thiên : Một nhân vật có thật trong lịch sử Trung Quốc. Tuy đã được dựng nhiều phiên bản nhưng phiên bản do Kim Siêu Quần thủ vai vẫn là phiên bản được đánh là phiên bản hay nhất, hấp dẫn nhất và bất hủ. \n\n- Ngoài tên gọi Bao Thanh Thiên ra, ông còn được gọi là Bao Thanh thiên, Bao Đãi chế, Bao Hắc tử, Bao Học sĩ hay Bao Long Đồ. Ông nổi tiếng là một vị quan thanh liêm, chấp pháp nghiêm minh, không khiếp sợ quyền uy hay vị nể tư tình. Theo truyền thuyết, Bao Công là một vị thần, một trong 7 vị Bắc Đẩu tinh quân, giáng trần, tên là Văn Khúc Tinh Quân. Vì vậy, ngoài việc xử án ban ngày ở dương gian, ban đêm, ông còn phải xử án ở âm phủ. Trong văn hóa dân gian, vầng trăng trên trán ông tựa như ánh trăng soi sáng công lý ngay cả ở những nơi tăm tối nhất.\n\n-Bao Chửng người Hợp Phì, Lư Châu (nay là thành phố Hợp Phì, tỉnh An Huy, Trung Quốc). Cha ông là Bao Nghi, từng giữ chức đại phu trong triều. Sau khi qua đời, Bao Nghi được phong Hình bộ thị lang.\n\n- Lúc nhỏ, Bao Công đã nổi tiếng là đứa con hiếu thảo, đôn hậu, sống mực thước. Năm 1027, ông thi đậu tiến sĩ, được cử đến nhậm chức Tri huyện Kiến Xương (nay thuộc tỉnh Giang Tây), nhưng vì song thân già yếu, ông không thể làm quan xa nên xin khoan nhận việc, để ở nhà chăm sóc cho cha mẹ.\n- Thống kê ghi lại, những người bị Bao Chửng trừng trị không dưới 30 người là đối tượng quyền quý, hoàng thân quốc thích trong xã hội đương thời.\n\n- Trong phim, Bao Công xử các vụ án trong cương vị Phủ Doãn phủ Khai Phong (kinh đô nhà Tống). Bao Thanh Thiên Thất Hiệp Ngũ Nghĩa, trong thực tế lịch sử, ông làm ở chức vụ này khoảng 1 năm. Bao Công trong phim được mô tả là do sao Văn Khúc giáng sinh để đem lại công lý cho dương gian. Ban ngày ông xử án ở trần thế cho con người, ban đêm khi đi ngủ, thần thức của ông tiếp tục xuống âm phủ xử án cho các oan hồn. Giữa trán ông có vết sẹo hình trăng lưỡi liềm, tượng trưng cho sự công chính, khi nguy cấp thì vết sẹo này có thể tỏa sáng để xua đuổi được tà ma yêu khí.\n\n- Thực tế, Bao Công thật không có khuôn mặt đen và cũng không có vết sẹo hình Mặt Trăng như trong phim, thậm chí ông lại trắng trẻo và có phần thư sinh. Điều này là do ảnh hưởng của Kinh kịch, hát bội, Trong nghệ thuật Kinh Kịch, các diễn viên thường phải hóa trang mặt nạ trước khi biểu diễn. Mặt trắng là đại diện cho kẻ tiểu nhân; mặt đỏ là đại diện cho nghĩa khí, trung nghĩa; mặt đen đại diện cho nghiêm túc, công chính liêm minh, quân tử. Do đó, mặt Bao Công trong kịch và phim được tô đen để khắc họa bản tính liêm chính của ông.\n#ĐạiÁnTruyềnKỳ\n#BaoThanhThiên\n#PhimCổTrangTrungQuốc\n\n© Bản quyền thuộc về Li1 TV\n© Copyright by Li1 TV   ❌ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PnIutyyGVaw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PnIutyyGVaw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PnIutyyGVaw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PnIutyyGVaw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PnIutyyGVaw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PnIutyyGVaw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "PnIutyyGVaw",
+                "videoPublishedAt": "2019-11-09T13:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "NPelbDtnzEBOyB9CorXGA2osd98",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Phim Bộ Hay Nhất 2018 - Đánh Thức Tình Yêu - Tập 29 ( Thuyết Minh ) Phim Tình Cảm Mới Nhất 2018",
+                "description": "Phim Bộ Hay Nhất 2018 - Đánh Thức Tình Yêu - Tập 29 ( Thuyết Minh ) Phim Tình Cảm Mới Nhất 2018\nĐánh Thức Tình Yêu Full Bộ :https://goo.gl/DaaCba\nphim việt nam 2018 : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2017: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\n\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_Kye2ZjjLLg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_Kye2ZjjLLg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_Kye2ZjjLLg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_Kye2ZjjLLg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_Kye2ZjjLLg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_Kye2ZjjLLg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "_Kye2ZjjLLg",
+                "videoPublishedAt": "2018-08-13T14:09:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ElUhPEaBh3rlPSY_RdHKdNjvMcE",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS43NDhFRTgwOTRERTU4Rjg3",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Phim Bộ Tình Cảm Đài Loan TVB Mới Hay Nhất 2020 ( Thuyết Minh ) - TÌNH YÊU LÀ GÌ - Tập 2",
+                "description": "Phim Bộ Tình Cảm Đài Loan TVB Mới Hay Nhất 2020 ( Thuyết Minh ) - TÌNH YÊU LÀ GÌ - Tập 2\nXem TRỌN BỘ chân ái \" TÌNH YÊU LÀ GÌ \" tại đây : http://bit.ly/TINH-YEU-LA-GI-TRON-BO\nĐĂNG KÍ Theo Dõi \" Li1 Movies \" để nhận được những bộ phim mới nhất: http://bit.ly/2SYsCLa\n\nPhim \"TÌNH YÊU LÀ GÌ\" là một trong những Bộ Phim Tình Cảm TVB Đài Loan hay nhất , mới nhất 2019 mà các ngôi sao của màn ảnh của Đài Loan thủ vai chính. Bộ phim đã đạt được những thành công rực rỡ trong làng phim Lịch Sử tại đất nước Trung Quốc, Đài Loan và toàn quốc tế,  \" Li1 Movies \" rất hân hạnh mang lại bộ phim \" TÌNH YÊU LÀ GÌ \"  bản Thuyết Minh Lồng Tiếng đến với các những khán giả nhiệt thành của Việt Nam. Chúc các bạn xem phim vui vẻ. Thân ái!\n\nTÓM TẮT PHIM \" TÌNH YÊU LÀ GÌ \" :\nPhim là Bộ Phim tình cảm chân ái giữa cặp đôi Đài Loan , gặp biết bao nhiêu trắc trở về cuộc sống, gia đình, tình tay ba,...họ tìm cách vượt qua cám dỗ để đến được với nhau để cùng nhau đi đến hết cuộc đời.Tình yêu, tình cảm thật của đôi lứa càng được chứng minh khi vượt qua những cạm bẫy trong cuộc sống, áp lực gia đình..\n\n#PhimĐàiLoan\n#PhimBộTìnhCảmĐàiLoanMớiHayNhất2020\n#PhimTìnhCảmTâmLýXãHội\n\n© Bản quyền thuộc về Li1 Movies \n© Copyright by Li1 Movies   ❌ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FnGUmtCOKDg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FnGUmtCOKDg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FnGUmtCOKDg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FnGUmtCOKDg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FnGUmtCOKDg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FnGUmtCOKDg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "FnGUmtCOKDg",
+                "videoPublishedAt": "2020-03-01T12:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "PaSDHcw9aklVUUEpwvo8k2uJOpA",
+            "id": "UExRbmlzM3c1cmtvX0o3d2Z0bk1FVVZVU3VUUWN3SVlhYS41QUZGQTY5OTE4QTREQUU4",
+            "snippet": {
+                "publishedAt": "2020-05-06T07:35:55Z",
+                "channelId": "UC7g8fqVhHWDbuOuI8Dn-cbQ",
+                "title": "Phim Ngôn Tình THUYẾT MINH hay nhất 2019 | Em Là Thế Giới Trong Anh - Tập 02",
+                "description": "➤ Xem Thêm Nhiều Phim Hay: https://bit.ly/2qWBg06\n➤ Trọn Bộ Em Là Thế Giới Trong Anh Thuyết Minh: https://bit.ly/2mQ6Ux5\n\n✤ Đạo diễn: Kim Hùng Hào\n✤ Diễn viên: Huỳnh Thánh Trì, Phàn Trị Hân, Trang Đạt Phi, Mã Tâm Dư\n✤ Em Là Thế Giới Trong Anh kể về cuộc gặp gỡ của cô gái Hạ Nhụy Ninh khi bước vào ngôi trường đại học Tây Lăng cùng hai anh em Dạ Lẫm, Dạ Miểu và cô gái lọ lem Thẩm Chân, bốn người nảy sinh những mối quan hệ dây dưa và hỗn loạn.\n\n© Bản quyền thuộc về : YoYo TeLeViSion VietSub\n© Copyright by YoYo TeLeViSion VietSub ☞ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J370VgGOko0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J370VgGOko0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J370VgGOko0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/J370VgGOko0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/J370VgGOko0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Damion X diaz",
+                "playlistId": "PLQnis3w5rko_J7wftnMEUVUSuTQcwIYaa",
+                "position": 31,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "J370VgGOko0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "J370VgGOko0",
+                "videoPublishedAt": "2019-09-26T13:45:12Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 32,
+        "resultsPerPage": 50
     }
 }

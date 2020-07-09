@@ -1,0 +1,99 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "F_1cSEFdeF025BVUmZc7htGLUzE",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fIx5Tk4dBk9m0K3VrbSnTP1Aymo",
+            "id": "UExWbXlTeVc1cVA1RVA5aXFNTjk1OFJvejJuQ0ZqeEpXTC44QzVGQUU2QjE2NDgxM0M4",
+            "snippet": {
+                "publishedAt": "2020-07-07T14:30:16Z",
+                "channelId": "UCiIRwhAMxdVNAPK3NjZ_qWA",
+                "title": "FILME LANÇAMENTOS 2020 | MELHORES FILMES DE AÇÃO 2020 | NOVOS LANÇAMENTOS 2020 HD",
+                "description": "ME SEGUE NO INSTAGRAM GALERA 🥰 - https://www.instagram.com/davi_4e/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mTTcE5CW_1I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mTTcE5CW_1I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mTTcE5CW_1I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "จําเนียร ศรีสง่า",
+                "playlistId": "PLVmySyW5qP5EP9iqMN958Roz2nCFjxJWL",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "mTTcE5CW_1I"
+                }
+            },
+            "contentDetails": {
+                "videoId": "mTTcE5CW_1I",
+                "videoPublishedAt": "2020-06-21T20:14:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "b20yoCMwDEu1eKEGAII5hjetzDU",
+            "id": "UExWbXlTeVc1cVA1RVA5aXFNTjk1OFJvejJuQ0ZqeEpXTC4xMzgwMzBERjQ4NjEzNUE5",
+            "snippet": {
+                "publishedAt": "2020-07-07T14:30:16Z",
+                "channelId": "UCiIRwhAMxdVNAPK3NjZ_qWA",
+                "title": "映画フル 2020 hd  | 日本映画フル字幕版 2020 hd  - HD映画",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d14ZoAAI0mM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d14ZoAAI0mM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d14ZoAAI0mM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/d14ZoAAI0mM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/d14ZoAAI0mM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "จําเนียร ศรีสง่า",
+                "playlistId": "PLVmySyW5qP5EP9iqMN958Roz2nCFjxJWL",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "d14ZoAAI0mM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "d14ZoAAI0mM",
+                "videoPublishedAt": "2020-04-24T15:15:02Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 52,
+        "resultsPerPage": 50
+    }
+}

@@ -1,0 +1,985 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "ewgJrTXR3azCzm6pWgKBWaW8rv0",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "I3H5DPgAJJ6kXw7c04r5ltpeEDk",
+            "id": "UExPRi11T1Fzc2FVVzBpTHRvM09KV1BqMTFuakdBNnF6Vy41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2020-04-25T03:13:24Z",
+                "channelId": "UC2hsY0qvQ3nLgWP4UWiE1-g",
+                "title": "Chàng chiến binh đáng yêu tập 1",
+                "description": "#changchienbinhdangyeu #chàngchiếnbinhđángyêu #phimthailanhay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eagZ4zhVGm0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eagZ4zhVGm0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eagZ4zhVGm0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eagZ4zhVGm0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Hội yêu phim Thái",
+                "playlistId": "PLOF-uOQssaUW0iLto3OJWPj11njGA6qzW",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eagZ4zhVGm0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "eagZ4zhVGm0",
+                "videoPublishedAt": "2020-04-25T03:20:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "qEVGP9omvUxwb5I1RoOahnFHb8E",
+            "id": "UExPRi11T1Fzc2FVVzBpTHRvM09KV1BqMTFuakdBNnF6Vy4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2020-04-25T03:23:39Z",
+                "channelId": "UC2hsY0qvQ3nLgWP4UWiE1-g",
+                "title": "Chàng chiến binh đáng yêu tập 2",
+                "description": "#changchienbinhdangyeu #chàngchiếnbinhđángyêu #phimthailanhay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pBcjoAruigc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pBcjoAruigc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pBcjoAruigc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pBcjoAruigc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pBcjoAruigc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hội yêu phim Thái",
+                "playlistId": "PLOF-uOQssaUW0iLto3OJWPj11njGA6qzW",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "pBcjoAruigc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "pBcjoAruigc",
+                "videoPublishedAt": "2020-04-25T03:21:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0thw8pDiJmgpNLONRrPaemad48k",
+            "id": "UExPRi11T1Fzc2FVVzBpTHRvM09KV1BqMTFuakdBNnF6Vy4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2020-04-25T03:51:40Z",
+                "channelId": "UC2hsY0qvQ3nLgWP4UWiE1-g",
+                "title": "Chàng chiến binh đáng yêu tập 3",
+                "description": "#changchienbinhdangyeu #chàngchiếnbinhđángyêu #phimthailanhay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xL_eQjzYopk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xL_eQjzYopk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xL_eQjzYopk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xL_eQjzYopk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xL_eQjzYopk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hội yêu phim Thái",
+                "playlistId": "PLOF-uOQssaUW0iLto3OJWPj11njGA6qzW",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xL_eQjzYopk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "xL_eQjzYopk",
+                "videoPublishedAt": "2020-04-25T03:52:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "XQ1Fh3sJcARY4zyVM37SBcTYy84",
+            "id": "UExPRi11T1Fzc2FVVzBpTHRvM09KV1BqMTFuakdBNnF6Vy41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2020-04-25T03:51:48Z",
+                "channelId": "UC2hsY0qvQ3nLgWP4UWiE1-g",
+                "title": "Chàng chiến binh đáng yêu tập 5",
+                "description": "#changchienbinhdangyeu #chàngchiếnbinhđángyêu #phimthailanhay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3WdM47oExXI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3WdM47oExXI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3WdM47oExXI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3WdM47oExXI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3WdM47oExXI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hội yêu phim Thái",
+                "playlistId": "PLOF-uOQssaUW0iLto3OJWPj11njGA6qzW",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3WdM47oExXI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "3WdM47oExXI",
+                "videoPublishedAt": "2020-04-25T03:51:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cIP64V9JDgGfS-TbNTRzqr4bMKg",
+            "id": "UExPRi11T1Fzc2FVVzBpTHRvM09KV1BqMTFuakdBNnF6Vy4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2020-04-25T03:52:04Z",
+                "channelId": "UC2hsY0qvQ3nLgWP4UWiE1-g",
+                "title": "Chàng chiến binh đáng yêu tập 6",
+                "description": "#changchienbinhdangyeu #chàngchiếnbinhđángyêu #phimthailanhay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MfmLI5V306I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MfmLI5V306I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MfmLI5V306I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MfmLI5V306I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MfmLI5V306I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hội yêu phim Thái",
+                "playlistId": "PLOF-uOQssaUW0iLto3OJWPj11njGA6qzW",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "MfmLI5V306I"
+                }
+            },
+            "contentDetails": {
+                "videoId": "MfmLI5V306I",
+                "videoPublishedAt": "2020-04-25T03:52:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "KHggpWXR2hNqNGq6Nlic-iO-Km8",
+            "id": "UExPRi11T1Fzc2FVVzBpTHRvM09KV1BqMTFuakdBNnF6Vy4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2020-04-25T03:52:10Z",
+                "channelId": "UC2hsY0qvQ3nLgWP4UWiE1-g",
+                "title": "Chàng chiến binh đáng yêu tập 4",
+                "description": "#changchienbinhdangyeu #chàngchiếnbinhđángyêu #phimthailanhay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dUmHljtHtqw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dUmHljtHtqw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dUmHljtHtqw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dUmHljtHtqw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dUmHljtHtqw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hội yêu phim Thái",
+                "playlistId": "PLOF-uOQssaUW0iLto3OJWPj11njGA6qzW",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dUmHljtHtqw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "dUmHljtHtqw",
+                "videoPublishedAt": "2020-04-25T03:52:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ka8tQAbL9YMOLCDn8jDIMQKYxFg",
+            "id": "UExPRi11T1Fzc2FVVzBpTHRvM09KV1BqMTFuakdBNnF6Vy41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2020-04-25T03:52:15Z",
+                "channelId": "UC2hsY0qvQ3nLgWP4UWiE1-g",
+                "title": "Chàng chiến binh đáng yêu tập 7",
+                "description": "#changchienbinhdangyeu #chàngchiếnbinhđángyêu #phimthailanhay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tqJ9izEQvuk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tqJ9izEQvuk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tqJ9izEQvuk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tqJ9izEQvuk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tqJ9izEQvuk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hội yêu phim Thái",
+                "playlistId": "PLOF-uOQssaUW0iLto3OJWPj11njGA6qzW",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "tqJ9izEQvuk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "tqJ9izEQvuk",
+                "videoPublishedAt": "2020-04-25T03:52:41Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zr57IR89dnO1cSIAixNS-bX2bgA",
+            "id": "UExPRi11T1Fzc2FVVzBpTHRvM09KV1BqMTFuakdBNnF6Vy5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2020-04-25T03:52:33Z",
+                "channelId": "UC2hsY0qvQ3nLgWP4UWiE1-g",
+                "title": "Chàng chiến binh đáng yêu tập 9",
+                "description": "#changchienbinhdangyeu #chàngchiếnbinhđángyêu #phimthailanhay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8XKGPKk78I4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8XKGPKk78I4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8XKGPKk78I4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8XKGPKk78I4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8XKGPKk78I4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hội yêu phim Thái",
+                "playlistId": "PLOF-uOQssaUW0iLto3OJWPj11njGA6qzW",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8XKGPKk78I4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "8XKGPKk78I4",
+                "videoPublishedAt": "2020-04-25T03:53:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fi-hau2YBXOW6qlPRy88lfZYaz8",
+            "id": "UExPRi11T1Fzc2FVVzBpTHRvM09KV1BqMTFuakdBNnF6Vy45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2020-04-25T03:52:40Z",
+                "channelId": "UC2hsY0qvQ3nLgWP4UWiE1-g",
+                "title": "Chàng chiến binh đáng yêu tập 10",
+                "description": "#changchienbinhdangyeu #chàngchiếnbinhđángyêu #phimthailanhay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zOgIA5X8xC8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zOgIA5X8xC8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zOgIA5X8xC8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zOgIA5X8xC8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zOgIA5X8xC8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hội yêu phim Thái",
+                "playlistId": "PLOF-uOQssaUW0iLto3OJWPj11njGA6qzW",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zOgIA5X8xC8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "zOgIA5X8xC8",
+                "videoPublishedAt": "2020-04-25T03:53:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mPfEFpq2K6tPL3a9Z2odEcU20vk",
+            "id": "UExPRi11T1Fzc2FVVzBpTHRvM09KV1BqMTFuakdBNnF6Vy4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2020-04-25T07:25:56Z",
+                "channelId": "UC2hsY0qvQ3nLgWP4UWiE1-g",
+                "title": "Chàng chiến binh đáng yêu tập 11",
+                "description": "#changchienbinhdangyeu #chàngchiếnbinhđángyêu #phimthailanhay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xVYXYvAdK_U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xVYXYvAdK_U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xVYXYvAdK_U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xVYXYvAdK_U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xVYXYvAdK_U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hội yêu phim Thái",
+                "playlistId": "PLOF-uOQssaUW0iLto3OJWPj11njGA6qzW",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xVYXYvAdK_U"
+                }
+            },
+            "contentDetails": {
+                "videoId": "xVYXYvAdK_U",
+                "videoPublishedAt": "2020-04-25T07:26:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_RGNVVYLlscYFeErAL0aFGNnZmM",
+            "id": "UExPRi11T1Fzc2FVVzBpTHRvM09KV1BqMTFuakdBNnF6Vy41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2020-04-25T07:26:13Z",
+                "channelId": "UC2hsY0qvQ3nLgWP4UWiE1-g",
+                "title": "Chàng chiến binh đáng yêu tập 12",
+                "description": "#changchienbinhdangyeu #chàngchiếnbinhđángyêu #phimthailanhay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Gve6ASrbfLI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Gve6ASrbfLI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Gve6ASrbfLI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Gve6ASrbfLI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Gve6ASrbfLI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hội yêu phim Thái",
+                "playlistId": "PLOF-uOQssaUW0iLto3OJWPj11njGA6qzW",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Gve6ASrbfLI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Gve6ASrbfLI",
+                "videoPublishedAt": "2020-04-25T07:28:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QdE60-il7v-W_QxBDFJJ9wAM774",
+            "id": "UExPRi11T1Fzc2FVVzBpTHRvM09KV1BqMTFuakdBNnF6Vy5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2020-04-25T07:26:24Z",
+                "channelId": "UC2hsY0qvQ3nLgWP4UWiE1-g",
+                "title": "Chàng chiến binh đáng yêu tập 13",
+                "description": "#changchienbinhdangyeu #chàngchiếnbinhđángyêu #phimthailanhay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/77WUS6JEopI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/77WUS6JEopI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/77WUS6JEopI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/77WUS6JEopI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/77WUS6JEopI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hội yêu phim Thái",
+                "playlistId": "PLOF-uOQssaUW0iLto3OJWPj11njGA6qzW",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "77WUS6JEopI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "77WUS6JEopI",
+                "videoPublishedAt": "2020-04-25T07:28:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oUQ1g4dMg1wO5lSU0_OkcIHz8eI",
+            "id": "UExPRi11T1Fzc2FVVzBpTHRvM09KV1BqMTFuakdBNnF6Vy41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2020-04-25T07:26:52Z",
+                "channelId": "UC2hsY0qvQ3nLgWP4UWiE1-g",
+                "title": "Chàng chiến binh đáng yêu tập 15",
+                "description": "#changchienbinhdangyeu #chàngchiếnbinhđángyêu #phimthailanhay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BPdSKv6kBv0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BPdSKv6kBv0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BPdSKv6kBv0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BPdSKv6kBv0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BPdSKv6kBv0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hội yêu phim Thái",
+                "playlistId": "PLOF-uOQssaUW0iLto3OJWPj11njGA6qzW",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BPdSKv6kBv0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "BPdSKv6kBv0",
+                "videoPublishedAt": "2020-04-25T07:31:38Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bV9biVyXKC66-o7ZVsfEYpk4xKA",
+            "id": "UExPRi11T1Fzc2FVVzBpTHRvM09KV1BqMTFuakdBNnF6Vy4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2020-04-25T07:26:54Z",
+                "channelId": "UC2hsY0qvQ3nLgWP4UWiE1-g",
+                "title": "Chàng chiến binh đáng yêu tập 14",
+                "description": "#changchienbinhdangyeu #chàngchiếnbinhđángyêu #phimthailanhay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oHT5xTSVnwQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oHT5xTSVnwQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oHT5xTSVnwQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oHT5xTSVnwQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oHT5xTSVnwQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hội yêu phim Thái",
+                "playlistId": "PLOF-uOQssaUW0iLto3OJWPj11njGA6qzW",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "oHT5xTSVnwQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "oHT5xTSVnwQ",
+                "videoPublishedAt": "2020-04-25T07:29:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xOqZNe6G1s4AQhdrLsHLEfCKlUE",
+            "id": "UExPRi11T1Fzc2FVVzBpTHRvM09KV1BqMTFuakdBNnF6Vy45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2020-04-25T07:27:01Z",
+                "channelId": "UC2hsY0qvQ3nLgWP4UWiE1-g",
+                "title": "Chàng chiến binh đáng yêu tập 16",
+                "description": "#changchienbinhdangyeu #chàngchiếnbinhđángyêu #phimthailanhay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q_EIRvNmY-o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q_EIRvNmY-o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q_EIRvNmY-o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/q_EIRvNmY-o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/q_EIRvNmY-o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hội yêu phim Thái",
+                "playlistId": "PLOF-uOQssaUW0iLto3OJWPj11njGA6qzW",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "q_EIRvNmY-o"
+                }
+            },
+            "contentDetails": {
+                "videoId": "q_EIRvNmY-o",
+                "videoPublishedAt": "2020-04-25T07:32:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "01rQinANY0Qj5pq4AaC51MDT60w",
+            "id": "UExPRi11T1Fzc2FVVzBpTHRvM09KV1BqMTFuakdBNnF6Vy5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2020-04-25T07:27:10Z",
+                "channelId": "UC2hsY0qvQ3nLgWP4UWiE1-g",
+                "title": "Chàng chiến binh đáng yêu tập 17",
+                "description": "#changchienbinhdangyeu #chàngchiếnbinhđángyêu #phimthailanhay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IbK1a6k5j6A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IbK1a6k5j6A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IbK1a6k5j6A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IbK1a6k5j6A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IbK1a6k5j6A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hội yêu phim Thái",
+                "playlistId": "PLOF-uOQssaUW0iLto3OJWPj11njGA6qzW",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "IbK1a6k5j6A"
+                }
+            },
+            "contentDetails": {
+                "videoId": "IbK1a6k5j6A",
+                "videoPublishedAt": "2020-04-25T07:33:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "d3aT8HgDJCU6AKKtK3ufr2IpGSc",
+            "id": "UExPRi11T1Fzc2FVVzBpTHRvM09KV1BqMTFuakdBNnF6Vy4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2020-04-25T07:27:18Z",
+                "channelId": "UC2hsY0qvQ3nLgWP4UWiE1-g",
+                "title": "Chàng chiến binh đáng yêu tập 18",
+                "description": "#changchienbinhdangyeu #chàngchiếnbinhđángyêu #phimthailanhay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m5qfr2xx1ws/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m5qfr2xx1ws/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m5qfr2xx1ws/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/m5qfr2xx1ws/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/m5qfr2xx1ws/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hội yêu phim Thái",
+                "playlistId": "PLOF-uOQssaUW0iLto3OJWPj11njGA6qzW",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "m5qfr2xx1ws"
+                }
+            },
+            "contentDetails": {
+                "videoId": "m5qfr2xx1ws",
+                "videoPublishedAt": "2020-04-25T07:32:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hvJarV-vy63iJJdhl76Ce1RIskU",
+            "id": "UExPRi11T1Fzc2FVVzBpTHRvM09KV1BqMTFuakdBNnF6Vy5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2020-04-25T07:27:27Z",
+                "channelId": "UC2hsY0qvQ3nLgWP4UWiE1-g",
+                "title": "Chàng chiến binh đáng yêu tập 19",
+                "description": "#changchienbinhdangyeu #chàngchiếnbinhđángyêu #phimthailanhay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bKDiBNnNuqI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bKDiBNnNuqI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bKDiBNnNuqI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bKDiBNnNuqI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bKDiBNnNuqI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hội yêu phim Thái",
+                "playlistId": "PLOF-uOQssaUW0iLto3OJWPj11njGA6qzW",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bKDiBNnNuqI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "bKDiBNnNuqI",
+                "videoPublishedAt": "2020-04-25T07:34:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "quk2xrB6wn-uoCNQeyf7PFYCCxU",
+            "id": "UExPRi11T1Fzc2FVVzBpTHRvM09KV1BqMTFuakdBNnF6Vy4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2020-04-25T07:27:41Z",
+                "channelId": "UC2hsY0qvQ3nLgWP4UWiE1-g",
+                "title": "Chàng chiến binh đáng yêu tập 20 (tập cuối)",
+                "description": "#changchienbinhdangyeu #chàngchiếnbinhđángyêu #phimthailanhay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RC9aoXzFU_s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RC9aoXzFU_s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RC9aoXzFU_s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RC9aoXzFU_s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RC9aoXzFU_s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hội yêu phim Thái",
+                "playlistId": "PLOF-uOQssaUW0iLto3OJWPj11njGA6qzW",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RC9aoXzFU_s"
+                }
+            },
+            "contentDetails": {
+                "videoId": "RC9aoXzFU_s",
+                "videoPublishedAt": "2020-04-25T07:35:23Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "YzqlmtgUTBetYv-HBBwYOwWm9Pk",
+            "id": "UExPRi11T1Fzc2FVVzBpTHRvM09KV1BqMTFuakdBNnF6Vy45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2020-04-25T07:33:33Z",
+                "channelId": "UC2hsY0qvQ3nLgWP4UWiE1-g",
+                "title": "Chàng chiến binh đáng yêu tập 8",
+                "description": "#changchienbinhdangyeu #chàngchiếnbinhđángyêu #phimthailanhay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SPspJzpkj5A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SPspJzpkj5A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SPspJzpkj5A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SPspJzpkj5A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SPspJzpkj5A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hội yêu phim Thái",
+                "playlistId": "PLOF-uOQssaUW0iLto3OJWPj11njGA6qzW",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "SPspJzpkj5A"
+                }
+            },
+            "contentDetails": {
+                "videoId": "SPspJzpkj5A",
+                "videoPublishedAt": "2020-04-25T03:52:51Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 20,
+        "resultsPerPage": 50
+    }
+}

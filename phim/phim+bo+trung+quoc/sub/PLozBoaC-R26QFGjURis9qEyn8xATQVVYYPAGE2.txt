@@ -1,0 +1,33 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "CD9ZW4mtP5iOMQzxDJZI_a2otkw",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Oixnqox3VeUHeJUJh9QCAhfoBbQ",
+            "id": "UExvekJvYUMtUjI2UUZHalVSaXM5cUV5bjh4QVRRVlZZWS44QzVGQUU2QjE2NDgxM0M4",
+            "snippet": {
+                "publishedAt": "2020-04-29T18:59:18Z",
+                "channelId": "UCxd1yVX7R49xaEf7KbZXCHg",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Yqquuwiwue Shwijsowie",
+                "playlistId": "PLozBoaC-R26QFGjURis9qEyn8xATQVVYY",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "w8MRB2CRvDo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "w8MRB2CRvDo"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 51,
+        "resultsPerPage": 50
+    }
+}

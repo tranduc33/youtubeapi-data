@@ -1,13 +1,972 @@
 {
-    "error": {
-        "code": 403,
-        "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-        "errors": [
-            {
-                "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-                "domain": "youtube.quota",
-                "reason": "quotaExceeded"
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "yYX2ljVE-Og3Ja_H8hBFsFx1Vw4",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "M_ZQLzEZ6lxigGFeP9llF3f8GTk",
+            "id": "UExBT3M4b29nTDdLOW1uLS1BUFQ1empfVHowd3RaalpDbS41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2020-04-06T18:02:30Z",
+                "channelId": "UCfJmRDUcOjY__kcKvWE_rEQ",
+                "title": "15 Phim Đài Loan Hay Nhất Mọi Thời Đại - Bạn Thích Phim Nào Nhất? Để Lại Bình Luận Nhé!",
+                "description": "Đăng Ký Và Bấm Vào Chuông Để Xem Video Mới Nhất \nLINK KÊNH: https://www.youtube.com/channel/UCUUuHFoWORrX53Hkf65gZtQ \n\n\n15 Phim Đài Loan Hay Nhất Mọi Thời Đại - Bạn Thích Phim Nào Nhất? Để Lại Bình Luận Nhé!\n\nKênh Giải Trí VTB #KênhGiảiTríVTB\n===================================\nphim hay 2019,phim hanh dong,phim trung quoc,phim hay,phim hay 2019 thuyet minh,phim hoa ngữ,sao hoa ngữ,phim trung quốc,phim bo trung quoc,phim bộ trung quốc,phim trung quoc,phim trung quoc long tieng 2018,phim trung quoc 2019 hiện đại,phim ngôn tình,phim ngôn tình 2019,phim ngon tinh,phim ngon tinh 2019 moi nhat thuyet minh,phim ngon tinh trung quoc hay 2019 thuyet minh,phim kiếm hiệp,phim kiếm hiệp hay,phim kiem hiep,phim kiem hiep hay nhat 2018,phim kiem hiep trung quoc long tieng hay 2017,phim cổ trang trung quốc,phim cổ trang,phim co trang,phim co trang trung quoc long tieng,phim co trang trung quoc long tieng 2018,xuyên không,phim xuyên không,phim hay 2019,phim xuyen khong,phim xuyen khong vuot thoi gian,phim xuyen khong vuot thoi gian trung quoc, xuyên không,phim xuyên không,phim hay 2019,phim xuyen khong,phim hành động 2019,phim hành động,phim hanh dong,phim hanh dong hay nhat 2018,sao hoa ngữ,top sao hoa,phim hay 2019,sao hoa ngu,sao hoa ngu dep nhat hien nay\n===================================\n#KênhGiảiTríVTB #PhimKiếmHiệpHayNhấtVTB #PhimTrungQuốcVTB #PhimNgônTìnhHayNhấtVTB #PhimXuyênKhôngHayNhất\n#PhimHànhĐộngHayNhất\n\n====================================\n+Facebook: https://www.facebook.com/profile.php?id=100037628049528\n+Twitter: https://www.twitter.com/1091840\n+ https://translate.google.com.vn/\n+ https://maps.google.com/\n+ https://www.google.com/drive/\n+ https://www.google.com.vn/imghp\n+ https://chrome.google.com/\n+ https://goo.gl/\n+ https://www.google.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QjzmX3d_7gQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QjzmX3d_7gQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QjzmX3d_7gQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QjzmX3d_7gQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QjzmX3d_7gQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Gagls Segkj",
+                "playlistId": "PLAOs8oogL7K9mn--APT5zj_Tz0wtZjZCm",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "QjzmX3d_7gQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "QjzmX3d_7gQ",
+                "videoPublishedAt": "2017-01-09T12:19:20Z"
             }
-        ]
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "I84xQ78IdY9z65Cua25HGgNP4RQ",
+            "id": "UExBT3M4b29nTDdLOW1uLS1BUFQ1empfVHowd3RaalpDbS4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2020-04-06T18:02:30Z",
+                "channelId": "UCfJmRDUcOjY__kcKvWE_rEQ",
+                "title": "[PHIM HAY] TỔNG TÀI XIN ĐỪNG - TẬP 1 LỒNG TIẾNG | PHIM NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2020",
+                "description": "[PHIM HAY] TỔNG TÀI XIN ĐỪNG - TẬP 1 LỒNG TIẾNG | PHIM NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2020\n------------------------------------------------\n❥ Subscribe kênh để xem thêm nhé: https://bit.ly/2t8QL8Q\n❥ Xem trọn bộ: http://bit.ly/39kvnxR\n------------------------------------------------\nTên Gốc: Cô Nàng Xinh Đẹp\nPhim kể về câu chuyện tình yêu, bảo vệ mối tình đầu một cách kỳ lạ của một cô gái bình thường từng có đầy đủ tất cả, nhưng sau khi trưởng thành lại không được ai quan tâm và một chàng trai lạnh lùng, thoát khỏi vỏ bọc \"xấu xí\" của thời niên thiếu.\n\nThịnh Nhất Luân sẽ vào vai Bạch Hạo Vũ, một anh chàng khi lớn lên vừa điển trai lại vừa thành công còn Địch Lệ Nhiệt Ba sẽ vào vai Lý Huệ Trân, một cô gái xấu xí, nghèo khổ nhưng từng có quãng thời giàu có và xinh đẹp.\n------------------------------------------------\n© Các video trên kênh \"BBQ Ngôn Tình\" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\n#tongtaixindung #bbqngontinh  #phimhay #ngontinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bNBquQ-FTco/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bNBquQ-FTco/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bNBquQ-FTco/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bNBquQ-FTco/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bNBquQ-FTco/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Gagls Segkj",
+                "playlistId": "PLAOs8oogL7K9mn--APT5zj_Tz0wtZjZCm",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bNBquQ-FTco"
+                }
+            },
+            "contentDetails": {
+                "videoId": "bNBquQ-FTco",
+                "videoPublishedAt": "2020-03-26T14:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZjlMp3ykR5xoo62uiJt8aHYu0EA",
+            "id": "UExBT3M4b29nTDdLOW1uLS1BUFQ1empfVHowd3RaalpDbS4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2020-04-06T18:02:30Z",
+                "channelId": "UCfJmRDUcOjY__kcKvWE_rEQ",
+                "title": "SOÁI CA BIỂN CẢ - TẬP 1 | NAM THẦN CỨU HỘ VÀ CHÚ CHÓ DŨNG CẢM | PHIM TÌNH CẢM HÀI | BBQ NGÔN TÌNH",
+                "description": "SOÁI CA BIỂN CẢ - TẬP 1 | NAM THẦN CỨU HỘ VÀ CHÚ CHÓ DŨNG CẢM | PHIM TÌNH CẢM HÀI | BBQ NGÔN TÌNH\n------------------------------------------------\n❥ Subscribe kênh để xem thêm nhé: https://bit.ly/2t8QL8Q\n❥ Xem Trọn Bộ Soái Ca Biển Cả: http://bit.ly/soacabienca\n------------------------------------------------\n►Tên Phim: Soái Ca Biển Cả\r\n►Diễn viên : Trương Vân Long\r\n\r\nNỘI DUNG PHIM: \r\n\r\nĐây là 1 bộ phim hài, lãng mạn và tình cảm của Trung Quốc xoay quanh anh chàng điển trai được vào vai bởi Trương Vân Long, cùng Wang Lang và 1 chú chó trải qua những câu chuyện hài hước nhẹ nhàng.\r\n\r\nCâu chuyện lấy sự ấm áp, tình cảm để miêu tả lại sự trung thành và lương thiện của loài chó, sự trưởng thành cùng với sự thoái hóa biến chất của mỗi người. Những điều đáng trân trọng nhất trên thế gian như tình yêu, mơ ước, sự khoan dung và năng lượng sống đã được phát huy mạnh mẽ, lưu lại một câu chuyện rất cảm động nơi thành thị phồn hoa.\n------------------------------------------------\r\nBBQ Ngôn Tình - Kênh giải trí hàng đầu luôn cập nhập những bộ phim hay nhất, mới nhất, chất lượng nhất cho khán giả hằng ngày.\nĐăng ký BBQ Ngôn Tình ngay để không bỏ lỡ những sản phẩm chất lượng, những video hài kịch vui nhộn, những bộ phim đặc sắc, ý nghĩa.\r\n------------------------------------------------\n© Các video trên kênh \"BBQ Ngôn Tình\" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\r\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\r\n\r\n#soaicabienca #bbgngontinh  #phimtinhcam",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A0TsrWCi9E0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A0TsrWCi9E0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A0TsrWCi9E0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gagls Segkj",
+                "playlistId": "PLAOs8oogL7K9mn--APT5zj_Tz0wtZjZCm",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "A0TsrWCi9E0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "A0TsrWCi9E0",
+                "videoPublishedAt": "2020-01-10T12:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9Yv2_kMl9e4RWX1TJjBH_aIy6Kg",
+            "id": "UExBT3M4b29nTDdLOW1uLS1BUFQ1empfVHowd3RaalpDbS41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2020-04-06T18:02:30Z",
+                "channelId": "UCfJmRDUcOjY__kcKvWE_rEQ",
+                "title": "TRƯỜNG HỌC MỸ NHÂN - TẬP 1 | TÔI VÀO TRƯỜNG DÀNH RIÊNG CHO NỮ | PHIM BỘ TRUNG QUỐC | BBQ NGÔN TÌNH",
+                "description": "TRƯỜNG HỌC MỸ NHÂN - TẬP 1 | TÔI VÀO TRƯỜNG DÀNH RIÊNG CHO NỮ | PHIM BỘ TRUNG QUỐC | BBQ NGÔN TÌNH\r\n------------------------------------------------\r\n❥ Subscribe kênh để xem thêm nhé: https://bit.ly/2t8QL8Q\n❥ Xem Trọn Bộ Trường Học Mỹ Nhân: http://bit.ly/ngoitruongmynhan\n------------------------------------------------\r\nNỘI DUNG PHIM:\r\n\r\nPhim Trường Học Mỹ Nhân (Lộc Hàm, Quan Hiểu Đồng) xoay quanh Mai Minh Thiên (Lộc Hàm), chàng trai xuất thân trong một gia đình nghèo khó nhưng lại nuôi hoài bão trở thành vận động viên boxing chuyên nghiệp. Để đạt được ước mơ, Minh Thiên đã phải cố gắng hơn bạn bè đồng trang lứa rất nhiều. Trong quá trình thực hiện ước mơ, Minh Thiên gặp gỡ Phượng Vũ (Quan Hiểu Đồng), người được mệnh danh là “nữ vương boxing”. Tuy bề ngoài có vẻ lạnh lùng thờ ơ nhưng nội tâm Phượng Vũ cũng yếu đuối, nhạy cảm như bao cô gái khác. Phượng Vũ và Minh Thiên sẽ cùng nhau viết lên câu chuyện tình đẹp như mơ.\r\n\r\nTên gốc: Cú Đấm Ngọt Ngào\r\nTên khác: Điềm Mật Bạo Kích\r\nTên tiếng anh: Sweet Combat (2018)\r\nDiễn viên: Lộc Hàm, Quan Hiểu Đồng, Thiệu Vũ Vi, Triệu Việt, Lý Manh Manh, Bùi Tử Thiêm\r\nQuốc gia: Trung Quốc\r\nNăm: 2018\r\nThời lượng: 45p/tập\r\nSố tập: 37 tập\r\nChất lượng: Bản đẹp\r\nĐộ phân giải: Full HD\r\nNgôn ngữ: Thuyết minh\r\nThể loại: Phim hành động, Phim tâm lý - tình cảm, Phim hài hước - lãng mạn\r\n\r\n------------------------------------------------\r\nBBQ Ngôn Tình - Kênh giải trí hàng đầu luôn cập nhập những bộ phim hay nhất, mới nhất, chất lượng nhất cho khán giả hằng ngày.\r\n\r\nĐăng ký BBQ Ngôn Tình ngay để không bỏ lỡ những sản phẩm chất lượng, những video hài kịch vui nhộn, những bộ phim đặc sắc, ý nghĩa.\r\n------------------------------------------------\r\n© Các video trên kênh \"BBQ Ngôn Tình\" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\r\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\r\n\r\n#truonghocmynhan #bbqngontinh  #phimbohay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Z-7V9Cmr8yo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Z-7V9Cmr8yo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Z-7V9Cmr8yo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Z-7V9Cmr8yo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Z-7V9Cmr8yo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Gagls Segkj",
+                "playlistId": "PLAOs8oogL7K9mn--APT5zj_Tz0wtZjZCm",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Z-7V9Cmr8yo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Z-7V9Cmr8yo",
+                "videoPublishedAt": "2020-02-11T04:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "1xwK57IUfThErIbPQ_We2X0gntk",
+            "id": "UExBT3M4b29nTDdLOW1uLS1BUFQ1empfVHowd3RaalpDbS4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2020-04-06T18:02:30Z",
+                "channelId": "UCfJmRDUcOjY__kcKvWE_rEQ",
+                "title": "[PHIM HAY] CỰC PHẨM TRÙ THẦN - TẬP 1 THUYẾT MINH | PHIM BỘ TÌNH CẢM ĐÀI LOAN HAY NHẤT 2020",
+                "description": "[PHIM HAY] CỰC PHẨM TRÙ THẦN - TẬP 1 THUYẾT MINH | PHIM BỘ TÌNH CẢM ĐÀI LOAN HAY NHẤT 2020\n------------------------------------------------\n❥ Subscribe kênh để xem thêm nhé: https://bit.ly/2t8QL8Q\r\n❥ Xem Trọn Bộ Cực Phẩm Trù Thần: https://bit.ly/2TKI1RJ\r\n------------------------------------------------\nNỘI DUNG PHIM:\n\n\"Cực Phẩm Trù Thần\" kể về cuộc so tài giữa nữ vương chợ đêm Vệ Phân Thanh với đầu bếp siêu cấp Hoắc Đình Ân. Đối với Vệ Phân Thanh thì chợ đêm là toàn bộ cuộc sống của cô, sự kiêu ngạo lớn nhất của cô chính là việc tự mình nghĩ ra cách kiếm tiền từ thức ăn ngon ở chợ đêm, được tất cả bạn bè trên mạng khen ngợi, được cho là sánh ngang với thực đơn của nhà hàng đẳng cấp ba sao.\n\nCòn đối với Hoắc Đình Ân mà nói, nhà hàng là mục tiêu cuộc sống duy nhất của anh, món ăn mà anh tạo ra được ca ngợi đến mức dù cho có phải bay qua Thái Bình Dương đê thưởng thức thì cũng đáng giá, phương pháp chế biến càng được xem là tuyệt chiêu độc môn. \n\nXin mới các bạn đón xem bộ phim \"Cực Phẩm Trù Thần\" trên BBQ Ngôn Tình vào lúc 11h30, 12h30 hằng ngày. Chúc các bạn xem phim vui vẻ!\n\nTên khác: Cực Phẩm Xứng Đôi\nTên tiếng anh: The Perfect Match (2017)\nThể loại: Hài Hước, Tâm Lý - Lãng Mạn, Phim Ngôn Tình , Phim Hoa Ngữ, Phim Đài Loan, Phim Thần Tượng\nQuốc gia: Taiwan\nDiễn viên: Thiệu Vũ Vi, Ngô Khảng Nhân, Trần Nãi Vinh, Tiểu Lạc, Tiểu Man\nNăm: 2017\nThời lượng: 70 phút/tập\nChất lượng: Bản đẹp\nĐộ phân giải: HD 720p\nNgôn ngữ: Vietsub + Thuyết minh\n------------------------------------------------\nBBQ Ngôn Tình - Kênh giải trí hàng đầu luôn cập nhập những bộ phim hay nhất, mới nhất, chất lượng nhất cho khán giả hằng ngày.\r\n\nĐăng ký BBQ Ngôn Tình ngay để không bỏ lỡ những sản phẩm chất lượng, những video hài kịch vui nhộn, những bộ phim đặc sắc, ý nghĩa.\r\n------------------------------------------------\n© Các video trên kênh \"BBQ Ngôn Tình\" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w73_W7mhaac/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w73_W7mhaac/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w73_W7mhaac/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/w73_W7mhaac/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/w73_W7mhaac/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Gagls Segkj",
+                "playlistId": "PLAOs8oogL7K9mn--APT5zj_Tz0wtZjZCm",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "w73_W7mhaac"
+                }
+            },
+            "contentDetails": {
+                "videoId": "w73_W7mhaac",
+                "videoPublishedAt": "2019-12-28T04:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VsZv5_BGVVBnjvD-BiuqIbl34_0",
+            "id": "UExBT3M4b29nTDdLOW1uLS1BUFQ1empfVHowd3RaalpDbS4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2020-04-06T18:02:30Z",
+                "channelId": "UCfJmRDUcOjY__kcKvWE_rEQ",
+                "title": "[PHIM BỘ HAY] ÁC MỘNG HOÀNG CUNG - TẬP 1 THUYẾT MINH | PHIM CỔ TRANG CUNG ĐẤU TRUNG QUỐC 2020",
+                "description": "[PHIM BỘ HAY] ÁC MỘNG HOÀNG CUNG - TẬP 1 THUYẾT MINH | PHIM CỔ TRANG CUNG ĐẤU TRUNG QUỐC 2020\n------------------------------------------------\nSubscribe kênh để xem thêm các clip khác : https://bit.ly/2t8QL8Q\n❥ Xem Trọn Bộ Ác Mộng Hoàng Cung: https://bit.ly/37i9HBg\n------------------------------------------------\nNỘI DUNG PHIM:\n\n\"Ác Mộng Hoàng Cung\" hư cấu nên sự hồi sinh thần kỳ của trưởng nữ Võ Tắc Thiên là An Định Công Chúa, được nhũ mẫu Chiêu nương lén đưa ra khỏi cung, trên đường trốn chạy đã gặp phải rất nhiều gian nan. Khi An Định công chúa trưởng thành, ở đại mạc nàng đã cùng Đột Quyết thân vương A Sử Na Tư Mộ nảy sinh chuyện tình buồn; sau này biết được thân thế của mình, nàng phẫn nộ mà quyết tâm đứng lên phục thù.\n\nBộ phim xoay quanh việc Chiêu nương đưa An Định Công Chúa vượt qua nguy hiểm trùng trùng, từ kinh thành trốn đến đại mạc; về sau An Định Công Chúa bắt cóc em gái là Thái Bình Công Chúa, thay thế em gái trở về hoàng cung, đợi thời cơ trả thù Võ Tắc Thiên, khởi đầu một cuộc thần long chính biến, tham vọng trở thành nữ hoàng.\n\nTrong phim Giả Tịnh Văn diễn 2 vai phân biệt là Thái Bình Công Chúa trung niên nhu tình tựa thủy và An Định công chúa mạnh mẽ, cương nghị. An Định công chúa là nhân vật chủ đạo, cũng là một trong những điểm đáng xem nhất của phim. Đây là nhân vật hư cấu, nhưng dường như là kết hợp của An Lạc công chúa và Thái Bình công chúa trong chính sử, tính cách cương nghị, cực kỳ tham vọng, khiến bộ phim pha trộn giữa hư ảo và chân thực, tràn đầy màu sắc truyền kỳ.\n------------------------------------------------------\nTên gốc: Thái Bình Công Chúa Bí Sử\nTên tiếng anh: Secret History of Princess Taiping (2012)\nĐạo diễn: Lý Hàn Thao\nQuốc gia: Trung Quốc\nNăm: 2012\nNgày khởi chiếu: 27/3/2012\nThời lượng: 60 phút/tập\nSố tập: 28 tập\nChất lượng: Bản đẹp\nĐộ phân giải: HD 720p\nNgôn ngữ: Thuyết Minh\nThể loại: Phim Cổ Trang, Phim Bộ Trung Quốc, Phim Bộ Hay\nCông ty SX: Tập đoàn truyền thông điện ảnh Trường Thành, Đài truyền hình Hồ Nam\n---------------------------------------------------\nDiễn Viên:\nGiả Tịnh Văn vai Thái Bình công chúa và An công chúa trung niên\nTrịnh Sảng vai Thái Bình công chúa và An công chúa thanh niên\nLâm Diệu Khả vai Thái Bình công chúa và An công chúa thiếu niên\nTrương Hàn vai Lý Long Cơ\nLý Tương vai Võ Tắc Thiên trung niên\nLưu Vũ Hân vai Võ Tắc Thiên thanh niên\nChu Tử Kiêu vai Tiết Thiệu\nĐồ Lê Mạn vai Thượng Quan Uyển Nhi trung niên\nTôn Diệu Kỳ vai Thượng Quan Uyển Nhi thanh niên\nViên Hoằng vai A Sử Na Tư Mộ thân vương\nLam Yến vai Vương hoàng hậu\nTưởng Lâm Tịnh vai Vi Liên Nhi (Vi hoàng hậu)\nTừ Vĩ Lộ vai Vi Đoàn Nhi\nDu Tiểu Phàm vai Chiêu nương\nQuá Tề Minh vai Cao Kỳ\nĐiền Vũ Bằng vai Lý Hiển (Đường Trung Tông)\nDiệp Bằng vai Lý Đán (Đường Duệ Tông)\nDiệp Tân vai Địch Nhân Kiệt\nMã Phi vai Võ Thừa Tự\nKỷ Chí Quân vai Trương Dịch Chi\nViên Gia Bảo vai Trương Xương Tông\nCao Tử Kỳ vai Lý Trị (Đường Cao Tông)\n----------------------------------------------\n© Các video trên kênh \" BBQ Ngôn Tình \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\n🤗 Thành thật cảm ơn quý vị khán giả đã xem và ủng hộ kênh\n\n#PhimCungDau #PhimCoTrang #AcMongHoangCung",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xvIGD9BnRRo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xvIGD9BnRRo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xvIGD9BnRRo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xvIGD9BnRRo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xvIGD9BnRRo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Gagls Segkj",
+                "playlistId": "PLAOs8oogL7K9mn--APT5zj_Tz0wtZjZCm",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xvIGD9BnRRo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "xvIGD9BnRRo",
+                "videoPublishedAt": "2019-12-27T13:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8VZNXoU9tsgLBSx29Zi179xGJok",
+            "id": "UExBT3M4b29nTDdLOW1uLS1BUFQ1empfVHowd3RaalpDbS41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2020-04-06T18:02:30Z",
+                "channelId": "UCfJmRDUcOjY__kcKvWE_rEQ",
+                "title": "Kiều Phong đánh bại Mộ Dung Phục trở thành Minh Chủ Võ Lâm | Thiên Long Bát Bộ | Phim Khủng",
+                "description": "👉  Full HD Thiên Long Bát Bộ : http://bit.ly/2WLK8CJ\n👉 Link Tổng Hợp Trọn Bộ : http://bit.ly/2WUD9r4 \n👉 Tổng hợp những phân đoạn phim hay nhất : http://bit.ly/2DdvLQL\n👉 Xem phim hay thì bấm vào đây nè: https://goo.gl/1ZPgqr \n👉 Đăng kí ngay để đón xem những video mới nhất từ Top Kiếm Hiệp nhé\n----------------------------------------ⓉⓄⓅ ⓀⒾⒺⓂ ⒽⒾⒺⓅ ------------------------------------------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0L5QCGn4ZgE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0L5QCGn4ZgE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0L5QCGn4ZgE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0L5QCGn4ZgE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0L5QCGn4ZgE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Gagls Segkj",
+                "playlistId": "PLAOs8oogL7K9mn--APT5zj_Tz0wtZjZCm",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0L5QCGn4ZgE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "0L5QCGn4ZgE",
+                "videoPublishedAt": "2019-06-21T05:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "GXk5HnrOscdKa1CrtYFMG9OZXpk",
+            "id": "UExBT3M4b29nTDdLOW1uLS1BUFQ1empfVHowd3RaalpDbS5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2020-04-06T18:02:30Z",
+                "channelId": "UCfJmRDUcOjY__kcKvWE_rEQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Gagls Segkj",
+                "playlistId": "PLAOs8oogL7K9mn--APT5zj_Tz0wtZjZCm",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "gBEluhiERTU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "gBEluhiERTU"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cdRVCo82fsAJrIJrwWlgP3AR6eM",
+            "id": "UExBT3M4b29nTDdLOW1uLS1BUFQ1empfVHowd3RaalpDbS45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2020-04-06T18:02:30Z",
+                "channelId": "UCfJmRDUcOjY__kcKvWE_rEQ",
+                "title": "Hoa Thiên Cốt | Full HD - Tập 6 - Hoắc Kiến Hoa, Triệu Lệ Dĩnh | PHIM HAY - Phụ Nữ & Gia Đình",
+                "description": "Hoa Thiên Cốt | Full HD - Tập 6 - Hoắc Kiến Hoa, Triệu Lệ Dĩnh | PHIM HAY - Phụ Nữ & Gia Đình\nĐón xem tập tiếp theo vào lúc 11h00 hàng ngày trên kênh PHIM HAY - Phụ Nữ & Gia Đình nhé!\nĐăng Ký Kênh: https://goo.gl/3VZYsP \nTỔNG HỢP PHIM TRUYỆN CÓ MẶT TRÊN PHIM HAY - Phụ Nữ & Gia Đình\n► TRỌN BỘ HOA THIÊN CỐT LỒNG TIẾNG: https://goo.gl/gT5qHZ \n► TRỌN BỘ LƯU TINH HỒ ĐIỆP KIẾM: http://bit.ly/LuuTinhHoDiepKiem\n► TRỌN BỘ HUYỀN MÔN ĐẠI SƯ: https://goo.gl/7fjY1m \n► TRỌN BỘ THIÊN NHAI MINH NGUYỆT ĐAO: https://goo.gl/sdReyy \n► TRỌN BỘ TIÊN KIẾM KỲ HIỆP LỒNG TIẾNG: https://goo.gl/xwR4yT \n► TRỌN BỘ CỔ KIẾM KỲ ĐÀM LỒNG TIẾNG: https://goo.gl/Mfeuei\n► TRỌN BỘ THƯ KIẾM TÌNH HIỆP LỒNG TIẾNG: https://goo.gl/Et9i9B\nDiễn viên: Với sự tham gia của các diễn viên nổi tiếng như Hoắc Kiến Hoa, Triệu Lệ Dĩnh, Tưởng Hân, Trương Đan Phong, Mã Khả.\nNỘI DUNG FILM:\n“Hoa Thiên Cốt” là bộ phim theo thể loại tiên hiệp được chuyển thể từ tiểu thuyết cùng tên của tác giả Fresh Quả Quả.  Phim kể về một cô gái vô cùng đặc biệt Hoa Thiên Cốt và mối tình khắc cốt ghi tâm với sư phụ Bạch Tử Họa.\nHoa Thiên Cốt được sinh ra tại một ngôi làng nhỏ, nhưng từ khi được sinh ra cô đã mang lại rất nhiều tai ương, mẹ cô mất ngay sau khi cô được sinh ra, dân làng xa lánh hai cha con vì cho rằng Hoa Thiên Cốt sẽ là người hủy hoại mọi thứ.\nThanh Hư đạo trưởng của Thục Sơn đã thiết lập kết giới giúp Hoa Thiên Cốt trải qua 16 năm an toàn mà không bị yêu ma quấy rầy. Trong suốt tuổi thơ của mình Hoa Thiên Cốt không có một người bạn nào cho tới một ngày cô gặp được người bạn đầu tiên Mặc Băng (do Tôn Thượng Bạch Tử Họa cải trang).\nSau khi cha mất Hoa Thiên Cốt theo di nguyện của cha lên Thục Sơn để học võ tránh nạn, không ngờ khi tới Thục Sơn toàn bộ đệ tử Thục Sơn và Thanh Hư đạo trưởng bị giết hại, vô tình chứng kiến cảnh này Hoa Thiên Cốt bỗng nhiên trở thành trưởng môn của Thục Sơn.\nTheo chỉ dẫn của Dị Hủ Các, Hoa Thiên Cốt lên Trường Lưu để tìm người bạn mà cô đã quen trước đây Mặc Băng. Nhưng Hoa Thiên Cốt không thể ngờ được rằng đây chính là âm mưu mà Dị Hủ Các muốn cô thực hiện để trả thù Trương Lưu vì Hoa Thiên Cốt chính là kiếp sinh tử của Bạch Tử Họa. \nBạch Tử Họa chính là Tôn Thượng của Trường Lưu, một người luôn xem an nguy của chúng sinh là quan trọng nhất. Mặc dù biết Hoa Thiên Cốt là kiếp sinh tử của mình nhưng Bạch Tử Họa vẫn nhận Hoa Thiên Cốt làm đồ đệ duy nhất của mình.\nTừ đây Hoa Thiên Cốt phải đối đầu với rất nhiều mối nguy hiểm, nguy hiểm từ phe Thất Sát, nguy hiểm từ những người bạn như Nghê Mạn Thiên. Nhưng bên cạnh đó Hoa Thiên Cốt cũng nhận được sự giúp đỡ của nhiều người như Sát Thiên Mạch, Đông Phương Úc Khanh… \nDần dần Hoa Thiên Cốt nảy sinh tình cảm với Bạch Tử Họa nhưng gặp phải rất nhiều khó khăn, liệu rằng sự lương thiện, đáng yêu của Hoa Thiên Cốt có khiến Tôn Thượng Bạch Tử Họa động lòng? Bạch Tử Họa sẽ làm gì để hóa giải kiếp sinh tử của mình? Tất cả sẽ có trong 50 tập phim “Hoa Thiên Cốt”. “Hoa Thiên Cốt” chính là bộ phim truyền hình bom tấn của năm nay với tỷ lệ rating phá vỡ mọi kỷ lục. \n#HoaThienCot #TrieuLeDinh #HoacKienHoa",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UE-7TKZfPbw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UE-7TKZfPbw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UE-7TKZfPbw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UE-7TKZfPbw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UE-7TKZfPbw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Gagls Segkj",
+                "playlistId": "PLAOs8oogL7K9mn--APT5zj_Tz0wtZjZCm",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UE-7TKZfPbw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "UE-7TKZfPbw",
+                "videoPublishedAt": "2018-01-03T04:00:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "BmdwqDgt-UsbUMckBT4-NEc4erI",
+            "id": "UExBT3M4b29nTDdLOW1uLS1BUFQ1empfVHowd3RaalpDbS5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2020-04-06T18:02:30Z",
+                "channelId": "UCfJmRDUcOjY__kcKvWE_rEQ",
+                "title": "Tân Tiếu Ngạo Giang Hồ 2018 - Tập 1 | Phim chuyển thể tiểu thuyết kinh điển",
+                "description": "☼ Tân Tiếu Ngạo Giang Hồ 2018:  https://bit.ly/2SObI0U\n☼ Thêm Nhiều Phim Hấp Dẫn : https://bit.ly/2Rm6Yi4 \n\nBộ phim Tân Tiếu Ngạo Giang Hồ 2018 có sự tham gia của dàn diễn viên trẻ như Đinh Quán Sâm,Tiết Hạo Tinh, Đinh Vũ Hề, Lưu Gia Đồng, Trần Tấn,Khương Tử Tân, Lý Hạo Hàn, Vương Giai Trữ.\n\nTiếu Ngạo Giang Hồ là một tác phẩm kinh điển của Kim Dung, và đã được nhiều lần chuyển thể thành phim và gây được cơn sốt lớn trong cộng đồng khán giả hâm mộ tiểu thuyết kiếm hiệp của Kim Dung.\n\nBộ phim xoay quanh những đề tài về tình bạn, tình yêu, sự dối trá, phản bội, những âm mưu và cả ham muốn quyền lực. Trung tâm của toàn bộ cốt truyện là nhân vật chính Lệnh Hồ Xung, một đệ tử của chưởng môn phái Hoa Sơn Nhạc Bất Quần. Xuyên suốt câu chuyện, người xem được dẫn dắt theo hành trình trở thành một kiếm khách lẫy lừng của chàng lãng tử này, đồng thời trải nghiệm những chứng kiến của Lệnh Hồ Xung đối với nhiều âm mưu tranh quyền đoạt vị trên giang hồ.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MNSjPYLwo30/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MNSjPYLwo30/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MNSjPYLwo30/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MNSjPYLwo30/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MNSjPYLwo30/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Gagls Segkj",
+                "playlistId": "PLAOs8oogL7K9mn--APT5zj_Tz0wtZjZCm",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "MNSjPYLwo30"
+                }
+            },
+            "contentDetails": {
+                "videoId": "MNSjPYLwo30",
+                "videoPublishedAt": "2019-01-10T13:33:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZtUQPT8RHKY_ja4Ro9e2LwXWcoI",
+            "id": "UExBT3M4b29nTDdLOW1uLS1BUFQ1empfVHowd3RaalpDbS40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2020-04-06T18:02:30Z",
+                "channelId": "UCfJmRDUcOjY__kcKvWE_rEQ",
+                "title": "ĐẠI MẠC CUỒNG ĐAO - TẬP 01 | PHIM KIẾM HIỆP CỔ TRANG 2020 HAY LỒNG TIẾNG",
+                "description": "Đại Mạc Cuồng Đao - Vô Cực Đao\nXem trọn bộ phim tại đây: http://bit.ly/37Mkxj4\nXem thêm nhiều phim hay tại đây: http://bit.ly/2JPbc0s\nFanpage FB: https://www.facebook.com/mediaphimhay/\nĐạo diễn : Trương Kỷ Trung\nThể loại: phim bộ kiếm hiệp, cổ trang, võ thuật, dã sử Trung Quốc 2020 lồng tiếng\nDiễn viên:\nTriệu Hồng Phi -- Hài Ca\nThẩm Ngạo Quân -- Mai Nương\nĐỗ Chí Quốc -- Hoá Lang/Nhất Đao Tiên\nNgô Đình -- Hảo Muội\nLưu Viên Viên -- Vương Oanh\nNhất Chân -- Sa Lý Phi\nThằng Trung -- Đại Gia\nĐinh Hải Phong -- Nhị Gia\nTôn Hải Anh -- cha Hài ca\nTang Kinh Sinh -- Đại du hiệp\nLý Đông -- Đỗ Sở Thần\nNội dung:\nBộ phim xoay quanh câu chuyện trong cấm thành của quốc vương Lâu Lan, một nàng vương phi xinh đẹp, người rất được nhà vua sủng ái đã nặng tình với chàng đệ nhất võ sĩ tin cẩn của đức vua, tên gọi Hỏa Hoàn Long\nMối tình lãng mạn này đã cho ra đời một cặp song sinh, nhưng quốc vương biết được bèn đem quân truy sát họ. Để bảo vệ người yêu và giọt máu của mình, nàng vương phi can đảm đón nhận cái chết, còn Hỏa Hoàn Long đã dùng vô cực đao do vua ban, thoát khỏi vòng vây mang theo một đứa con.Hài ca vì nóng lòng báo thù nhà rửa hận cho cha nên dốc công luyện vô cực tâm pháp và vô cực đao, dần dần chàng đã rơi vào cạm bẫy của bọn gian ác. Liệu Hài ca có trả được thù và thoát hiểm hay không? Còn vô cực đao kia cuối cùng sẽ thuộc về ai?\n#đạimạccuồngđao #phimkiếmhiệphay #phimhaylồngtiếng",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QM5IFCt5x9I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QM5IFCt5x9I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QM5IFCt5x9I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QM5IFCt5x9I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QM5IFCt5x9I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Gagls Segkj",
+                "playlistId": "PLAOs8oogL7K9mn--APT5zj_Tz0wtZjZCm",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "QM5IFCt5x9I"
+                }
+            },
+            "contentDetails": {
+                "videoId": "QM5IFCt5x9I",
+                "videoPublishedAt": "2020-01-07T12:45:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VzqDrV__oZwHFKCgoC1SbB3TshQ",
+            "id": "UExBT3M4b29nTDdLOW1uLS1BUFQ1empfVHowd3RaalpDbS5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2020-04-06T18:02:30Z",
+                "channelId": "UCfJmRDUcOjY__kcKvWE_rEQ",
+                "title": "Phim Hay | PHONG VÂN 2 : Long Hổ Tranh Hùng - Tập 40 | Full HD | PhimTV",
+                "description": "❖Tên phim : Phong Vân 2 – Long Hổ Tranh Hùng\n❖Xem trọn bộ tại : https://bit.ly/2kBsHYr\n❖Xem các phim kiếm hiệp hay khác: https://goo.gl/1ZPgqr\n❖Diễn viên : Hà Nhuận Đông, Triệu Văn Trác, Phùng Thiệu Phong, Tần Lam, Huỳnh Dịch \n ❖Nội Dung : Vì lo sợ ma tính của Nhiếp Phong gây hại cho võ lâm, Bộ Kinh Vân quyết định đấu một trận sống chết để chế phục tâm ma của anh. Nhiếp Phong khi tỉnh lại cứ ngỡ mình đã giết chết Đệ Nhị Mộng và Bộ Kinh Vân. Vô cùng đau khổ, day dứt nên anh quyết định ở ẩn, cắt đứt mọi quan hệ với thế giới bên ngoài. Còn Bộ Kinh Vân sau khi cứu dược Nhiếp Phong bị mất hết trí nhớ, sống cuộc đời bình lặng.\n\nNhưng cây kim trong bọc cũng có ngày lòi ra, Bộ Kinh Vân dần dần nhớ ra gốc gác của mình, lúc này giới võ lâm lại dòm ngó Tuyệt thế hảo kiếm của anh... Lần này Phong Vân phải đối phó với Đế Thích Thiên - một tên ma đầu bất tử 2000 tuổi. Hai người bị cuốn vào cuộc chiến tranh đoạt Long Châu của những kẻ muốn trường sinh bất lão. Trong cuộc chiến này lại xuất hiện kẻ thù cũ: Đoạn Lãng  …\n\n 📼 Các bạn hãy bấm Đăng Ký ( Subscribe ) để đón xem những tập phim mới nhất nhé 📼\n#PhongVan2 #LongHoTranhHung #PhimTV",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_2TY-D9khv8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_2TY-D9khv8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_2TY-D9khv8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_2TY-D9khv8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_2TY-D9khv8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Gagls Segkj",
+                "playlistId": "PLAOs8oogL7K9mn--APT5zj_Tz0wtZjZCm",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_2TY-D9khv8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "_2TY-D9khv8",
+                "videoPublishedAt": "2019-09-15T14:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Gn7ARmCTaVmwvH_fJGWa1nReZ0A",
+            "id": "UExBT3M4b29nTDdLOW1uLS1BUFQ1empfVHowd3RaalpDbS45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2020-04-06T18:02:30Z",
+                "channelId": "UCfJmRDUcOjY__kcKvWE_rEQ",
+                "title": "Phạm Băng Băng sex thật 100% cùng những cảnh nóng không chịu nỗi",
+                "description": "Phạm Băng Băng sex thật 100% cùng những cảnh nóng không chịu nỗi. Mặc dù không quá thô thiển nhưng vòng một căng đầy, gợi cảm, mái tóc dài bay theo gió và gương mặt quyến rũ của Phạm Băng Băng cũng khiến người xem đỏ mặt.\n\nTuy đây chỉ là những hình ảnh bị rò rỉ ra ngoài chứ chưa phải là video chính thức từ phía nhà sản xuất nhưng cũng đủ khiến công chúng choáng váng về “cảnh nóng táo bạo” trong một bộ phim cổ trang. Đa phần đều lên tiếng chỉ trích rằng đây “không khác gì một bộ phim cấp ba” và Phạm Băng Băng thì chả có tài năng gì ngoài “đóng cảnh nóng câu khách”. Xem thêm video clip ở đây:\n https://www.youtube.com/channel/UCHBfrBhnRFlxf5_AEZo8kgw",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Te-HKkPL4Bg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Te-HKkPL4Bg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Te-HKkPL4Bg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gagls Segkj",
+                "playlistId": "PLAOs8oogL7K9mn--APT5zj_Tz0wtZjZCm",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Te-HKkPL4Bg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Te-HKkPL4Bg",
+                "videoPublishedAt": "2015-10-18T05:21:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "qeuXp_upgs2Gj_hhKzzFBM7uMmo",
+            "id": "UExBT3M4b29nTDdLOW1uLS1BUFQ1empfVHowd3RaalpDbS4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2020-04-06T18:02:30Z",
+                "channelId": "UCfJmRDUcOjY__kcKvWE_rEQ",
+                "title": "Phim Võ Thuật Kiếm Hiệp Hay 2019 | ĐẮC KỶ TRỤ VƯƠNG - Tập 02 | ladyMotion",
+                "description": "►Trọn bộ: https://bit.ly/2TV1IDW \n►Các phim hay khác: https://bit.ly/2OjsDuf \n►Tên phim: Đắc Kỷ Trụ Vương\n►Nội dung: Trụ Vương vì si mê sắc đẹp của Đắc Kỷ mà bỏ bê triều chính, dân chúng lầm than, gây nên bao tội ác. Chu Vũ Vương – Cơ Phát cùng với Khương Tử Nha đã khởi binh diệt Trụ. Đắc Kỷ vì muốn giúp Trụ Vương giữ vững ngôi báu đã nhờ đến sự giúp sức của Thân Công Báo, người đã tìm cách liên thủ với bà môn tả đạo để phá hoại quá trình Đông Chinh phạt Trụ của Vũ Vương Cơ Phát. Để đối phó lại Thân Công Báo, Khương Tử Nha đã nhờ sự giúp sức của các tiên gia. Những cuộc đối đầu của hai bên ngày càng kịch tính, với vô vàn câu chuyện hấp dẫn xảy ra…",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jHETwpBEPXo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jHETwpBEPXo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jHETwpBEPXo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jHETwpBEPXo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jHETwpBEPXo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Gagls Segkj",
+                "playlistId": "PLAOs8oogL7K9mn--APT5zj_Tz0wtZjZCm",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jHETwpBEPXo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "jHETwpBEPXo",
+                "videoPublishedAt": "2018-12-27T04:51:43Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nqCBSNHxaDWlz61LgXoEyZ71a5I",
+            "id": "UExBT3M4b29nTDdLOW1uLS1BUFQ1empfVHowd3RaalpDbS41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2020-04-06T18:02:30Z",
+                "channelId": "UCfJmRDUcOjY__kcKvWE_rEQ",
+                "title": "Phim Hay | Lục Tiểu Phụng Và Hoa Mãn Lâu - Tập 07 | Full HD | PhimTV",
+                "description": "❖Xem trọn bộ tại : https://bit.ly/34CoeFY\n❖Tên phim : Lục Tiểu Phụng Và Hoa Mãn Lâu\n❖Xem các phim kiếm hiệp hay khác: https://goo.gl/1ZPgqr\n\n❖Diễn viên : Lâm Phong , Trương Mông , Lan Hi , Trương Hiểu Long\n\n ❖Nội Dung : Lục Tiểu Phụng và Hoa Mãn Lâu là phim kể về Kim Bằng Vương Triều vốn là một quốc gia cổ đại bị lãng quên. Lục Tiểu Phụng vì điều tra căn bệnh lạ của Hoàng đế Trung nguyên mà một lần nữa gây sự chú ý của người đời. Công chúa dị tộc Thượng Quan Đan Phụng xuất hiện, chỉ điểm cho y: chỉ có 3 vị dị thần của Kim Bằng Vương Triều là biết cách giải độc trên người Hoàng đế.\n\nTrong quá trình điều tra, Lục Tiểu Phụng có duyên gặp gỡ danh y Hoa Mãn Lâu, kiếm thánh Tây Môn Xúy Tuyết và cùng họ kết làm bằng hữu. Đi cùng Lục Tiểu Phụng trong suốt hành trình điều tra còn có A Tín, dù biết trong lòng Lục Tiểu Phụng luôn hướng về Đan Phụng nhưng không có cách nào dứt bỏ, Lục Tiểu Phụng đối với A Tín cũng có một thứ cảm tình nên không nỡ buông tay. Kinh qua muôn trùng cửa ải, Lục Tiểu Phụng cuối cùng cũng giải được câu đố, tìm ra kẻ chủ mưu thật sự. Sau trận kiêu hùng loạn chiến, Lục Tiểu Phụng vĩnh viễn mất đi Đan Phụng.\n\n 📼 Các bạn hãy bấm Đăng Ký ( Subscribe ) để đón xem những tập phim mới nhất nhé 📼\n\n#PhimTV #LucTieuPhungVaHoaManLau #PhimHay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r5ufOzVm8Vo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r5ufOzVm8Vo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r5ufOzVm8Vo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/r5ufOzVm8Vo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/r5ufOzVm8Vo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Gagls Segkj",
+                "playlistId": "PLAOs8oogL7K9mn--APT5zj_Tz0wtZjZCm",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "r5ufOzVm8Vo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "r5ufOzVm8Vo",
+                "videoPublishedAt": "2019-12-20T08:00:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Fiz_qrCfjVCSR0m1Kw42dxfF77E",
+            "id": "UExBT3M4b29nTDdLOW1uLS1BUFQ1empfVHowd3RaalpDbS5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2020-04-06T18:02:30Z",
+                "channelId": "UCfJmRDUcOjY__kcKvWE_rEQ",
+                "title": "Thái Sư Bàng Hồng trảm đầu Bao Công | Dương Gia Tướng | Bao Thanh Thiên",
+                "description": "👉 Link Trọn Bộ : https://bit.ly/2Q7nQYD\n👉 Tổng hợp những phân đoạn phim hay nhất : https://goo.gl/GZtzch \n👉 Xem phim hay thì bấm vào đây nè: https://goo.gl/1ZPgqr \n👉 Đăng kí ngay để đón xem những video mới nhất từ Phim Khủng nhé\n-------------------------------------------ⓅⒽⒾⓂ----------------------------------------------------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eJwlmxYAqHs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eJwlmxYAqHs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eJwlmxYAqHs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eJwlmxYAqHs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eJwlmxYAqHs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Gagls Segkj",
+                "playlistId": "PLAOs8oogL7K9mn--APT5zj_Tz0wtZjZCm",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eJwlmxYAqHs"
+                }
+            },
+            "contentDetails": {
+                "videoId": "eJwlmxYAqHs",
+                "videoPublishedAt": "2019-02-20T12:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QQ-N9CrpEmZYZ41yGeOgOscuB_M",
+            "id": "UExBT3M4b29nTDdLOW1uLS1BUFQ1empfVHowd3RaalpDbS41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2020-04-06T18:02:30Z",
+                "channelId": "UCfJmRDUcOjY__kcKvWE_rEQ",
+                "title": "PHIM KIẾM HIỆP | CHẾ TẠO MỸ NHÂN - TẬP 03 | FULL HD",
+                "description": "Phim Cổ Trang Trung Hoa Hay Nhất 2020\n☞ Subscribe ngay để không bỏ lỡ phim hay: http://yeah1.net/Yeah1movie\n☞ Email: movie@yeah1network.com\n------------------------------------------------------------------------\nYeah1 Movie - Kênh giải trí hàng đầu luôn cập nhập những bộ phim hay nhất, mới nhất, chất lượng nhất cho khán giả hằng ngày.\nĐăng ký Yeah1 Movie ngay để không bỏ lỡ những sản phẩm chất lượng, những video hài kịch vui nhộn, những bộ phim đặc sắc, ý nghĩa.\n#CHẾTẠOMỸNHÂN #YEAH1MOVIE\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :          http://yeah1.net/yeah1music\nYEAH1 MOVIE :          http://yeah1.net/yeah1movies\nYEAH1 KIDS :              http://yeah1.net/Yeah1Kids\n------------------------------------------------------------------------\n© Bản quyền thuộc về Yeah1 Movie và Đối Tác\n© Copyright by Yeah1 Movie and Partner☞ Do not Reup\n© Copyright all rights reserved",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5frT7kchAng/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5frT7kchAng/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5frT7kchAng/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5frT7kchAng/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Gagls Segkj",
+                "playlistId": "PLAOs8oogL7K9mn--APT5zj_Tz0wtZjZCm",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5frT7kchAng"
+                }
+            },
+            "contentDetails": {
+                "videoId": "5frT7kchAng",
+                "videoPublishedAt": "2019-12-29T06:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hL1dUpgwVofg4R2FuoH_GNhHK9A",
+            "id": "UExBT3M4b29nTDdLOW1uLS1BUFQ1empfVHowd3RaalpDbS4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2020-04-06T18:02:30Z",
+                "channelId": "UCfJmRDUcOjY__kcKvWE_rEQ",
+                "title": "Vườn Phù Dung Đại Đường - Tập 1 | Phạm Băng Băng, Mã Luân | Phim Cổ Trang Hay | NT Films",
+                "description": "► Đăng ký kênh NT Films - Xem ngay nhiều phim hay: http://popsww.com/NTFilms\nĐón xem các tập tiếp theo vào lúc 16h00 hàng ngày trên kênh NT Films nhé! \n► Xem trọn bộ Vườn Phù Dung Đại Đường - 30 Tập: http://bit.ly/vuonphudungdaiduong\n► Đăng Ký Kênh tại: http://www.youtube.com/c/NghiepThangFilms?sub_confirmation=1\n► Fanpage chính thức: https://www.facebook.com/youtube.ntfilms\n► Xem các phim hay khác: https://bit.ly/2swnAJ8\n--------------------------------------------------------------\nTÓM TẮT NỘI DUNG PHIM:\n\nDiễn viên: Phạm Băng Băng, Triệu Văn Tuyên, Mã Luân, Ngụy Vi, Kỷ Ninh, Trương Chí Hồng, Trương Đan\n\nVườn Phù Dung Đại Đường xoay quanh chuyện tình cảm và cuộc đời đầy quanh co của nàng Dương Ngọc Hoàn. Câu chuyện bắt đầu bằng mối tình lãng mạn giữa cô và chàng trai chân chất Bành Bột. Tạ A Man là người bạn thích nhảy múa của Dương Ngọc Hoàn, đã dẫn dắt mai mối cho hai người. Khi biết mình được chọn làm vương phi của Thọ Vương, Dương Ngọc Hoàn kịch liệt kháng hôn, Tạ A Man đã đứng ra bênh vực cho hai người, chấp nhận làm tin sứ. Dương Ngọc Hoàn xúc động quyết định trao thân, Bành Bột lý trí rút lui, không phải vì run sợ trước cường quyền, mà vì muốn bảo vệ trinh tiết cho người mình yêu, để tình yêu của hai người được sống mãi. Dương Ngọc Hoàn đành phải thành hôn với Thọ Vương. Lúc mới kết hôn, Dương Ngọc Hoàn và Thọ Vương sống cuộc sống đồng sàn dị mộng, và còn thường xuyên thông qua Tạ A Man thổ lộ thương nhớ về Bành Bột. Nhưng tấm lòng đôn hậu và sự yêu thương che chở hết mực của Thọ Vương, dần dần cũng lay động được trái tim Dương Ngọc Hoàn, khiến nàng nảy sinh cảm giác được che chở nương tựa, bắt đầu chuyển dời tình cảm, gửi thác sang Thọ Vương. Cuộc tình này cũng chết đi sống lại, thiết tha kịch kiệt vườn phù dung Đại Đường.\n\n #VuonPhuDungDaiDuong #PhamBangBang #PhimCoTrang #PhimKiemHiep #PhimTrungQuoc\n--------------------------------------------------------------\nTỔNG HỢP PHIM HAY TRÊN NT FILMS: \n► Sam Sam Đến Rồi: https://bit.ly/2xz8Uyy\n► Yêu Em Từ Cái Nhìn Đầu Tiên: https://bit.ly/2NqMQKT\n► Độc Bộ Thiên Hạ: http://bit.ly/2KAfpnv\n► Chân Mệnh Thiên Tử: https://bit.ly/2J3fFxM\n► Phiên Dịch Viên Xinh Đẹp: https://bit.ly/2HaoOyT\n► Tân Mãnh Long Quá Giang: https://bit.ly/2spDVQo\n► Thạch Cảm Đang: https://bit.ly/2J0tFZj\n► Hoàng Đế Ăn Mày: https://bit.ly/2Jhd6aZ\n► Trư Cửu Muội: https://bit.ly/2J591Hp\n► Lữ Bố Và Điêu Thuyền: https://bit.ly/2xu3VPH\n► Hoàng Phi Hồng & Dì Thập Tam: https://bit.ly/2JkJlWv\n► Anh Hùng Hỏa Tuyến: https://bit.ly/2kFVd7P\n► Tiếu Ngạo Giang Hồ: https://bit.ly/2J46gSM\n► Nữ Tướng Phàn Lê Huê: https://bit.ly/2J4fZID\n► Võ Lâm Ngoại Sử: https://bit.ly/2HcC6Lc\n► Tây Du Ký - Trư Bát Giới Đại Náo Thiên Đình: https://bit.ly/2H94myw\n► Kiếp Lai Sinh: https://bit.ly/2sAdw1Q\n► Đôi Cánh Thiên Thần: https://bit.ly/2zsSnxf\n► Kho Báu Đông Lăng: https://bit.ly/2JdBUwc\n► Bát Tiên Truyền Kỳ: https://bit.ly/2NGxn8Y\n► Trạng Sư Trần Mộng Cát: http://bit.ly/2NuUfIQ\n► Thiếu Lâm Thất Hiệp: https://bit.ly/2SnjeyV\n► Thời Niên Thiếu Của Bao Thanh Thiên: https://bit.ly/2tzR61w\n► Anh Hùng Lãng Tử: http://bit.ly/2TnmUW1\n► Tình Yêu Định Mệnh: https://bit.ly/2U3uIcp\n► Tình Đầu Khó Phai: http://bit.ly/2ThPtE2\n► Thành Phố Của Rồng: http://bit.do/eKtzc\n► Thành Phố Của Rồng (Phần 2): https://bit.ly/2Hecbra\n► Bảng Phong Thần: http://bit.do/eKtxu\n► Vương Quốc Ảo: http://bit.ly/2U2pQYm\n► Triều Mộ Song Hùng: http://bit.ly/2W9HAlF\n► Võ Mỵ Nương (Hồng Nhan Chí Tôn): http://bit.ly/vomynuong2003\n► Vườn Phù Dung Đại Đường: http://bit.ly/vuonphudungdaiduong\n► Mai Quế Giang Hồ: http://bit.ly/maiquegiangho\n► Chuyện Tình Cõi Âm Dương (Liêu Trai): http://bit.ly/chuyentinhcoiamduong",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qnwzO8DvU14/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qnwzO8DvU14/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qnwzO8DvU14/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qnwzO8DvU14/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Gagls Segkj",
+                "playlistId": "PLAOs8oogL7K9mn--APT5zj_Tz0wtZjZCm",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qnwzO8DvU14"
+                }
+            },
+            "contentDetails": {
+                "videoId": "qnwzO8DvU14",
+                "videoPublishedAt": "2019-05-28T09:00:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oeHmMm1GxP29kwVn6Xetdu_jEF4",
+            "id": "UExBT3M4b29nTDdLOW1uLS1BUFQ1empfVHowd3RaalpDbS45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2020-04-06T18:02:30Z",
+                "channelId": "UCfJmRDUcOjY__kcKvWE_rEQ",
+                "title": "Sức Mạnh Của Ma Đao Và Trận Chiến Cuối Cùng Của Ma Vương | Tiêu Thập Nhất Lang | Kho Phim Hay",
+                "description": "❖Cùng Kho Phim Xem Phim Kiếm Hiệp Hay:Tiêu Thập Nhất Lang\n❖Tổng Hợp Clip Tại :https://www.youtube.com/playlist?list=PLcFb-YbLmV5S3mbm-vDvYIqdt_Qg-SC0C\n❖Nội Dung Clip:Sức Mạnh Của Ma Đao Và Trận Chiến Cuối Cùng Của Ma Vương \n#KhoPhimHay #TiêuThậpNhấtLang #KiếmHiệpHay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/drS4NNwx64w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/drS4NNwx64w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/drS4NNwx64w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/drS4NNwx64w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/drS4NNwx64w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Gagls Segkj",
+                "playlistId": "PLAOs8oogL7K9mn--APT5zj_Tz0wtZjZCm",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "drS4NNwx64w"
+                }
+            },
+            "contentDetails": {
+                "videoId": "drS4NNwx64w",
+                "videoPublishedAt": "2019-07-20T03:42:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "j9m16tds_a48ETcIo8LGLC5dypw",
+            "id": "UExBT3M4b29nTDdLOW1uLS1BUFQ1empfVHowd3RaalpDbS5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2020-04-06T18:02:30Z",
+                "channelId": "UCfJmRDUcOjY__kcKvWE_rEQ",
+                "title": "4 lời dạy của Thần Y Hoa Đà về giấc ngủ | Sức khỏe & Y học",
+                "description": "4 lời dạy của Thần Y Hoa Đà về giấc ngủ | Sức khỏe & Y học\n...\nDanh y Hoa Đà trong suốt quá trình chăm sóc bệnh nhân, ông đã đúc kết ra 4 lời khuyên về giấc ngủ để giữ gìn sức khỏe.\n1. Điều thứ nhất:  \" Phải đi ngủ trước giờ Tý (từ 11 giờ đêm đến 1 giờ sáng) \"\nTheo quan niệm dưỡng sinh tại Thiếu Lâm tự, giấc ngủ là một phần vô cùng quan trọng trong đời người. Nếu trước giờ Tý mỗi ngày không ngủ được, thì khi đi khám bệnh, rất nhiều lão tăng y sẽ nói: “Không chữa cho bạn”. Kỳ thực không phải là không chịu chữa trị, mà là. . .  chữa không hết được.\nNgười mất ngủ thâm niên, bất luận là nam hay nữ thì gan đều đã trực tiếp bị tổn thương, lâu ngày sẽ tổn thương thận, dần dần tạo thành khí huyết của thân thể bị thiếu hụt, mỗi ngày khi soi gương sẽ cảm thấy sắc mặt xám xịt, không tốt.     \nĐến lúc đó cho dù bạn mỗi ngày dùng sản phẩm chăm sóc da, các loại chất bổ, rèn luyện thân thể, cũng không thể bù đắp lại những tổn thương do ngủ chưa đủ hoặc là giấc ngủ không tốt.\nVì vậy, dậy sớm thì không sao nhưng tuyệt đối không được ngủ trễ. Rất nhiều người tinh thần không phấn chấn, phần nhiều là do có thói quen ngủ muộn, thường dễ bị tổn thương gan, tổn thương mật, thiếu tinh lực.     Người như vậy con mắt thường không tốt, tâm trạng thường bị ức chế, thời gian vui vẻ ít đi (khí trong phổi cũng chịu ảnh hưởng, là nguyên nhân của việc nhịp thở không ổn định liên tục trong khoảng thời gian dài). Có nhiều người cho rằng buổi tối ngủ trễ, ban ngày có thể ngủ bù, thực ra là không bù lại được, nếu như ngủ không được, ngủ không đủ thì còn tồi tệ hơn nữa, khí huyết thân thể sẽ bị hao tổn hơn phân nửa.        \n2. Điều thứ hai:\" Khi ngủ không được suy nghĩ \"\n    “Xem như mình không có thân thể, hoặc như là người đang ở trong nước, hòa tan ngón chân cái trước, rồi đến các ngón chân khác, tiếp theo là bàn chân, bắp chân, đùi,… từng bước hòa tan, cuối cùng như không tồn tại, tự nhiên thiếp đi”.  Đây chính là trạng thái tinh thần tốt khi thiền định đi vào giấc ngủ: “Tâm ngủ trước, mắt ngủ sau”.     \n Nhiều lúc, nguyên nhân của mất ngủ là do lúc đi ngủ trong đầu có nhiều tạp niệm, những lúc như thế này không nên nằm trằn trọc trên giường, để tránh hao tâm tổn sức, lại khó chìm vào giấc ngủ, biện pháp tốt nhất là ngồi dậy một hồi rồi ngủ tiếp.      \n Trên thực tế, con người ngày nay nếu muốn đi ngủ trước 11 giờ tối, thì chuyện bình ổn cảm xúc trước khi lên giường cũng rất quan trọng, tâm trạng cần có một khoảng thời gian từ từ trầm tĩnh lại. “Tâm ngủ trước, mắt ngủ sau”, chính là đạo lý này.\nTâm ngủ trước, mắt ngủ sau, là cách tốt nhất để đi vào giấc ngủ.\nNếu như vẫn chưa ngủ được thì trước khi ngủ bạn có thể thử thực hiện động tác gập bụng đơn giản, rồi ngồi xếp bằng tự nhiên hoặc ngồi kiết già trên giường, hai tay xếp chồng lên nhau đặt lên trên chân, hô hấp tự nhiên, cảm giác lỗ chân lông toàn thân nở ra khép lại theo nhịp thở, nếu có ngáp chảy nước mắt thì sẽ có hiệu quả tốt nhất, đến khi muốn ngủ liền ngã xuống ngủ.      \n3. Điều thứ ba: \" Buổi trưa nên ngủ một chút hoặc là ngồi im thư giãn dưỡng thần\"    \nVào buổi trưa (từ 11 giờ sáng đến 1 giờ chiều), nếu không có đủ điều kiện để ngủ, bạn có thể ngồi im tĩnh lặng, nhắm mắt dưỡng thần 15 phút. Những Hòa thượng đều có thói quen chợp mắt vào buổi trưa bằng cách ngồi thiền tại phòng thiền.      \nKỳ thực, giữa trưa chỉ cần nhắm mắt thực sự ngủ 3 phút là bằng ngủ 2 giờ, quan trọng là thời gian ngủ phải thích hợp là giữa trưa. Ban đêm nếu ngủ đúng giờ Tý thì 5 phút ngủ tương đương với 6 giờ.\nDậy sớm có lợi cho sự trao đổi chất của cơ thể con người.\n4. Điều thứ tư:  \" Nhất định phải dậy sớm \"\nMột ngày của nhà sư bắt đầu từ tiếng chuông đánh thức vào sáng sớm, cho dù vào mùa đông, cũng sẽ không thức dậy trễ hơn 6 giờ, vào 3 mùa xuân, hạ, thu thức dậy trước 5 giờ. Theo dưỡng sinh, dậy sớm có lợi cho sự trao đổi chất của cơ thể con người.  \nChỗ tốt của dậy sớm là có thể loại bỏ một số chất bẩn ra khỏi cơ thể, nếu thức dậy quá muộn, đại tràng (ruột già) không được hoạt động, không thể thực hiện tốt chức năng bài tiết.  \nNgoài ra, chức năng tiêu hóa của cơ thể con người hoạt động tốt nhất là vào buổi sáng từ 7 cho đến 9 giờ, là “khoảng thời gian hoàng kim” cho hấp thụ dinh dưỡng. Cho nên, rất không nên ngủ nướng, nguyên nhân gây ra tình trạng choáng váng, mỏi mệt đa phần là do tham ngủ. \nNhững đúc kết của Hoa Đà cũng là những điều nổi bật trong phép tắc trị bệnh của Đông y: Trị bệnh trị tận gốc, chú trọng dưỡng sinh để nâng cao đề kháng cơ thế chống ngoại tà xâm nhập. Bảo tồn được tam bảo của cơ thể Tinh-Khí-Thần là yếu tố để cơ thể hoạt bát, thần thái tươi tỉnh.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nLIQAb3kDxg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nLIQAb3kDxg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nLIQAb3kDxg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gagls Segkj",
+                "playlistId": "PLAOs8oogL7K9mn--APT5zj_Tz0wtZjZCm",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "nLIQAb3kDxg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "nLIQAb3kDxg",
+                "videoPublishedAt": "2018-07-24T01:48:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vRi9uQxbM03vSKs9fhmSE9pwTGM",
+            "id": "UExBT3M4b29nTDdLOW1uLS1BUFQ1empfVHowd3RaalpDbS4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2020-04-06T18:02:30Z",
+                "channelId": "UCfJmRDUcOjY__kcKvWE_rEQ",
+                "title": "Phim Mới 2019 | SONG HÙNG KỲ DỊ - Tập 1 | Phim Mới Hay Nhất 2019",
+                "description": "❖Xem trọn bộ Song Hùng Kỳ Dị : http://bit.ly/SongHungKyDi\n❖Đăng ký kênh: http://bit.ly/Sub_Kenh_TodayFilm\n❖Xem các phim hay khác: http://bit.ly/2WdeM8q\n❖ Nội Dung Phim Song Hùng Kỳ Dị.\n\nBộ phim là những câu chuyện, những bộ phim về những con người luôn hành hiệp trượng nghĩa, xả thân vì bình yên cuộc sống không chỉ còn gói gọn trong những bộ phim cổ trang nữa mà sẽ xuất hiện ngay trong bối cảnh thời đại ngày nay, với hơi thở của cuộc sống hiện thực. Đó là điều mà đạo diễn Nguyễn Duy Võ Ngọc -  nổi tiếng với thành công của các phim “Kiều nữ và đại gia”, “Vật chứng mong manh”… – sẽ thực hiện trong tác phẩm phim truyền hình tiếp theo của mình....\n\n\n\n\n#phimmoi #phimhay #phim #phimtinhcam #todaytv #todayfilm",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RHM69QX-70Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RHM69QX-70Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RHM69QX-70Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RHM69QX-70Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RHM69QX-70Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Gagls Segkj",
+                "playlistId": "PLAOs8oogL7K9mn--APT5zj_Tz0wtZjZCm",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RHM69QX-70Y"
+                }
+            },
+            "contentDetails": {
+                "videoId": "RHM69QX-70Y",
+                "videoPublishedAt": "2019-10-27T12:15:10Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 21,
+        "resultsPerPage": 50
     }
 }

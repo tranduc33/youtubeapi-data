@@ -1,10 +1,10 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "lsGoCYV8eXky18KbxcmxX0Nb2ck",
+    "etag": "PBF8ASFqquQGgdIi_nMFyv5Qgus",
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "u9ceCEFlDsIB_IZWUq-8-lsfJMg",
+            "etag": "pexWNej19_envD6mIAzyma5M8DQ",
             "id": "UExoclNCU3BPLWFickxaMUl1Q1BEZDFyLUtzOC15RGpERS41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
                 "publishedAt": "2020-07-06T07:01:49Z",
@@ -26,16 +26,6 @@
                         "url": "https://i.ytimg.com/vi/kSDW-7Ey5f4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/kSDW-7Ey5f4/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/kSDW-7Ey5f4/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
                 "channelTitle": "Marley Gwendolyn",

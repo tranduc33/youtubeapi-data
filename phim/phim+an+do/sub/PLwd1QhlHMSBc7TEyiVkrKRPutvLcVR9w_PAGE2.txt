@@ -1,0 +1,104 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "0BANf2GA5JSADCqAKNlCCzhVMCY",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "1OpPoe0VL1vBbtyJBXm4K6_uBRQ",
+            "id": "UEx3ZDFRaGxITVNCYzdURXlpVmtyS1JQdXR2TGNWUjl3Xy44QzVGQUU2QjE2NDgxM0M4",
+            "snippet": {
+                "publishedAt": "2020-07-08T09:03:57Z",
+                "channelId": "UCznGgfEa16D7Q-DxCZiJe0w",
+                "title": "Ξένες Ταινίες με Ελληνικούς Υπότιτλους - Καλύτερη ταινία δράσης 2019  hd - Πλήρης  Ελλάδα ταινία",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/l5mZbFdDzuc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/l5mZbFdDzuc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/l5mZbFdDzuc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/l5mZbFdDzuc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Samuel Dure",
+                "playlistId": "PLwd1QhlHMSBc7TEyiVkrKRPutvLcVR9w_",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "l5mZbFdDzuc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "l5mZbFdDzuc",
+                "videoPublishedAt": "2020-07-02T17:00:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jiNTs19cRHHBWi1jKZr-SWyKV_w",
+            "id": "UEx3ZDFRaGxITVNCYzdURXlpVmtyS1JQdXR2TGNWUjl3Xy4xMzgwMzBERjQ4NjEzNUE5",
+            "snippet": {
+                "publishedAt": "2020-07-08T09:03:57Z",
+                "channelId": "UCznGgfEa16D7Q-DxCZiJe0w",
+                "title": "PHIM HÀI THÁNH TINH TRÌ - PHIM HÀI HỒNG KÔNG MỚI NHẤT 2016",
+                "description": "Tôi đã tạo video này bằng Trình chỉnh sửa video của YouTube (http://www.youtube.com/editor)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-2drEE62WUg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-2drEE62WUg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-2drEE62WUg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-2drEE62WUg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-2drEE62WUg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Samuel Dure",
+                "playlistId": "PLwd1QhlHMSBc7TEyiVkrKRPutvLcVR9w_",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-2drEE62WUg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "-2drEE62WUg",
+                "videoPublishedAt": "2016-05-17T06:01:34Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 52,
+        "resultsPerPage": 50
+    }
+}

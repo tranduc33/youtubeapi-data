@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "jtLLoIuRagXMwzlp0j1DU-li56s",
+    "etag": "O-MHP7tuna5m-xqm6kb_iW1mcwo",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -190,30 +190,14 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "fs87LyAZXsi1XiBZT_cw0Phhp4o",
+            "etag": "Y4CK_WB15V8xI1HC7rBGULMRFMY",
             "id": "UExUdnQ4V1kxaHcwNVFUR1ZZTE5pWWlJWnZNMF85QUgtNC4xMkVGQjNCMUM1N0RFNEUx",
             "snippet": {
                 "publishedAt": "2020-04-20T10:35:57Z",
                 "channelId": "UCz8QcTi_n_6U8tiBJ4yAN4A",
-                "title": "[ Full Màn ] Cô Dâu Nhập Khẩu Tập 1 VIETSUB | Phim Thái Lan 2020",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/P5z1a6wt684/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/P5z1a6wt684/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/P5z1a6wt684/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
                 "channelTitle": "Kesnmdkssik Dnsnnsksso",
                 "playlistId": "PLTvt8WY1hw05QTGVYLNiYiIZvM0_9AH-4",
                 "position": 5,
@@ -223,8 +207,7 @@
                 }
             },
             "contentDetails": {
-                "videoId": "P5z1a6wt684",
-                "videoPublishedAt": "2020-02-02T01:29:03Z"
+                "videoId": "P5z1a6wt684"
             }
         },
         {
@@ -848,30 +831,14 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "-XTQojXn105u0hediGCb7nKk6PU",
+            "etag": "SUxHanMqMGunLqtoyRfOXw5XOcY",
             "id": "UExUdnQ4V1kxaHcwNVFUR1ZZTE5pWWlJWnZNMF85QUgtNC41RTNBREYwMkI5QzU3RkY2",
             "snippet": {
                 "publishedAt": "2020-04-20T10:35:57Z",
                 "channelId": "UCz8QcTi_n_6U8tiBJ4yAN4A",
-                "title": "[ Full Màn ] Cô Dâu Nhập Khẩu Tập 2 VIETSUB | Phim Thái Lan 2020",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/CoT1__OTjQY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/CoT1__OTjQY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/CoT1__OTjQY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
                 "channelTitle": "Kesnmdkssik Dnsnnsksso",
                 "playlistId": "PLTvt8WY1hw05QTGVYLNiYiIZvM0_9AH-4",
                 "position": 40,
@@ -881,8 +848,7 @@
                 }
             },
             "contentDetails": {
-                "videoId": "CoT1__OTjQY",
-                "videoPublishedAt": "2020-02-02T01:29:02Z"
+                "videoId": "CoT1__OTjQY"
             }
         }
     ],

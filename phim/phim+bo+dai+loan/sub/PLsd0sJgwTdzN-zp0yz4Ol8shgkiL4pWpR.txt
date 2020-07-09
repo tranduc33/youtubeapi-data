@@ -1,13 +1,1502 @@
 {
-    "error": {
-        "code": 403,
-        "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-        "errors": [
-            {
-                "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-                "domain": "youtube.quota",
-                "reason": "quotaExceeded"
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "d147a2KqPd6T-DaKcXG3EFiRfC0",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bmdvEEQehU3Qjma8f7xvPQ7NxcM",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi41QUZGQTY5OTE4QTREQUU4",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "Tình Sử Đại Đường - Tập 16 | Phim Bộ Kiếm Hiệp Trung Quốc Mới Hay Nhất - Thuyết Minh",
+                "description": "Tình Sử Đại Đường - Tập 16 | Phim Bộ Kiếm Hiệp Trung Quốc Mới Hay Nhất - Thuyết Minh \nTình Sử Đại Đường Thuyết Minh : https://bit.ly/2TBz1hS\nPhim Hay 2020 Mới Nhất : https://goo.gl/8cGvY9\nPhim Việt Nam Chiếu Rạp 2020: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Zjq2pXF6QSY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Zjq2pXF6QSY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Zjq2pXF6QSY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Zjq2pXF6QSY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Zjq2pXF6QSY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Zjq2pXF6QSY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Zjq2pXF6QSY",
+                "videoPublishedAt": "2020-01-20T07:00:04Z"
             }
-        ]
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "WfheRe7vv6sZdbW-qFA_XfJoBc8",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi4zRDBDOEZDOUM0MDY5NEEz",
+            "snippet": {
+                "publishedAt": "2020-05-19T11:35:57Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "IpXPkYesPIo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "IpXPkYesPIo"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Jqi21Razx7oqHK2K8exC0tTDG34",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:48:56Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "Mỗi ngày một chút Cẩu Lương, Ghen Tị với Đường Yên làm nũng Trai Đẹp | Ngôn Tình Trung Quốc Hay",
+                "description": "-- Khi nàng đã dỗi thì cả thế giới có thay đổi gì cũng không thèm quan tâm nhưng sự lạnh lùng cùng với cool boy của chàng mà giờ thay đổi để nàng vui đủ hiểu Soái ca đã nhúng nhường như thế nào..\n#phim #Oh!phimhay #duongyen #huynhtongtrach #phimbotrungquoc\n------------------------------------------------------------------------------------------------\n* Đăng Kí Kênh Oh ! Phim Hay nhé : http://bit.ly/ohphimhay\n* Xem Thêm Phim Hay :http://bit.ly/335m3eL\n-Phim Cổ Trang 2020: https://bit.ly/3bwytQ1\n-Phim Tình Cảm 2020: https://bit.ly/3bu9UD5\n------------------------------------------------------------------------------------------------\nOh ! Phim Hay là kênh giải trí tổng hợp, chuyên trình phát các bộ phim hay nhất, mới nhất, được tuyển chọn \nChúc các bạn có giây phút thư giãn ! \nNhớ đăng kí , bình luận và nhấn chuông nhận thông báo từ Oh ! Phim Hay nhé !\nBản Quyền Thuộc Rose Media Việt Nam  ! Mọi thắc mắc xin vui lòng liên hệ email !",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EZ-ex6J_5iM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EZ-ex6J_5iM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EZ-ex6J_5iM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EZ-ex6J_5iM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EZ-ex6J_5iM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EZ-ex6J_5iM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "EZ-ex6J_5iM",
+                "videoPublishedAt": "2020-05-05T07:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "p-zogQNMgES4ca3CvXOU9itE9SA",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "Phim Lẻ Trung Quốc Mới Nhất 2020 | Phim Hành Động Kiếm Hiệp Hay Nhất - Thuyết Minh",
+                "description": "Phim Lẻ Trung Quốc Mới Nhất 2020 | Phim Hành Động Kiếm Hiệp Hay Nhất - Thuyết Minh \nPhim Hay 2020 Mới Nhất : https://goo.gl/8cGvY9\nPhim Việt Nam Chiếu Rạp 2020: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bSkCNleq1Lw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bSkCNleq1Lw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bSkCNleq1Lw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bSkCNleq1Lw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bSkCNleq1Lw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bSkCNleq1Lw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "bSkCNleq1Lw",
+                "videoPublishedAt": "2019-12-26T10:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hij36tlbP5S44HwD2OT4nS4mmKI",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "Phim Bộ Tiên Kiếm Hiệp Thần Thoại Cổ Trang Trung Quốc Hay Thuyết Minh - Duyên Nợ Trần Gian- Tập 1",
+                "description": "Phim Bộ Tiên Kiếm Hiệp Thần Thoại Cổ Trang Trung Quốc Hay Thuyết Minh - Duyên Nợ Trần Gian- Tập 1\nTheo dõi trọn bộ \"Duyên Nợ Trần Gian\" : http://bit.ly/2qjbOEV\nĐăng Kí Theo Dõi \" HOB Movies \" để nhận được những bộ phim mới nhất: http://bit.ly/2mKe5ar\n\nNội dung phim \"Duyên Nợ Trần Gian\":\nBộ phim kể về nàng tiên nữ, là con gái  của Vương Mẫu nương nương. Một lần, nàng tiên thứ bảy vì ham chơi xuống trần gian nên đã gặp và trót yêu chàng thanh niên Đổng Vĩnh. Nàng quyết tâm kết hôn với Đổng Vĩnh khiến Vương Mẫu tức giận, hủy bỏ cốt tiên và đày xuống trần gian làm người phàm.\n\nTừ đó, vì quá nhớ em gái, lần lượt các nàng tiên còn lại cũng xuống trần gian và mắc vào âm mưu của hai người xấu là Sao chổi cùng Âm thực vương. Các tiên nữ gặp nhiều gian truân và cũng yêu phải người trần. Chỉ có công chúa lớn và thứ 4 là động lòng người trên thiên đình là Thực thần và Kim Tra. Hàng loạt mưu mô, mâu thuẫn xảy ra nhưng cuối cùng thần tiên và người dưới trần cũng chung tay chống cái ác.\n\n#PhimBộCổTrangTrungQuốcHayNhất2019\n#PhimKiếmHiệpMớiNhất\n\n------------------------------------------\n© Bản quyền thuộc về HOB Movies \n© Copyright by HOB Movies    ❌ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2Laeo2-ekoo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2Laeo2-ekoo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2Laeo2-ekoo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2Laeo2-ekoo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2Laeo2-ekoo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2Laeo2-ekoo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "2Laeo2-ekoo",
+                "videoPublishedAt": "2019-11-20T11:30:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FQIRSuTcvVf_XU411OyIKrSY9Pc",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "Phim Bộ Hay 2019 Trung Quốc Cổ Trang Kiếm Hiệp ( Thuyết Minh ) | TIÊU MÔN QUAN KIẾM - Tập 01",
+                "description": "Phim Bộ Hay 2019 Trung Quốc Cổ Trang Kiếm Hiệp ( Thuyết Minh ) | TIÊU MÔN QUAN KIẾM - Tập 01\nXem FULL bộ tại đây : http://bit.ly/2z12XIp\nĐăng Kí Theo Dõi \" Li1 Family \" để nhận được những bộ phim mới nhất:\nhttp://bit.ly/2SYsCLa\n\n\" Tiêu Môn Quan Kiếm \"  là một trong những bộ phim kiếm hiệp cổ trang hay nhất, thành công nhất mà ngôi sao của màn ảnh của Trung Quốc là Hoắc Kiến Hoa, Giả Thanh thủ vai chính. Bộ phim đã đạt được những thành công rực rỡ trong làng phim cổ trang kiếm hiệp tại đất nước Trung Hoa và toàn quốc tế,  \" Li1 Movies \" rất hân hạnh mang lại bộ phim \"Tiêu Môn Quan Kiếm  \" đến với các những khán giả nhiệt thành của Việt Nam. Chúc các bạn xem phim vui vẻ. Thân ái!\n\nCác diễn viên chính : \nHoắc Kiến Hoa     : Lưu An Thuận\nGiả Thanh             : Lệ Diệu Đình\nLưu Nhất Hàm     : Đới Nhung\nDương Khánh Từ : Đới Hải Thần\nNghê Đại Hồng    : Đỗ Thế Sơn\n...... và một số diễn viên khác.\n\nTóm tắt phim Tiêu Môn Quan Kiếm :\n\nChuyện phim “ Tiêu Môn Quan Kiếm ” lấy bối cảnh vào cuối đời nhà Thanh và những năm đầu Dân Quốc, thời cuộc hỗn loạn. Nhân vật chính là Lưu An Thuận (Hoắc Kiến Hoa đóng) là một tiêu sư, cả đời luôn tuân thủ nghiêm ngặt vào hai chữ \"Quy củ\", lại chẳng may bị kẻ gian hãm hại phải từ bỏ chức vị Tổng Tiêu Đầu, rời khỏi kinh thành để lập nghiệp nơi khác.\nBộ phim xoay quanh cuộc đời và những biến cố của của cuộc đời ông , một người sống luôn giữ cho mình chữ quân tử.\n\n#PhimBộCổTrangTrungQuốcHayNhất2019\n#PhimKiếmHiệpThuyếtMinh\n\n© Bản quyền thuộc về Li1 Movies \n© Copyright by Li1 Movies   ❌ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H4u-kRmOtPU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H4u-kRmOtPU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H4u-kRmOtPU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/H4u-kRmOtPU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/H4u-kRmOtPU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "H4u-kRmOtPU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "H4u-kRmOtPU",
+                "videoPublishedAt": "2019-08-13T11:11:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9a1Z0DUOmMNdCA8CxLZLIZM7sk0",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "TRỊNH TÚ VÂN - Tập 01 - Phim Bộ Cổ Trang Kiếm Hiệp Tình Cảm Và Hài Hước Hay Nhất",
+                "description": "TRỊNH TÚ VÂN - Tập 01 - Phim Bộ Cổ Trang Kiếm Hiệp Tình Cảm Và Hài Hước Hay Nhất ( Thuyết Minh )\n\nXem trọn bộ tại đây : https://bit.ly/3c3oT8r\n\nTrịnh Tú Vân\nTên tiếng Anh: Ancestral Temple\nTên tiếng Trung: 大祠堂\nĐạo diễn: Diêm Kiến Cương\nDiễn viên: Lâm Tâm Như, Vương Vũ, Triệu Hồng Phi Ancestral \n \nNội dung: Bộ phim xoay quanh cuộc đời của cô thôn nữ Trịnh Tú Vân. Cha là Trịnh Chi Minh – một chủ gánh hát. Cuộc đời đầy sóng gió và gian khổ của nàng bắt đầu từ lúc được gả vào nhà tiền Tạ, làm vợ của Tạ Trí Khanh – cháu nhà tiền Tạ, người đã thương thầm nhớ trộm nàng từ lâu.\n\nNhưng người Tú Vân yêu trước đó là người bạn thanh mai trúc mã Tạ Trí Thành – cháu của nhà hậu Tạ. Vì nhà hậu Tạ chê gia cảnh của Tú Vân không tương xứng nên đã không đồng ý hôn sự của nàng với Trí Thành. Thay vào đó, người đứng đầu nhà hậu Tạ – Tam gia lại tổ chức hôn sự cho Trí Thành với thiên kim tiểu thư nhà họ Hồ – Xảo Trân, một gia tộc giàu có.Tú Vân vừa bước chân vào nhà tiền Tạ thì Trí Khanh vì nàng mà đã gặp nạn.\n \nSau khi hồi phục, Trí Khanh không thể “động phòng” được, tính tình trở nên cáu gắt dù Tú Vân rất mực ân cần chăm sóc nhưng vẫn không giúp ích gì được, nàng còn chịu biết bao tủi khổ, hành hạ. Muội muội của Trí Khanh là Tạ Ngọc Phần vì mê anh kép chính của gánh hát nhà Tú Vân, bị ngăn cấm nên bỏ nhà ra đi. Trí Khanh khi đó lại muốn đi làm ăn xa dù bệnh vẫn chưa khỏi. Tháng ngày thấm thoát trôi đi trong sự chờ đợi, Tú Vân ở nhà vẫn một mực phụng dưỡng cha chồng và chăm sóc cho đứa em thơ của chồng nàng – Tạ Trí Tương khiến cho tình cảm chị dâu – em chồng ngày càng khăng khít.Trí Khanh bất ngờ trở về dù không làm nên sự nghiệp gì, rồi lại nhanh chóng ra đi mà không ai biết chàng đã khỏi bệnh.\n \nNgọc Phần quay trở về nhà sau những tháng ngày sống cực khổ, thì bị cha nàng đuổi ra khỏi nhà, khiến nàng nhảy sông tự tử. Và càng bất ngờ hơn, Tú Vân lại mang thai trong sự dèm pha của mọi người. Người đứng ra bảo vệ Tú Vân trước mọi lời dị nghị của dòng tộc chính là Trí Tương. Trong khi đó, vợ của Trí Thành là Xảo Trân thì nghi ngờ bào thai đó chính là của chồng mình khiến cho mọi việc thêm rắc rối. Xảo Trân muốn Tú Vân bỏ đi đứa bé thì Đại nãi nãi [bà cả nhà tiền Tạ - bà của Trí Khanh] phát hiện và ngăn cản. Ngày Tú Vân lâm bồn cũng là ngày Xảo Trân tự vẫn. \n \nMay mắn Trí Khanh trở về kịp lúc, giải được nỗi oan cho Tú Vân nhưng rồi lại đi làm ăn xa cùng Trí Thành.Trí Tương vốn thông minh nên khi trưởng thành đã theo Nhị gia nhà họ Tạ lên kinh lo chuyện đèn sách.\n\nNhà tiền Tạ bây giờ chỉ có một tay Tú Vân chăm nom, bình yên chưa được bao lâu thì nhận được tin chồng muốn nạp thiếp, Tú Vân đành chấp nhận dù trong lòng rất đau khổ. Trong lúc đó lại xuất hiện đứa con rơi Chi Lưu của Tú Tài [cha chồng Tú Vân] khiến cho mọi chuyện rối ren. Cùng lúc đó phát hiện ra Ngọc Phần vẫn chưa chết, được cha của Tú Vân thu nhận vào gánh hát.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MuNVw-wcqeE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MuNVw-wcqeE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MuNVw-wcqeE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MuNVw-wcqeE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MuNVw-wcqeE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "MuNVw-wcqeE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "MuNVw-wcqeE",
+                "videoPublishedAt": "2020-02-22T11:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jcudNEaaWwh8uuEcWml10Cvp5Vw",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "10 Bộ phim tiên hiệp được đánh giá cao ngất xứng đáng là siêu phẩm ai cũng nên coi một lần",
+                "description": "Top Sao Hoa tổng hợp tin tức : 10 bộ phim được đánh giá cao ngất xứng đáng là siêu phẩm ai cũng nên coi một lần.\n\nĐăng ký kênh để cập nhật những video mới nhất ► http://goo.gl/8eXnUF\n---------------★★★★★----------------\nNhững Video có thể bạn sẽ thích: \n\nTriệu Lệ Dĩnh khẳng định vị trí \"nữ hoàng\" dẫn đầu bảng xếp hạng “chỉ số truyền thông” tháng 8 https://www.youtube.com/watch?v=qzyRckAHR1c\n\nNam thần mà Triệu Lệ Dĩnh thích nhất là ai? Câu trả lời khiến nhiều người không ngờ tới! https://www.youtube.com/watch?v=jRGpwbtW7JU\n\n10 phim truyền hình Trung Quốc có lượt xem cao nhất 2 năm qua https://www.youtube.com/watch?v=w6CP-kCKUVM\n\n7 ngôi sao đầy \"QUYỀN LỰC\" trong showbiz Hoa Ngữ https://www.youtube.com/watch?v=qwoVZMSL-SU\n\n[Nguồn]:http://www.yan.vn/nhung-bo-phim-xung-dang-la-sieu-pham-ai-cung-nen-coi-mot-lan-157610.html\n--------------------------------------------------------\nXem thêm video tại : http://goo.gl/XGgEcP\nĐăng ký kênh để cập nhật những video mới : http://goo.gl/8eXnUF\nFanpage Facebook: https://www.facebook.com/TopSaoHoa/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KrgFfttfE1k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KrgFfttfE1k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KrgFfttfE1k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KrgFfttfE1k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KrgFfttfE1k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KrgFfttfE1k"
+                }
+            },
+            "contentDetails": {
+                "videoId": "KrgFfttfE1k",
+                "videoPublishedAt": "2018-02-28T07:44:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "sE3fJLN8UEapTonrS33RR3YlDd8",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "[PHIM HAY] TUYỆT THẾ HỒNG NHAN - TẬP 1 LỒNG TIẾNG | PHIM BỘ KIẾM HIỆP CỔ TRANG TRUNG QUỐC 2020",
+                "description": "[PHIM HAY] TUYỆT THẾ HỒNG NHAN - TẬP 1 LỒNG TIẾNG | PHIM KIẾM HIỆP CỔ TRANG TRUNG QUỐC HAY NHẤT 2020\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/TuyetTheHongNhan\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/Yeah1tv\n\nNỘI DUNG PHIM:\n\n\"Tuyệt Thế Hồng Nhan\" kể về 1 vị thái y tài ba bậc nhất - Hạ Lan Quân. Y là 1 người khá kiêu ngạo và tự cao tự đại. Nhiều chuyện rắc rối đã xảy ra sau đó: Sa cơ thất thế, vợ gian díu với quản gia sinh ra con trai (trước tưởng đây là con mình), phải vào kỹ viện làm phục vụ...\n\nTừ đây, người đệ tử của anh thay thế chức vụ của anh phục vụ cho Võ Tắc Thiên, còn anh phải lang thang đường phố kiếm sống qua ngày, bị những tên quan tép riu ăn hiếp, bị bọn ăn mày đánh đập. Rất may, vẫn còn 1 vị cô nương xinh đẹp tên Tô Liên Y vẫn rất yêu anh ta nên đã giúp anh ta qua cơn đói ban đầu, cô còn bán cả gia sản, giải tán kỹ viện của cô để giúp Hạ Lan Quân. Hạ Lan Quân là 1 người có thực tài, anh vẫn đối đầu với người học trò năm xưa đã mưu đồ hãm hại mình. Mọi chuyện xảy ra thế nào, mời các bạn đón xem nha.\n\nTên khác: Chế Tạo Mỹ Nhân, Kiệt Tác Mỹ Nhân\nTên tiếng anh: Cosmetology High (Beauty Maker 2014)\nĐạo diễn: Lý Tuệ Châu, Đặng Vĩ Ân\nTổng giám chế: Trương Dũng\nBiên kịch/Nhà sản xuất: Vu Chính\nDiễn viên: Dương Dung, Kim Thế Giai, Đặng Tụy Văn, Trương Thiết Hạn, Mễ Nhiệt\nQuốc gia: Trung Quốc,\nNăm: 2014\nNgày khởi chiếu: 7/9/2014\nThời lượng: 45 phút/tập\nSố tập: 32 tập\nChất lượng: Bản đẹp\nĐộ phân giải: HD 1080p\nNgôn ngữ: Lồng tiếng\nThể loại: Phim Cổ Trang, Phim Kiếm Hiệp, Phim Bộ Thuyết Minh, Phim Bộ Trung Quốc, Phim Hoa Ngữ\n\n© Các video trên kênh \" http://bit.ly/Yeah1tv \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nInstagram: https://www.instagram.com/yeah1_tv/\n\nSubscribe các kênh chính của Yeah1 Network:\n\nNew Films:                  http://bit.ly/NEWFILMS\nYEAH1 MUSIC :          http://bit.ly/Yeah1music\nYEAH1 MOVIE :          http://bit.ly/Yeah1movies\nYEAH1 KIDS :              http://bit.ly/Yeah1kids\nNgọc Thảo :                 http://bit.ly/Ngocthao\n---------------------------------------------\n#Yeah1TV #PhimHay #TuyetTheHongNhan",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/apciW2KYLMY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/apciW2KYLMY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/apciW2KYLMY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/apciW2KYLMY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/apciW2KYLMY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "apciW2KYLMY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "apciW2KYLMY",
+                "videoPublishedAt": "2020-03-12T12:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xlpWJlqqJM84OVxcF8Yno5ZSMm8",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "22 Bộ Phim Tiên Hiệp Trung Quốc Hay Nhất",
+                "description": "Đăng Ký Kênh Và Bấm Chuông Để Nhận Video Miễn Phí \nMỗi Subcribe, Like, Share của các bạn là động lực để mình làm tiếp, Cảm Ơn Các Bạn !\nXem thêm nhiều video tại https://www.youtube.com/channel/UCXhMkMmvDR2jvk2_ktocUTg\nTrong quá trình làm video không thể tránh khỏi những thiếu sót, mong các bạn bỏ qua\nCòn thiếu bộ phim nào các bạn bổ sung nhé",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lDl8I79I49E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lDl8I79I49E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lDl8I79I49E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lDl8I79I49E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lDl8I79I49E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "lDl8I79I49E"
+                }
+            },
+            "contentDetails": {
+                "videoId": "lDl8I79I49E",
+                "videoPublishedAt": "2018-10-10T09:13:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2fkiShi7zjFN_oZvIgbrYJE1vMw",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "Đệ Nhất Võ Công Chí Tôn - Tập 1 | Phim Bộ Kiếm Hiệp Trung Quốc Mới Hay Nhất",
+                "description": "Đệ Nhất Võ Công Chí Tôn - Tập 1 | Phim Bộ Kiếm Hiệp Trung Quốc Mới Hay Nhất \nĐệ Nhất Võ Công Chí Tôn Full Bộ : https://bit.ly/2QslBCf\nPhim Hay 2020 Mới Nhất : https://goo.gl/8cGvY9\nPhim Việt Nam Chiếu Rạp 2020: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5JiIvU65Qmw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5JiIvU65Qmw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5JiIvU65Qmw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5JiIvU65Qmw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5JiIvU65Qmw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5JiIvU65Qmw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "5JiIvU65Qmw",
+                "videoPublishedAt": "2020-03-21T04:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "50Pg68lBelgp_PsgA5R4ajIFGsI",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "Một Chuyện Tình Buồn - Tập 1 | Phim Bộ Tình Cảm Trung Quốc Hay Nhất - Lồng Tiếng",
+                "description": "Một Chuyện Tình Buồn - Tập 1 | Phim Bộ Tình Cảm Trung Quốc Hay Nhất - Lồng Tiếng \nMột Chuyện Tình Buồn Full :https://bit.ly/2wMsZOM\nphim hành động 2019 :https://goo.gl/f5LDo5\nphim kiếm hiệp mới nhất 2019 : https://goo.gl/pG2tqD\n►Phim Việt Nam Chiếu Rạp 2018 :https://goo.gl/R7Whs5\n#PhimBộTrungQuốc \n►►Đăng Ký Phim Hay Việt Nam : https://goo.gl/f5LDo5\n►►► Like Page để không bỏ lỡ bộ phim HOT nào: https://www.facebook.com/PhimHayPage\nHỏi Đáp: https://www.facebook.com/tienccnp\nBản quyền thuộc BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KDcEvBF7ibE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KDcEvBF7ibE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KDcEvBF7ibE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KDcEvBF7ibE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KDcEvBF7ibE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KDcEvBF7ibE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "KDcEvBF7ibE",
+                "videoPublishedAt": "2019-06-10T12:21:23Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QBlCya3vJ-MS9pxDuMrJkfTsU-E",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "Sóng Gió Hồng Nhan - Tập 1 | Phim Bộ Kiếm Hiệp Trung Quốc Mới Hay Nhất",
+                "description": "Sóng Gió Hồng Nhan - Tập 1 | Phim Bộ Kiếm Hiệp Trung Quốc Mới Hay Nhất \nSóng gió Hồng Nhan Full Bộ : https://bit.ly/37gG03F\nPhim Hay 2020 Mới Nhất : https://goo.gl/8cGvY9\nPhim Việt Nam Chiếu Rạp 2020: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7zhrUme75M0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7zhrUme75M0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7zhrUme75M0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7zhrUme75M0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7zhrUme75M0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7zhrUme75M0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "7zhrUme75M0",
+                "videoPublishedAt": "2020-01-22T05:35:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZdIM2W1KqbtqmcTBRrds6W6fhIU",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "Hoa Thủy Tinh - Tập 1 | Phim Bộ Tình Cảm Trung Quốc Hay Nhất - Thuyết Minh",
+                "description": "Hoa Thủy Tinh - Tập 1 | Phim Bộ Tình Cảm Trung Quốc Hay Nhất - Thuyết Minh\nHoa Thủy Tinh Full Bộ : https://bit.ly/2Xi2X2f\nNgã Rẽ Tình Yêu Full Bộ : https://bit.ly/2CvE2OW\nPhim Hài Việt Nam Chiếu Rạp : https://goo.gl/f5LDo5\nphim hành động 2019 :https://goo.gl/f5LDo5\nphim kiếm hiệp mới nhất 2019 : https://goo.gl/pG2tqD\n►Phim Việt Nam Chiếu Rạp 2018 :https://goo.gl/R7Whs5\n►►Đăng Ký Phim Hay Việt Nam : https://goo.gl/f5LDo5\n►►► Like Page để không bỏ lỡ bộ phim HOT nào: https://www.facebook.com/PhimHayPage\nHỏi Đáp: https://www.facebook.com/tienccnp\nBản quyền thuộc BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/miDRNDDymJo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/miDRNDDymJo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/miDRNDDymJo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/miDRNDDymJo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/miDRNDDymJo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "miDRNDDymJo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "miDRNDDymJo",
+                "videoPublishedAt": "2019-11-16T13:22:51Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "PYvaS78I943N8gxBFjkLO03fC4Y",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "Hôn Nhân Bí Mật - Tập 1 | Phim Bộ Tình Cảm Trung Quốc Mới Hay Nhất 2020 - Thuyết Minh",
+                "description": "Hôn Nhân Bí Mật - Tập 1 | Phim Bộ Tình Cảm Trung Quốc Mới Hay Nhất 2020 - Thuyết Minh \nHôn Nhân Bí Mật Full Bộ : https://bit.ly/33hFvFr\nPhim Việt Nam Chiếu Rạp : https://goo.gl/f5LDo5\nphim hành động 2020 :https://goo.gl/f5LDo5\nphim kiếm hiệp mới nhất 2020 : https://goo.gl/pG2tqD\n►Phim Việt Nam Chiếu Rạp 2020 :https://goo.gl/R7Whs5\n►►Đăng Ký Phim Hay Việt Nam : https://goo.gl/f5LDo5\n►►► Like Page để không bỏ lỡ bộ phim HOT nào: https://www.facebook.com/PhimHayPage\nBản quyền thuộc BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GVtqdH61OIo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GVtqdH61OIo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GVtqdH61OIo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GVtqdH61OIo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GVtqdH61OIo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GVtqdH61OIo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "GVtqdH61OIo",
+                "videoPublishedAt": "2020-03-16T04:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "TEQbAnqY77RUv9SdCTXQyBI0k0k",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "Tuyệt Sắc Song Kiều - Tập 2 | Phim Bộ Kiếm Hiệp Trung Quốc Mới Hay Nhất",
+                "description": "Tuyệt Sắc Song Kiều - Tập 2 | Phim Bộ Kiếm Hiệp Trung Quốc Mới Hay Nhất \nTuyệt Sắc Son Kiều Full Bộ : https://bit.ly/2YbsYmo\nPhim Bộ Trung Quốc Mới Nhất : https://goo.gl/VfPiBm\nLoạn Thế Hồng Nhan Full bộ: https://goo.gl/Gt8ahz\nMỹ Nhân Đa Tình Full Bộ:https://goo.gl/GD1V3K\nMị giả Vô Cương Full Bộ :https://goo.gl/oPo3dW\nĐăng Ký Kênh CachiCachi VN Xem Phim Mới Nhất : https://goo.gl/VfPiBm\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gpzY08K2rRA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gpzY08K2rRA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gpzY08K2rRA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gpzY08K2rRA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gpzY08K2rRA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "gpzY08K2rRA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "gpzY08K2rRA",
+                "videoPublishedAt": "2020-04-29T12:52:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zs8tb3t7ojAxSGxP_qSqLfSt5NA",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "Phim Bộ Cổ Trang Kiếm Hiệp Trung Quốc Hay Nhất - THIÊN TÌNH ĐAO - Tập 19",
+                "description": "Phim Bộ Cổ Trang Kiếm Hiệp Trung Quốc Hay Nhất  - THIÊN TÌNH ĐAO - Tập 19 ( Thuyết Minh )\nTheo dõi Trọn Bộ \" THIÊN TÌNH ĐAO\" : http://bit.ly/2p1vZWW\nĐăng Kí Theo Dõi \" Li1 Movies \" để nhận được những bộ phim mới nhất: http://bit.ly/2SYsCLa\n\n\" THIÊN TÌNH ĐAO \"  là một trong những bộ phim cổ trang kiếm hiệp hay nhất, thành công nhất mà ngôi sao của màn ảnh của Trung Quốc là Chung Hán Lương, Trương Mông thủ vai chính. Bộ phim đã đạt được những thành công rực rỡ trong làng phim cổ trang kiếm hiệp tại đất nước Trung Hoa và toàn quốc tế,  \" Li1 Movies \" rất hân hạnh mang lại bộ phim \"Thiên Tình Đao\" đến với các những khán giả nhiệt thành của Việt Nam. Chúc các bạn xem phim vui vẻ. Thân ái!\n\nCác diễn viên chính : \nChung Hán Lương : Phó Hồng Tuyết\nTrương Mông : Chu Đình\nTrần Sở Hà : Diệp Khai\nTrương Định Hàm : Minh Nguyệt Tâm\nMao Hiểu Đồng : Nam Cung Linh\nKhương Đại Vệ : Hứa Ứng Thiên\nTông Phong Nham : Yến Nam Phi\nĐiềm Lệ : Hoa Bạch Phụng\nNgô Đình Diệp : Tề Nhất Tâm\n...... và một số diễn viên khác.\n\nTÓM TẮT PHIM \" THIÊN TÌNH ĐAO \" \n24 năm trước, minh chủ võ lâm Dương Thường Phong bị giết một cách thần bí, trở thành một đại huyền án trong võ lâm. 24 năm sau, Phó Hồng Tuyết – hiệu xưng con trai duy nhất của Dương Thường Phong đột nhiên xuất hiện, triển khai báo thù. Diệp Khai, con thứ của Dương Thường Phong, người từ nhỏ đã hoán đổi thân phận với Phó Hồng Tuyết, dùng kế để Châu Đình chiếm được tình cảm của Phó Hồng Tuyết. Nào ngờ Châu Đình lại yêu Phó Hồng Tuyết. Để giúp người yêu Yến Nam Phi đoạt lấy ngôi minh chủ võ lâm, Minh Nguyệt Tâm tìm cách diệt trừ Phó Hồng Tuyết, nhưng dần dà lại nảy sinh tình cảm. Trên con đường báo thù, Phó Hồng Tuyết phải trải qua rất nhiều nguy cơ và trở ngại. Chàng phải chịu đựng sự khảo nghiệm của thiện và ác, ái và hận, trung thành và bội phản. Dưới sự giúp đỡ của Diệp Khai cùng Châu Đình và Minh Nguyệt Tâm, Phó Hồng Tuyết đã phá tan được trùng trùng âm mưu của Yến Nam Phi, Hướng Ứng Thiên, Công tử Vũ, Dương Phu Nhân… đồng thời tìm ra bí mật đằng sau cái chết của Dương Thường Phong và thân thế của mình, tìm lại được tình yêu\n\n#PhimBộCổTrangTrungQuốc\n#PhimKiếmHiệpTrungQuốcHayNhất\n#PhimBộTrungQuốcMớiNhất\n\n© Bản quyền thuộc về Li1 Movies \n© Copyright by Li1 Movies   ❌ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1qjHbFYZhqA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1qjHbFYZhqA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1qjHbFYZhqA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1qjHbFYZhqA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1qjHbFYZhqA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1qjHbFYZhqA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "1qjHbFYZhqA",
+                "videoPublishedAt": "2019-10-27T11:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tqPjkhB04139aIWrM3L0r1dLHhY",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "Hồ Nhất Đao - Tập 1 | Phim Bộ Kiếm Hiệp Trung Quốc Hay Mới Nhất",
+                "description": "Hồ Nhất Đao - Tập 1 | Phim Bộ Kiếm Hiệp Trung Quốc Hay Mới Nhất \nHồ Nhất Đao Full Bộ :https://bit.ly/2QyvltY\nPhim Việt Nam Chiếu Rạp : https://goo.gl/f5LDo5\nphim hành động 2019 :https://goo.gl/f5LDo5\nphim kiếm hiệp mới nhất 2019 : https://goo.gl/pG2tqD\n►Phim Việt Nam Chiếu Rạp 2018 :https://goo.gl/R7Whs5\n►►Đăng Ký Phim Hay Việt Nam : https://goo.gl/f5LDo5\n►►► Like Page để không bỏ lỡ bộ phim HOT nào: https://www.facebook.com/PhimHayPage\nBản quyền thuộc BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DKCaleTCqiw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DKCaleTCqiw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DKCaleTCqiw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DKCaleTCqiw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DKCaleTCqiw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DKCaleTCqiw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "DKCaleTCqiw",
+                "videoPublishedAt": "2020-01-02T00:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rPp6soBXAZlkXFIvStOi6DbGgGE",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "80 Phim Cổ Trang Trung Quốc Thể Loại Ngôn Tình Hay Nhất Từ Trước Tới Nay 2020 - Phim Kiếm Hiệp 2020",
+                "description": "Đăng Ký Và Bấm Vào Chuông Để Xem Video Mới Nhất \r\n👍LINK KÊNH: https://www.youtube.com/channel/UCUUuHFoWORrX53Hkf65gZtQ\r\n👍TỔNG HỢP PHIM TRUNG QUỐC MỚI NHẤT: https://www.youtube.com/playlist?list=PLEzR-Lf__eecrpmJiVnOrv7sxfeKvJZr6\r\n\r\n80 Phim Cổ Trang Trung Quốc Thể Loại Ngôn Tình Hay Nhất Từ Trước Tới Nay 2020 - Phim Kiếm Hiệp 2020\n\n\nNếu thích video này, hãy like, share, subcrise ủng hộ kênh. Vui lòng không reup!\r\nThanks for watching\r\n_____________\r\n\r\n+Facebook: https://www.facebook.com/profile.php?id=100037628049528\r\n+Twitter: https://www.twitter.com/1091840\r\n \r\nKênh Giải Trí VTB #KênhGiảiTríVTB là kênh chuyên tổng hợp những thông tin mới nhất về các bộ phim trung quốc mới ra và các ngôi sao điện ảnh nổi tiếng. Tổng hợp về phim kiếm hiệp trung quốc, phim ngôn tình trung quốc, phim hành động trung quốc, phim xuyên không trung quốc, phim hình sự phá án trung quốc, phim cổ trang trung quốc, phim bộ trung quốc, phim thanh xuân học đường trung quốc, phim tiên hiệp trung quốc, phim ngôn tình ngược trung quốc, sao hao ngữ, phim chuẩn bị lên sóng.... và nhiều các thông tin bổ ích khác.\r\nRất mọng được mọi người ủng hộ\r\nXIN CẢM ƠN!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jcSSR5_75OE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jcSSR5_75OE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jcSSR5_75OE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jcSSR5_75OE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jcSSR5_75OE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jcSSR5_75OE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "jcSSR5_75OE",
+                "videoPublishedAt": "2020-05-01T08:46:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jOa6IW5fJZfVeKyBYIJWUlPSVf8",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "Phim Tiên Hiệp 2020 | Thiên Thiên Hữu Hỉ - Tập 1 | Phim Bộ Kiếm Hiệp Trung Quốc Hay Nhất-Thuyết Minh",
+                "description": "Phim Tiên Hiệp 2020 | Thiên Thiên Hữu Hỉ - Tập 1 | Phim Bộ Kiếm Hiệp Trung Quốc Hay Nhất-Thuyết Minh\nThiên Thiên Hữu Hỉ Full : https://www.youtube.com/playlist?list=PLgCEtHulTQE3RcqNb_28Gos3Yeg6-Lf53\nphim việt nam 2019 : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2019: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\n#ThiênThiênHữuHỉ\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KiftKKje3gY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KiftKKje3gY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KiftKKje3gY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KiftKKje3gY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KiftKKje3gY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KiftKKje3gY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "KiftKKje3gY",
+                "videoPublishedAt": "2019-06-20T03:18:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "t9_2AlUPYm5h59Q4TuU_qAVva-s",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "TRỊNH TÚ VÂN - Tập 13 - Phim Bộ Cổ Trang Kiếm Hiệp Tình Cảm Và Hài Hước Hay Nhất",
+                "description": "TRỊNH TÚ VÂN - Tập 13 - Phim Bộ Cổ Trang Kiếm Hiệp Tình Cảm Và Hài Hước Hay Nhất ( Thuyết Minh )\n\nXem trọn bộ tại đây : https://bit.ly/3c3oT8r\n\nTrịnh Tú Vân\nTên tiếng Anh: Ancestral Temple\nTên tiếng Trung: 大祠堂\nĐạo diễn: Diêm Kiến Cương\nDiễn viên: Lâm Tâm Như, Vương Vũ, Triệu Hồng Phi Ancestral \n \nNội dung: Bộ phim xoay quanh cuộc đời của cô thôn nữ Trịnh Tú Vân. Cha là Trịnh Chi Minh – một chủ gánh hát. Cuộc đời đầy sóng gió và gian khổ của nàng bắt đầu từ lúc được gả vào nhà tiền Tạ, làm vợ của Tạ Trí Khanh – cháu nhà tiền Tạ, người đã thương thầm nhớ trộm nàng từ lâu.\n\nNhưng người Tú Vân yêu trước đó là người bạn thanh mai trúc mã Tạ Trí Thành – cháu của nhà hậu Tạ. Vì nhà hậu Tạ chê gia cảnh của Tú Vân không tương xứng nên đã không đồng ý hôn sự của nàng với Trí Thành. Thay vào đó, người đứng đầu nhà hậu Tạ – Tam gia lại tổ chức hôn sự cho Trí Thành với thiên kim tiểu thư nhà họ Hồ – Xảo Trân, một gia tộc giàu có.Tú Vân vừa bước chân vào nhà tiền Tạ thì Trí Khanh vì nàng mà đã gặp nạn.\n \nSau khi hồi phục, Trí Khanh không thể “động phòng” được, tính tình trở nên cáu gắt dù Tú Vân rất mực ân cần chăm sóc nhưng vẫn không giúp ích gì được, nàng còn chịu biết bao tủi khổ, hành hạ. Muội muội của Trí Khanh là Tạ Ngọc Phần vì mê anh kép chính của gánh hát nhà Tú Vân, bị ngăn cấm nên bỏ nhà ra đi. Trí Khanh khi đó lại muốn đi làm ăn xa dù bệnh vẫn chưa khỏi. Tháng ngày thấm thoát trôi đi trong sự chờ đợi, Tú Vân ở nhà vẫn một mực phụng dưỡng cha chồng và chăm sóc cho đứa em thơ của chồng nàng – Tạ Trí Tương khiến cho tình cảm chị dâu – em chồng ngày càng khăng khít.Trí Khanh bất ngờ trở về dù không làm nên sự nghiệp gì, rồi lại nhanh chóng ra đi mà không ai biết chàng đã khỏi bệnh.\n \nNgọc Phần quay trở về nhà sau những tháng ngày sống cực khổ, thì bị cha nàng đuổi ra khỏi nhà, khiến nàng nhảy sông tự tử. Và càng bất ngờ hơn, Tú Vân lại mang thai trong sự dèm pha của mọi người. Người đứng ra bảo vệ Tú Vân trước mọi lời dị nghị của dòng tộc chính là Trí Tương. Trong khi đó, vợ của Trí Thành là Xảo Trân thì nghi ngờ bào thai đó chính là của chồng mình khiến cho mọi việc thêm rắc rối. Xảo Trân muốn Tú Vân bỏ đi đứa bé thì Đại nãi nãi [bà cả nhà tiền Tạ - bà của Trí Khanh] phát hiện và ngăn cản. Ngày Tú Vân lâm bồn cũng là ngày Xảo Trân tự vẫn. \n \nMay mắn Trí Khanh trở về kịp lúc, giải được nỗi oan cho Tú Vân nhưng rồi lại đi làm ăn xa cùng Trí Thành.Trí Tương vốn thông minh nên khi trưởng thành đã theo Nhị gia nhà họ Tạ lên kinh lo chuyện đèn sách.\n\nNhà tiền Tạ bây giờ chỉ có một tay Tú Vân chăm nom, bình yên chưa được bao lâu thì nhận được tin chồng muốn nạp thiếp, Tú Vân đành chấp nhận dù trong lòng rất đau khổ. Trong lúc đó lại xuất hiện đứa con rơi Chi Lưu của Tú Tài [cha chồng Tú Vân] khiến cho mọi chuyện rối ren. Cùng lúc đó phát hiện ra Ngọc Phần vẫn chưa chết, được cha của Tú Vân thu nhận vào gánh hát.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6TYjTvQPU9w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6TYjTvQPU9w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6TYjTvQPU9w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6TYjTvQPU9w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6TYjTvQPU9w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6TYjTvQPU9w"
+                }
+            },
+            "contentDetails": {
+                "videoId": "6TYjTvQPU9w",
+                "videoPublishedAt": "2020-02-26T11:00:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "exkiwnTkUjReZEiRfBbWZiJaIds",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "Tuyệt Sắc Song Kiều - Tập 3 | Phim Bộ Kiếm Hiệp Trung Quốc Mới Hay Nhất",
+                "description": "Tuyệt Sắc Song Kiều - Tập 3 | Phim Bộ Kiếm Hiệp Trung Quốc Mới Hay Nhất \nTuyệt Sắc Son Kiều Full Bộ : https://bit.ly/2YbsYmo\nPhim Bộ Trung Quốc Mới Nhất : https://goo.gl/VfPiBm\nLoạn Thế Hồng Nhan Full bộ: https://goo.gl/Gt8ahz\nMỹ Nhân Đa Tình Full Bộ:https://goo.gl/GD1V3K\nMị giả Vô Cương Full Bộ :https://goo.gl/oPo3dW\nĐăng Ký Kênh CachiCachi VN Xem Phim Mới Nhất : https://goo.gl/VfPiBm\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zxxHIe7L6OY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zxxHIe7L6OY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zxxHIe7L6OY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zxxHIe7L6OY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zxxHIe7L6OY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zxxHIe7L6OY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "zxxHIe7L6OY",
+                "videoPublishedAt": "2020-04-29T14:05:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "G8raLkrgSqD-Nte9iKe3IgEmidM",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "Tình Sử Đại Đường - Tập Cuối | Phim Bộ Kiếm Hiệp Trung Quốc Mới Hay Nhất - Thuyết Minh",
+                "description": "Tình Sử Đại Đường - Tập Cuối | Phim Bộ Kiếm Hiệp Trung Quốc Mới Hay Nhất - Thuyết Minh\nTình Sử Đại Đường Thuyết Minh : https://bit.ly/2TBz1hS\nPhim Hay 2020 Mới Nhất : https://goo.gl/8cGvY9\nPhim Việt Nam Chiếu Rạp 2020: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MDEU5FJazPI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MDEU5FJazPI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MDEU5FJazPI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MDEU5FJazPI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MDEU5FJazPI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "MDEU5FJazPI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "MDEU5FJazPI",
+                "videoPublishedAt": "2020-01-21T14:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "T0pxrPnmSiiYhi0XH7xSJxDRcHU",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "Phim Kiếm Hiệp Hay 2020 | CỔ KIẾM KỲ ĐÀM 2 - Tập 32 | Phim Bộ Hay 2020",
+                "description": "►Trọn bộ: https://bit.ly/3aygUhx\n►Xem các phim hay khác: http://bit.ly/3a0n36k\n►Tên phim: CỔ KIẾM KỲ ĐÀM Phần 2 (48 Tập) \n►Nội dung: Nhạc Vô Dị - chàng trai hiệp nghĩa lên đường đi tìm tòi học tập yển thuật . Trên đường cậu gặp được nàng Văn Nhân Vũ – một cô gái trung can nghĩa đảm của Bách Thảo Cốc, cùng với Hạ Di Tắc – đệ tử Thái Hoa quan và cũng là nửa người nửa yêu. Họ lên đường đi tìm yển sư Tạ Y, đồng thời gặp được linh nữ A Nguyễn. Họ cùng nhau chiến đấu chống lại đám người của Lưu Nguyệt Thành. Lưu Nguyệt Thành điều kiện sống không tốt nên Đại Tế Tư Thẩm Dạ quyết định hợp tác với Tâm Ma làm hại chúng sinh, đổi lại đưa tộc Liệt Sơn xuống hạ giới.... \n\n#CổKiếmKỳĐàm2 #PhimKiếmHiệp #PhimBộHay #PhimHay2020",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RJ-8yqznH50/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RJ-8yqznH50/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RJ-8yqznH50/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RJ-8yqznH50/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RJ-8yqznH50/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RJ-8yqznH50"
+                }
+            },
+            "contentDetails": {
+                "videoId": "RJ-8yqznH50",
+                "videoPublishedAt": "2020-05-03T04:45:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "RRJjAQvVQj3CIwWENh9Zw39WBP4",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "[PHIM HAY] THỊNH ĐƯỜNG HUYỄN DẠ - TẬP 40 THUYẾT MINH | PHIM KIẾM HIỆP CỔ TRANG TRUNG QUỐC HAY 2020",
+                "description": "THỊNH ĐƯỜNG HUYỄN DẠ - TẬP 40 THUYẾT MINH | NGÔ THIẾN, TRỊNH NGHIỆP THÀNH | PHIM KIẾM HIỆP TRUNG QUỐC 2020\n➡️ Xem Trộn Bộ Tại Đây: https://bit.ly/ThinhDuongHuyenDa\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/Yeah1tv\n\nNỘI DUNG PHIM:\n\nVào thời Đường, tại Lạc Dương có tiểu thư Diệp gia tên gọi Viễn An tính tình trượng nghĩa hào sảng, nhờ vụ án hoa khôi bị giết chết mà quen với bộ đầu Triệu Lan Chi. Hai người bắt tay nhau phá án, càng thêm thân thiết. Viễn An cứu được một chàng trai thân phận thần bí bị mất trí nhớ tên gọi Mục Nhạc, thu chàng làm nô bộc, nào ngờ Mục Nhạc đối với nàng tuyệt đối trung thành, dần dần say đắm si niệm. Ở La Thiên Động xảy ra vụ án tại Cảnh vương phủ, ba người phối hợp phá án, phát hiện ẩn sau là âm mưu cướp đoạt chí bảo Cửu Tinh Niệm Châu của Quốc sư Thiên Kiều. Đồ đệ của Thiên Kiều là quận chúa Minh Tuệ thích Lan Chi, lấy tính mạng của Viễn An ép Lan Chi phải thành thân. Viễn An trong lúc giận dỗi gả cho Mục Nhạc, lại bị Mục Nhạc hiểu nhầm. Mục Nhạc phát hiện mình chính là Vương tử gặp nạn của nước láng giềng, vì vậy đánh cắp Cửu Tinh Niệm Châu, về nước báo thù. Viễn An cùng Triệu Lan Chi lùng theo dấu vết tìm đến, mọi người cùng nhau bình định họa loạn, tìm được tình yêu đích thực.\n\nTên tiếng anh: An Oriental Odyssey (2018)\nĐạo diễn: Châu Hiểu Bằng\nDiễn viên: Ngô Thiến, Trịnh Nghiệp Thành, Viên Văn Khang, Trương Vũ Kiếm, Đổng Kỳ\nQuốc gia:Trung Quốc\nNăm: 2018\nThời lượng: 45 phút/tập\nSố tập: 50 tập\nChất lượng: HD 1080p\nNgôn ngữ:  Thuyết minh\nThể loại: Phim Kiếm Hiệp, Phim Cổ Trang, Phim Võ Thuật, Phim Tiên Hiệp, Phim Bộ Trung Quốc, Phim Hoa Ngữ\n\n© Các video trên kênh \" http://bit.ly/Yeah1tv \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nInstagram: https://www.instagram.com/yeah1_tv/\n\nSubscribe các kênh chính của Yeah1 Network:\n\nNew Films:                  http://bit.ly/NEWFILMS\nYEAH1 MUSIC :          http://bit.ly/Yeah1music\nYEAH1 MOVIE :          http://bit.ly/Yeah1movies\nYEAH1 KIDS :              http://bit.ly/Yeah1kids\nNgọc Thảo :                 http://bit.ly/Ngocthao\n------------------------------------\n#Yeah1TV #ThinhDuongHuyenDa #PhimHay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vsCMxNpYUEo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vsCMxNpYUEo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vsCMxNpYUEo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vsCMxNpYUEo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vsCMxNpYUEo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vsCMxNpYUEo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "vsCMxNpYUEo",
+                "videoPublishedAt": "2020-04-30T14:00:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "CuS5Iz2s_9RwoYZ73r2CUdHAXp8",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "Phim Bộ Cổ Trang Kiếm Hiệp Trung Quốc Hay Nhất - THIÊN TÌNH ĐAO - Tập 11",
+                "description": "Phim Bộ Cổ Trang Kiếm Hiệp Trung Quốc Hay Nhất  - THIÊN TÌNH ĐAO - Tập 11 ( Thuyết Minh )\nTheo dõi Trọn Bộ \" THIÊN TÌNH ĐAO\" : http://bit.ly/2p1vZWW\nĐăng Kí Theo Dõi \" Li1 Movies \" để nhận được những bộ phim mới nhất: http://bit.ly/2SYsCLa\n\n\" THIÊN TÌNH ĐAO \"  là một trong những bộ phim cổ trang kiếm hiệp hay nhất, thành công nhất mà ngôi sao của màn ảnh của Trung Quốc là Chung Hán Lương, Trương Mông thủ vai chính. Bộ phim đã đạt được những thành công rực rỡ trong làng phim cổ trang kiếm hiệp tại đất nước Trung Hoa và toàn quốc tế,  \" Li1 Movies \" rất hân hạnh mang lại bộ phim \"Thiên Tình Đao\" đến với các những khán giả nhiệt thành của Việt Nam. Chúc các bạn xem phim vui vẻ. Thân ái!\n\nCác diễn viên chính : \nChung Hán Lương : Phó Hồng Tuyết\nTrương Mông : Chu Đình\nTrần Sở Hà : Diệp Khai\nTrương Định Hàm : Minh Nguyệt Tâm\nMao Hiểu Đồng : Nam Cung Linh\nKhương Đại Vệ : Hứa Ứng Thiên\nTông Phong Nham : Yến Nam Phi\nĐiềm Lệ : Hoa Bạch Phụng\nNgô Đình Diệp : Tề Nhất Tâm\n...... và một số diễn viên khác.\n\nTÓM TẮT PHIM \" THIÊN TÌNH ĐAO \" \n24 năm trước, minh chủ võ lâm Dương Thường Phong bị giết một cách thần bí, trở thành một đại huyền án trong võ lâm. 24 năm sau, Phó Hồng Tuyết – hiệu xưng con trai duy nhất của Dương Thường Phong đột nhiên xuất hiện, triển khai báo thù. Diệp Khai, con thứ của Dương Thường Phong, người từ nhỏ đã hoán đổi thân phận với Phó Hồng Tuyết, dùng kế để Châu Đình chiếm được tình cảm của Phó Hồng Tuyết. Nào ngờ Châu Đình lại yêu Phó Hồng Tuyết. Để giúp người yêu Yến Nam Phi đoạt lấy ngôi minh chủ võ lâm, Minh Nguyệt Tâm tìm cách diệt trừ Phó Hồng Tuyết, nhưng dần dà lại nảy sinh tình cảm. Trên con đường báo thù, Phó Hồng Tuyết phải trải qua rất nhiều nguy cơ và trở ngại. Chàng phải chịu đựng sự khảo nghiệm của thiện và ác, ái và hận, trung thành và bội phản. Dưới sự giúp đỡ của Diệp Khai cùng Châu Đình và Minh Nguyệt Tâm, Phó Hồng Tuyết đã phá tan được trùng trùng âm mưu của Yến Nam Phi, Hướng Ứng Thiên, Công tử Vũ, Dương Phu Nhân… đồng thời tìm ra bí mật đằng sau cái chết của Dương Thường Phong và thân thế của mình, tìm lại được tình yêu\n\n#PhimBộCổTrangTrungQuốc\n#PhimKiếmHiệpTrungQuốcHayNhất\n#PhimBộTrungQuốcMớiNhất\n\n© Bản quyền thuộc về Li1 Movies \n© Copyright by Li1 Movies   ❌ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h3Ao-eUL3yM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h3Ao-eUL3yM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h3Ao-eUL3yM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/h3Ao-eUL3yM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/h3Ao-eUL3yM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "h3Ao-eUL3yM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "h3Ao-eUL3yM",
+                "videoPublishedAt": "2019-10-19T11:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "blFqjuRHmprTIXCqQBbVlWfVbDo",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "Phim Kiếm Hiệp Hay 2020 | CỔ KIẾM KỲ ĐÀM 2 - Tập 30 | Phim Bộ Hay 2020",
+                "description": "►Trọn bộ: https://bit.ly/3aygUhx\n►Xem các phim hay khác: http://bit.ly/3a0n36k\n►Tên phim: CỔ KIẾM KỲ ĐÀM Phần 2 (48 Tập) \n►Nội dung: Nhạc Vô Dị - chàng trai hiệp nghĩa lên đường đi tìm tòi học tập yển thuật . Trên đường cậu gặp được nàng Văn Nhân Vũ – một cô gái trung can nghĩa đảm của Bách Thảo Cốc, cùng với Hạ Di Tắc – đệ tử Thái Hoa quan và cũng là nửa người nửa yêu. Họ lên đường đi tìm yển sư Tạ Y, đồng thời gặp được linh nữ A Nguyễn. Họ cùng nhau chiến đấu chống lại đám người của Lưu Nguyệt Thành. Lưu Nguyệt Thành điều kiện sống không tốt nên Đại Tế Tư Thẩm Dạ quyết định hợp tác với Tâm Ma làm hại chúng sinh, đổi lại đưa tộc Liệt Sơn xuống hạ giới.... \n\n#CổKiếmKỳĐàm2 #PhimKiếmHiệp #PhimBộHay #PhimHay2020",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SXlb4KlNrsU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SXlb4KlNrsU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SXlb4KlNrsU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SXlb4KlNrsU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SXlb4KlNrsU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "SXlb4KlNrsU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "SXlb4KlNrsU",
+                "videoPublishedAt": "2020-05-01T07:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "v4RfGfkeau-qjEbVrOjhakG8ZLg",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "Tình Sử Đại Đường - Tập 14 | Phim Bộ Kiếm Hiệp Trung Quốc Mới Hay Nhất - Thuyết Minh",
+                "description": "Tình Sử Đại Đường - Tập 14 | Phim Bộ Kiếm Hiệp Trung Quốc Mới Hay Nhất - Thuyết Minh \nTình Sử Đại Đường Thuyết Minh : https://bit.ly/2TBz1hS\nPhim Hay 2020 Mới Nhất : https://goo.gl/8cGvY9\nPhim Việt Nam Chiếu Rạp 2020: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ifK9-dzMN3I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ifK9-dzMN3I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ifK9-dzMN3I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ifK9-dzMN3I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ifK9-dzMN3I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ifK9-dzMN3I"
+                }
+            },
+            "contentDetails": {
+                "videoId": "ifK9-dzMN3I",
+                "videoPublishedAt": "2020-01-20T04:15:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZzwiGnEojEHhvaOfrN4UhVsohSI",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "Tuyệt Sắc Song Kiều - Tập 6 | Phim Bộ Kiếm Hiệp Trung Quốc Mới Hay Nhất",
+                "description": "Tuyệt Sắc Song Kiều - Tập 6 | Phim Bộ Kiếm Hiệp Trung Quốc Mới Hay Nhất \nTuyệt Sắc Son Kiều Full Bộ : https://bit.ly/2YbsYmo\nPhim Bộ Trung Quốc Mới Nhất : https://goo.gl/VfPiBm\nLoạn Thế Hồng Nhan Full bộ: https://goo.gl/Gt8ahz\nMỹ Nhân Đa Tình Full Bộ:https://goo.gl/GD1V3K\nMị giả Vô Cương Full Bộ :https://goo.gl/oPo3dW\nĐăng Ký Kênh CachiCachi VN Xem Phim Mới Nhất : https://goo.gl/VfPiBm\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ABuBLRki07A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ABuBLRki07A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ABuBLRki07A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ABuBLRki07A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ABuBLRki07A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ABuBLRki07A"
+                }
+            },
+            "contentDetails": {
+                "videoId": "ABuBLRki07A",
+                "videoPublishedAt": "2020-04-30T03:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7VnWtfhDfyo72Sd3pIhBk9mNTbk",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "Phim Hay 2019 | Thích Hổ - Tập 8 | Phim Bộ Kiếm Hiệp Trung Quốc Mới Nhất 2019 - Thuyết Minh",
+                "description": "Phim Hay 2019 | Thích Hổ - Tập 8 | Phim Bộ Kiếm Hiệp Trung Quốc Mới Nhất 2019 - Thuyết Minh\nThích Hổ Full Bộ:https://goo.gl/m79rfz\nPhim Bộ Trung Quốc 2018 :https://youtu.be/OQi5qTxaESc\nphim việt nam 2018 : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2018: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\n#PhimTrungQuoc #ĐăngKýNgay\n\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z4OJmU713hY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z4OJmU713hY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z4OJmU713hY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/z4OJmU713hY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/z4OJmU713hY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 31,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "z4OJmU713hY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "z4OJmU713hY",
+                "videoPublishedAt": "2019-01-11T08:08:51Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "PE9NQYF3HUX-TgC2LFndQm2t0dc",
+            "id": "UExzZDBzSmd3VGR6Ti16cDB5ejRPbDhzaGdraUw0cFdwUi43NDhFRTgwOTRERTU4Rjg3",
+            "snippet": {
+                "publishedAt": "2020-05-06T06:50:04Z",
+                "channelId": "UCNugmrTWG1zHb-5XT8Hrx9Q",
+                "title": "Nỗi Đau Của Hạnh Phúc - Tập Cuối | Phim Tình Cảm Việt Nam Mới Hay Nhất",
+                "description": "Nỗi Đau Của Hạnh Phúc - Tập 32 | Phim Tình Cảm Việt Nam Mới Hay Nhất \nNỗi Đau Của Hạnh Phúc Full Bộ : https://bit.ly/2W4WHuk\nPhim Việt Nam Chiếu Rạp : https://goo.gl/f5LDo5\nphim hành động 2020 :https://goo.gl/f5LDo5\nphim kiếm hiệp mới nhất 2020 : https://goo.gl/pG2tqD\n►Phim Việt Nam Chiếu Rạp 2020 :https://goo.gl/R7Whs5\n►►Đăng Ký Phim Hay Việt Nam : https://goo.gl/f5LDo5\n►►► Like Page để không bỏ lỡ bộ phim HOT nào: https://www.facebook.com/PhimHayPage\nBản quyền thuộc BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1hE92JBz2TU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1hE92JBz2TU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1hE92JBz2TU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1hE92JBz2TU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1hE92JBz2TU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Darius F burke",
+                "playlistId": "PLsd0sJgwTdzN-zp0yz4Ol8shgkiL4pWpR",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1hE92JBz2TU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "1hE92JBz2TU",
+                "videoPublishedAt": "2020-05-04T11:00:02Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 33,
+        "resultsPerPage": 50
     }
 }

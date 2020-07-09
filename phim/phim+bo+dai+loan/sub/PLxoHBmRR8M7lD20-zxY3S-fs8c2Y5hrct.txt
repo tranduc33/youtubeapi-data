@@ -1,0 +1,747 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "7WZDj5hHrdT2uJrJbCD8cok01dQ",
+    "nextPageToken": "CDIQAA",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "sfksRCKMgb3qmMmmRP1PhrrkD4g",
+            "id": "UEx4b0hCbVJSOE03bEQyMC16eFkzUy1mczhjMlk1aHJjdC4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2016-06-16T12:32:05Z",
+                "channelId": "UCQTbcIA-oifVea0Of0zCa6A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "le thanh tam le",
+                "playlistId": "PLxoHBmRR8M7lD20-zxY3S-fs8c2Y5hrct",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3WU-acZsOc4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "3WU-acZsOc4"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_YrZOLr1QXGYvZcWv9G2ew7G-QE",
+            "id": "UEx4b0hCbVJSOE03bEQyMC16eFkzUy1mczhjMlk1aHJjdC4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2016-06-16T12:33:44Z",
+                "channelId": "UCQTbcIA-oifVea0Of0zCa6A",
+                "title": "Bạch Cốt Âm Dương Kiếm ATV 1989",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/72leL7VEO44/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/72leL7VEO44/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/72leL7VEO44/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/72leL7VEO44/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "le thanh tam le",
+                "playlistId": "PLxoHBmRR8M7lD20-zxY3S-fs8c2Y5hrct",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "72leL7VEO44"
+                }
+            },
+            "contentDetails": {
+                "videoId": "72leL7VEO44",
+                "videoPublishedAt": "2015-08-06T12:26:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pILc6U3uxNX8Poqr86s0wj7pC4o",
+            "id": "UEx4b0hCbVJSOE03bEQyMC16eFkzUy1mczhjMlk1aHJjdC40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2016-06-16T12:36:01Z",
+                "channelId": "UCQTbcIA-oifVea0Of0zCa6A",
+                "title": "Đơn Kiếm Diệt Quần Ma '1985 [SBF]",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6ADaN3ep9h8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6ADaN3ep9h8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6ADaN3ep9h8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6ADaN3ep9h8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "le thanh tam le",
+                "playlistId": "PLxoHBmRR8M7lD20-zxY3S-fs8c2Y5hrct",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6ADaN3ep9h8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "6ADaN3ep9h8",
+                "videoPublishedAt": "2016-03-13T18:13:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VqGfvOjmnA9MB3cny_nKs2QWMUY",
+            "id": "UEx4b0hCbVJSOE03bEQyMC16eFkzUy1mczhjMlk1aHJjdC4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2016-06-16T12:36:38Z",
+                "channelId": "UCQTbcIA-oifVea0Of0zCa6A",
+                "title": "Tiềm Long Lệnh 1989 [Đài Loan]",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AL_mb5dxY-U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AL_mb5dxY-U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AL_mb5dxY-U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AL_mb5dxY-U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "le thanh tam le",
+                "playlistId": "PLxoHBmRR8M7lD20-zxY3S-fs8c2Y5hrct",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "AL_mb5dxY-U"
+                }
+            },
+            "contentDetails": {
+                "videoId": "AL_mb5dxY-U",
+                "videoPublishedAt": "2015-08-31T19:49:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MRlk5QPJk_lCzuwmrH_1nxoBkeA",
+            "id": "UEx4b0hCbVJSOE03bEQyMC16eFkzUy1mczhjMlk1aHJjdC41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2016-06-16T12:38:45Z",
+                "channelId": "UCQTbcIA-oifVea0Of0zCa6A",
+                "title": "Diêm Hoàn Lệnh",
+                "description": "Diêm Hoàn Lệnh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EMspvlrsXIU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EMspvlrsXIU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EMspvlrsXIU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EMspvlrsXIU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "le thanh tam le",
+                "playlistId": "PLxoHBmRR8M7lD20-zxY3S-fs8c2Y5hrct",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EMspvlrsXIU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "EMspvlrsXIU",
+                "videoPublishedAt": "2016-05-04T09:54:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hap8wKbQ4j32mggTY5FAJlbk6Ng",
+            "id": "UEx4b0hCbVJSOE03bEQyMC16eFkzUy1mczhjMlk1aHJjdC5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2016-06-16T12:38:52Z",
+                "channelId": "UCQTbcIA-oifVea0Of0zCa6A",
+                "title": "Mật Lệnh",
+                "description": "Mật Lệnh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PfNp-UZvVjM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PfNp-UZvVjM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PfNp-UZvVjM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PfNp-UZvVjM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "le thanh tam le",
+                "playlistId": "PLxoHBmRR8M7lD20-zxY3S-fs8c2Y5hrct",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PfNp-UZvVjM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "PfNp-UZvVjM",
+                "videoPublishedAt": "2016-05-04T10:03:48Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Hxb_xrGfCiGhH_k6nocZI5OyKAc",
+            "id": "UEx4b0hCbVJSOE03bEQyMC16eFkzUy1mczhjMlk1aHJjdC4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2016-06-29T04:26:00Z",
+                "channelId": "UCQTbcIA-oifVea0Of0zCa6A",
+                "title": "Lê Sơn Lão Mẫu và 3 vị Bồ Tát - Tây Du Ký 1986",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aLgPJkOCOfc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aLgPJkOCOfc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aLgPJkOCOfc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aLgPJkOCOfc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "le thanh tam le",
+                "playlistId": "PLxoHBmRR8M7lD20-zxY3S-fs8c2Y5hrct",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "aLgPJkOCOfc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "aLgPJkOCOfc",
+                "videoPublishedAt": "2013-06-25T20:31:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tIyjPqz_c4N-MXQpqeHbP2c0tmE",
+            "id": "UEx4b0hCbVJSOE03bEQyMC16eFkzUy1mczhjMlk1aHJjdC5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2016-06-30T05:46:54Z",
+                "channelId": "UCQTbcIA-oifVea0Of0zCa6A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "le thanh tam le",
+                "playlistId": "PLxoHBmRR8M7lD20-zxY3S-fs8c2Y5hrct",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "InpnUJ9vypg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "InpnUJ9vypg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "eDDXrvEp4YwpUJOsr7eSYNl9KlQ",
+            "id": "UEx4b0hCbVJSOE03bEQyMC16eFkzUy1mczhjMlk1aHJjdC45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2016-07-20T09:56:11Z",
+                "channelId": "UCQTbcIA-oifVea0Of0zCa6A",
+                "title": "Ô Long Vượt Ải Tình (Ô Long Thiên Tử) Full  - Tập 1",
+                "description": "Ô Long Thiên Tử Full",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sAXK0sMjmWw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sAXK0sMjmWw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sAXK0sMjmWw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sAXK0sMjmWw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "le thanh tam le",
+                "playlistId": "PLxoHBmRR8M7lD20-zxY3S-fs8c2Y5hrct",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sAXK0sMjmWw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "sAXK0sMjmWw",
+                "videoPublishedAt": "2015-02-28T05:43:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bXq5fHnkXZQUkzqJii-qey1bh0s",
+            "id": "UEx4b0hCbVJSOE03bEQyMC16eFkzUy1mczhjMlk1aHJjdC43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2016-07-24T03:17:34Z",
+                "channelId": "UCQTbcIA-oifVea0Of0zCa6A",
+                "title": "LK Top Hits (DJ Thúy Khanh Remix) - Lâm Vũ, Tuấn Hưng, Nhât Kim Anh, Hồ Việt Trung,",
+                "description": "Tải ứng dụng POPS để xem MV, liveshow, phim ca nhạc hot nhất: http://bit.ly/app-POPSmusic-1\n. Bài hát: Liên Khúc Top Hits (DJ Thúy Khanh Remix)\nCa sỹ: Lâm Vũ, Tuấn Hưng, Nhật Kim Anh, Hồ Việt Trung, Hàn Thái Tú, Châu Gia Kiệt.\n\nPOPS Music - Kênh âm nhạc trực tuyến hàng đầu Việt Nam. \n\nFollow POPS Music: \n\n♫ Subscribe: https://www.youtube.com/user/POPSVIETNAM?sub_confirmation=1\n♫ Website: http://www.pops.vn\n♫ Facebook : https://www.facebook.com/popsvietnamchannel\n♫ Google Plus : https://plus.google.com/+PopsVnpage\n♫ Apps: http://company.pops.vn/popsworldwide/vietnam/music/games-apps \n \nPOPS Music là kênh giải trí âm nhạc trực tuyến lớn nhất tại Việt Nam. Giới thiệu đến người xem những sản phẩm mới và hot nhất thị trường âm nhạc hiện nay. Hãy đồng hành cùng chúng tôi để thưởng thức những sản phẩm âm nhạc tuyệt vời nhất.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5KuIITOUpZY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5KuIITOUpZY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5KuIITOUpZY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5KuIITOUpZY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5KuIITOUpZY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "le thanh tam le",
+                "playlistId": "PLxoHBmRR8M7lD20-zxY3S-fs8c2Y5hrct",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5KuIITOUpZY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "5KuIITOUpZY",
+                "videoPublishedAt": "2015-09-22T10:10:50Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "n563AOE_7MhFT6N5lMAKWqnR_pA",
+            "id": "UEx4b0hCbVJSOE03bEQyMC16eFkzUy1mczhjMlk1aHJjdC41QUZGQTY5OTE4QTREQUU4",
+            "snippet": {
+                "publishedAt": "2016-07-30T15:55:12Z",
+                "channelId": "UCQTbcIA-oifVea0Of0zCa6A",
+                "title": "安娜·弗里茨的尸体 BD1280超清西班牙语中字",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0mviBMun8vc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0mviBMun8vc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0mviBMun8vc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0mviBMun8vc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0mviBMun8vc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "le thanh tam le",
+                "playlistId": "PLxoHBmRR8M7lD20-zxY3S-fs8c2Y5hrct",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0mviBMun8vc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "0mviBMun8vc",
+                "videoPublishedAt": "2016-03-24T13:03:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uQpiOboU4u_0Gb3SCy6DpoYAzOU",
+            "id": "UEx4b0hCbVJSOE03bEQyMC16eFkzUy1mczhjMlk1aHJjdC40QTA3NTU2RkM1QzlCMzYx",
+            "snippet": {
+                "publishedAt": "2016-08-17T13:46:55Z",
+                "channelId": "UCQTbcIA-oifVea0Of0zCa6A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "le thanh tam le",
+                "playlistId": "PLxoHBmRR8M7lD20-zxY3S-fs8c2Y5hrct",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xjtkqOs8Vms"
+                }
+            },
+            "contentDetails": {
+                "videoId": "xjtkqOs8Vms"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6dtgLF5mVTvYIf4JUR6frp1zseY",
+            "id": "UEx4b0hCbVJSOE03bEQyMC16eFkzUy1mczhjMlk1aHJjdC5BRjJDODk5REM0NjkzMUIy",
+            "snippet": {
+                "publishedAt": "2016-08-17T13:47:03Z",
+                "channelId": "UCQTbcIA-oifVea0Of0zCa6A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "le thanh tam le",
+                "playlistId": "PLxoHBmRR8M7lD20-zxY3S-fs8c2Y5hrct",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "82d-yHBFya8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "82d-yHBFya8"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rAgTmM1JaWXDzCxxP_3Qjzem5Xk",
+            "id": "UEx4b0hCbVJSOE03bEQyMC16eFkzUy1mczhjMlk1aHJjdC4xOTEzQzhBQzU3MDNDNjcz",
+            "snippet": {
+                "publishedAt": "2016-08-17T13:47:14Z",
+                "channelId": "UCQTbcIA-oifVea0Of0zCa6A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "le thanh tam le",
+                "playlistId": "PLxoHBmRR8M7lD20-zxY3S-fs8c2Y5hrct",
+                "position": 34,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0ae0i4o1vVo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "0ae0i4o1vVo"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "RAQ-ETx2zpEuB9OWjGXXP1ld4Ek",
+            "id": "UEx4b0hCbVJSOE03bEQyMC16eFkzUy1mczhjMlk1aHJjdC4zQzFBN0RGNzNFREFCMjBE",
+            "snippet": {
+                "publishedAt": "2016-08-17T13:47:22Z",
+                "channelId": "UCQTbcIA-oifVea0Of0zCa6A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "le thanh tam le",
+                "playlistId": "PLxoHBmRR8M7lD20-zxY3S-fs8c2Y5hrct",
+                "position": 36,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "55l74FFoDRs"
+                }
+            },
+            "contentDetails": {
+                "videoId": "55l74FFoDRs"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vwpw9Ny0wny78waoQ3bPltDgUm0",
+            "id": "UEx4b0hCbVJSOE03bEQyMC16eFkzUy1mczhjMlk1aHJjdC45NkVENTkxRDdCQUFBMDY4",
+            "snippet": {
+                "publishedAt": "2016-08-17T13:47:31Z",
+                "channelId": "UCQTbcIA-oifVea0Of0zCa6A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "le thanh tam le",
+                "playlistId": "PLxoHBmRR8M7lD20-zxY3S-fs8c2Y5hrct",
+                "position": 37,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "JpQNitxqU7w"
+                }
+            },
+            "contentDetails": {
+                "videoId": "JpQNitxqU7w"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nfbJSveM0l4JO83du4OALE5v7iU",
+            "id": "UEx4b0hCbVJSOE03bEQyMC16eFkzUy1mczhjMlk1aHJjdC5DNkMwRUI2MkI4QkI4NDFG",
+            "snippet": {
+                "publishedAt": "2016-08-17T13:47:38Z",
+                "channelId": "UCQTbcIA-oifVea0Of0zCa6A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "le thanh tam le",
+                "playlistId": "PLxoHBmRR8M7lD20-zxY3S-fs8c2Y5hrct",
+                "position": 38,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "gqnK7duz0DI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "gqnK7duz0DI"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UJhSJVUT_78e60Nndweu65dcqfk",
+            "id": "UEx4b0hCbVJSOE03bEQyMC16eFkzUy1mczhjMlk1aHJjdC5DRUQwODMxQzUyRTlGRkY3",
+            "snippet": {
+                "publishedAt": "2016-08-17T13:47:57Z",
+                "channelId": "UCQTbcIA-oifVea0Of0zCa6A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "le thanh tam le",
+                "playlistId": "PLxoHBmRR8M7lD20-zxY3S-fs8c2Y5hrct",
+                "position": 39,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_kbnJehwKlY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "_kbnJehwKlY"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "KSMzEdEh0ZzkIFWTuiXdOCjJU7k",
+            "id": "UEx4b0hCbVJSOE03bEQyMC16eFkzUy1mczhjMlk1aHJjdC41MzY4MzcwOUFFRUU3QzEx",
+            "snippet": {
+                "publishedAt": "2016-08-17T13:48:09Z",
+                "channelId": "UCQTbcIA-oifVea0Of0zCa6A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "le thanh tam le",
+                "playlistId": "PLxoHBmRR8M7lD20-zxY3S-fs8c2Y5hrct",
+                "position": 40,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KTu4xlPmp6c"
+                }
+            },
+            "contentDetails": {
+                "videoId": "KTu4xlPmp6c"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "sA9C-XEA-v4qvvbGamSa9tWfSQo",
+            "id": "UEx4b0hCbVJSOE03bEQyMC16eFkzUy1mczhjMlk1aHJjdC4yQjZFRkExQjFGODk3RUFD",
+            "snippet": {
+                "publishedAt": "2016-08-17T13:48:24Z",
+                "channelId": "UCQTbcIA-oifVea0Of0zCa6A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "le thanh tam le",
+                "playlistId": "PLxoHBmRR8M7lD20-zxY3S-fs8c2Y5hrct",
+                "position": 41,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8PohV5QvdkQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "8PohV5QvdkQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "XmnMEyJwlCUO8QX3zhcXNRlVRUw",
+            "id": "UEx4b0hCbVJSOE03bEQyMC16eFkzUy1mczhjMlk1aHJjdC4yQUJFNUVCMzVDNjcxRTlF",
+            "snippet": {
+                "publishedAt": "2016-08-17T13:48:28Z",
+                "channelId": "UCQTbcIA-oifVea0Of0zCa6A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "le thanh tam le",
+                "playlistId": "PLxoHBmRR8M7lD20-zxY3S-fs8c2Y5hrct",
+                "position": 42,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4hw5vyQfiq0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "4hw5vyQfiq0"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MvBFbwnLAM_FeoBk7vu1-1emDqE",
+            "id": "UEx4b0hCbVJSOE03bEQyMC16eFkzUy1mczhjMlk1aHJjdC40QzRDOEU0QUYwNUIxN0M1",
+            "snippet": {
+                "publishedAt": "2016-08-17T13:48:36Z",
+                "channelId": "UCQTbcIA-oifVea0Of0zCa6A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "le thanh tam le",
+                "playlistId": "PLxoHBmRR8M7lD20-zxY3S-fs8c2Y5hrct",
+                "position": 43,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kD8u2tYs34M"
+                }
+            },
+            "contentDetails": {
+                "videoId": "kD8u2tYs34M"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "y8a1w6xkMnjpDuAyhMqgKU6-0Jw",
+            "id": "UEx4b0hCbVJSOE03bEQyMC16eFkzUy1mczhjMlk1aHJjdC41RTNBREYwMkI5QzU3RkY2",
+            "snippet": {
+                "publishedAt": "2016-08-17T13:49:10Z",
+                "channelId": "UCQTbcIA-oifVea0Of0zCa6A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "le thanh tam le",
+                "playlistId": "PLxoHBmRR8M7lD20-zxY3S-fs8c2Y5hrct",
+                "position": 44,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "B6Qp12_va3w"
+                }
+            },
+            "contentDetails": {
+                "videoId": "B6Qp12_va3w"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "boE4a8vgOOK_0DlVNE9QWNPqTdg",
+            "id": "UEx4b0hCbVJSOE03bEQyMC16eFkzUy1mczhjMlk1aHJjdC5ENjI1QUI0MDI5NEQzODFE",
+            "snippet": {
+                "publishedAt": "2016-08-17T13:49:14Z",
+                "channelId": "UCQTbcIA-oifVea0Of0zCa6A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "le thanh tam le",
+                "playlistId": "PLxoHBmRR8M7lD20-zxY3S-fs8c2Y5hrct",
+                "position": 45,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "buzmtSC9r68"
+                }
+            },
+            "contentDetails": {
+                "videoId": "buzmtSC9r68"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 55,
+        "resultsPerPage": 50
+    }
+}

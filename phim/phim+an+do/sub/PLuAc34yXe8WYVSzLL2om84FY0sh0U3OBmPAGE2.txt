@@ -1,0 +1,99 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "f2jqKy7i0CXEVYd1RqJqDqstzDY",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Yt4C5Ni1VuXQLHRFlC9F4n-oU5k",
+            "id": "UEx1QWMzNHlYZThXWVZTekxMMm9tODRGWTBzaDBVM09CbS44QzVGQUU2QjE2NDgxM0M4",
+            "snippet": {
+                "publishedAt": "2020-07-08T12:20:31Z",
+                "channelId": "UCQ-FnmR7tevQ5Kz0UA27EmA",
+                "title": "Rambo 4 scena finale",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hRuQtixr-JI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hRuQtixr-JI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hRuQtixr-JI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Gabriel Villanueva",
+                "playlistId": "PLuAc34yXe8WYVSzLL2om84FY0sh0U3OBm",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hRuQtixr-JI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "hRuQtixr-JI",
+                "videoPublishedAt": "2015-02-13T12:05:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "iqnAzMyeUfbOcCjqBCcWuOkhQLQ",
+            "id": "UEx1QWMzNHlYZThXWVZTekxMMm9tODRGWTBzaDBVM09CbS4xMzgwMzBERjQ4NjEzNUE5",
+            "snippet": {
+                "publishedAt": "2020-07-08T12:20:31Z",
+                "channelId": "UCQ-FnmR7tevQ5Kz0UA27EmA",
+                "title": "学校の映画2020 🍀最新の学校恋愛映画2020 🍀 日本映画フル字幕版 2020 #12",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/myVHfwVuc3U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/myVHfwVuc3U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/myVHfwVuc3U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/myVHfwVuc3U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/myVHfwVuc3U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Gabriel Villanueva",
+                "playlistId": "PLuAc34yXe8WYVSzLL2om84FY0sh0U3OBm",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "myVHfwVuc3U"
+                }
+            },
+            "contentDetails": {
+                "videoId": "myVHfwVuc3U",
+                "videoPublishedAt": "2020-07-04T19:37:00Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 52,
+        "resultsPerPage": 50
+    }
+}

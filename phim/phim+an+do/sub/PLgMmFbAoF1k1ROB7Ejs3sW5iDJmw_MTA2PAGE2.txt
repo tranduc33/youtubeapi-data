@@ -1,0 +1,94 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "Xj_vm_nkc-xPvXg4CrNYHoZyz84",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "qoTD4nCed_LJ3WxoKG8u00o1pSg",
+            "id": "UExnTW1GYkFvRjFrMVJPQjdFanMzc1c1aURKbXdfTVRBMi44QzVGQUU2QjE2NDgxM0M4",
+            "snippet": {
+                "publishedAt": "2020-07-08T09:15:50Z",
+                "channelId": "UCj3rKRJJkMNZSKd692cVtTA",
+                "title": "IP MAN 4 FILM COMPLET en francais HD (DONNIE YEN)",
+                "description": "IP MAN 4 FILM COMPLET en francais HD (DONNIE YEN)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Eux250tCj4k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Eux250tCj4k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Eux250tCj4k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Eux250tCj4k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Agustin Melo",
+                "playlistId": "PLgMmFbAoF1k1ROB7Ejs3sW5iDJmw_MTA2",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Eux250tCj4k"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Eux250tCj4k",
+                "videoPublishedAt": "2020-05-31T13:20:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "y7xifXxCB2QsCo6wSanr5FdSFDY",
+            "id": "UExnTW1GYkFvRjFrMVJPQjdFanMzc1c1aURKbXdfTVRBMi4xMzgwMzBERjQ4NjEzNUE5",
+            "snippet": {
+                "publishedAt": "2020-07-08T09:15:50Z",
+                "channelId": "UCj3rKRJJkMNZSKd692cVtTA",
+                "title": "Phim Hành Động Mỹ 2019 - Lính Đặc Nhiệm / Full HD Thuyết Minh",
+                "description": "Phim Hành Động Mỹ 2019 - Lính Đặc Nhiệm Full Thuyết Minh\nLực Lượng Biệt Kích: Special Forces\nĐạo diễn: Stephane Rybojad\nDiễn viên: Benoit Magimel, Denis Menochet, Djimon Hounsou\nThể loại: Phim Hành Động\nQuốc gia: Phim Mỹ - Châu Âu\nNội dung Phim: Bộ phim có nội dung kể về vụ bắt cóc một nhà báo trẻ người Pháp tại Afghanistan do Taliban thực hiện. Chính phủ Pháp từ chối tuân theo điều kiện của những kẻ bắt cóc. Sau đó, Taliban đăng trên Inteet video đếm ngược đến giờ chết của cô nhà báo. Để giải cứu cô, chính phủ Pháp đã gửi đến một lực lượng đặc nhiệm tinh nhuệ, nhưng có rất ít khả năng để đánh bại những phần tử này. Số phận cô gái rồi sẽ ra sao…\n-----------------------------------------------\nSubscribe kênh ngay hôm nay để theo dõi các tập phim tiếp theo tại https://www.youtube.com/channel/UCgui... \nCám ơn các bạn đã theo dõi và đăng ký kênh BATALION",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AnukRml4JuM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AnukRml4JuM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AnukRml4JuM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Agustin Melo",
+                "playlistId": "PLgMmFbAoF1k1ROB7Ejs3sW5iDJmw_MTA2",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "AnukRml4JuM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "AnukRml4JuM",
+                "videoPublishedAt": "2019-08-21T16:17:41Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 52,
+        "resultsPerPage": 50
+    }
+}

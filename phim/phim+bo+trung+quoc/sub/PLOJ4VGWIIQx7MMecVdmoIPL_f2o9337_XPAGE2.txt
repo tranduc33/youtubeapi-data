@@ -1,0 +1,33 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "kQF56twimgm6OCT7Yi2Jgl4EOV8",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ziI15xdrxvVsxzyo91-iteQVFko",
+            "id": "UExPSjRWR1dJSVF4N01NZWNWZG1vSVBMX2YybzkzMzdfWC44QzVGQUU2QjE2NDgxM0M4",
+            "snippet": {
+                "publishedAt": "2020-04-28T02:09:09Z",
+                "channelId": "UCT1YvRRHONn4lrotuJdnCiA",
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
+                "channelTitle": "Cmdowkenldm Shwopwkdvd",
+                "playlistId": "PLOJ4VGWIIQx7MMecVdmoIPL_f2o9337_X",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sXElG9mIuIE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "sXElG9mIuIE"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 51,
+        "resultsPerPage": 50
+    }
+}

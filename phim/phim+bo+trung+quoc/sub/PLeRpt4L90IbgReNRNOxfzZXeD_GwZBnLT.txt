@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "B4g51qEyOTcXj31HO72qSoXRKfU",
+    "etag": "nkaWFt4zf9Vcj0qMZFTGHbQRjJE",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -1180,14 +1180,40 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ohx2r06KrIvp_KUQnfqQ-4nzaJA",
+            "etag": "yppaoyd7ajLmKKMqLSgldu7-A_g",
             "id": "UExlUnB0NEw5MEliZ1JlTlJOT3hmelpYZURfR3daQm5MVC5DNzE1RjZEMUZCMjA0RDBB",
             "snippet": {
                 "publishedAt": "2020-07-07T13:47:17Z",
                 "channelId": "UCfLPava14uK6bkKKUIar24g",
-                "title": "Private video",
-                "description": "This video is private.",
-                "thumbnails": {},
+                "title": "Huyện Lệnh Thảo Dân - Tập 25 | Phim Cổ Trang Kiếm Hiệp Mới Hay Nhất - Thuyết Minh",
+                "description": "Huyện Lệnh Thảo Dân - Tập 25 | Phim Cổ Trang Kiếm Hiệp Mới Hay Nhất - Thuyết Minh\nHuyện Lệnh Thảo Dân Full Bộ: https://bit.ly/3hj4aA0\nPhim Bộ Trung Quốc Mới Nhất : https://goo.gl/VfPiBm\nLoạn Thế Hồng Nhan Full bộ: https://goo.gl/Gt8ahz\nMỹ Nhân Đa Tình Full Bộ:https://goo.gl/GD1V3K\nMị giả Vô Cương Full Bộ :https://goo.gl/oPo3dW\nĐăng Ký Kênh CachiCachi VN Xem Phim Mới Nhất : https://goo.gl/VfPiBm\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/g3gMqhSuijs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/g3gMqhSuijs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/g3gMqhSuijs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/g3gMqhSuijs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/g3gMqhSuijs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
                 "channelTitle": "CachiCachi - Phim Trung Quoc",
                 "playlistId": "PLeRpt4L90IbgReNRNOxfzZXeD_GwZBnLT",
                 "position": 24,
@@ -1197,19 +1223,46 @@
                 }
             },
             "contentDetails": {
-                "videoId": "g3gMqhSuijs"
+                "videoId": "g3gMqhSuijs",
+                "videoPublishedAt": "2020-07-07T23:30:01Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "_ubsl8jhJtedZ7Ws2FTkmhvwEWE",
+            "etag": "jIF4zD1kT_evLwnoYFzzDZ-qy7c",
             "id": "UExlUnB0NEw5MEliZ1JlTlJOT3hmelpYZURfR3daQm5MVC43MTI1NDIwOTMwQjIxMzNG",
             "snippet": {
                 "publishedAt": "2020-07-07T13:47:17Z",
                 "channelId": "UCfLPava14uK6bkKKUIar24g",
-                "title": "Private video",
-                "description": "This video is private.",
-                "thumbnails": {},
+                "title": "Huyện Lệnh Thảo Dân - Tập 26 | Phim Cổ Trang Kiếm Hiệp Mới Hay Nhất - Thuyết Minh",
+                "description": "Huyện Lệnh Thảo Dân - Tập 26 | Phim Cổ Trang Kiếm Hiệp Mới Hay Nhất - Thuyết Minh\nHuyện Lệnh Thảo Dân Full Bộ: https://bit.ly/3hj4aA0\nPhim Bộ Trung Quốc Mới Nhất : https://goo.gl/VfPiBm\nLoạn Thế Hồng Nhan Full bộ: https://goo.gl/Gt8ahz\nMỹ Nhân Đa Tình Full Bộ:https://goo.gl/GD1V3K\nMị giả Vô Cương Full Bộ :https://goo.gl/oPo3dW\nĐăng Ký Kênh CachiCachi VN Xem Phim Mới Nhất : https://goo.gl/VfPiBm\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ILtY8pTJQQw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ILtY8pTJQQw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ILtY8pTJQQw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ILtY8pTJQQw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ILtY8pTJQQw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
                 "channelTitle": "CachiCachi - Phim Trung Quoc",
                 "playlistId": "PLeRpt4L90IbgReNRNOxfzZXeD_GwZBnLT",
                 "position": 25,
@@ -1219,19 +1272,46 @@
                 }
             },
             "contentDetails": {
-                "videoId": "ILtY8pTJQQw"
+                "videoId": "ILtY8pTJQQw",
+                "videoPublishedAt": "2020-07-08T02:30:05Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "qdMTuZ64UU-49Qmhgwvbqx2Du04",
+            "etag": "GEB08qkeINc2hXaaYFhLC2nICpg",
             "id": "UExlUnB0NEw5MEliZ1JlTlJOT3hmelpYZURfR3daQm5MVC5DQ0MyQ0Y4Mzg0M0VGOEYw",
             "snippet": {
                 "publishedAt": "2020-07-07T13:47:17Z",
                 "channelId": "UCfLPava14uK6bkKKUIar24g",
-                "title": "Private video",
-                "description": "This video is private.",
-                "thumbnails": {},
+                "title": "Huyện Lệnh Thảo Dân - Tập 27 | Phim Cổ Trang Kiếm Hiệp Mới Hay Nhất - Thuyết Minh",
+                "description": "Huyện Lệnh Thảo Dân - Tập 27 | Phim Cổ Trang Kiếm Hiệp Mới Hay Nhất - Thuyết Minh\nHuyện Lệnh Thảo Dân Full Bộ: https://bit.ly/3hj4aA0\nPhim Bộ Trung Quốc Mới Nhất : https://goo.gl/VfPiBm\nLoạn Thế Hồng Nhan Full bộ: https://goo.gl/Gt8ahz\nMỹ Nhân Đa Tình Full Bộ:https://goo.gl/GD1V3K\nMị giả Vô Cương Full Bộ :https://goo.gl/oPo3dW\nĐăng Ký Kênh CachiCachi VN Xem Phim Mới Nhất : https://goo.gl/VfPiBm\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/arenSIx0fSo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/arenSIx0fSo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/arenSIx0fSo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/arenSIx0fSo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/arenSIx0fSo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
                 "channelTitle": "CachiCachi - Phim Trung Quoc",
                 "playlistId": "PLeRpt4L90IbgReNRNOxfzZXeD_GwZBnLT",
                 "position": 26,
@@ -1241,19 +1321,46 @@
                 }
             },
             "contentDetails": {
-                "videoId": "arenSIx0fSo"
+                "videoId": "arenSIx0fSo",
+                "videoPublishedAt": "2020-07-08T04:30:00Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "q-TSRmBFm5k8JOWpwUOrHMjUK6M",
+            "etag": "NWm39vc5prGIIssmcn2JCUYt3tA",
             "id": "UExlUnB0NEw5MEliZ1JlTlJOT3hmelpYZURfR3daQm5MVC4yQUE2Q0JEMTk4NTM3RTZC",
             "snippet": {
                 "publishedAt": "2020-07-07T13:47:17Z",
                 "channelId": "UCfLPava14uK6bkKKUIar24g",
-                "title": "Private video",
-                "description": "This video is private.",
-                "thumbnails": {},
+                "title": "Huyện Lệnh Thảo Dân - Tập 28 | Phim Cổ Trang Kiếm Hiệp Mới Hay Nhất - Thuyết Minh",
+                "description": "Huyện Lệnh Thảo Dân - Tập 28 | Phim Cổ Trang Kiếm Hiệp Mới Hay Nhất - Thuyết Minh\nHuyện Lệnh Thảo Dân Full Bộ: https://bit.ly/3hj4aA0\nPhim Bộ Trung Quốc Mới Nhất : https://goo.gl/VfPiBm\nLoạn Thế Hồng Nhan Full bộ: https://goo.gl/Gt8ahz\nMỹ Nhân Đa Tình Full Bộ:https://goo.gl/GD1V3K\nMị giả Vô Cương Full Bộ :https://goo.gl/oPo3dW\nĐăng Ký Kênh CachiCachi VN Xem Phim Mới Nhất : https://goo.gl/VfPiBm\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eeWw-iTXd5U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eeWw-iTXd5U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eeWw-iTXd5U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eeWw-iTXd5U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eeWw-iTXd5U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
                 "channelTitle": "CachiCachi - Phim Trung Quoc",
                 "playlistId": "PLeRpt4L90IbgReNRNOxfzZXeD_GwZBnLT",
                 "position": 27,
@@ -1263,19 +1370,46 @@
                 }
             },
             "contentDetails": {
-                "videoId": "eeWw-iTXd5U"
+                "videoId": "eeWw-iTXd5U",
+                "videoPublishedAt": "2020-07-08T06:30:05Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "L9Z19vy79UPH4i5dFBG02G6D2ng",
+            "etag": "mx1BwzqwgTpLrsYamh6NPrfZ4qg",
             "id": "UExlUnB0NEw5MEliZ1JlTlJOT3hmelpYZURfR3daQm5MVC5DMkU4NTY1QUFGQTYwMDE3",
             "snippet": {
                 "publishedAt": "2020-07-07T13:47:17Z",
                 "channelId": "UCfLPava14uK6bkKKUIar24g",
-                "title": "Private video",
-                "description": "This video is private.",
-                "thumbnails": {},
+                "title": "Huyện Lệnh Thảo Dân - Tập 29 | Phim Cổ Trang Kiếm Hiệp Mới Hay Nhất - Thuyết Minh",
+                "description": "Huyện Lệnh Thảo Dân - Tập 29 | Phim Cổ Trang Kiếm Hiệp Mới Hay Nhất - Thuyết Minh\nHuyện Lệnh Thảo Dân Full Bộ: https://bit.ly/3hj4aA0\nPhim Bộ Trung Quốc Mới Nhất : https://goo.gl/VfPiBm\nLoạn Thế Hồng Nhan Full bộ: https://goo.gl/Gt8ahz\nMỹ Nhân Đa Tình Full Bộ:https://goo.gl/GD1V3K\nMị giả Vô Cương Full Bộ :https://goo.gl/oPo3dW\nĐăng Ký Kênh CachiCachi VN Xem Phim Mới Nhất : https://goo.gl/VfPiBm\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gPbf05QycmU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gPbf05QycmU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gPbf05QycmU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gPbf05QycmU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gPbf05QycmU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
                 "channelTitle": "CachiCachi - Phim Trung Quoc",
                 "playlistId": "PLeRpt4L90IbgReNRNOxfzZXeD_GwZBnLT",
                 "position": 28,
@@ -1285,19 +1419,46 @@
                 }
             },
             "contentDetails": {
-                "videoId": "gPbf05QycmU"
+                "videoId": "gPbf05QycmU",
+                "videoPublishedAt": "2020-07-08T08:30:03Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Ygnuy3yx7v11NlyE-7cDrdugZdg",
+            "etag": "9bYUoXbXgJ3cwLYBP0DJdivBsaU",
             "id": "UExlUnB0NEw5MEliZ1JlTlJOT3hmelpYZURfR3daQm5MVC44Mjc5REFBRUE2MTdFRDU0",
             "snippet": {
                 "publishedAt": "2020-07-07T13:47:17Z",
                 "channelId": "UCfLPava14uK6bkKKUIar24g",
-                "title": "Private video",
-                "description": "This video is private.",
-                "thumbnails": {},
+                "title": "Huyện Lệnh Thảo Dân - Tập 30 | Phim Cổ Trang Kiếm Hiệp Mới Hay Nhất - Thuyết Minh",
+                "description": "Huyện Lệnh Thảo Dân - Tập 30 | Phim Cổ Trang Kiếm Hiệp Mới Hay Nhất - Thuyết Minh\nHuyện Lệnh Thảo Dân Full Bộ: https://bit.ly/3hj4aA0\nPhim Bộ Trung Quốc Mới Nhất : https://goo.gl/VfPiBm\nLoạn Thế Hồng Nhan Full bộ: https://goo.gl/Gt8ahz\nMỹ Nhân Đa Tình Full Bộ:https://goo.gl/GD1V3K\nMị giả Vô Cương Full Bộ :https://goo.gl/oPo3dW\nĐăng Ký Kênh CachiCachi VN Xem Phim Mới Nhất : https://goo.gl/VfPiBm\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qOo_OHi028U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qOo_OHi028U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qOo_OHi028U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qOo_OHi028U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qOo_OHi028U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
                 "channelTitle": "CachiCachi - Phim Trung Quoc",
                 "playlistId": "PLeRpt4L90IbgReNRNOxfzZXeD_GwZBnLT",
                 "position": 29,
@@ -1307,12 +1468,13 @@
                 }
             },
             "contentDetails": {
-                "videoId": "qOo_OHi028U"
+                "videoId": "qOo_OHi028U",
+                "videoPublishedAt": "2020-07-08T11:30:06Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "2mPET4uJOuaE-VAPZ8vMXCr3NhE",
+            "etag": "83JGcu7ltK88R5sM3Us0_J4fcyw",
             "id": "UExlUnB0NEw5MEliZ1JlTlJOT3hmelpYZURfR3daQm5MVC43NDhFRTgwOTRERTU4Rjg3",
             "snippet": {
                 "publishedAt": "2020-07-07T13:47:17Z",
@@ -1356,19 +1518,45 @@
             },
             "contentDetails": {
                 "videoId": "ahe3LxtImw8",
-                "videoPublishedAt": "2020-07-06T18:20:42Z"
+                "videoPublishedAt": "2020-07-08T13:00:14Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "q4kAsH7M-B7HQ3_vAPpQPWbmNtA",
+            "etag": "wFxa5QdwCLSnHujnIcFfdZB0XG0",
             "id": "UExlUnB0NEw5MEliZ1JlTlJOT3hmelpYZURfR3daQm5MVC41QUZGQTY5OTE4QTREQUU4",
             "snippet": {
                 "publishedAt": "2020-07-07T13:47:17Z",
                 "channelId": "UCfLPava14uK6bkKKUIar24g",
-                "title": "Private video",
-                "description": "This video is private.",
-                "thumbnails": {},
+                "title": "Huyện Lệnh Thảo Dân - Tập 32 | Phim Cổ Trang Kiếm Hiệp Mới Hay Nhất - Thuyết Minh",
+                "description": "Huyện Lệnh Thảo Dân - Tập 32 | Phim Cổ Trang Kiếm Hiệp Mới Hay Nhất - Thuyết Minh\nHuyện Lệnh Thảo Dân Full Bộ: https://bit.ly/3hj4aA0\nPhim Bộ Trung Quốc Mới Nhất : https://goo.gl/VfPiBm\nLoạn Thế Hồng Nhan Full bộ: https://goo.gl/Gt8ahz\nMỹ Nhân Đa Tình Full Bộ:https://goo.gl/GD1V3K\nMị giả Vô Cương Full Bộ :https://goo.gl/oPo3dW\nĐăng Ký Kênh CachiCachi VN Xem Phim Mới Nhất : https://goo.gl/VfPiBm\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0QMrmigDv3g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0QMrmigDv3g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0QMrmigDv3g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0QMrmigDv3g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0QMrmigDv3g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
                 "channelTitle": "CachiCachi - Phim Trung Quoc",
                 "playlistId": "PLeRpt4L90IbgReNRNOxfzZXeD_GwZBnLT",
                 "position": 31,
@@ -1378,19 +1566,46 @@
                 }
             },
             "contentDetails": {
-                "videoId": "0QMrmigDv3g"
+                "videoId": "0QMrmigDv3g",
+                "videoPublishedAt": "2020-07-09T01:00:01Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "6yU_wXenCJICxgAqVgA4POmE2bI",
+            "etag": "jh3akcZ1ggKwBTgwo-lykyLXfF0",
             "id": "UExlUnB0NEw5MEliZ1JlTlJOT3hmelpYZURfR3daQm5MVC4zRDBDOEZDOUM0MDY5NEEz",
             "snippet": {
                 "publishedAt": "2020-07-07T13:47:17Z",
                 "channelId": "UCfLPava14uK6bkKKUIar24g",
-                "title": "Private video",
-                "description": "This video is private.",
-                "thumbnails": {},
+                "title": "Huyện Lệnh Thảo Dân - Tập 33 | Phim Cổ Trang Kiếm Hiệp Mới Hay Nhất - Thuyết Minh",
+                "description": "Huyện Lệnh Thảo Dân - Tập 33 | Phim Cổ Trang Kiếm Hiệp Mới Hay Nhất - Thuyết Minh\nHuyện Lệnh Thảo Dân Full Bộ: https://bit.ly/3hj4aA0\nPhim Bộ Trung Quốc Mới Nhất : https://goo.gl/VfPiBm\nLoạn Thế Hồng Nhan Full bộ: https://goo.gl/Gt8ahz\nMỹ Nhân Đa Tình Full Bộ:https://goo.gl/GD1V3K\nMị giả Vô Cương Full Bộ :https://goo.gl/oPo3dW\nĐăng Ký Kênh CachiCachi VN Xem Phim Mới Nhất : https://goo.gl/VfPiBm\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KJjnSYi5e9A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KJjnSYi5e9A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KJjnSYi5e9A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KJjnSYi5e9A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KJjnSYi5e9A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
                 "channelTitle": "CachiCachi - Phim Trung Quoc",
                 "playlistId": "PLeRpt4L90IbgReNRNOxfzZXeD_GwZBnLT",
                 "position": 32,
@@ -1400,19 +1615,46 @@
                 }
             },
             "contentDetails": {
-                "videoId": "KJjnSYi5e9A"
+                "videoId": "KJjnSYi5e9A",
+                "videoPublishedAt": "2020-07-09T05:00:04Z"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "kfC9tqGKMixvc9g16e_8BA96nKM",
+            "etag": "o3uxbiOzHdCxs5Oa8KY0Xp7GIcc",
             "id": "UExlUnB0NEw5MEliZ1JlTlJOT3hmelpYZURfR3daQm5MVC5CMEQ2Mjk5NTc3NDZFRUNB",
             "snippet": {
                 "publishedAt": "2020-07-07T13:47:17Z",
                 "channelId": "UCfLPava14uK6bkKKUIar24g",
-                "title": "Private video",
-                "description": "This video is private.",
-                "thumbnails": {},
+                "title": "Huyện Lệnh Thảo Dân - Tập 34 | Phim Cổ Trang Kiếm Hiệp Mới Hay Nhất - Thuyết Minh",
+                "description": "Huyện Lệnh Thảo Dân - Tập 34 | Phim Cổ Trang Kiếm Hiệp Mới Hay Nhất - Thuyết Minh\nHuyện Lệnh Thảo Dân Full Bộ: https://bit.ly/3hj4aA0\nPhim Bộ Trung Quốc Mới Nhất : https://goo.gl/VfPiBm\nLoạn Thế Hồng Nhan Full bộ: https://goo.gl/Gt8ahz\nMỹ Nhân Đa Tình Full Bộ:https://goo.gl/GD1V3K\nMị giả Vô Cương Full Bộ :https://goo.gl/oPo3dW\nĐăng Ký Kênh CachiCachi VN Xem Phim Mới Nhất : https://goo.gl/VfPiBm\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pzE3SqncpAs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pzE3SqncpAs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pzE3SqncpAs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pzE3SqncpAs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pzE3SqncpAs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
                 "channelTitle": "CachiCachi - Phim Trung Quoc",
                 "playlistId": "PLeRpt4L90IbgReNRNOxfzZXeD_GwZBnLT",
                 "position": 33,
@@ -1422,7 +1664,8 @@
                 }
             },
             "contentDetails": {
-                "videoId": "pzE3SqncpAs"
+                "videoId": "pzE3SqncpAs",
+                "videoPublishedAt": "2020-07-09T13:00:13Z"
             }
         }
     ],

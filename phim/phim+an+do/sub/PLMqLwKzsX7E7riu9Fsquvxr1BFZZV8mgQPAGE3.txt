@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "WHGUrf_xo4i44A59porTZ02qmVM",
+    "etag": "9HLMSLRYGdI5TNxroZB6IFjmsKg",
     "prevPageToken": "CGQQAQ",
     "items": [
         {
@@ -985,14 +985,40 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "1YnjdSNj064_IZpBgKDbyfJBoUw",
+            "etag": "dADGs0nOz9vaPTSu0n3MvcxD2QI",
             "id": "UExNcUx3S3pzWDdFN3JpdTlGc3F1dnhyMUJGWlpWOG1nUS42RDgxQ0M2OUIwREZCNjZF",
             "snippet": {
                 "publishedAt": "2020-07-02T12:46:49Z",
                 "channelId": "UCqDfu0gtB0aJCy4jIHL_6bQ",
-                "title": "Private video",
-                "description": "This video is private.",
-                "thumbnails": {},
+                "title": "Phim Ấn Độ - Hoàng Đế Porus Tập 115 - Phim Sử Thi Ấn Độ Lồng Tiếng 2020 | TodayTV",
+                "description": "► Xem trọn bộ Hoàng Đế Porus tại: http://bit.ly/HoangDePorus\n► Đăng ký kênh TodayTV tại http://popsww.com/TodayTV để đón xem Hoàng Đế Porus lúc 21h00 từ thứ 2 đến thứ 7 hàng tuần.\n“Hoàng đế Porus” kể về cuộc chiến kinh điển của đức vua Porus quả cảm và kẻ chinh phục mạnh nhất thế gian – Alexander Đại đế. Một bom tấn sử thi Bollywood được đầu tư công phu, hoành tráng, đáng giá nhất truyền hình Ấn Độ.\n#HoangDePorus #PhimAnDo #TodayTV\n----------------------------------\nNhững nội dung hay trên kênh:\n► Hoàng Đế Porus - Sử Thi Bom Tấn Ấn Độ: http://bit.ly/HoangDePorus\n► Nợ Anh Một Giấc Mơ - Phim Hành Động Việt: https://bit.ly/NoAnhMotGiacMo\n► Vị Vua Huyền Thoại - Phim Sử Thi Ấn Độ: http://bit.ly/Vi-Vua-Huyen-Thoai-Tron-Bo\n► Bên Nhau Trọn Đời - Chung Hán Lương, Đường Yên: http://bit.ly/Ben_Nhau_Tron_Doi\n► Vũ Động Càn Khôn - Dương Dương | Phim Tiên Hiệp Chuyển Thể: http://bit.ly/Vu-Dong-Can-Khon\n► Độc Cô Hoàng Hậu - Trần Kiều Ân, Trần Hiểu: http://bit.ly/Doc-Co-Hoang-Hau\n►Những mảnh đời bất hạnh - Tiếp Sức Hồi Sinh: http://bit.ly/Tiep-Suc-Hoi-Sinh\n► Gia Vị Cuộc Sống: http://bit.ly/Gia-Vi-Cuoc-Song\n----------------------------------\nTodayTV - Kênh truyền hình tổng hợp các chương trình giải trí trong và ngoài nước, phim truyện Việt Nam, Châu Á và phim điện ảnh Hollywood, Gameshow, chương trình thiếu nhi…; phát sóng liên tục 24 tiếng mỗi ngày.\n✦TodayTV có mặt trên các hệ thống Analog, AVG, VTC, HTVC, VTVcab, K+ và SCTV.\n✦ Website: http://todaytv.vn/  \n✦ Facebook: https://www.facebook.com/TodayTV/\n✦ Youtube: www.youtube.com/user/todaytvvietnam\n✦ Email: todaytv@imcorp.com.vn\n✦ Tel: 028 3848 0678\n✦  Fax: 028 3848 0669",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JnGcRGZd1Gk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JnGcRGZd1Gk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JnGcRGZd1Gk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JnGcRGZd1Gk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JnGcRGZd1Gk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E7riu9Fsquvxr1BFZZV8mgQ",
                 "position": 120,
@@ -1002,7 +1028,8 @@
                 }
             },
             "contentDetails": {
-                "videoId": "JnGcRGZd1Gk"
+                "videoId": "JnGcRGZd1Gk",
+                "videoPublishedAt": "2020-07-08T14:00:04Z"
             }
         },
         {

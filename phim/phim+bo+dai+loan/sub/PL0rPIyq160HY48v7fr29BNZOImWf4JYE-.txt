@@ -1,13 +1,1364 @@
 {
-    "error": {
-        "code": 403,
-        "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-        "errors": [
-            {
-                "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-                "domain": "youtube.quota",
-                "reason": "quotaExceeded"
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "K1VogmnsLrNG5a-ofuptTYEK0hc",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2aj-yvK466mKlM9EXivk3fIR7so",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS41QUZGQTY5OTE4QTREQUU4",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:58:16Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "Phim hành động xã hội đen Hồng Kong Đài Loan Trung Quốc Mỹ Nhật Bản.flv",
+                "description": "moi ba con cung xem",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hw9BLHujMbM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hw9BLHujMbM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hw9BLHujMbM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hw9BLHujMbM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "hw9BLHujMbM",
+                "videoPublishedAt": "2011-07-20T02:35:33Z"
             }
-        ]
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HFoDozrk2-SFeSov4vB-rRrj2aE",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS43NDhFRTgwOTRERTU4Rjg3",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:58:05Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "Bí Mật Địa Đạo - Trần Khôn, Tần Hạo, Bạch Bách Hà | Phim Hành Động 2020 Thuyết Minh",
+                "description": "Phim Hành Động Băng Đảng Hay Nhất Thuyết Minh - Bí mật địa đạo.\nĐạo diễn: Yang Qing\nDiễn viên: Trần Khôn, Bạch Bách Hà, Tần Hạo\nThể loại: Hành Động, Phiêu Lưu, Kinh Dị\n\nNội dung phim:\n\nBí mật địa đạo là một bộ phim hài kịch do Yang Qing viết kịch bản và đạo diễn với sự góp mặt của Trần Khôn, Bạch Bách Hà, Tần Hạo. Bộ phim đã được công chiếu trên toàn thế giới vào tháng 3 năm 2016 tại Liên hoan phim quốc tế Hồng Kông 2016 và được phát hành tại Trung Quốc.\n\nNhóm bạn thân Lưu Ba, Hứa Đông và Vương Bình Xuyên hợp tác mở quán lẩu… dưới lòng đất. Trong quá trình đào hầm để mở rộng diện tích quán, họ bất ngờ đào thông lên nền một kho bạc đầy ắp tiền. Tiểu Huệ - bạn học cũ của nhóm, hiện đang làm tại kho bạc đó vô tình bị cuốn vào câu chuyện tranh đoạt tiền bạc, khi một băng cướp đeo mặt nạ xuất hiện uy hiếp tính mạng của cô.\n\nBẤM ĐĂNG KÝ (SUBCRIBE) ĐỂ CHÚNG TÔI CÓ KINH PHÍ MANG VỀ NHIỀU PHIM MỚI CHO CÁC BẠN!\n\n#PHIMHÀNHĐỘNG #TRẦNKHÔN #SIÊUANHHÙNG\n====================================\n© Bản quyền thuộc về AP&T Media, vui lòng không reup dưới mọi hình thức.\n\n►Cám ơn các bạn đã theo dõi và đăng ký kênh AP&T Movies!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vDqJtrrPFBo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vDqJtrrPFBo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vDqJtrrPFBo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vDqJtrrPFBo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vDqJtrrPFBo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vDqJtrrPFBo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "vDqJtrrPFBo",
+                "videoPublishedAt": "2020-03-13T13:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oTOPh4vPqIyHwqs6NcwCrNsTZvw",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:57:55Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "Những Pha Hành Động Võ Thuật Xem Phê Lòi Con Mắt - PHIM HÀNH ĐỘNG XÃ HỘI ĐEN HAY NHẤT 2020",
+                "description": "#clipvõthuật #phimxãhộiđen #phimhànhđộng\n►Những Pha Hành Động Võ Thuật Xem Phê Lòi Con Mắt - PHIM HÀNH ĐỘNG XÃ HỘI ĐEN HAY NHẤT 2020\n►XEM BẢN FULL TẠI : https://youtu.be/L8hJa8v1Nnw\n---------------------\n►Subscribe để theo dõi những clip mới nhất : http://goo.gl/LQRDkU\n►Bản quyền thuộc về VMG MUSIC ☞ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZW4WYB-lPtI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZW4WYB-lPtI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZW4WYB-lPtI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZW4WYB-lPtI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZW4WYB-lPtI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZW4WYB-lPtI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "ZW4WYB-lPtI",
+                "videoPublishedAt": "2019-08-27T09:59:40Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5T5xvaHi_c5ovb2m1coDm8ocwcQ",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:57:44Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "Phim Kiếm Hiệp 2019 | Phim Võ Thuật 2019 | Phim Mới Hay 2019 | THIÊN MỆNH ANH HÙNG Full HD",
+                "description": "Phim Kiếm Hiệp 2019 | Phim Võ Thuật 2019 | Phim Mới Hay 2019 | THIÊN MỆNH ANH HÙNG Full HD\n-----------------------------------------------\n▶️▶️ Click đăng ký, subcribe Page Bài Hát Để Đời và fanpage Hoàng Châu để cập nhật những tin tức và sản phẩm mới sắp tới nha!\nhttps://www.youtube.com/user/DongGiaoOfficial\n\nLink Page Bài Hát Để Đời:\nhttps://www.facebook.com/baihatdedoi.vn\n\nLink Fanpage Hoàng Châu:\nhttps://www.facebook.com/hoangchau.singer\n\n#thienmenhanhhung #phimkiemhiep #phimvothuat #phimmoi",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/13F8NZJA-Bk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/13F8NZJA-Bk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/13F8NZJA-Bk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/13F8NZJA-Bk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/13F8NZJA-Bk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "13F8NZJA-Bk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "13F8NZJA-Bk",
+                "videoPublishedAt": "2019-03-17T02:57:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "o-qWiR1jQkuR3F-hH7uXEY099ck",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:57:33Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "Đại Ca Một Mình Đánh Tan Nát Cả Băng Đảng Búa Rừu | Phim Hành Động Võ Thuật 2019",
+                "description": "Đại Ca Một Mình Đánh Tan Nát Cả Băng Đảng Búa Rừu | Phim Hành Động Võ Thuật 2019\n***Các bạn xem thêm Phim Hay:\nPhim Hay 2019: https://goo.gl/r8RE54\nPhim Ngắn Tình Yêu 2019 : https://goo.gl/JZ2njJ\nPhim Hay Mới Nhất 2019: https://goo.gl/Hk8Fo4\n-------------------------------------------------------------------\n-------------------------------------------------------------------\nFanpage: https://www.facebook.com/PhimHayPage/?ref=br_rs\nHỏi Đáp:https://www.facebook.com/tienccnp\nBản quyền thuộc về BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XTt_jNzWnK0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XTt_jNzWnK0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XTt_jNzWnK0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XTt_jNzWnK0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XTt_jNzWnK0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XTt_jNzWnK0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "XTt_jNzWnK0",
+                "videoPublishedAt": "2019-08-23T03:57:58Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DeScGQ89uKMxUn29Z3GtgV5ZawU",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:57:23Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "Phim Hành Động  || Phim Xã Hội Đen Hành Động HongKong || Truy Sát Đẫm Máu",
+                "description": "Phim Hành Động  || Phim Đánh Nhau Xã Hội Đen Hành Động HongKong || Truy Sát Đẫm Máu là 1 trong Phim Hay nhất 2016\n- Phim Tháng 9 và Tháng  10 Đánh Nhau Cực Bốc , phim hơi bạo lực nên không khuyến khích trẻ em dưới 18 tuổi\n- chúc các bạn xem phim vui vẻ \n- Nhớ Đăng Ký Kênh Phim Xã Hội Đen này của mình để mình có động lực up thêm phim mới\n---------------------------------\nKênh mình chuyên tổng hợp những bộ phim hành động xã đen hay nhất trong năm để các bạn khỏi tốn tiền ra rạp xem phim ^^",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FyNh7PasDTA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FyNh7PasDTA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FyNh7PasDTA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FyNh7PasDTA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FyNh7PasDTA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "FyNh7PasDTA",
+                "videoPublishedAt": "2016-09-17T10:09:28Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UVQNO56GOEqLHpq6GQXl1P0ERMg",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:57:12Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "Đặc Nhiệm Truy Đuổi Vây Bắt Đại Ca Giang Hồ | Phim Hành Động Võ Thuật 2019",
+                "description": "***Các bạn xem thêm Phim Hay:\nPhim Hay 2018: https://goo.gl/r8RE54\nPhim Ngắn Tình Yêu 2018 : https://goo.gl/JZ2njJ\nPhim Hay Mới Nhất 2018: https://goo.gl/Hk8Fo4\n-------------------------------------------------------------------\n-------------------------------------------------------------------\nFanpage: https://www.facebook.com/PhimHayPage/?ref=br_rs\nHỏi Đáp:https://www.facebook.com/tienccnp\nBản quyền thuộc về BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PSUn7Hs4A1g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PSUn7Hs4A1g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PSUn7Hs4A1g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PSUn7Hs4A1g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PSUn7Hs4A1g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PSUn7Hs4A1g"
+                }
+            },
+            "contentDetails": {
+                "videoId": "PSUn7Hs4A1g",
+                "videoPublishedAt": "2019-05-11T02:50:51Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QeMYjWrvQvbMSzCik-PoO_vz5cE",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:57:02Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "Thiếu Lâm Thất Hiệp - Tập 1 | Phim Võ Thuật Kiếm Hiệp Hong Kong Hay | NT Films",
+                "description": "► Đăng ký kênh NT Films - Xem ngay nhiều phim hay: http://popsww.com/NTFilms\nĐón xem các tập tiếp theo vào lúc 16h00 mỗi ngày trên kênh NT Films nhé! \n► Đăng Ký Kênh tại: https://www.youtube.com/c/NghiepThangFilms?sub_confirmation=1\n► Ủng hộ kênh tại: http://unghotoi.com/ntfilms\n► Xem trọn bộ Thiếu Lâm Thất Hiệp - 40 Tập:\n► Xem các phim hay khác: https://bit.ly/2swnAJ8\n--------------------------------------------------------------\nTÓM TẮT NỘI DUNG PHIM:\nDiễn viên: Dương Đồng Thư, Nguyên Bưu, Đồng An Cách, Dương Mân Na, Trương Đình, Trịnh Gia Dinh.\n\nVào thời kỳ cuối nhà Thanh, Từ Hy thái hậu nắm giữ triều chính. Thất cách cách - công chúa Bạch Tuyết - là con gái của tiên đế, vì mẹ qua đời sớm nên được sự sủng ái đặc biệt của Từ Hy thái hậu. Cô may mắn được tiếp thu nền giáo dục tiến bộ của  văn hóa phương tây và đặc biệt ngưỡng mộ tình yêu tự do của họ. Chính vì quá yêu chiều Bạch Tuyết nên thái hậu đã hạ chỉ ban duyên cho công chúa với bối lạc Khánh Tường của Cung thân vương phủ. Quá bất mãn về cuộc hôn nhân sắp đặt này, Bạch Tuyết đã quyết định cùng hai a hoàn của mình bàn kế hoạch đào hôn.\n\nLúc này, vương phủ cũng long trọng tổ chức buổi tiệc mừng cho cuộc hôn nhân của bối lạc Khánh Tường. Công chúa Bạch Tuyết đã dẫn theo a hoàn, cải trang thành thái giám bỏ trốn nhưng bất thành.\nVõ quán Mân Nam nhận được lời  mời của triều đình, họ đã phái cao thủ của võ quán là Lưu Pháo dẫn theo đệ tử vào kinh biểu diễn cho buổi lễ thành hôn của công chúa. Hồng Khôn là đồng môn sư đệ của Lưu Pháo. Hắn vốn có mối huyết hải thâm thù với triều đình. Nhân cơ hội này, hắn muốn ra tay hành thích thái hậu.\n\nTrong buổi hôn lễ, trong lúc võ quán Mân Nam đang trổ tài biểu diễn, Hồng Khôn bất chợt ra tay nhưng không thành. Hôn lễ đại loạn, Hồng Khôn trốn thoát, em gái của Lưu Pháo bị sát hại. Lưu Pháo vô tình bị cuốn vào cuộc chiến thị phi, anh tận mắt chứng kiến em gái và huynh đệ bị thảm sát, trong cơn phẫn uất, anh đã bắt theo công chúa Bạch Tuyết cùng trốn chạy khỏi kinh thành, quyết tâm sang Đài Loan tìm Hồng Khôn để điều tra chân tướng sự việc, trả lại sự trong sạch cho em gái cùng huynh đệ đồng môn.\n\nCông chúa vốn có ý định chạy trốn khỏi cuộc hôn nhân này, cô cũng cảm động bởi tấm chân tình của Lưu Pháo, nên Bạch Tuyết quyết định cùng anh sang Đài Loan. \nĐôi bạn đường bất đắc dĩ này liệu có thể tìm ra chân tướng sự việc? Và nàng công chúa cao quý của chốn Tử Cấm Thành có thoát khỏi sự truy tìm của vị hôn phu, để đi tìm cho mình một tình yêu đích thực? \n\n#ThieuLamThatHiep #PhimKiemHiep #PhimVoThuat\n--------------------------------------------------------------\nTỔNG HỢP PHIM HAY TRÊN NT FILMS: \n► Sam Sam Đến Rồi: https://bit.ly/2xz8Uyy \n► Chân Mệnh Thiên Tử: https://bit.ly/2J3fFxM\n► Phiên Dịch Viên Xinh Đẹp: https://bit.ly/2HaoOyT\n► Tân Mãnh Long Quá Giang: https://bit.ly/2spDVQo\n► Thạch Cảm Đang: https://bit.ly/2J0tFZj\n► Hoàng Đế Ăn Mày: https://bit.ly/2Jhd6aZ\n► Trư Cửu Muội: https://bit.ly/2J591Hp\n► Bao Thanh Thiên - Khai Phong Kỳ Án: https://bit.ly/2LesNwX\n► Lữ Bố Và Điêu Thuyền: https://bit.ly/2xu3VPH\n► Hoàng Phi Hồng & Dì Thập Tam: https://bit.ly/2JkJlWv\n► Anh Hùng Hỏa Tuyến: https://bit.ly/2kFVd7P\n► Tiếu Ngạo Giang Hồ: https://bit.ly/2J46gSM\n► Nữ Tướng Phàn Lê Huê: https://bit.ly/2J4fZID\n► Võ Lâm Ngoại Sử: https://bit.ly/2HcC6Lc\n► Tây Du Ký - Trư Bát Giới Đấu Ngưu Ma Vương: https://bit.ly/2HasRez\n► Tây Du Ký - Trư Bát Giới Đại Náo Thiên Đình: https://bit.ly/2H94myw\n► Kiếp Lai Sinh: https://bit.ly/2sAdw1Q\n► Đôi Cánh Thiên Thần: https://bit.ly/2zsSnxf\n► Kho Báu Đông Lăng: https://bit.ly/2JdBUwc\n► Bát Tiên Truyền Kỳ: https://bit.ly/2NGxn8Y",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YT_9e31PBp8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YT_9e31PBp8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YT_9e31PBp8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YT_9e31PBp8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YT_9e31PBp8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YT_9e31PBp8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "YT_9e31PBp8",
+                "videoPublishedAt": "2018-08-24T09:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OirpudEViszGxvOyl5UGdLg5NJc",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:56:51Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "Loạn Thế Hồng Nhan - Tập 1 | Phim Bộ Cổ Trang Trung Quốc Mới Nhất 2019 - Thuyết Minh",
+                "description": "Loạn Thế Hồng Nhan - Tập 1 | Phim Bộ Cổ Trang Trung Quốc Mới Nhất 2019 - Thuyết Minh \nLoạn Thế Hồng Nhan Full bộ: https://goo.gl/Gt8ahz\nMỹ Nhân Đa Tình Full Bộ:https://goo.gl/GD1V3K\nMị giả Vô Cương Full Bộ :https://goo.gl/oPo3dW\nĐăng Ký Kênh CachiCachi VN Xem Phim Mới Nhất : https://goo.gl/VfPiBm\n#CachiCachiVN #ĐăngKýKênhXemNgay\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hBlw2S8NDuM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hBlw2S8NDuM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hBlw2S8NDuM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hBlw2S8NDuM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hBlw2S8NDuM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hBlw2S8NDuM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "hBlw2S8NDuM",
+                "videoPublishedAt": "2019-02-20T04:51:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jhTeWb3TVmQbTuznnYCftPIzRwE",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:56:41Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "PHIM KIẾM HIỆP ĐẦU TIÊN VÀ HAY NHẤT CỦA VIỆT NAM: THIÊN MỆNH ANH HÙNG (FULL)",
+                "description": "ĐẠO DIỄN: VICTOR VŨ\n\n© 2018 by PHƯƠNG NAM PHIM ¤ PLEASE DO NOT RE-UPLOAD!\nBản chính thức Full HD được phát hành chính thức tại hệ thống kênh Youtube của PHƯƠNG NAM PHIM.\n♥♫♥♪\n\n♫ Subscribe: https://bit.ly/2pwdYwg\n♫ Website: http://pnf.com.vn/\n♫ Fanpage: https://bit.ly/2GbZFaO\n\nRất cảm ơn các anh chị, các bạn đã ủng hộ chúng tôi trong suốt thời gian qua.\n#phimkiemhiepvietnam #victorvu #phimcotrangvietnam",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LAYqXnqFomo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LAYqXnqFomo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LAYqXnqFomo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "LAYqXnqFomo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "LAYqXnqFomo",
+                "videoPublishedAt": "2018-07-10T06:46:56Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ajOgGT3US5L1nbDyoFLlrtHbeHs",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:56:30Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "Hỗn Chiến Giang Hồ - Bom Tấn Phim Hành Động Xã Hội Đen Việt Nam Mới Hay Nhất",
+                "description": "Hỗn Chiến Giang Hồ - Bom Tấn Phim Hành Động Xã Hội Đen Việt Nam Mới Hay Nhất\nLUẬT GIANG HỒ || Phim võ thuật hành động 2019 hay nhất\nPhim Hay 2019: https://goo.gl/WhjLMx\nĐăng Ký kênh Bảo Bảo Film:https://goo.gl/WhjLMx",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-vFVGRGCh14/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-vFVGRGCh14/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-vFVGRGCh14/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-vFVGRGCh14/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-vFVGRGCh14"
+                }
+            },
+            "contentDetails": {
+                "videoId": "-vFVGRGCh14",
+                "videoPublishedAt": "2019-09-17T11:00:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6OcCqN9kr5p9CCK5XSW1WkTnnRg",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:56:19Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "Phim Hình Sự Hay Nhất 2019 | Đặc Nhiệm Siêu Đẳng - Tập 1 | Phim Phạm Băng Băng 2019",
+                "description": "*Xem ĐẶC NHIỆM SIÊU ĐẲNG Trọn Bộ: https://goo.gl/A4zUpp\nPhim Hay 2018: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đè Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LpnosNKo3Yo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LpnosNKo3Yo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LpnosNKo3Yo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LpnosNKo3Yo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LpnosNKo3Yo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "LpnosNKo3Yo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "LpnosNKo3Yo",
+                "videoPublishedAt": "2019-01-21T03:50:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_q-_ZYDOGjYQybkOp4jag8QEz6w",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:56:09Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "Đệ Nhất Thế Gia - Tập 1 | Phim Tình Cảm Đài Loan Hay Nhất - Lồng Tiếng",
+                "description": "Đệ Nhất Thế Gia - Tập 1 | Phim Tình Cảm Đài Loan Hay Nhất - Lồng Tiếng \nĐệ Nhất Thế Gia Full Bộ :https://bit.ly/2DKWdki\nPhim Việt Nam Chiếu Rạp : https://goo.gl/f5LDo5\nphim hành động 2019 :https://goo.gl/f5LDo5\nphim kiếm hiệp mới nhất 2019 : https://goo.gl/pG2tqD\n►Phim Việt Nam Chiếu Rạp 2018 :https://goo.gl/R7Whs5\n►►Đăng Ký Phim Hay Việt Nam : https://goo.gl/f5LDo5\n►►► Like Page để không bỏ lỡ bộ phim HOT nào: https://www.facebook.com/PhimHayPage\nHỏi Đáp: https://www.facebook.com/tienccnp\nBản quyền thuộc BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_cVxmicV000/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_cVxmicV000/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_cVxmicV000/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_cVxmicV000/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_cVxmicV000/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_cVxmicV000"
+                }
+            },
+            "contentDetails": {
+                "videoId": "_cVxmicV000",
+                "videoPublishedAt": "2019-12-05T11:45:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xUlBgUFh0AkCeevrr71Bi5_v8Ns",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:55:58Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "Cảnh Sát Đặc Nhiệm Vây Bắt Băng Đảng Giang Hồ Khủng Bố | Phim Hành Động Võ Thuật 2020",
+                "description": "Cảnh Sát Đặc Nhiệm Vây Bắt Băng Đảng Giang Hồ Khủng Bố | Phim Hành Động Võ Thuật 2020\n*Các bạn xem thêm:\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đè Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Tq9xMrfSpJ0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Tq9xMrfSpJ0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Tq9xMrfSpJ0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Tq9xMrfSpJ0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Tq9xMrfSpJ0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Tq9xMrfSpJ0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Tq9xMrfSpJ0",
+                "videoPublishedAt": "2019-11-20T03:26:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Yy_TkgfnHdoqvxb1QlqzxUwTP88",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:55:48Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "PHIM VÕ THUẬT CHUNG TỬ ĐƠN  - HỒNG HY QUAN TẬP 1 HD | FAFILM 2016",
+                "description": "PHIM VÕ THUẬT CHUNG TỬ ĐƠN  - HỒNG HY QUAN TẬP 1 HD | FAFILM | 2016 \n #honghyquan #phimvothuat #chungtudon\nBộ Phim kể về Hồng Hy Quan (do Chân Tử Đơn thủ vai) từ nhỏ đã có tư tưởng dân tộc, rất ngưỡng mộ những nghĩa sĩ phản Thanh trong Nhật Nguyệt Hội. Anh luôn khao khát được gặp mặt Tổng đà chủ của Nhật Nguyệt Hội là Xích Long .Lúc đó Hồng Hy Quan vô  tình đã phát hiện ra Xích Long chính là cha ruột của mình.\nSau khi cha mẹ của Hồng Hy Quan bị Quân Thanh giết ,anh quyết tâm trả thù. Vì vậy anh đã cùng Phương Thế Ngọc, Hồ Huệ Càn lên Thiếu Lâm học nghệ tu luyện võ công. Sau khi vượt qua ải mộc nhân của Thiếu Lâm Tự, anh đã cùng với các bạn của mình xuống núi và bắt đầu cuộc hành trình phản Thanh phục Minh đầygian nan vất vả. \n-----------------\n▶ CLICK TO SUBSCRIBE: \nhttp://bit.ly/FaFilmChannel\n-----------------\n▶ VISIT US : \nhttp://www.fafilm.vn/\nhttps://www.facebook.com/Fafilm-1593741520863887/?fref=ts\n-----------------\n© Bản quyền thuộc về FAFILM CHANNEL\n© Copyright by FAFILM CHANNEL ☞ Do not Reup #chungtudon #phimvothuat",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q0DzPDuQcmc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q0DzPDuQcmc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q0DzPDuQcmc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Q0DzPDuQcmc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Q0DzPDuQcmc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Q0DzPDuQcmc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Q0DzPDuQcmc",
+                "videoPublishedAt": "2016-12-12T09:30:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IoM0Ocp8S4-GIW4dcUYwjQy_k0c",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:55:37Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "Đại Ca Giấu Mặt Thân Thủ Phi Phàm Cuối Cùng Cũng Xuất Hiện | Phim Hành Động Võ Thuật 2019",
+                "description": "***Các bạn xem thêm Phim Hay:\nPhim Hay 2018: https://goo.gl/r8RE54\nPhim Ngắn Tình Yêu 2018 : https://goo.gl/JZ2njJ\nPhim Hay Mới Nhất 2018: https://goo.gl/Hk8Fo4\n-------------------------------------------------------------------\n-------------------------------------------------------------------\nFanpage: https://www.facebook.com/PhimHayPage/?ref=br_rs\nHỏi Đáp:https://www.facebook.com/tienccnp\nBản quyền thuộc về BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wf0oUS7NUYo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wf0oUS7NUYo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wf0oUS7NUYo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wf0oUS7NUYo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wf0oUS7NUYo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "wf0oUS7NUYo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "wf0oUS7NUYo",
+                "videoPublishedAt": "2019-04-30T02:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4L95ja7ENI0vUv2Zb8F_Z0Ep_jw",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:55:26Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "[PHIM HAY] CUỘC CHIẾN NỘ GIANG - TẬP 1 THUYẾT MINH | PHIM HÀNH ĐỘNG VÕ THUẬT TRUNG QUỐC 2019",
+                "description": "CUỘC CHIẾN NỘ GIANG - TẬP 1 THUYẾT MINH | PHIM HÀNH ĐỘNG VÕ THUẬT TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/CuocChienNoGiang\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/Yeah1tv\n\nNỘI DUNG PHIM:\n\nBộ phim được cải biên từ tiểu thuyết \"Cuộc Chiến Nộ Giang\" của Nam Phái Tam Thúc và Càn Khôn. Năm 1942, 10 vạn quân viễn chinh Trung Quốc bị bại trận ở Nộ Giang, 5 vạn anh linh phải sống mãi nơi xa xôi. 1 năm sau, quân đội viễn chinh nhận được điện báo mật, quân Nhật đang nghiên cứu và chế tạo 1 loại đạn khí độc ở núi Dã Nhân. Nếu để quân Nhật thành công thì ven bờ Nộ Giang sẽ vào tình thế nguy cấp, ảnh hưởng trực tiếp tới chiến cuộc chống phát xít. Vì vậy, quân đội quyết định cử đi 1 chi đội vô cùng nhỏ, vượt qua Nộ Giang, lẻn vào núi Dã Nhân ngăn chặn âm mưu của quân đội Nhật. Các thành viên trong chi đội nhỏ bé đó đã khắc phục hoàn cảnh khắc nghiệt của tự nhiên núi Dã Nhân, sự phòng thủ nghiêm ngặt, đấu dũng đấu trí với quân Nhật, 1 cuộc đấu vừa quyết liệt vừa bi tráng. Hãy đón xem bộ phim \"Cuộc Chiến Nộ Giang\" trên Yeah1 TV vào lúc 19h hàng ngày để được trải qua những cung bậc cảm xúc tuyệt vời với những pha hành động gây cấn, đầy hấp dẫn.\n\nTên tiếng anh: The Fatal Mission (2016)\nDiễn viên: Giả Thanh, Trịnh Khải, Tôn Nghệ Châu, Lý Mậu, Đàm Lệ Na\nĐạo diễn: Trần Hạo Uy\nQuốc gia: Trung Quốc\nNăm phát hành: 2016\nThể loại: Tâm Lý - Lãng Mạn, Phim Bộ Trung Quốc, Phim Hoa Ngữ, Hành Động - Phiêu Lưu, Phim Võ Thuật\nSố tập: 43\nThời lượng: 45 phút/tập\nNgôn ngữ: Thuyết Minh\nChất lượng: HD 1080p\n\n© Các video trên kênh \" http://bit.ly/Yeah1tv \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nInstagram: https://www.instagram.com/yeah1_tv/\n\nSubscribe các kênh chính của Yeah1 Network:\n\nNew Films:                  http://bit.ly/NEWFILMS\nYEAH1 MUSIC :          http://bit.ly/Yeah1music\nYEAH1 MOVIE :          http://bit.ly/Yeah1movies\nYEAH1 KIDS :              http://bit.ly/Yeah1kids\nNgọc Thảo :                 http://bit.ly/Ngocthao\n---------------------------------------------\n#Yeah1TV #CuocChienNoGiang #PhimHanhDong",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xlPxVauGTfQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xlPxVauGTfQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xlPxVauGTfQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xlPxVauGTfQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xlPxVauGTfQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xlPxVauGTfQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "xlPxVauGTfQ",
+                "videoPublishedAt": "2019-10-30T12:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Z3wiYI1SjrqNXpWbE-EOYOI5Mlw",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:55:16Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "Bà Trùm, Lão Đại Giang Hồ Đài Loan Thân Thủ Bất Phàm | Phim Giang Hồ 2019",
+                "description": "Bà Trùm, Lão Đại Giang Hồ Đài Loan Thân Thủ Bất Phàm | Phim Giang Hồ 2019\n► BÀ TRÙM Trọn Bộ: https://bitly.vn/5e4\n►Chuyện Tình Ngang Trái - Người Yêu Và Cô Bạn Thân \nhttps://bit.ly/2W3187t\n►Hôn Em Đi Anh: https://bit.ly/2Ji6WZ9\n►Ai Là Người Thừa Kế: https://bit.ly/2HCpBfO\n► Yêu Chị Dại Khờ : https://bit.ly/2spdkTa\n► Chuyện Tình Ngược Lối: https://bitly.vn/5e4\n► Hồ Ly Biết Yêu: https://bitly.vn/5e6\n► Hãy Nói Anh Yêu Em : http://bit.ly/haynoianhyeuemfull\n► Tình Yêu Không Khoảng Cách: http://bit.ly/tinhyeukhongkhoangcachfull\n- Đăng Ký Kênh tại: https://goo.gl/hNBKii\n- Fanpage: https://www.facebook.com/zuitv",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sdsGLC9TgtA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sdsGLC9TgtA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sdsGLC9TgtA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sdsGLC9TgtA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sdsGLC9TgtA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sdsGLC9TgtA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "sdsGLC9TgtA",
+                "videoPublishedAt": "2019-03-27T17:19:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8C7qYxlaTdYXrfXu7kqjyB3K_5M",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:55:05Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "Phim Giang Hồ 2019 | ĐẠI CA TRẢ THÙ | Phim Hành Động Xã Hội Đen Hay Mới Nhất 2019",
+                "description": "Phim Giang Hồ 2019 | ĐẠI CA TRẢ THÙ | Phim Hành Động Xã Hội Đen Hay Mới Nhất 2019\n***Các bạn xem thêm Phim Hay:\nPhim Hay 2018: https://goo.gl/r8RE54\nPhim Ngắn Tình Yêu 2018 : https://goo.gl/JZ2njJ\nPhim Hay Mới Nhất 2018: https://goo.gl/Hk8Fo4\n-------------------------------------------------------------------\n-------------------------------------------------------------------\nFanpage: https://www.facebook.com/PhimHayPage/?ref=br_rs\nHỏi Đáp:https://www.facebook.com/tienccnp\nBản quyền thuộc về BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-jp7DBZdPiI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-jp7DBZdPiI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-jp7DBZdPiI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-jp7DBZdPiI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-jp7DBZdPiI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-jp7DBZdPiI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "-jp7DBZdPiI",
+                "videoPublishedAt": "2019-03-04T07:54:23Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xoy3fO7g7YWOlMzOt5Huxu4T6KM",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:54:54Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "Hai Nữ Đại Ca Giấu Mặt Đấu Sát Thủ Thiên Thần | Phim Hành Động Xã Hội Đen 2019",
+                "description": "Hai Nữ Đại Ca Giấu Mặt Đấu Sát Thủ Thiên Thần | Phim Hành Động Xã Hội Đen 2019\n***Các bạn xem thêm Phim Hay:\nPhim Hay 2018: https://goo.gl/r8RE54\nPhim Ngắn Tình Yêu 2018 : https://goo.gl/JZ2njJ\nPhim Hay Mới Nhất 2018: https://goo.gl/Hk8Fo4\n-------------------------------------------------------------------\n-------------------------------------------------------------------\nFanpage: https://www.facebook.com/PhimHayPage/?ref=br_rs\nHỏi Đáp:https://www.facebook.com/tienccnp\nBản quyền thuộc về BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FFwlPX4zv40/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FFwlPX4zv40/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FFwlPX4zv40/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FFwlPX4zv40/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FFwlPX4zv40/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FFwlPX4zv40"
+                }
+            },
+            "contentDetails": {
+                "videoId": "FFwlPX4zv40",
+                "videoPublishedAt": "2019-04-25T07:13:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "D1UQtOIPwhHMpfcXCvU6Ed2P-DE",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:54:44Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "CHẠM MẶT GIANG HỒ 1 | Phim Võ Thuật Đỉnh Cao | Phim Hay Việt Nam Ý Nghĩa | Phú Lê",
+                "description": "CHẠM MẶT GIANG HỒ 1 | Phim Võ Thuật Đỉnh Cao | Phim Hay Việt Nam Ý Nghĩa | Phú Lê\n................................................................\nLà bộ phim võ thuật mang đậm giá trị nhân văn, \"Chạm mặt giang hồ\" khắc họa thành công nhân vật chính do Phú Lê thủ vai. \nSinh ra trong hoàn cảnh khó khăn, từ nhỏ đã mồ côi cha mẹ, Phú Lê được nhà chùa nuôi lớn đến khi trưởng thành. Trong cuộc sống, anh vẫn âm thầm giúp đỡ mọi người đặc biệt là những em nhỏ nhiều thiệt thòi như mình. \nBỏ qua gánh nặng mưu sinh và kiếm tiền giúp đỡ, anh vẫn luôn sống với chữ tâm không để cho những người em cùng lớn lên với mình lao vào con đường tệ nạn xã hội, nghiện ngập ma túy. \nNội dung phim xoay quanh cuộc sống và nghĩa khí huynh đệ, đó là những khó khăn, sóng gió của cuộc đời để anh em tiến tới thành công, trở thành những người có ích cho xã hội. \n\nMặc dù là một bộ phim thiên về hành động, võ thuật nhưng lại toát lên được giá trị nhân đạo, tình cảm đạo đức đáng trân trọng giữa con người với con người.\n................................................................\n ➨Theo dõi Phú Lê: https://goo.gl/w14gh7\n ➨ĐĂNG KÝ KÊNH PHÚ LÊ NHẬN NGAY NHIỀU VIDEO MỚI NHÉ!\n\nFILM CHẠM MẶT GIANG HỒ 1\n#ChamMatGiangHo #PhuLe \n - Đạo diễn: DUCTHINH\n - Nhạc phim: QUACHBEEM\n - Quay phim: HOANG NAM - BA HA - HINH THIEN\n - Võ thuật: THANH PHONG film \n - Diễn viên: CHU HUNG, DUNG TROC, DUONG NHUE, PHU LE, DIEP THANH PHONG, CU THOC, CUONG CA, TA DIEN, JIMMII KHANH, LA THUY KIEU, DUONG MINH TUYEN, GIANG RONG, KIEN TROC, NGOC PHAM, DUC KHANG, BUI TUAN\nSản xuất: VU MINH ENTERTAIMENT & THIEN PHU MEDIA\n\nXin chân thành cảm ơn:\n - THAI AN PAGODA, Bui Xa, Thanh Oai\n - MAX BEER 493 Truong Dinh, Tan Mai\n - THIEN PHU Company, Tan Mai\n - LYCHEE GARDEN Long Bien\n - Mr NGUYEN TRUNG THANH, Bat Trang, Long Bien\n - Mr NGUYEN VAN DUNG, My Dinh, Thanh Xuan\n - A25 HOTEL, Quang Trung, Hai Ba Trung, Ha Noi...\n - Anh em Hải Dương...\n....đã giúp chúng tôi hoàn thành bộ phim này.\n\n\n Mọi sản phầm trên kênh đều được độc quyền của Phú Lê, đề nghị cá nhân, tố chức không reup. Xin cảm ơn!\n................................................................",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WR4i7O1EgOM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WR4i7O1EgOM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WR4i7O1EgOM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WR4i7O1EgOM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WR4i7O1EgOM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WR4i7O1EgOM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "WR4i7O1EgOM",
+                "videoPublishedAt": "2019-01-21T07:15:58Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Zq33rTF6CIVb1WLVbRIbEyZBuIs",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:54:33Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "mQ2pEf57nYM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "mQ2pEf57nYM"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bKkXQmtDsBER0fDhIhwbqsnaRsw",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:54:22Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "Phim Giang Hồ 2019 | ĐẠI CA VÀ ÔNG TRÙM | Phim Hành Động Xã Hội Đen Hay Nhất 2019",
+                "description": "Phim Giang Hồ 2019 | ĐẠI CA VÀ ÔNG TRÙM | Phim Hành Động Xã Hội Đen Hay Nhất 2019\n***Các bạn xem thêm Phim Hay:\nPhim Hay 2018: https://goo.gl/r8RE54\nPhim Ngắn Tình Yêu 2018 : https://goo.gl/JZ2njJ\nPhim Hay Mới Nhất 2018: https://goo.gl/Hk8Fo4\n-------------------------------------------------------------------\n-------------------------------------------------------------------\nFanpage: https://www.facebook.com/PhimHayPage/?ref=br_rs\nHỏi Đáp:https://www.facebook.com/tienccnp\nBản quyền thuộc về BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/emiNK6OlpFM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/emiNK6OlpFM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/emiNK6OlpFM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/emiNK6OlpFM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/emiNK6OlpFM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "emiNK6OlpFM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "emiNK6OlpFM",
+                "videoPublishedAt": "2019-02-28T10:01:49Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oshahQ60Ep-gPhgZxLSdn2yY9QI",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:54:12Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4olxLg3Nkm8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "4olxLg3Nkm8"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FmZZtTB5UXtsYZWyKPxKfYJ3F9E",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:54:01Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "ORIGINAL SAIGON GANGSTERS | THỢ SĂN GIANG HỒ TẬP 1 | PHIM GIANG HỒ | PHIM VÕ THUẬT | PHIM HÀNH ĐỘNG",
+                "description": "SAIGON GANGSTERS | THỢ SĂN GIANG HỒ\nSản xuất : Thomas Tam Nguyen | Ruby Blvd Entertainment\nĐạo diễn : Đinh Công Hiếu\nBiên kịch : Bùi Tấn Hảo\n\nDiễn viên : Hồng Ngọc, Quang Minh, Kiến An, Khánh Vũ, Nhi Katy, Steven Nguyễn, Minh Nhựt, Quang Sơn, Tấn Hảo, Hồng Tâm, Phi Long\nDOP : Hai Cuneo \nDựng phim : Trần Minh Nhựt\nĐiều phối sản xuất : Nguyễn Hồng Tâm\nCascadeur : Văn Lợi Team\nQuay phim : Hiếu Nguyễn, Bảo Trung, Riki Lâm \nÁnh sáng : Eye Media\nThiết kế : Chiến Team \nÂm thanh : Ngọc Trà, Tín Nguyễn\nThư ký: Bùi Ngọc Thu\nMake up : Lăng Triệu Team\nPhục Trang : Mrs Liên\n►SUBSCRIBE kênh YouTube của Hồng Ngọc -  Ruby Blvd Entertainment: \nwww.youtube.com/rubyblvd\n#phuonghoang #saigongangsters #thosangiangho #phimgiangho #giangho #rubyblvd #hongngoc \nNăm Pháo và Phượng Hoàng là hai tay anh chị lớn trong giới giang hồ, cả hai có hiềm khích lâu năm,. Bên cạnh Phượng Hoàng có một đàn em thân tín là Tài Lửa, kẻ ngông cuồng không sợ bất cứ thứ gì nhưng lại rất trung thành với Phượng Hoàng.  Phượng Hoàng kết nạp được Phong và Nhĩ là hai tên bốc vác ở khu bến tàu sau khi hai tên này qua băng Phượng Hoàng để đòi tiền chém mướn.\n\nPhong và Nhĩ đang nợ tiền của Chim Cút, một cỗ máy thông tin trong giới giang hồ, hòa đồng nhưng rất háo thắng, mà Chim Cút là đàn em của Năm Pháo, lợi dụng lý do đó, Phượng Hoàng cho Phong và Nhĩ làm nội gián bên ông ta, có chuyện gì thì báo ngay với Phượng Hoàng.\n\nBên cạnh Năm Pháo còn có Vũ Ca, một anh chàng đầy tham vọng, võ nghệ cao cường và rất tình nghĩa với anh em. Một lần Năm Pháo kêu Vũ Ca đi ám sát Phượng Hoàng, nhờ thông tin của Phong và Nhĩ nên Phượng Hoàng thoát chết. Vũ ca rất tức giận và nghi có nội gián trong băng, bằng nhiều phép thử nhưng với sự khôn ngoan của Phong và Nhĩ, Vũ Ca đành bó tay. \n\nVề phần Phong đang ấp ủ một kế hoạch trả thù, hắn muốn giết Năm Pháo vì năm xưa Năm Pháo đã cho người giết cha của hắn là Thịnh Bò. Phong làm đủ mọi chuyện để leo lên vị trí càng cao càng tốt để có thể đối đầu thẳng mặt với Năm Pháo. Dần dần Phong lấn càng sâu hơn, hắn sẵn sàng giết chết những ai dám ngăn cản hắn. \n\nVề sau Phong khuấy đảo giới giang hồ làm cho tất cả băng đảng rối loạn lên hết, Năm Pháo, Phượng Hoàng và cá băng đảng khác ai cũng muốn tìm và giết Phong, mọi chuyện càng trở nên rắc rối hơn khi con gái Phượng Hoàng là Thiên Nhi bị Phong khống chế, mọi chuyện tiếp diễn thế nào thì về sau sẽ rõ.\n\n© Copyrighted by Ruby Blvd Entertainment\nDo not reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/83AfszBKpBU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/83AfszBKpBU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/83AfszBKpBU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/83AfszBKpBU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/83AfszBKpBU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "83AfszBKpBU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "83AfszBKpBU",
+                "videoPublishedAt": "2018-12-25T02:13:06Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nd4lXzzftZN6lF4805yCJIQdWaY",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:53:51Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "THIÊN THẦN SÁT THỦ FULL HD | Phim Việt Nam 2019 Mới Nhất - Phim Hay Không Xem Tiếc Cả Đời",
+                "description": "THIÊN THẦN SÁT THỦ FULL HD | Phim Việt Nam 2019 Mới Nhất - Phim Hay Không Xem Tiếc Cả Đời \nphim việt nam 2019 : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2018: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\n#PhimTrungQuoc #ĐăngKýNgay\n\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MYw8VBhd4lI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MYw8VBhd4lI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MYw8VBhd4lI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MYw8VBhd4lI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "MYw8VBhd4lI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "MYw8VBhd4lI",
+                "videoPublishedAt": "2019-01-25T03:00:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DP2NtKKfbNKGttI80BfkN7OlIG8",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:53:40Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "nw1pe10P8NI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "nw1pe10P8NI"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ca6I5a92sytzMGXoxlyXXihBymM",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:53:29Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "Phim Mã Vĩnh Trinh - Tập 01 - Tranh Bá Bến Thượng Hải | AFILM",
+                "description": "Bấm đăng ký/subscribe để AFILM tiếp tục ra mắt thêm nhiều phim hay nữa các bạn nhé! \nClick here:  https://goo.gl/PUWRP9\n-------------------------------------------------------\nPhim Mã Vĩnh Trinh - Tập 01 - Tranh Bá Bến Thượng Hải | AFILM\n*** Xem trọn bộ: http://bit.ly/mavinhtrinh\n*** Xem phim hay đặc sắc trên AFILM: http://bit.ly/phimledacsacAFILM\nNội dung chính: Thượng Hải vào những năm 20 của thế kỷ trước, là một thành phố phồn vinh bậc nhất của phương Đông, nhưng đằng sau vẻ ngoài phù hoa đó, là sự cấu kết của tham quan gian thương, sự tranh giành giữa các bang phái. Lúc bấy giờ, cậu thanh niên quê mùa Mã Vĩnh Trinh chân ướt chân ráo đến Đại Thượng Hải , liền bị mê hoặc trước cảnh phồn vinh của Thượng Hải, quyết tâm giành được một chỗ đứng tại đây. Tại bến Thượng Hải, Mã Vĩnh Trinh gặp được những người bạn , những người anh em cùng vào sinh ra tử, và hơn nữa, gặp được hai người con gái quan trọng nhất trong đời anh: Ca kỹ nổi tiếng Thượng Hải Liễu Cúc Trì và phần tử yêu nước Đoàn Lãnh Thúy.\nDiễn viên: Hà Gia Kính, Du Tiểu Phàm, Lý Uyển Hoa, Huỳnh Văn Hào, Phạm Băng Băng,Trịnh Phối Phối, Trần Hồng Liệt, Từ Thiếu Cường",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/djVgSDSP99c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/djVgSDSP99c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/djVgSDSP99c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/djVgSDSP99c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/djVgSDSP99c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "djVgSDSP99c"
+                }
+            },
+            "contentDetails": {
+                "videoId": "djVgSDSP99c",
+                "videoPublishedAt": "2018-07-25T12:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "JUX_ULEBVqAzbJKR78fzXOHCLPo",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:52:57Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "Ông Bụt Ma | Phim Ấn Độ | Full Vietsub",
+                "description": "Banku cùng bố mẹ chuyển đến ngôi nhà mới - biệt thự Nath, mà không biết rằng ngôi nhà tồn tại một hồn ma. Và hồn ma dường như cũng không hề vui vẻ với sự xuất hiện của gia đình cậu bé, nhưng những gì không ngờ được là tình bạn không tưởng của hồn ma với Banku. Bây giờ, Banku phải khám phá ra lý do tại sao người bạn ma của mình bị mắc kẹt và giúp ông được cứu rỗi.\n\nPhim: Bhoothnath\nĐạo diễn: Vivek Sharma\nNhà sản xuất: B.R Chopra\nÂm nhạc: Vishal Shekhar\nCác diễn viên ngôi sao: Amitabh Bachchan, Juhi Chawla, Satish Shah, Rajpal Yadav, Shahrukh Khan, Priyanshu Chaterjee & Những diễn viên khác.\nTác giả: Vivek Sharma\nNguồn lấy phim: Venus Movies\n\n-------------------------------------------\n\n/I own nothing but Vietnamese subtitles. All credit goes to their rightful owners.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/x6EHWYcQ8M0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/x6EHWYcQ8M0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/x6EHWYcQ8M0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/x6EHWYcQ8M0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/x6EHWYcQ8M0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "x6EHWYcQ8M0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "x6EHWYcQ8M0",
+                "videoPublishedAt": "2018-03-19T09:43:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "NPf2pA6Q0aDG_ENPqEQQHHmSsvU",
+            "id": "UEwwclBJeXExNjBIWTQ4djdmcjI5Qk5aT0ltV2Y0SllFLS41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2020-03-15T04:52:47Z",
+                "channelId": "UC3sqOu8Uy6Hz5msRvpKzpqA",
+                "title": "[THIÊN LONG BÁT BỘ] Tập 1 cut - Kiều Phong 1 chấp 10 với Hàng Long Thập Bát Chưởng",
+                "description": "Nếu các khán giả hải ngoại mong muốn xem thêm nhiều phim và chương trình TVB, hoặc biết thêm nhiều thông tin về diễn viên TVB , hãy tải ngay ứng dụng TVB Anywhere nhé.\n\n*Xem ngay nhiều phim bộ, tiết mục, tin tức MIỄN PHÍ tại ứng dụng điện thoại TVB Anywhere* \n\n! Tải ngay !\nPlay Store: http://bit.ly/new_tvbanywhere \nApp Store: http://bit.ly/ios_new_tvbanywhere\n\n(Dịch vụ này hiện chưa được hỗ trợ tại Trung Quốc Đại Lục, Malaysia, Singapore, Đài Loan, Mỹ và Việt Nam)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Lpmpt8F4C10/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Lpmpt8F4C10/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Lpmpt8F4C10/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Lpmpt8F4C10/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Lpmpt8F4C10/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "tài khoản phụ",
+                "playlistId": "PL0rPIyq160HY48v7fr29BNZOImWf4JYE-",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Lpmpt8F4C10"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Lpmpt8F4C10",
+                "videoPublishedAt": "2018-11-29T03:04:07Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 31,
+        "resultsPerPage": 50
     }
 }

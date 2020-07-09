@@ -1,11 +1,60 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "0H6YVehIIgNNWTdMWZc-v531dL4",
+    "etag": "OS2cCVS5Q8FXdVIiB85_C_eR-As",
     "prevPageToken": "CDIQAQ",
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "DQU0zsqnRbFYRnWHWMZJ4hWICEw",
+            "etag": "xYyuMcTmQDfMKBGsovM4iBXCcdU",
+            "id": "UExSRXJ2RElyU3QzYUozVW4wTkUySGZSS3h4VU40MjJKYS4wQUE0QzM4MkJGQ0YwQjUx",
+            "snippet": {
+                "publishedAt": "2020-04-08T09:03:53Z",
+                "channelId": "UCMIZbmZ4VR_GOkDw0MVR3wQ",
+                "title": "Oan Gia Định Mệnh Tập 10 - Phim Thái Lan Lồng Tiếng Cực Đỉnh",
+                "description": "Phim Oan Gia Định Mệnh Thái Lan Trọn Bộ - https://www.youtube.com/watch?v=eBsMBylWI0w&list=PLGPkFVKQw2vQYg0VexTTt9FzJQpdI-Pcf&index=1",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Wf_Pcw_q4jU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Wf_Pcw_q4jU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Wf_Pcw_q4jU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Wf_Pcw_q4jU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Wf_Pcw_q4jU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mocha",
+                "playlistId": "PLRErvDIrSt3aJ3Un0NE2HfRKxxUN422Ja",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Wf_Pcw_q4jU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Wf_Pcw_q4jU",
+                "videoPublishedAt": "2018-11-11T05:08:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7VMhKwoZ5uQTFyAS-EeuVvMbBCk",
             "id": "UExSRXJ2RElyU3QzYUozVW4wTkUySGZSS3h4VU40MjJKYS5DQjg2RDQyMEVGQkZFOEVF",
             "snippet": {
                 "publishedAt": "2020-04-08T09:03:53Z",
@@ -36,7 +85,7 @@
                 },
                 "channelTitle": "Mocha",
                 "playlistId": "PLRErvDIrSt3aJ3Un0NE2HfRKxxUN422Ja",
-                "position": 50,
+                "position": 51,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "-5VbAZneQTg"
@@ -49,7 +98,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "uJSGo2Z4zl3IJtCUDHT0F_qu0Ns",
+            "etag": "X5W8ZXklZ-WfDJaMwkkKsTzrUKE",
             "id": "UExSRXJ2RElyU3QzYUozVW4wTkUySGZSS3h4VU40MjJKYS4yM0EyQ0U1M0I2RkIwNTQ0",
             "snippet": {
                 "publishedAt": "2020-04-08T09:03:53Z",
@@ -85,7 +134,7 @@
                 },
                 "channelTitle": "Mocha",
                 "playlistId": "PLRErvDIrSt3aJ3Un0NE2HfRKxxUN422Ja",
-                "position": 51,
+                "position": 52,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Haadb_gKwQY"
@@ -98,7 +147,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "9Yqg_G4uqsiXoIx58kMDVWO8I2A",
+            "etag": "0luvDVRJv0H_dtau6oV7KN1STeg",
             "id": "UExSRXJ2RElyU3QzYUozVW4wTkUySGZSS3h4VU40MjJKYS5ERENFNTk4Q0Q2MTZDMTA5",
             "snippet": {
                 "publishedAt": "2020-04-08T09:03:53Z",
@@ -134,7 +183,7 @@
                 },
                 "channelTitle": "Mocha",
                 "playlistId": "PLRErvDIrSt3aJ3Un0NE2HfRKxxUN422Ja",
-                "position": 52,
+                "position": 53,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Wl7t2Cr9XUc"
@@ -147,7 +196,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "pcMhM6u6CnEDI7kSWMuMmT0JTZA",
+            "etag": "Vhm7SN5fafUhdTwO_K522XgcBoc",
             "id": "UExSRXJ2RElyU3QzYUozVW4wTkUySGZSS3h4VU40MjJKYS41RDUzRjJFQ0Y0MUI3NzU1",
             "snippet": {
                 "publishedAt": "2020-04-08T09:03:53Z",
@@ -178,7 +227,7 @@
                 },
                 "channelTitle": "Mocha",
                 "playlistId": "PLRErvDIrSt3aJ3Un0NE2HfRKxxUN422Ja",
-                "position": 53,
+                "position": 54,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "bb6alT1JfoI"
@@ -191,7 +240,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "5OuE0JZgG-ouk6MivBj-YXo8uh0",
+            "etag": "TlhE8nGdzSxxymUpasvdUEx_uHE",
             "id": "UExSRXJ2RElyU3QzYUozVW4wTkUySGZSS3h4VU40MjJKYS40OTQ5QjlEMDgzN0FBNUIw",
             "snippet": {
                 "publishedAt": "2020-05-14T00:51:14Z",
@@ -227,7 +276,7 @@
                 },
                 "channelTitle": "Mocha",
                 "playlistId": "PLRErvDIrSt3aJ3Un0NE2HfRKxxUN422Ja",
-                "position": 54,
+                "position": 55,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "wF9vh25IQF4"
@@ -240,7 +289,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "aCu8GOBnqebMUhjuU02H9kFkehI",
+            "etag": "7BT6QmifKFJGNbMvyFCcLEUu06M",
             "id": "UExSRXJ2RElyU3QzYUozVW4wTkUySGZSS3h4VU40MjJKYS5FRjdGNDMzN0I2RTI3MDlG",
             "snippet": {
                 "publishedAt": "2020-04-08T09:03:53Z",
@@ -276,7 +325,7 @@
                 },
                 "channelTitle": "Mocha",
                 "playlistId": "PLRErvDIrSt3aJ3Un0NE2HfRKxxUN422Ja",
-                "position": 55,
+                "position": 56,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "1-Iu-p2T5w0"
@@ -289,7 +338,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "vbrDzXb2OM5mJpUyg1bN8ar4kf8",
+            "etag": "KOX-7DhusxWzbO4_w6r_0exgHUM",
             "id": "UExSRXJ2RElyU3QzYUozVW4wTkUySGZSS3h4VU40MjJKYS41ODIyMTgwQzA4NjJCQkZC",
             "snippet": {
                 "publishedAt": "2020-04-08T09:03:53Z",
@@ -320,7 +369,7 @@
                 },
                 "channelTitle": "Mocha",
                 "playlistId": "PLRErvDIrSt3aJ3Un0NE2HfRKxxUN422Ja",
-                "position": 56,
+                "position": 57,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "8Qcj_lsXWb4"
@@ -333,7 +382,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "cbGPr__z8DqTcW6NlCMRhUg1hXE",
+            "etag": "nfZNBWxofYNDf04onOM4RzLl7a8",
             "id": "UExSRXJ2RElyU3QzYUozVW4wTkUySGZSS3h4VU40MjJKYS5GNzk2RTlDQTNCQzJCQzJG",
             "snippet": {
                 "publishedAt": "2020-05-09T04:21:13Z",
@@ -369,7 +418,7 @@
                 },
                 "channelTitle": "Mocha",
                 "playlistId": "PLRErvDIrSt3aJ3Un0NE2HfRKxxUN422Ja",
-                "position": 57,
+                "position": 58,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "SRaHoyXeI-k"
@@ -382,7 +431,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "AvN0w1SS62lDFQlRxEWrWl2wf1Q",
+            "etag": "cLt715r-Vya93kMsA0YxPSOXNdQ",
             "id": "UExSRXJ2RElyU3QzYUozVW4wTkUySGZSS3h4VU40MjJKYS5CQzUwREI3MzkxQjdBM0E0",
             "snippet": {
                 "publishedAt": "2020-05-22T12:03:31Z",
@@ -418,7 +467,7 @@
                 },
                 "channelTitle": "Mocha",
                 "playlistId": "PLRErvDIrSt3aJ3Un0NE2HfRKxxUN422Ja",
-                "position": 58,
+                "position": 59,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "9qjWkQZyhWE"
@@ -431,7 +480,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "NRKZA7WpdFNmyrRxVp5_zQnqHQE",
+            "etag": "Euhjm9iCSAborRtrucDjmMlC4SY",
             "id": "UExSRXJ2RElyU3QzYUozVW4wTkUySGZSS3h4VU40MjJKYS4yOTZGRTNEQ0ZGNUM5RDgw",
             "snippet": {
                 "publishedAt": "2020-05-22T12:03:58Z",
@@ -467,7 +516,7 @@
                 },
                 "channelTitle": "Mocha",
                 "playlistId": "PLRErvDIrSt3aJ3Un0NE2HfRKxxUN422Ja",
-                "position": 59,
+                "position": 60,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "gQC5iYNixis"
@@ -480,7 +529,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "zJjA4SUim6FZ4R6o5CJH3WgliXA",
+            "etag": "O1ER0dKr2nESlPV_sixe2wzhwv8",
             "id": "UExSRXJ2RElyU3QzYUozVW4wTkUySGZSS3h4VU40MjJKYS4zNDIxRUJGQThFRTg1QzAy",
             "snippet": {
                 "publishedAt": "2020-05-22T16:38:33Z",
@@ -516,7 +565,7 @@
                 },
                 "channelTitle": "Mocha",
                 "playlistId": "PLRErvDIrSt3aJ3Un0NE2HfRKxxUN422Ja",
-                "position": 60,
+                "position": 61,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "7vftEOJTQ_U"
@@ -529,7 +578,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ggfE3NoWLvW6xwgcH_PEo9uPm9s",
+            "etag": "uvt7SRHV9ZQRxjAohTJdMCzY2jc",
             "id": "UExSRXJ2RElyU3QzYUozVW4wTkUySGZSS3h4VU40MjJKYS4wN0FBRUVFNEVBMTZBQ0Mx",
             "snippet": {
                 "publishedAt": "2020-06-24T04:19:02Z",
@@ -565,7 +614,7 @@
                 },
                 "channelTitle": "Mocha",
                 "playlistId": "PLRErvDIrSt3aJ3Un0NE2HfRKxxUN422Ja",
-                "position": 61,
+                "position": 62,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "OgvIcY-4b6A"
@@ -578,7 +627,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ebNWOKhRpSuglrzpd7p2_1FQnQQ",
+            "etag": "LJpvb0MFh1VA1KLBKn8JZBdgeHs",
             "id": "UExSRXJ2RElyU3QzYUozVW4wTkUySGZSS3h4VU40MjJKYS5EODgyNjY4MzA3QzY5RTkx",
             "snippet": {
                 "publishedAt": "2020-06-24T04:19:16Z",
@@ -614,7 +663,7 @@
                 },
                 "channelTitle": "Mocha",
                 "playlistId": "PLRErvDIrSt3aJ3Un0NE2HfRKxxUN422Ja",
-                "position": 62,
+                "position": 63,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "7tcGvRIuswA"
@@ -627,7 +676,7 @@
         }
     ],
     "pageInfo": {
-        "totalResults": 63,
+        "totalResults": 64,
         "resultsPerPage": 50
     }
 }

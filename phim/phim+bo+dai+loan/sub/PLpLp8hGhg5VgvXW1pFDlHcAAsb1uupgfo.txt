@@ -1,13 +1,791 @@
 {
-    "error": {
-        "code": 403,
-        "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-        "errors": [
-            {
-                "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-                "domain": "youtube.quota",
-                "reason": "quotaExceeded"
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "yq7nwzu7u-75YybwNVyJ5RxM_oo",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cVziWSwAazDVRd9LXzqQH15DtC8",
+            "id": "UExwTHA4aEdoZzVWZ3ZYVzFwRkRsSGNBQXNiMXV1cGdmby41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2020-03-03T10:06:15Z",
+                "channelId": "UCdCSHppdzk7ktNNi109BGNg",
+                "title": "Gạt Đi Tình Thân - Tập 2 | Phim Bộ Tình Cảm Đài Loan Hay Nhất  - Lồng Tiếng",
+                "description": "Gạt Đi Tình Thân - Tập 2 | Phim Bộ Tình Cảm Đài Loan Hay Nhất  - Lồng Tiếng \nGạt Đi Tình Thân Full Bộ:https://goo.gl/PYLihP\nPhim Bộ Trung Quốc 2018 :https://youtu.be/OQi5qTxaESc\nphim việt nam 2018 : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2018: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\n#PhimTrungQuoc #ĐăngKýNgay\n\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SFjqzbYndxU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SFjqzbYndxU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SFjqzbYndxU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SFjqzbYndxU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SFjqzbYndxU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Laggker Deks",
+                "playlistId": "PLpLp8hGhg5VgvXW1pFDlHcAAsb1uupgfo",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "SFjqzbYndxU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "SFjqzbYndxU",
+                "videoPublishedAt": "2019-01-14T13:02:33Z"
             }
-        ]
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fRFzKl-LG3L2B88RsfGs4206ZoA",
+            "id": "UExwTHA4aEdoZzVWZ3ZYVzFwRkRsSGNBQXNiMXV1cGdmby4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2020-03-03T10:06:15Z",
+                "channelId": "UCdCSHppdzk7ktNNi109BGNg",
+                "title": "TRƯỜNG HỌC MỸ NHÂN - TẬP 1 | TÔI VÀO TRƯỜNG DÀNH RIÊNG CHO NỮ | PHIM BỘ TRUNG QUỐC | BBQ NGÔN TÌNH",
+                "description": "TRƯỜNG HỌC MỸ NHÂN - TẬP 1 | TÔI VÀO TRƯỜNG DÀNH RIÊNG CHO NỮ | PHIM BỘ TRUNG QUỐC | BBQ NGÔN TÌNH\r\n------------------------------------------------\r\n❥ Subscribe kênh để xem thêm nhé: https://bit.ly/2t8QL8Q\n❥ Xem Trọn Bộ Trường Học Mỹ Nhân: http://bit.ly/ngoitruongmynhan\n------------------------------------------------\r\nNỘI DUNG PHIM:\r\n\r\nPhim Trường Học Mỹ Nhân (Lộc Hàm, Quan Hiểu Đồng) xoay quanh Mai Minh Thiên (Lộc Hàm), chàng trai xuất thân trong một gia đình nghèo khó nhưng lại nuôi hoài bão trở thành vận động viên boxing chuyên nghiệp. Để đạt được ước mơ, Minh Thiên đã phải cố gắng hơn bạn bè đồng trang lứa rất nhiều. Trong quá trình thực hiện ước mơ, Minh Thiên gặp gỡ Phượng Vũ (Quan Hiểu Đồng), người được mệnh danh là “nữ vương boxing”. Tuy bề ngoài có vẻ lạnh lùng thờ ơ nhưng nội tâm Phượng Vũ cũng yếu đuối, nhạy cảm như bao cô gái khác. Phượng Vũ và Minh Thiên sẽ cùng nhau viết lên câu chuyện tình đẹp như mơ.\r\n\r\nTên gốc: Cú Đấm Ngọt Ngào\r\nTên khác: Điềm Mật Bạo Kích\r\nTên tiếng anh: Sweet Combat (2018)\r\nDiễn viên: Lộc Hàm, Quan Hiểu Đồng, Thiệu Vũ Vi, Triệu Việt, Lý Manh Manh, Bùi Tử Thiêm\r\nQuốc gia: Trung Quốc\r\nNăm: 2018\r\nThời lượng: 45p/tập\r\nSố tập: 37 tập\r\nChất lượng: Bản đẹp\r\nĐộ phân giải: Full HD\r\nNgôn ngữ: Thuyết minh\r\nThể loại: Phim hành động, Phim tâm lý - tình cảm, Phim hài hước - lãng mạn\r\n\r\n------------------------------------------------\r\nBBQ Ngôn Tình - Kênh giải trí hàng đầu luôn cập nhập những bộ phim hay nhất, mới nhất, chất lượng nhất cho khán giả hằng ngày.\r\n\r\nĐăng ký BBQ Ngôn Tình ngay để không bỏ lỡ những sản phẩm chất lượng, những video hài kịch vui nhộn, những bộ phim đặc sắc, ý nghĩa.\r\n------------------------------------------------\r\n© Các video trên kênh \"BBQ Ngôn Tình\" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\r\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\r\n\r\n#truonghocmynhan #bbqngontinh  #phimbohay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Z-7V9Cmr8yo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Z-7V9Cmr8yo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Z-7V9Cmr8yo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Z-7V9Cmr8yo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Z-7V9Cmr8yo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Laggker Deks",
+                "playlistId": "PLpLp8hGhg5VgvXW1pFDlHcAAsb1uupgfo",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Z-7V9Cmr8yo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Z-7V9Cmr8yo",
+                "videoPublishedAt": "2020-02-11T04:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "j4vLOSYOR9DURx4im2N5XT3-BWU",
+            "id": "UExwTHA4aEdoZzVWZ3ZYVzFwRkRsSGNBQXNiMXV1cGdmby4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2020-03-03T10:06:15Z",
+                "channelId": "UCdCSHppdzk7ktNNi109BGNg",
+                "title": "[PHIM HAY] CỰC PHẨM TRÙ THẦN - TẬP 1 THUYẾT MINH | PHIM BỘ TÌNH CẢM ĐÀI LOAN HAY NHẤT 2020",
+                "description": "[PHIM HAY] CỰC PHẨM TRÙ THẦN - TẬP 1 THUYẾT MINH | PHIM BỘ TÌNH CẢM ĐÀI LOAN HAY NHẤT 2020\n------------------------------------------------\n❥ Subscribe kênh để xem thêm nhé: https://bit.ly/2t8QL8Q\r\n❥ Xem Trọn Bộ Cực Phẩm Trù Thần: https://bit.ly/2TKI1RJ\r\n------------------------------------------------\nNỘI DUNG PHIM:\n\n\"Cực Phẩm Trù Thần\" kể về cuộc so tài giữa nữ vương chợ đêm Vệ Phân Thanh với đầu bếp siêu cấp Hoắc Đình Ân. Đối với Vệ Phân Thanh thì chợ đêm là toàn bộ cuộc sống của cô, sự kiêu ngạo lớn nhất của cô chính là việc tự mình nghĩ ra cách kiếm tiền từ thức ăn ngon ở chợ đêm, được tất cả bạn bè trên mạng khen ngợi, được cho là sánh ngang với thực đơn của nhà hàng đẳng cấp ba sao.\n\nCòn đối với Hoắc Đình Ân mà nói, nhà hàng là mục tiêu cuộc sống duy nhất của anh, món ăn mà anh tạo ra được ca ngợi đến mức dù cho có phải bay qua Thái Bình Dương đê thưởng thức thì cũng đáng giá, phương pháp chế biến càng được xem là tuyệt chiêu độc môn. \n\nXin mới các bạn đón xem bộ phim \"Cực Phẩm Trù Thần\" trên BBQ Ngôn Tình vào lúc 11h30, 12h30 hằng ngày. Chúc các bạn xem phim vui vẻ!\n\nTên khác: Cực Phẩm Xứng Đôi\nTên tiếng anh: The Perfect Match (2017)\nThể loại: Hài Hước, Tâm Lý - Lãng Mạn, Phim Ngôn Tình , Phim Hoa Ngữ, Phim Đài Loan, Phim Thần Tượng\nQuốc gia: Taiwan\nDiễn viên: Thiệu Vũ Vi, Ngô Khảng Nhân, Trần Nãi Vinh, Tiểu Lạc, Tiểu Man\nNăm: 2017\nThời lượng: 70 phút/tập\nChất lượng: Bản đẹp\nĐộ phân giải: HD 720p\nNgôn ngữ: Vietsub + Thuyết minh\n------------------------------------------------\nBBQ Ngôn Tình - Kênh giải trí hàng đầu luôn cập nhập những bộ phim hay nhất, mới nhất, chất lượng nhất cho khán giả hằng ngày.\r\n\nĐăng ký BBQ Ngôn Tình ngay để không bỏ lỡ những sản phẩm chất lượng, những video hài kịch vui nhộn, những bộ phim đặc sắc, ý nghĩa.\r\n------------------------------------------------\n© Các video trên kênh \"BBQ Ngôn Tình\" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w73_W7mhaac/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w73_W7mhaac/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w73_W7mhaac/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/w73_W7mhaac/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/w73_W7mhaac/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Laggker Deks",
+                "playlistId": "PLpLp8hGhg5VgvXW1pFDlHcAAsb1uupgfo",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "w73_W7mhaac"
+                }
+            },
+            "contentDetails": {
+                "videoId": "w73_W7mhaac",
+                "videoPublishedAt": "2019-12-28T04:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UlXh_HpEuIPrxGhmqVHgUaE1mfk",
+            "id": "UExwTHA4aEdoZzVWZ3ZYVzFwRkRsSGNBQXNiMXV1cGdmby41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2020-03-03T10:06:15Z",
+                "channelId": "UCdCSHppdzk7ktNNi109BGNg",
+                "title": "SOÁI CA 500 TUỔI LÀ BẠN TRAI TÔI - TẬP 1 | NAM THẦN MÁY BAY VÀ MỸ NHÂN PHI CÔNG | PHIM TÌNH CẢM HÀI",
+                "description": "SOÁI CA 500 TUỔI LÀ BẠN TRAI TÔI - TẬP 1 | NAM THẦN MÁY BAY VÀ MỸ NHÂN PHI CÔNG | PHIM TÌNH CẢM HÀI\r\n------------------------------------------------\r\n❥ Subscribe kênh để xem thêm nhé: https://bit.ly/2t8QL8Q\r\n❥ Xem Soái Ca 500 Tuổi Là Bạn Trai Tôi: http://bit.ly/bantrai500tuoi\n------------------------------------------------\r\nNỘI DUNG PHIM:\r\n\r\nSoái Ca 500 Tuổi Là Bạn Trai Tôi là câu chuyện kể về một mối lương duyên bắt đầu từ trong quá khứ. Khi đó “Người đột biến gien” Tiết Linh Kiều sau giấc ngủ say trăm năm, trong một vụ tai nạn xe đã xui xẻo bị ngôi sao nữ Điền Tịnh Thực đánh thức. Tiết Linh Kiều thân thế kỳ lạ, năng lực siêu phàm vừa đấm vừa xoa vào ở nhà Điền Tịnh Thực. Điền Tịnh Thực ngoài mặt tỏ vẻ không quan tâm, nhưng trong lòng lại nghĩ cách muốn đuổi con “yêu quái” này đi. Không ngờ, cứ giày vò nhau như vậy, lại khiến cho quan hệ giữa hai người ngày một tốt lên, một tình cảm mập mờ lặng lẽ nảy sinh. Tuy nhiên, điều dần dần sáng rõ không chỉ là tình yêu của Tiết Linh Kiều và Điền Tịnh Thực, mà một âm mưu kinh thiên động địa vượt qua trăm năm cũng dần dần lộ rõ...\r\n\r\n------------------------------------------------\r\nBBQ Ngôn Tình - Kênh giải trí hàng đầu luôn cập nhập những bộ phim hay nhất, mới nhất, chất lượng nhất cho khán giả hằng ngày.\r\n\r\nĐăng ký BBQ Ngôn Tình ngay để không bỏ lỡ những sản phẩm chất lượng, những video hài kịch vui nhộn, những bộ phim đặc sắc, ý nghĩa.\r\n------------------------------------------------\r\n© Các video trên kênh \"BBQ Ngôn Tình\" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\r\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\r\n\r\n#SoáiCa500TuổiLàBạnTraiTôi #bbqngontinh  #phimbohay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7yJBaVsRf7o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7yJBaVsRf7o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7yJBaVsRf7o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7yJBaVsRf7o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7yJBaVsRf7o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Laggker Deks",
+                "playlistId": "PLpLp8hGhg5VgvXW1pFDlHcAAsb1uupgfo",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7yJBaVsRf7o"
+                }
+            },
+            "contentDetails": {
+                "videoId": "7yJBaVsRf7o",
+                "videoPublishedAt": "2020-02-16T12:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "JuWy_AnDhG87GT4d1KKTYtq6INk",
+            "id": "UExwTHA4aEdoZzVWZ3ZYVzFwRkRsSGNBQXNiMXV1cGdmby4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2020-03-03T10:06:15Z",
+                "channelId": "UCdCSHppdzk7ktNNi109BGNg",
+                "title": "SOÁI CA BIỂN CẢ - TẬP 1 | NAM THẦN CỨU HỘ VÀ CHÚ CHÓ DŨNG CẢM | PHIM TÌNH CẢM HÀI | BBQ NGÔN TÌNH",
+                "description": "SOÁI CA BIỂN CẢ - TẬP 1 | NAM THẦN CỨU HỘ VÀ CHÚ CHÓ DŨNG CẢM | PHIM TÌNH CẢM HÀI | BBQ NGÔN TÌNH\n------------------------------------------------\n❥ Subscribe kênh để xem thêm nhé: https://bit.ly/2t8QL8Q\n❥ Xem Trọn Bộ Soái Ca Biển Cả: http://bit.ly/soacabienca\n------------------------------------------------\n►Tên Phim: Soái Ca Biển Cả\r\n►Diễn viên : Trương Vân Long\r\n\r\nNỘI DUNG PHIM: \r\n\r\nĐây là 1 bộ phim hài, lãng mạn và tình cảm của Trung Quốc xoay quanh anh chàng điển trai được vào vai bởi Trương Vân Long, cùng Wang Lang và 1 chú chó trải qua những câu chuyện hài hước nhẹ nhàng.\r\n\r\nCâu chuyện lấy sự ấm áp, tình cảm để miêu tả lại sự trung thành và lương thiện của loài chó, sự trưởng thành cùng với sự thoái hóa biến chất của mỗi người. Những điều đáng trân trọng nhất trên thế gian như tình yêu, mơ ước, sự khoan dung và năng lượng sống đã được phát huy mạnh mẽ, lưu lại một câu chuyện rất cảm động nơi thành thị phồn hoa.\n------------------------------------------------\r\nBBQ Ngôn Tình - Kênh giải trí hàng đầu luôn cập nhập những bộ phim hay nhất, mới nhất, chất lượng nhất cho khán giả hằng ngày.\nĐăng ký BBQ Ngôn Tình ngay để không bỏ lỡ những sản phẩm chất lượng, những video hài kịch vui nhộn, những bộ phim đặc sắc, ý nghĩa.\r\n------------------------------------------------\n© Các video trên kênh \"BBQ Ngôn Tình\" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\r\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\r\n\r\n#soaicabienca #bbgngontinh  #phimtinhcam",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A0TsrWCi9E0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A0TsrWCi9E0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A0TsrWCi9E0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Laggker Deks",
+                "playlistId": "PLpLp8hGhg5VgvXW1pFDlHcAAsb1uupgfo",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "A0TsrWCi9E0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "A0TsrWCi9E0",
+                "videoPublishedAt": "2020-01-10T12:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OCyqGEAHeDONoAFGK4VZouLnWy8",
+            "id": "UExwTHA4aEdoZzVWZ3ZYVzFwRkRsSGNBQXNiMXV1cGdmby41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2020-03-03T10:06:15Z",
+                "channelId": "UCdCSHppdzk7ktNNi109BGNg",
+                "title": "Phim Bộ 2019 | Công Chúa Lưu Lạc Tập 2 | Phim Bộ Cổ Trang Hay Nhất 2019",
+                "description": "Công Chúa Lưu Lạc là phim bộ cổ trang 2019, phim trung quốc, phim mới hay nhất trong những phim Cung Đấu. Phim bộ lồng tiếng, chất lượng Full HD, nội dung sâu sắc, ly kỳ và ý nghĩa.\n☑ Số tập: 72 tập\n☑ Xem trọn bộ: https://bit.ly/2nPDvnC\n\n☑ Nội Dung Phim: Dĩ Đan cách cách vì uống say đã lạc vào tẩm cung khiến hoàng đế Khang Hy trong lúc quá chén ngỡ là phi tần mà trót mặn nồng ân ái. Không lâu sau, Dĩ Dan phát hiện mình đã mang thai nên đành từ hôn với Liệt Thân Vương, trốn lên am ni cô chờ ngày sinh nở. Nhưng vào đúng ngày nàng hạ sinh một cặp song sinh thì bị nhóm sát thủ tấn công, am tự chìm trong biển lửa, Dĩ Đan chỉ kịp trao bé gái cho một cung nữ lẻn trốn thoát thân.\nTới 18 năm sau, Ty y khố của hậu cung tổ chức thi tuyển thợ may thêu giỏi để lo trang phục triều đình. Liễu Hàm Hương đoạt giải cao nhất và cùng các tú nữ khác bắt đầu những ngày làm việc nơi cung cấm. Gặp cô, nữ quan Đồng Ty Khố ngỡ ngàng vì ngoại hình Hàm Hương giống hệt Dĩ Đan cách cách năm xưa và qua điều tra đã biết thân phận thực sự của nàng.\nVừa vào cung, Hàm Hương đã được thái tử để ý nên trở thành “cái gai trong mắt” của Thái tử phi. Nàng gặp họa sát thân hết lần này đến lần khác, may mà có Cách Thái bối lặc ra tay trợ giúp mới bao phen thoát hiểm. Cùng lúc này, một tú nữ khác là Tuyết Nhạn tự xưng là con gái của Dĩ Đan cách cách và được thái hậu công nhận, yêu thương hết mực, hứa gả cô cho Cách Thái bối lặc, người Hàm Hương đã trao trọn trái tim. Khi nghe con gái của Dĩ Đan “nhận tổ quy tông”, sát thủ áo đen bí ẩn năm xưa lại xuất hiện, gây kinh hãi cho triều đình.\n         Xuyên suốt câu chuyện là bản lĩnh nữ nhi của hai mẹ con Dĩ Đan cách cách, Hàm Hương. Và cả hai vai đều do ngôi sao Can Đình Đình thủ diễn. Dù Dĩ Đan cách cách chỉ xuất hiện ở tập đầu bộ phim nhưng nghị lực phi thường, chối bỏ cuộc hôn nhân hạnh phúc để bảo vệ giọt máu trong bụng khiến người xem xúc động. Phim gay cấn ngay từ mở đầu với bi kịch thương tâm của vị cách cách quyền quý để mở ra khung cảnh 18 năm sau với nhân vật Hàm Hương vừa có sắc, có tài lại luôn bản lĩnh.\n         Vào vai Hàm Hương, Can Đình Đình trẻ trung và cương nghị hơn trước. Ngôi sao hóa thân thành cô gái hiền lành, giàu lòng vị tha, trọng tình nghĩa nhưng lại quyết không thỏa hiệp cùng cái xấu. Giữa chốn cung cấm đầy cạm bẫy, liên tiếp nhiều lần trở thành mục tiêu bị hãm hại nhưng nàng vẫn không từ bỏ khát khao đòi lại công bằng cho mẹ. Từ đó, những âm mưu thâm độc của những phi tần từng bước bị phơi bày ra ánh sáng.\n\n❤️❤️ Chúc các bạn có những phút giây thư giãn và đừng quên đăng ký kênh, tích chuông để theo dõi những bộ phim hay và mới nhất nhé!!!!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6aI1HDZUNyM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6aI1HDZUNyM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6aI1HDZUNyM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6aI1HDZUNyM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6aI1HDZUNyM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Laggker Deks",
+                "playlistId": "PLpLp8hGhg5VgvXW1pFDlHcAAsb1uupgfo",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6aI1HDZUNyM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "6aI1HDZUNyM",
+                "videoPublishedAt": "2019-10-04T02:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HE6-Pc6ihrGVUV7AUBySjYD1ERM",
+            "id": "UExwTHA4aEdoZzVWZ3ZYVzFwRkRsSGNBQXNiMXV1cGdmby5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2020-03-03T10:06:15Z",
+                "channelId": "UCdCSHppdzk7ktNNi109BGNg",
+                "title": "loạn thế giai nhân- đường yên, la tấn, trần kiện phong",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O_06f-mVBTo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O_06f-mVBTo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O_06f-mVBTo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/O_06f-mVBTo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Laggker Deks",
+                "playlistId": "PLpLp8hGhg5VgvXW1pFDlHcAAsb1uupgfo",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "O_06f-mVBTo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "O_06f-mVBTo",
+                "videoPublishedAt": "2013-11-08T05:31:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rJesQRreug8zsgweOFnpqdnvejU",
+            "id": "UExwTHA4aEdoZzVWZ3ZYVzFwRkRsSGNBQXNiMXV1cGdmby45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2020-03-03T10:06:15Z",
+                "channelId": "UCdCSHppdzk7ktNNi109BGNg",
+                "title": "Đường Chân Trời - Tập 23 | HTV Phim Tình Cảm Việt Nam Hay Nhất 2019",
+                "description": "Đường Chân Trời - Tập 23 | HTV Phim Tình Cảm Việt Nam Hay Nhất 2019\nXem tiếp Đường Chân Trời - (Tập 24): vào 06g00 AM Việt Nam ngày 02/03/2019\n-----------\nXem TVonline tại Hplus (HTVC): http://htvc.com.vn\nTải app HTVC tại đây:\n► IOS: https://apple.co/2JQDSXO\n► Android: http://bit.ly/2t6WyIy\nPS: Dịch vụ HTVC chỉ xem được tại thị trường Việt Nam.\n-------------------\n► Đăng Ký HPLUS Để Xem Thêm Các Phim Hay Nhất: https://bit.ly/2H0BaNU\n► Phim Tình Cảm Việt Nam Hay & Cảm Động: https://bit.ly/2GDb1Fu\n►Fanpage HTVplus: www.facebook.com/hplusvn\n►Fanpage HPlus: www.facebook.com/hplusofficial\n\nBộ phim “Đường Chân Trời” xoay quanh nhân vật Loan. Mẹ của Loan vì do một căn bệnh hoành hành do không có đủ tiền lo cho mẹ nên mẹ của cô qua đời. Từ cái chết của mẹ mình Loan đột ngột thay đổi thành một con người khác. Cô cho rằng cuộc sống có tiền là có tất cả. Vì thế cô đã dùng mọi thủ đoạn để có được đồng tiến. Cô quen một anh chàng nhà quê chất phát thật thà. Nhưng cũng vì đồng tiền cô đã bỏ anh mà ra đi đến với một đại gia. Nhưng kể từ khi cô phát hiện ra rằng tài sản không thuộc về chồng cô do không phải là con ruột. Từ đó cô đã đánh mất đi lương tâm mà quen luôn cả ba chồng. Và cô đã đi đến một con đường không có nơi kết thúc đó là Đường Chân Trời.\nDiễn Viên: Bích Trâm, Nguyễn Sanh, Ôn Bích Hằng, Trọng Nhân, Trường Thịnh,…\n#DuongChanTroi\n#DuongChanTroi23 qwertyuiop",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ANt_1TMj_OQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ANt_1TMj_OQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ANt_1TMj_OQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ANt_1TMj_OQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ANt_1TMj_OQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Laggker Deks",
+                "playlistId": "PLpLp8hGhg5VgvXW1pFDlHcAAsb1uupgfo",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ANt_1TMj_OQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "ANt_1TMj_OQ",
+                "videoPublishedAt": "2019-02-28T22:58:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3Z7oLcOs5wyFk1JxzK3wATQT3g4",
+            "id": "UExwTHA4aEdoZzVWZ3ZYVzFwRkRsSGNBQXNiMXV1cGdmby5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2020-03-03T10:06:15Z",
+                "channelId": "UCdCSHppdzk7ktNNi109BGNg",
+                "title": "TÌNH ANH EM 2 | KHÁ BẢNH | FRATERNITY ! (Phiên bản LỖI) - CHÁO LÒNG TV",
+                "description": "--Hãy LIKE và SUBCRIBE kênh để đón chờ những video tiếp theo!--\nĐể lại nhận xét và góp ý của bạn bên dưới để chúng tôi làm những video tốt hơn trong tương lai \n\nBật [Phụ đề] và [HD] để xem hấp dẫn hơn nhé các bạn !\n\n[[PHIM NGẮN 2019] TÌNH ANH EM 4K | KHÁ BẢNH | FRATERNITY ! \nTÌNH ANH EM là câu chuyện có thật trong cuộc đời KHÁ BẢNH kể về việc của thằng em chơi bời cờ bạc thua tha , nợ tiền rồi bị đánh đã để Khá BảnH phải xử lí , giả tiền và đòi lại công bằng . \n#khábảnh #tinhanhem #khabanh\n- Diễn viên: Hoàng Ngọc Long (Tobey), Hoàng Mạnh Hùng (Sukr), Ngọc Hiển, Học Six, Tễu, Ngọc cáo, Trần Linh\n\nKhá BảnH Fanpage : https://www.facebook.com/khabanh1102/\nKhá BảnH Facebook : https://www.facebook.com/kha123dz\nKhá BảnH Group :  https://www.facebook.com/groups/22684...\nFB chúng tôi: https://www.facebook.com/lynk.koi.3",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4w-BzcfceAk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4w-BzcfceAk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4w-BzcfceAk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4w-BzcfceAk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4w-BzcfceAk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Laggker Deks",
+                "playlistId": "PLpLp8hGhg5VgvXW1pFDlHcAAsb1uupgfo",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4w-BzcfceAk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "4w-BzcfceAk",
+                "videoPublishedAt": "2019-01-06T17:49:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gua66khxRqd4mud2f0gKphZTQ1o",
+            "id": "UExwTHA4aEdoZzVWZ3ZYVzFwRkRsSGNBQXNiMXV1cGdmby40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2020-03-03T10:06:15Z",
+                "channelId": "UCdCSHppdzk7ktNNi109BGNg",
+                "title": "Xã Hội Đen Thái Lan Truy Sát Đại Tá Quân Đội Thái Lan Ngay Trong Bệnh Viện | Mối Tình Dang Dở",
+                "description": "Xã Hội Đen Thái Lan Truy Sát Đại Tá Quân Đội Thái Lan Ngay Trong Bệnh Viện | Mối Tình Dang Dở\n► Phim Ngôn Tình: Hãy Nói Anh Yêu Em: https://bit.ly/2Zo84hF\n► Phim Tâm Lý Tình Cảm: Làm Dâu Nhà Giàu: https://bit.ly/335pUs3\n► Phim Ngôn Tình Lãng Mạn: Tình Yêu Không Khoảng Cách: https://bit.ly/2ZrBoDS\n► Phim Ngôn Tình Hài Hước: Mật Tình: https://bit.ly/317ueF5\n► Phim Ngôn Tình Hành Động:Cuộc Tình Monh Manh: https://bitly.vn/5rd3\n- Fanpage: https://www.facebook.com/MFILM-370776563538509/\n- Đăng Ký Kênh tại: https://goo.gl/hNBKii\n© Bản quyền video thuộc M-FILM, vui lòng không tái sử dụng dưới mọi hình thức.\n© Bảo trợ bản quyền thuộc | METUB Network\n#mfilm #phimngontinh #phimhay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4dt0EkX_mxU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4dt0EkX_mxU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4dt0EkX_mxU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4dt0EkX_mxU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4dt0EkX_mxU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Laggker Deks",
+                "playlistId": "PLpLp8hGhg5VgvXW1pFDlHcAAsb1uupgfo",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4dt0EkX_mxU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "4dt0EkX_mxU",
+                "videoPublishedAt": "2019-08-21T04:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wVctgXIciTx2g90q5o8j5iiQqjs",
+            "id": "UExwTHA4aEdoZzVWZ3ZYVzFwRkRsSGNBQXNiMXV1cGdmby5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2020-03-03T10:06:15Z",
+                "channelId": "UCdCSHppdzk7ktNNi109BGNg",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Laggker Deks",
+                "playlistId": "PLpLp8hGhg5VgvXW1pFDlHcAAsb1uupgfo",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qMEPFTwSyic"
+                }
+            },
+            "contentDetails": {
+                "videoId": "qMEPFTwSyic"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "CSQOmIwO7RgCovo7f9Vl_LZHoIo",
+            "id": "UExwTHA4aEdoZzVWZ3ZYVzFwRkRsSGNBQXNiMXV1cGdmby4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2020-03-03T10:06:15Z",
+                "channelId": "UCdCSHppdzk7ktNNi109BGNg",
+                "title": "Những Bộ Phim Cổ Trang Trung Quốc Hay Nhất Đã Lên Sóng Trong Nửa Đầu Năm 2019",
+                "description": "Nhấn đăng ký kênh để theo dõi nhiều video hay hơn nhé\nhttps://www.youtube.com/channel/UCW1DPVe87dY2o0vB3BvH93Q?view_as=subscriber\nList phim hoa ngữ 2019 hay nhất\nhttps://www.youtube.com/playlist?list=PLZlzGV-5mr7nEg_Mn9J7WkxgKU2F_bwkX\nTham gia facebook với mình nhé:\nhttps://www.facebook.com/topphimhoa/?__tn__=%2Cd%2CP-R&eid=ARBU_TUmpQP6GpJRWbdxgKs0xmZ-g4WBmhzJd3zzBN6J9xsyGEJafyHqHSNipRmSpkwF4lJCX9dZJD8R\nNếu thích video này, hãy like, share, subcrise ủng hộ kênh. Vui lòng không reup!\nThanks for watching\n_____________\nNhững Bộ Phim Cổ Trang Trung Quốc Hay Nhất Đã Lên Sóng Trong Nửa Đầu Năm 2019\nList 23 phim \n- phong thần diễn nghĩa\n- bái kiến cung chủ đại nhân 2\n- hạo lan truyện\n- đông cung\n- trọng nhĩ truyện\n- chiêu diêu\n- bạch phát\n- háo sắc thiên kim\n- đại tống bắc đẩu tư\n- tân bạch nương tử truyền kỳ\n- tiểu nữ hoa bất khí\n- tân ỷ thiên đồ long ký\n- tước tích- lâm giới thiên hạ\n- thính tuyết lâu\n- đại đường ma đạo đoàn\n- độc cô hoàng hậu\n- công chúa giá đáo\n- nhân ngư giang hồ ( bộ này là phim lẻ nhưng thấy hay lắm nên mình vẫn cho vào)\n- đại tống thiếu niên chí\n- minh lan truyện\n- phượng dịch\n- đại chu tiểu băng nhân\n- chúng vương giá đáo\n_______________\np/s: Trường an 12 canh giờ và trần tình lệnh cũng lên sóng từ 27/6 nhưng phần lớn nội dung phim được chiếu vào tháng 7 nên mình sẽ tính 2 bộ đó vào nửa cuối năm 2019 nha\n___________\nBài hát: Kẹo bông gòn \n#cổtrangtrungquốc\n#topphimhoangữ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1o2tIpouP-Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1o2tIpouP-Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1o2tIpouP-Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1o2tIpouP-Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1o2tIpouP-Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Laggker Deks",
+                "playlistId": "PLpLp8hGhg5VgvXW1pFDlHcAAsb1uupgfo",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1o2tIpouP-Q"
+                }
+            },
+            "contentDetails": {
+                "videoId": "1o2tIpouP-Q",
+                "videoPublishedAt": "2019-07-02T03:47:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ui_g4t5etKTMAD0W1aXKVVqbZ2s",
+            "id": "UExwTHA4aEdoZzVWZ3ZYVzFwRkRsSGNBQXNiMXV1cGdmby41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2020-03-03T10:06:15Z",
+                "channelId": "UCdCSHppdzk7ktNNi109BGNg",
+                "title": "Con Gái Me Kế - Tập 31 FULL | Phim Tình Cảm Trung Quốc Lồng Tiếng Tình Cảm Hay Đặc Sắc",
+                "description": "👥 Xem trọn bộ TẠI ĐÂY: http://bit.ly/congaimeke\n\nCuộc sống của 1 gia đình không hạnh phúc trọn vẹn, người chồng bước tiếp lấy vợ nửa, về sống trong nhà cùng con cái. Con Gái Của Mẹ Kế những câu chuyện của gia đình thường lúc nào cũng có những xung đột và biến cố đặc biệt hơn khi mẹ kế con chồng xảy ra. \nPhim nói về Thạch Thiên Minh là một anh chàng phóng khoáng một tay chơi chính hiệu. An Ninh là một cô gái xinh đẹp hiền lành và mỗi khi cô gặp được Thiên Minh thì luôn bị anh chọc phá đến tức giận, nhưng sự thật đằng sau đó là Thiên Minh một lòng yêu An Ninh. Phim với sự tham gia của các diễn viên  Lưu Khải Uy, Bạch Băng, Lâu Nghệ Tiêu, Lưu Nhã Sắc, Lý Khi Nhuế, Dương Tranh...\n\nSUBSCRIBE MORE FULL FILM\n✅ Subcribe : http://bit.ly/subphimhottkl\n✅ Fanpage: https://www.facebook.com/phimhottkl/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jFFHN10syeE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jFFHN10syeE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jFFHN10syeE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jFFHN10syeE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jFFHN10syeE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Laggker Deks",
+                "playlistId": "PLpLp8hGhg5VgvXW1pFDlHcAAsb1uupgfo",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jFFHN10syeE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "jFFHN10syeE",
+                "videoPublishedAt": "2018-05-27T02:52:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hGyZ2uBjBrZyBPpRtlrV15F85NY",
+            "id": "UExwTHA4aEdoZzVWZ3ZYVzFwRkRsSGNBQXNiMXV1cGdmby5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2020-03-03T10:06:15Z",
+                "channelId": "UCdCSHppdzk7ktNNi109BGNg",
+                "title": "Phim Tết Chiếu Rạp Hay Nhất - Phim Hài Trấn Thành, Thanh Nam, Tấn Beo, Thúy Nga, Phương Mỹ Chi",
+                "description": "Phim Tết Chiếu Rạp Hay Nhất - Phim Hài Trấn Thành, Thanh Nam, Tấn Beo, Thúy Nga, Phương Mỹ Chi \nPhim Việt Nam Chiếu Rạp : https://goo.gl/f5LDo5\nphim hành động 2020 :https://goo.gl/f5LDo5\nphim kiếm hiệp mới nhất 2020 : https://goo.gl/pG2tqD\n►Phim Việt Nam Chiếu Rạp 2020 :https://goo.gl/R7Whs5\n►►Đăng Ký Phim Hay Việt Nam : https://goo.gl/f5LDo5\n►►► Like Page để không bỏ lỡ bộ phim HOT nào: https://www.facebook.com/PhimHayPage\nBản quyền thuộc BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cctg8pg4vAY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cctg8pg4vAY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cctg8pg4vAY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cctg8pg4vAY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cctg8pg4vAY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Laggker Deks",
+                "playlistId": "PLpLp8hGhg5VgvXW1pFDlHcAAsb1uupgfo",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "cctg8pg4vAY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "cctg8pg4vAY",
+                "videoPublishedAt": "2020-01-24T23:30:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "O-Q_Z93euhrwOjbAR5qgyfWvMsQ",
+            "id": "UExwTHA4aEdoZzVWZ3ZYVzFwRkRsSGNBQXNiMXV1cGdmby41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2020-03-03T10:06:15Z",
+                "channelId": "UCdCSHppdzk7ktNNi109BGNg",
+                "title": "Danh Y Vượt Thời Gian tập 19 -  Thuyết Minh -  Phim Xuyên Không  - Phim hàn quốc - Flim Bộ",
+                "description": "Danh Y Vượt Thời Gian tập 19 -  Thuyết Minh -  Phim Xuyên Không  - Phim hàn quốc - Flim Bộ\n-------------------------------------------------------------------------------------------------------------\nNhớ Đăng Ký Kênh Youtube Để Nhận Những Tập Phim Hay Nhất Nha\nYoutube : https://www.youtube.com/channel/UCUpWO0gnFJveM_p2XRiMMIA\nLưu ý: Flim Bộ không sở hữu tất cả tư liệu được sử dụng trong video này. Mọi thắc mắc về bản quyền, tài trợ, quảng cáo, cộng tác vui lòng liên hệ email: ducmabu24@gmail.com\n\nWe do NOT own all the materials as well as footages used in this video. Please contact ducmabu24@gmail.com for copyright matters!\n\nVideo có thể có sử dụng chứa bản quyền dựa trên luật sử dụng hợp lý Fair Use (https://www.youtube.com/yt/about/copy...)\n\nVideos may contain copyrighted to use based on the rational use of law Fair Use (https://www.youtube.com/yt/about/copy...)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1K4TCl5AJso/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1K4TCl5AJso/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1K4TCl5AJso/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1K4TCl5AJso/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1K4TCl5AJso/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Laggker Deks",
+                "playlistId": "PLpLp8hGhg5VgvXW1pFDlHcAAsb1uupgfo",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1K4TCl5AJso"
+                }
+            },
+            "contentDetails": {
+                "videoId": "1K4TCl5AJso",
+                "videoPublishedAt": "2018-07-28T11:19:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "BBp0Y7L-Q6KrYGQtjkm7gEdb51A",
+            "id": "UExwTHA4aEdoZzVWZ3ZYVzFwRkRsSGNBQXNiMXV1cGdmby5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2020-03-03T10:06:15Z",
+                "channelId": "UCdCSHppdzk7ktNNi109BGNg",
+                "title": "Nữ Bác Sĩ - Tập 11 | Phim Tình Cảm Việt Nam Đặc Sắc Hay Nhất 2016",
+                "description": "Nữ Bác Sĩ - Tập 11 | Phim Tình Cảm Việt Nam Đặc Sắc Hay Nhất 2016 \n\nNữ Bác sĩ | Tập 11 | Thanh Hà đã không ngại tiết lộ với Khải về tình cảm của mình dành cho anh. Khải giúp Thanh Hà hiểu được tình cảm đặc biệt anh chỉ dành cho Thanh Hà. Hiểu mọi việc, Thanh Hà chia sẻ những vui buồn cùng Luận. Cô thấy được tình yêu Luận dành cho cô rất nhiều nhưng Thanh Hà có chấp nhận đáp lại?\n\nĐăng Ký Ngay Để Khám Phá Thế Giới Phim Truyền Hình Việt Nam: http://yeah1.net/hplus\n\nDiễn viên: Quý Bình, Đức Thịnh, Mai Sơn Lâm, Xuân Hòa, Đinh Y Nhung\n\nWebsite: www.hplus.com.vn\nwww.htvonline.com.vn\nFacebook Fanpages:\nhttps://www.facebook.com/HTVPlus\nhttps://www.facebook.com/htvonline.com.vn\n\nGoogle Plus:\nhttps://www.google.com/+HplusVn\nhttps://www.google.com/+HTVOnlineKids\nhttps://www.google.com/+HTV60s\n\nYouTube Channels:\nhttps://www.youtube.com/c/HplusVn\nhttps://www.youtube.com/c/HTVOnlineKids\nhttps://www.youtube.com/c/HTV60s\n\nAppStore:\niOS - https://itunes.apple.com/vn/app/hplus/id984464040?mt=8\nAndroid - https://play.google.com/store/apps/details?id=com.hplus&hl=en qwertyuiop",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Pz5p6Z11FIw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Pz5p6Z11FIw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Pz5p6Z11FIw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Pz5p6Z11FIw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Pz5p6Z11FIw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Laggker Deks",
+                "playlistId": "PLpLp8hGhg5VgvXW1pFDlHcAAsb1uupgfo",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Pz5p6Z11FIw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Pz5p6Z11FIw",
+                "videoPublishedAt": "2016-01-18T12:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "T0fUYyG7Ovc3C9-hfP2X6bEIsJ4",
+            "id": "UExwTHA4aEdoZzVWZ3ZYVzFwRkRsSGNBQXNiMXV1cGdmby4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2020-03-03T10:06:15Z",
+                "channelId": "UCdCSHppdzk7ktNNi109BGNg",
+                "title": "Chùa Nghìn Cột - Fushimi Inari Có Gì Đặc Biệt ?",
+                "description": "Chùa Nghìn Cột - Fushimi Inari Có Gì Đặc Biệt ?\n***\nĐịa chỉ: 68 Fukakusa Yabunouchicho, Fushimi Ward, Kyoto, 612-0882\nNgôi chùa nằm trên tuyến giao thông rất tiện cách ga Kyoto 5P đi tàu JR hoặc tuyến Keihan. Ra khỏi ga JR là nhìn thấy cổng đền nha các bạn.\nBên trong Ngôi Chùa là hàng nghìn cánh cổng tori được sắp xếp liên tục với nhau tạo thành hiệu ứng cực đẹp. Ngoài ra còn rất nhiều điều thú vị nữa. Hãy cũng xem video nhé.\n***\nHãy Like và Share Nếu Bạn THấy Thú Vị .\nHành Trình Khám Phá Nhật Bản \nhttps://youtu.be/LautquQH3yY\nCám ơn các bạn đã ủng hộ mình\n***************************\nMọi chi tiết vui lòng liên hệ: \n***\nFanpage: http://bit.do/toanjpfanpage\n***\nWebsite: www.toanjp.xyz\n***\n***************************\nSong: Oshóva - Amazing Day (Vlog No Copyright Music)\nMusic promoted by Vlog No Copyright Music.\n\nVideo Link: https://youtu.be/-QBRLniju0Y",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LautquQH3yY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LautquQH3yY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LautquQH3yY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Laggker Deks",
+                "playlistId": "PLpLp8hGhg5VgvXW1pFDlHcAAsb1uupgfo",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "LautquQH3yY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "LautquQH3yY",
+                "videoPublishedAt": "2020-01-21T15:09:29Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 20,
+        "resultsPerPage": 50
     }
 }

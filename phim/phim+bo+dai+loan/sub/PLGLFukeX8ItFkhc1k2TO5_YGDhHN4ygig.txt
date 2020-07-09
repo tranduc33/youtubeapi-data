@@ -1,13 +1,1480 @@
 {
-    "error": {
-        "code": 403,
-        "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-        "errors": [
-            {
-                "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-                "domain": "youtube.quota",
-                "reason": "quotaExceeded"
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "ak5hQJaf94AJKf88KV7O9k-ZIsY",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ExA-zNeoaneNwenOF_6i0kx9u0M",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2019-09-25T12:42:03Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 1 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 1 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eXY7BjVVbHM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eXY7BjVVbHM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eXY7BjVVbHM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eXY7BjVVbHM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eXY7BjVVbHM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eXY7BjVVbHM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "eXY7BjVVbHM",
+                "videoPublishedAt": "2019-09-25T11:18:31Z"
             }
-        ]
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ynu-MyAXuCxkrYPz8zlErhYtB5E",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2019-09-25T12:50:17Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 2 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 2 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5f6hLniB-Jc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5f6hLniB-Jc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5f6hLniB-Jc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5f6hLniB-Jc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5f6hLniB-Jc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5f6hLniB-Jc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "5f6hLniB-Jc",
+                "videoPublishedAt": "2019-09-25T13:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "PvbMCfT30jovUOFbJi0JGQ0P8gE",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2019-09-25T12:51:18Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 3 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 3 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B8T-k5jyyIc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B8T-k5jyyIc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B8T-k5jyyIc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/B8T-k5jyyIc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/B8T-k5jyyIc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "B8T-k5jyyIc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "B8T-k5jyyIc",
+                "videoPublishedAt": "2019-09-25T13:15:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-OVsNEj4eki0dMFVcw4khEBEihk",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2019-09-25T12:52:15Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 4 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 4 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s7Dqo1P2-GU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s7Dqo1P2-GU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s7Dqo1P2-GU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/s7Dqo1P2-GU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/s7Dqo1P2-GU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "s7Dqo1P2-GU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "s7Dqo1P2-GU",
+                "videoPublishedAt": "2019-09-25T13:30:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "SfwDjAiZ8faoW2_034ReIebrxhc",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2019-09-25T12:53:13Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 5 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 5 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c38dMntmdYs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c38dMntmdYs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c38dMntmdYs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/c38dMntmdYs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/c38dMntmdYs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "c38dMntmdYs"
+                }
+            },
+            "contentDetails": {
+                "videoId": "c38dMntmdYs",
+                "videoPublishedAt": "2019-09-25T13:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "KvOQbBvnUk40bHxvPf05IptI4FA",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2019-09-25T13:02:32Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 6 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 6 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aRWviy_HgAQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aRWviy_HgAQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aRWviy_HgAQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aRWviy_HgAQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aRWviy_HgAQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "aRWviy_HgAQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "aRWviy_HgAQ",
+                "videoPublishedAt": "2019-09-25T13:45:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pPar-dhsqrzFsDQEaskBtmgTdvk",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2019-09-25T12:56:51Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 7 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 7 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wLb1nNiRO9U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wLb1nNiRO9U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wLb1nNiRO9U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wLb1nNiRO9U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wLb1nNiRO9U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "wLb1nNiRO9U"
+                }
+            },
+            "contentDetails": {
+                "videoId": "wLb1nNiRO9U",
+                "videoPublishedAt": "2019-09-25T13:45:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9_EU2mTmfOjLYz3uGOHvOkb-Ta8",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2019-09-25T13:10:43Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 8 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 8 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yCF9y04KCEI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yCF9y04KCEI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yCF9y04KCEI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yCF9y04KCEI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yCF9y04KCEI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yCF9y04KCEI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "yCF9y04KCEI",
+                "videoPublishedAt": "2019-09-25T13:45:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "D1sCSIHwcEczdBWNrN2hwoe9rtQ",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2019-09-25T13:20:08Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 9 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 9 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TOKRpBljQpM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TOKRpBljQpM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TOKRpBljQpM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TOKRpBljQpM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TOKRpBljQpM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "TOKRpBljQpM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "TOKRpBljQpM",
+                "videoPublishedAt": "2019-09-25T14:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "sIxDofcHzOr6d94oZrSv6LmQQaM",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2019-09-25T13:46:53Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 10 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 10 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dSdxAW_UceE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dSdxAW_UceE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dSdxAW_UceE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dSdxAW_UceE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dSdxAW_UceE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dSdxAW_UceE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "dSdxAW_UceE",
+                "videoPublishedAt": "2019-09-25T14:15:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_5xEaHE0686066QRNrE6dTlUiHU",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2019-09-25T13:54:45Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 11 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 11 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/txpAjd27w5E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/txpAjd27w5E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/txpAjd27w5E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/txpAjd27w5E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/txpAjd27w5E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "txpAjd27w5E"
+                }
+            },
+            "contentDetails": {
+                "videoId": "txpAjd27w5E",
+                "videoPublishedAt": "2019-09-25T14:15:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "E9E2bqVNJOGud9kd1BDWxKu89ys",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2019-09-25T14:09:26Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 12 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 12 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/27ggRcFCwyY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/27ggRcFCwyY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/27ggRcFCwyY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/27ggRcFCwyY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/27ggRcFCwyY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "27ggRcFCwyY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "27ggRcFCwyY",
+                "videoPublishedAt": "2019-09-25T14:45:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FW1z7vsvs6PLg9qJK12jk0537ao",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2019-09-25T14:24:20Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 13 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 13 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h9PDypg4rio/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h9PDypg4rio/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h9PDypg4rio/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/h9PDypg4rio/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/h9PDypg4rio/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "h9PDypg4rio"
+                }
+            },
+            "contentDetails": {
+                "videoId": "h9PDypg4rio",
+                "videoPublishedAt": "2019-09-25T15:00:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vycUoaD6yg14xf67q_QuS6pRIYo",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2019-09-26T06:58:18Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 14 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 14 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gzCnK04pgS8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gzCnK04pgS8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gzCnK04pgS8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gzCnK04pgS8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gzCnK04pgS8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "gzCnK04pgS8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "gzCnK04pgS8",
+                "videoPublishedAt": "2019-09-26T07:00:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8rb9rCWjB8AqlLHra_W5qLD4lSc",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2019-09-27T04:08:23Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 15 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 15 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KUgu6gm7kz0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KUgu6gm7kz0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KUgu6gm7kz0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KUgu6gm7kz0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KUgu6gm7kz0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KUgu6gm7kz0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "KUgu6gm7kz0",
+                "videoPublishedAt": "2019-09-27T04:08:43Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hVReROvGbNugfveGrRQ1Qm24heg",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2019-09-27T04:24:07Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 16 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 16 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tRpbIuYgEMg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tRpbIuYgEMg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tRpbIuYgEMg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tRpbIuYgEMg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tRpbIuYgEMg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "tRpbIuYgEMg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "tRpbIuYgEMg",
+                "videoPublishedAt": "2019-09-27T05:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VnJhoUmAf0sVVodlwiiEQXhONbI",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2019-09-27T04:39:35Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 17 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 17 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/T6CVZezTXMU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/T6CVZezTXMU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/T6CVZezTXMU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/T6CVZezTXMU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/T6CVZezTXMU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "T6CVZezTXMU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "T6CVZezTXMU",
+                "videoPublishedAt": "2019-09-27T06:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8cn4mTXLwSnbN2UUIsnOeGrVYkU",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2019-09-27T04:27:19Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 18 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 18 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cz054bDgrsI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cz054bDgrsI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cz054bDgrsI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cz054bDgrsI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cz054bDgrsI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "cz054bDgrsI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "cz054bDgrsI",
+                "videoPublishedAt": "2019-09-27T07:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "c8EB_NU42qPCvWwqf3vVIP5cvNQ",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2019-09-27T04:28:30Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 19 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 19 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bJILSN0agTA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bJILSN0agTA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bJILSN0agTA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bJILSN0agTA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bJILSN0agTA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bJILSN0agTA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "bJILSN0agTA",
+                "videoPublishedAt": "2019-09-27T08:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vAVIvQ5qkYlUzMf_YWByYtC80Ks",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2019-09-28T04:46:41Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 20 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 20 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NTkMl6vEpfE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NTkMl6vEpfE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NTkMl6vEpfE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NTkMl6vEpfE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NTkMl6vEpfE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NTkMl6vEpfE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "NTkMl6vEpfE",
+                "videoPublishedAt": "2019-09-28T05:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DZA88Mz4YMGitK1lP3YhvD8XYc0",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2019-09-27T04:30:04Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 21 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 21 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/igJfghjq_k8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/igJfghjq_k8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/igJfghjq_k8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/igJfghjq_k8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/igJfghjq_k8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "igJfghjq_k8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "igJfghjq_k8",
+                "videoPublishedAt": "2019-09-28T06:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "G8V51ii4q6sy-Uf1HJVPzhy_a9U",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2019-09-27T04:31:59Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 22 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 22 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Vr7UjMdoJdY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Vr7UjMdoJdY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Vr7UjMdoJdY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Vr7UjMdoJdY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Vr7UjMdoJdY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Vr7UjMdoJdY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Vr7UjMdoJdY",
+                "videoPublishedAt": "2019-09-28T07:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-71iDJzmy4N0SujVAeHBWJn1DYE",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2019-09-27T04:33:47Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 23 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 23 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m9etLs6HsNE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m9etLs6HsNE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m9etLs6HsNE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/m9etLs6HsNE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/m9etLs6HsNE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "m9etLs6HsNE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "m9etLs6HsNE",
+                "videoPublishedAt": "2019-09-28T08:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-WIUL0wyV30jET52vmo9txZHUWk",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2019-09-27T04:35:10Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 24 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 24 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LwMx4DCLTj4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LwMx4DCLTj4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LwMx4DCLTj4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LwMx4DCLTj4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LwMx4DCLTj4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "LwMx4DCLTj4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "LwMx4DCLTj4",
+                "videoPublishedAt": "2019-09-28T13:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "XFpIdVHB1gZCVaNuaqRl1HLht7w",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2019-09-27T04:36:27Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 25 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 25 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QQpjHJu8x4U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QQpjHJu8x4U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QQpjHJu8x4U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QQpjHJu8x4U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QQpjHJu8x4U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "QQpjHJu8x4U"
+                }
+            },
+            "contentDetails": {
+                "videoId": "QQpjHJu8x4U",
+                "videoPublishedAt": "2019-09-28T14:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "1h2iViqviMicfjQUluRkBfZVMP4",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2019-09-27T04:38:31Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 26 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 26 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3xtyhmw4F_4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3xtyhmw4F_4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3xtyhmw4F_4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3xtyhmw4F_4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3xtyhmw4F_4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3xtyhmw4F_4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "3xtyhmw4F_4",
+                "videoPublishedAt": "2019-09-29T04:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "CdugOXsu052r9DjymPxxjMYxVu4",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2019-09-29T04:34:13Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 27 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 27 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iOEpeSnkSMo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iOEpeSnkSMo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iOEpeSnkSMo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iOEpeSnkSMo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iOEpeSnkSMo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "iOEpeSnkSMo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "iOEpeSnkSMo",
+                "videoPublishedAt": "2019-09-29T05:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "desk34Z6Q4h_zVXA66Z_MjAOKHc",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2019-09-29T05:30:50Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 28 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 28 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MrNAfeTefMg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MrNAfeTefMg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MrNAfeTefMg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MrNAfeTefMg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MrNAfeTefMg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "MrNAfeTefMg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "MrNAfeTefMg",
+                "videoPublishedAt": "2019-09-29T07:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VnbI-vQbn2q8p7cOJEj5XFv0sQ8",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2019-09-29T05:28:37Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 29 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 29 THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PpicwS7_GUk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PpicwS7_GUk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PpicwS7_GUk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PpicwS7_GUk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PpicwS7_GUk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PpicwS7_GUk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "PpicwS7_GUk",
+                "videoPublishedAt": "2019-09-29T09:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "E7UCyM_9l2L0UQwNFgZGJeEswto",
+            "id": "UExHTEZ1a2VYOEl0RmtoYzFrMlRPNV9ZR0RoSE40eWdpZy5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2019-09-29T05:30:42Z",
+                "channelId": "UCsdRS7fVfJqkXFsyOiC79og",
+                "title": "[SIÊU PHẨM] LANG TÌNH - TẬP 30 End THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019",
+                "description": "[SIÊU PHẨM] LANG TÌNH - TẬP 30 End THUYẾT MINH | PHIM BỘ NGÔN TÌNH TRUNG QUỐC HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/LangTinhFull\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\nPhim \"Lang Tình\" Prince of Wolf hay còn gọi là \"Hoàng Tử Sói\" của Đài Loan có thể xem là một biến thể khác của bộ phim Cậu Bé Người Sói do Song Joong Ki đóng. Bộ phim Lang Tình xoay quanh câu chuyện về cậu bé Du Ze Ming, bị lạc vào rừng trong một kì nghỉ cùng với gia đình. Cậu bé đã cứu được một con sói mẹ khi bị thợ săn bắn, và từ đó cậu được Vua sói cho gia nhập bộ tộc sói.Mặc dù sống chung trong bầy đàn sói, học cách đi săn và tồn tại, nhưng Ze Ming không hề quên đi những bản năng của loài người. Trong phim Lang Tình, nhân vật Mi Mi là một cô nàng ham mê chụp ảnh đã quyết định vào Núi Sói để chụp được nhiều cảnh đẹp. Cô vô tình gặp nạn và được Hoàng tử sói Ze Ming cứu. Lần đầu được tiếp xúc với con gái, Ze Ming đem lòng yêu Mi Mi từ lúc nào không biết. Sau đó, Ze Ming quyết định theo Mi Mi về thế giới loài người và câu chuyện của họ bắt đầu từ đó. Ze Ming sẽ phải sống thế nào ở thế giới hiện đại? Xin mới các bạn cùng đón xem bộ phim \"Lang Tình\" trên New Films.\n\nDiễn viên: Amber An, Derek Zhang, Katie Chen, Xue Shi Ling\nQuốc gia: Đài Loan,\nNăm: 2016\nThời lượng: 45 phút/tập\nSố tập: 30 tập\nChất lượng: Bản đẹp\nĐộ phân giải: Full 4K\nNgôn ngữ: Thuyết minh\nThể loại: Phim phiêu lưu, Phim hài hước, Phim tình cảm lãng mạng,  Phim thuyết minh, Phim bộ Đài Loan, Phim tâm lý tình cảm\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n-------------------------------------------\n#NewFilms #LangTinh #PhimNgonTinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P2hg-cE1Fl8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P2hg-cE1Fl8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P2hg-cE1Fl8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/P2hg-cE1Fl8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/P2hg-cE1Fl8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New Films",
+                "playlistId": "PLGLFukeX8ItFkhc1k2TO5_YGDhHN4ygig",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "P2hg-cE1Fl8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "P2hg-cE1Fl8",
+                "videoPublishedAt": "2019-09-29T10:00:05Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 30,
+        "resultsPerPage": 50
     }
 }

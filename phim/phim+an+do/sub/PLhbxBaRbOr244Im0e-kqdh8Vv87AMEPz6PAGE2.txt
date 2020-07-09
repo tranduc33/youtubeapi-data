@@ -1,0 +1,104 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "_mv-hnM969uUhtSIbUgrIUayjOg",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ufsYrbOH8XRBk1b8WUAVmAJWUgU",
+            "id": "UExoYnhCYVJiT3IyNDRJbTBlLWtxZGg4VnY4N0FNRVB6Ni44QzVGQUU2QjE2NDgxM0M4",
+            "snippet": {
+                "publishedAt": "2020-07-09T10:42:31Z",
+                "channelId": "UCjG8U14FK4Th1K3XAsjjElA",
+                "title": "Phim Lẻ Võ Thuật Hồng Kông - Cao Thủ Thần Thám - Châu Nhuận Phát",
+                "description": "Phim Lẻ Võ Thuật Hồng Kông - Cao Thủ Thần Thám - Châu Nhuận Phát\nPhim Lẻ Võ Thuật Hồng Kông - Cao Thủ Thần Thám - Châu Nhuận Phát\nPhim Lẻ Võ Thuật Hồng Kông - Cao Thủ Thần Thám - Châu Nhuận Phát\nCao Thủ Thần Thám - Châu Nhuận Phát, Lương Triều Vỹ, Mao Thuấn Quân\n/--------------------------------------------------------------------------------------------------------/\ncảm ơn các bạn đã xem đăng ký kênh để xem nhiều video hay hơn.\nđăng ký tại : \nfacebook cá nhân :  \n\nSubscribe & More Videos: https://goo.gl/9NgieH\nThank for watching, Please Like Share And SUBSCRIBE!!!\n#phimlevothuat, #caothu",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A18udUBvRcI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A18udUBvRcI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A18udUBvRcI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/A18udUBvRcI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Rodolfo Langostino",
+                "playlistId": "PLhbxBaRbOr244Im0e-kqdh8Vv87AMEPz6",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "A18udUBvRcI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "A18udUBvRcI",
+                "videoPublishedAt": "2017-09-30T00:44:51Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "alqDzkx5ChkaWGG7aV8aBxbBM2g",
+            "id": "UExoYnhCYVJiT3IyNDRJbTBlLWtxZGg4VnY4N0FNRVB6Ni4xMzgwMzBERjQ4NjEzNUE5",
+            "snippet": {
+                "publishedAt": "2020-07-09T10:42:31Z",
+                "channelId": "UCjG8U14FK4Th1K3XAsjjElA",
+                "title": "ASSISTIR FILME MUNDO MEDIEVAL DUBLADO HD720p",
+                "description": "FILMS DE AÇÃO HD, FILMES DE SUSPENSE HD, FILMES INÉDITOS EM HD, FILMES ANTIGOS, FILMES DUBLADOS 4K, FILMES DE TERROR HD,\nASSISTIR FILMES DE TERROR HD, FILMES EM HD DUBLADO,  FILMES DE AVENTURA, FILMES ÉPICOS.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3G19L0rI7j0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3G19L0rI7j0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3G19L0rI7j0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3G19L0rI7j0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3G19L0rI7j0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Rodolfo Langostino",
+                "playlistId": "PLhbxBaRbOr244Im0e-kqdh8Vv87AMEPz6",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3G19L0rI7j0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "3G19L0rI7j0",
+                "videoPublishedAt": "2018-07-20T23:12:01Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 52,
+        "resultsPerPage": 50
+    }
+}

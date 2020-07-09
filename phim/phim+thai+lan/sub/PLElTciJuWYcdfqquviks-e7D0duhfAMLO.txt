@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "vXDXcvv6i5As4pCXBectisWCT-8",
+    "etag": "SAYUPXAHf3pZDy9KIDi8z9JtkQk",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -102,40 +102,14 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "llPMlO_pk0TMyYuhKaPdM7e-vW8",
+            "etag": "DYz7xNf9ilMY25yYEVkNcUE7IYA",
             "id": "UExFbFRjaUp1V1ljZGZxcXV2aWtzLWU3RDBkdWhmQU1MTy4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
                 "publishedAt": "2020-07-04T07:49:29Z",
                 "channelId": "UCIcYVlPQ15gIwFl3S8Y0-MQ",
-                "title": "Vì em mà ghen Tập 1, bản lồng tiếng phim Thái Lan HTV2",
-                "description": "Vì em mà ghen - bản lồng tiếng phim Thái Lan HTV2",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/yJyhON5mWEc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/yJyhON5mWEc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/yJyhON5mWEc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/yJyhON5mWEc/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/yJyhON5mWEc/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
                 "channelTitle": "AT02 Kwa",
                 "playlistId": "PLElTciJuWYcdfqquviks-e7D0duhfAMLO",
                 "position": 2,
@@ -145,8 +119,7 @@
                 }
             },
             "contentDetails": {
-                "videoId": "yJyhON5mWEc",
-                "videoPublishedAt": "2020-06-30T09:15:18Z"
+                "videoId": "yJyhON5mWEc"
             }
         },
         {
@@ -386,40 +359,14 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "SsQEWi0rRPgQ1LksbAcZRdous0g",
+            "etag": "w6VD6xAi43ON1oVqMvZx1kwSkuw",
             "id": "UExFbFRjaUp1V1ljZGZxcXV2aWtzLWU3RDBkdWhmQU1MTy45NDk1REZENzhEMzU5MDQz",
             "snippet": {
                 "publishedAt": "2020-07-04T07:49:32Z",
                 "channelId": "UCIcYVlPQ15gIwFl3S8Y0-MQ",
-                "title": "Vì em mà ghen Tập 2, bản lồng tiếng phim Thái Lan HTV2",
-                "description": "Vì em mà ghen - bản lồng tiếng phim Thái Lan HTV2",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/UXledlkcais/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/UXledlkcais/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/UXledlkcais/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/UXledlkcais/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/UXledlkcais/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
                 "channelTitle": "AT02 Kwa",
                 "playlistId": "PLElTciJuWYcdfqquviks-e7D0duhfAMLO",
                 "position": 8,
@@ -429,8 +376,7 @@
                 }
             },
             "contentDetails": {
-                "videoId": "UXledlkcais",
-                "videoPublishedAt": "2020-06-30T09:24:44Z"
+                "videoId": "UXledlkcais"
             }
         }
     ],

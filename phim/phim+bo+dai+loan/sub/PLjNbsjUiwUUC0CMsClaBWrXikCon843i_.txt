@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "V_eP1O47hI2N4umuO7dZiAC6Nl4",
+    "etag": "Yu0F8oLbIYZpYaZLTB5PzIVOe40",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -102,14 +102,40 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "BuCQNTVvmpL8xa5oK3Qmow6QIJA",
+            "etag": "74J-yjBJIlxODTrMs5N7U-XF2lM",
             "id": "UExqTmJzalVpd1VVQzBDTXNDbGFCV3JYaWtDb244NDNpXy4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
                 "publishedAt": "2020-06-15T11:48:36Z",
                 "channelId": "UCoeGkZ6uRi8vkcHqnmph3MQ",
-                "title": "Private video",
-                "description": "This video is private.",
-                "thumbnails": {},
+                "title": "Phim Hành Động Mỹ - Phim Chiếu Rạp HAY NHẤT - Những Pha Hành Động Hay Nhất",
+                "description": "Phim Hành Động Mỹ - Phim Chiếu Rạp HAY NHẤT - Những Pha Hành Động Hay Nhất\n------------\nNội dung phim:\nMột nhóm siêu khủng bố đa quốc gia đang lên kế hoạch chế tạo siêu vũ khí để gây chiến toàn thế giới. Không để chúng đạt được mục đích. Tổ chức tình báo mỹ FBI đã chiêu mộ tất cả những nhân tài tội phạm trên thế giới với tuyên bố sẽ miễn tội cho họ để ngăn chặn khủng bố\nPhim với sự tham gia của các siêu mẫu nổi tiếng và dàn sao hollywood\n------------\nPhần 2: Đặc vụ Gợi cảm: https://youtu.be/fe6OrWIhQ5Q\nPhần 3: Yakuza Nhật Bản: https://youtu.be/fdL4KudSCrI\nPhần 4: Đường hầm Ma Túy: https://youtu.be/ulk9HAd_NkI\nPhần 6: Mắt Thần: https://youtu.be/j4qcF_Dz0TY\nPhần 7: Kẻ Phản Bội: https://youtu.be/nAUCfe0rvWI\n------------\nPhim hành động, phim đua xe, tốc độ, phim thuyết minh, phim hay 2020, phim võ thuật",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UiS3FnAHxOo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UiS3FnAHxOo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UiS3FnAHxOo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UiS3FnAHxOo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UiS3FnAHxOo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
                 "channelTitle": "Martin Michael",
                 "playlistId": "PLjNbsjUiwUUC0CMsClaBWrXikCon843i_",
                 "position": 2,
@@ -119,7 +145,8 @@
                 }
             },
             "contentDetails": {
-                "videoId": "UiS3FnAHxOo"
+                "videoId": "UiS3FnAHxOo",
+                "videoPublishedAt": "2020-06-14T12:56:16Z"
             }
         },
         {

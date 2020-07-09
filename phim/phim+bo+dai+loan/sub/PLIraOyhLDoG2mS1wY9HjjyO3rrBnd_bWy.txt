@@ -1,13 +1,2097 @@
 {
-    "error": {
-        "code": 403,
-        "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-        "errors": [
-            {
-                "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-                "domain": "youtube.quota",
-                "reason": "quotaExceeded"
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "Y4OsfzctmEWo8NkVzeDP9OBrSHE",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "D9irWS6SA22-ol4GTvScN5jrDu8",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS5DNkMwRUI2MkI4QkI4NDFG",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:52Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Phim Hình Sự Trung Quốc Mới Nhất - Lồng Tiếng | Tâm Hồn Mặt Trời - Tập 1",
+                "description": "Phim Hình Sự Trung Quốc Mới Nhất Lồng Tiếng | Tâm Hồn Mặt Trời - Tập 1\nTâm Hồn Mặt Trời Full Bộ: https://goo.gl/24L7wh\nTháng Ngày Tươi Đẹp Full Bộ : https://goo.gl/MYLQAR\nphim việt nam 2018 : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2018: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\n\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-jb2Tndc_A8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-jb2Tndc_A8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-jb2Tndc_A8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-jb2Tndc_A8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-jb2Tndc_A8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-jb2Tndc_A8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "-jb2Tndc_A8",
+                "videoPublishedAt": "2018-11-02T02:15:35Z"
             }
-        ]
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rMiOs6plG_ILPLsf4GxB6NxX2kM",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS45NkVENTkxRDdCQUFBMDY4",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:51Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Đặc Nhiệm Cảnh Khuyển Tập 1 | Phim Hình Sự Hành Động Võ Thuật Hay Nhất 2020",
+                "description": "Đặc Nhiêm Cảnh Khuyển - Phim hành động võ thuật, phim hình sự trung quốc hay nhất 20200\n\n- Diễn viên: Vu Hòa Vỹ, Hầu Mộng Sa, Hoàng Mộng Bảo, Kim Mỹ Linh, Hạ Phàm, Vương Hạo Vận\n\n- Thể loại: Phim hành động, Phim trinh thám Hồng Kông, Phim Trung Quốc.\n\n- Nội dung: \nLý Thù Hàn và Nghê Na bị phân vào đội cảnh sát huấn luyện cảnh khuyển nên tâm trạng không vui, thường xuyên gây chuyện chống đối nhưng vẫn không khiến sự việc tốt hơn. Đường Ưu Ưu là người đầu tiên hòa nhập được với đội. Sau do Lý Thù Hàn mắc lỗi khiến chú chó Anh Đào bị thương, phải đối mặt với sự đào thải. Nhưng sau đó nhờ giúp đỡ được chú chó hung hãn Mantius mất trí nhớ hồi phục, Thù Hàn đã tìm ra phương pháp huấn luyện mới đồng thời giúp Anh Đào thoát khỏi ám ảnh trở lại làm việc. \n\nTrong khi đó, Nghê Na và chú chó của cô bị tố cáo một cách ác ý khi đang tuần tra trong trạm tàu điện ngầm, cộng thêm lỗi chí mạng khi điều tra hiện trường và hiểu lầm với Thù Hàn, Nghê Na liên tục gặp rắc rối và tự vấn bản thân. \n\nCuối cùng cô cũng vượt qua buổi huấn luyện và hóa giải hiểu lầm với Thù Hàn. Còn Đường Ưu Ưu quá nôn nóng thử thách bản thân nên đã khiến cảnh khuyển của mình gặp nguy hiểm. Từ đó anh hiểu ra sở thích và công việc có sự khác biệt và dần trưởng thành trong suy nghĩ, hành động.\n----------❤️----------\n⭐Chào mừng các bạn đến với Uni Drama.\n⭐Nơi tổng hợp những bộ phim tâm lý tình cảm, thâm cung bí sử Trung Quốc hay nhất mọi thời đại.\n🔔 Đăng ký kênh và nhấn chuông thông báo để đón xem những tập phim hay nhất:\nhttps://www.youtube.com/UniDrama?sub_confirmation=1\n----------❤️----------\n📺Trọn Bộ NGƯỜI BẢO VỆ CÔNG LÝ | Phim Hình Sự Trinh Thám Kịch Tính - Phim hành động hay nhất 2020\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRUgFSAz2KzPCnvfH3sYGyxj\n\n📺Trọn bộ CUỘC CHIẾN XUYÊN LỤC ĐỊA - Phim Hành Động Võ Thuật Thuyết Minh Hay Nhất 2020\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRU4GQ09GT-JFZnH1L6K2OJv\n\n📺Trọn Bộ HUYẾT CHIẾN TAM GIÁC QUỶ\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRWzhCBS450wPjMsloXDiAcx\n\n📺Trọn bộ ĐỘI CHỐNG KHỦNG BỐ LIỆP ẢNH Phần 2:\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRWkPfZUEvkKIkQzue1mLGDs\n\n📺Trọn Bộ ĐỘI ĐẶC NHIỆM TINH NHUỆ:\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRXsWrHTCDqmw0kLZ18G8pHu\n\n📺Trọn bộ PHẤN ĐIỆP _ Phim Cổ Trang Tiên Hiệp Trung Quốc Thuyết Minh _ Phim Hay 2020\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRUxIrWjAtfqi5ruJck_HCIa\n\n📺Trọn Bộ Anh Hùng Lôi Phong Tháp TIÊU ÂN TUẤN Phim Cổ Trang Kiếm Hiệp Trung Quốc Hay Nhất 2020\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRUHzP5yTFELK7a5Gg6K_5-Z\n\n📺 Trọn Bộ ĐẤU TRƯỜNG CÔNG LÝ:\nhttps://www.youtube.com/watch?v=cqCFL6Aloic&list=PL6AfTiiTqxRVKFbStTTC9J-JPYdJn5IL-\n\n📺Trọn bộ BÃI BIỂN VUI NHỘN:\nhttps://www.youtube.com/watch?v=hyh-tFBnwZc&list=PL6AfTiiTqxRXayObmBZnmJjahsTYbn84t\n----------❤️----------\n© Bản quyền phim thuộc về Uni Drama. Vui lòng không reup dưới mọi hình thức!\n\n#phimhanhdong #phimhinhsu #phimbotrungquoc #phimthuyetminh #phimbothuyetminh  #unidrama  #phimhanhdong2020 #phimbohaynhat #dacnhiemcanhkhuyen #canhkhuyen #phimhay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/45fY-BcGqYM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/45fY-BcGqYM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/45fY-BcGqYM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/45fY-BcGqYM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/45fY-BcGqYM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "45fY-BcGqYM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "45fY-BcGqYM",
+                "videoPublishedAt": "2020-06-12T12:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2mjfWWyPqQ175OHSNiC6336jqj4",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS4zQzFBN0RGNzNFREFCMjBE",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:49Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "CHUYỆN TÌNH TAY BA Tập 1 | Phim Hành Động Đài Loan Thuyết Minh Hay Nhất",
+                "description": "Chuyệ Tình Tay Ba là phim hành động Đài Loan thuyết minh hay nhất, phim tâm lý tình cảm bất hủ mới hay nhất 2020.\nBộ phim xoay quanh nhân vật nữ Huỳnh Lỗi Lỗi, cam chịu số phận làm dâu trong gia đình nhà chồng đầy sóng gió, nơi mà tình thương yêu của con người dành cho con người là một thứ rất xa xỉ, nơi mà chỉ có sự tồn tại của lòng đố kị ghen ghét, muốn chiếm đoạt quyền tự do cũng như lên nắm quyền trong gia đình.\n----------❤️----------\n⭐Chào mừng các bạn đến với Uni Drama.\n⭐Nơi tổng hợp những bộ phim tâm lý tình cảm, thâm cung bí sử Trung Quốc hay nhất mọi thời đại.\n🔔 Đăng ký kênh và nhấn chuông thông báo để đón xem những tập phim hay nhất:\nhttps://www.youtube.com/UniDrama?sub_confirmation=1\n----------❤️----------\n📺Trọn bộ Chuyện Tình Tay 3:\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRXZksKccCCCduLPjhfCE1ye\n\n📺Trọn Bộ NGƯỜI BẢO VỆ CÔNG LÝ | Phim Hình Sự Trinh Thám Kịch Tính - Phim hành động hay nhất 2020\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRUgFSAz2KzPCnvfH3sYGyxj\n\n📺Trọn bộ CUỘC CHIẾN XUYÊN LỤC ĐỊA - Phim Hành Động Võ Thuật Thuyết Minh Hay Nhất 2020\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRU4GQ09GT-JFZnH1L6K2OJv\n\n📺Trọn Bộ HUYẾT CHIẾN TAM GIÁC QUỶ\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRWzhCBS450wPjMsloXDiAcx\n\n📺Trọn bộ ĐỘI CHỐNG KHỦNG BỐ LIỆP ẢNH Phần 2:\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRWkPfZUEvkKIkQzue1mLGDs\n\n📺Trọn Bộ ĐỘI ĐẶC NHIỆM TINH NHUỆ:\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRXsWrHTCDqmw0kLZ18G8pHu\n\n📺Trọn bộ PHẤN ĐIỆP _ Phim Cổ Trang Tiên Hiệp Trung Quốc Thuyết Minh _ Phim Hay 2020\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRUxIrWjAtfqi5ruJck_HCIa\n\n📺Trọn Bộ Anh Hùng Lôi Phong Tháp TIÊU ÂN TUẤN Phim Cổ Trang Kiếm Hiệp Trung Quốc Hay Nhất 2020\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRUHzP5yTFELK7a5Gg6K_5-Z\n\n📺 Trọn Bộ ĐẤU TRƯỜNG CÔNG LÝ:\nhttps://www.youtube.com/watch?v=cqCFL6Aloic&list=PL6AfTiiTqxRVKFbStTTC9J-JPYdJn5IL-\n\n📺Trọn bộ BÃI BIỂN VUI NHỘN:\nhttps://www.youtube.com/watch?v=hyh-tFBnwZc&list=PL6AfTiiTqxRXayObmBZnmJjahsTYbn84t\n----------❤️----------\n© Bản quyền phim thuộc về Uni Drama. Vui lòng không reup dưới mọi hình thức!\n\n#phimhanhdong #phimdailoan #chuyentinhtay3 #unidrama #phimtinhcam",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Pxy_uRna-0o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Pxy_uRna-0o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Pxy_uRna-0o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Pxy_uRna-0o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Pxy_uRna-0o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Pxy_uRna-0o"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Pxy_uRna-0o",
+                "videoPublishedAt": "2020-06-13T12:00:58Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "eRdeNrkBb22L0FLxNGVdCqQiUw0",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS5GNDg1Njc1QzZERjlFRjE5",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:48Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "NGƯỜI BẢO VỆ CÔNG LÝ - Tập 1 | Phim Hình Sự Trinh Thám Kịch Tính - Phim hành động hay nhất 2020",
+                "description": "Người Bảo Vệ Công Lý là phim bộ hành động hình sự, trinh thám, phim thuyết minh hay nhất, phim mới, phim hay 2020.\n\n- Diễn viên: Ân Đào, Vu Chấn, Huỳnh Hải Băng, Vu Vinh Quang, Mạnh tử Nghĩa, Vu Địch Văn, Trần Hạo, Thạch Lương, Lý Dương, ...\n\n- Thể loại: Phim hành động, Phim trinh thám Hồng Kông, Phim Trung Quốc.\n\n- Nội dung:\nPhim khắc họa cuộc chiến phức tạp, cam go và không khoan nhượng giữa các chiến sĩ công an và những phần tử băng nhóm tội phạm, buôn bán ma túy. Phim muốn cho khán giả xem phim cảm nhận được sự suy nghĩ tìm tòi, nhận thức được những câu chuyện rung động lòng người, khi mà các vấn nạn xã hội còn có quá nhiều sơ hở để cho những tham quan ngày càng lợi dụng những lỗ hổng nhỏ để nói tay cho kẻ xấu gây mất trật tự, với cốt truyện hay hình ảnh đẹp sẽ mang đến cho khán giả những thước phim kịch tính hấp dẫn.\n----------❤️----------\n⭐Chào mừng các bạn đến với Uni Drama.\n⭐Nơi tổng hợp những bộ phim tâm lý tình cảm, thâm cung bí sử Trung Quốc hay nhất mọi thời đại.\n🔔 Đăng ký kênh và nhấn chuông thông báo để đón xem những tập phim hay nhất:\nhttps://www.youtube.com/UniDrama?sub_confirmation=1\n----------❤️----------\n📺Trọn Bộ NGƯỜI BẢO VỆ CÔNG LÝ | Phim Hình Sự Trinh Thám Kịch Tính - Phim hành động hay nhất 2020\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRUgFSAz2KzPCnvfH3sYGyxj\n\n📺Trọn bộ CUỘC CHIẾN XUYÊN LỤC ĐỊA - Phim Hành Động Võ Thuật Thuyết Minh Hay Nhất 2020\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRU4GQ09GT-JFZnH1L6K2OJv\n\n📺Trọn Bộ HUYẾT CHIẾN TAM GIÁC QUỶ\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRWzhCBS450wPjMsloXDiAcx\n\n📺Trọn bộ ĐỘI CHỐNG KHỦNG BỐ LIỆP ẢNH Phần 2:\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRWkPfZUEvkKIkQzue1mLGDs\n\n📺Trọn Bộ ĐỘI ĐẶC NHIỆM TINH NHUỆ:\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRXsWrHTCDqmw0kLZ18G8pHu\n\n📺Trọn bộ PHẤN ĐIỆP _ Phim Cổ Trang Tiên Hiệp Trung Quốc Thuyết Minh _ Phim Hay 2020\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRUxIrWjAtfqi5ruJck_HCIa\n\n📺Trọn Bộ Anh Hùng Lôi Phong Tháp TIÊU ÂN TUẤN Phim Cổ Trang Kiếm Hiệp Trung Quốc Hay Nhất 2020\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRUHzP5yTFELK7a5Gg6K_5-Z\n\n📺 Trọn Bộ ĐẤU TRƯỜNG CÔNG LÝ:\nhttps://www.youtube.com/watch?v=cqCFL6Aloic&list=PL6AfTiiTqxRVKFbStTTC9J-JPYdJn5IL-\n\n📺Trọn bộ BÃI BIỂN VUI NHỘN:\nhttps://www.youtube.com/watch?v=hyh-tFBnwZc&list=PL6AfTiiTqxRXayObmBZnmJjahsTYbn84t\n----------❤️----------\n© Bản quyền phim thuộc về Uni Drama. Vui lòng không reup dưới mọi hình thức!\n\n#phimhanhdong #phimhinhsu #phimbotrungquoc #phimthuyetminh #phimbothuyetminh  #unidrama  #phimhanhdong2020 #phimbohaynhat #phimhinhsu #nguoibaovecongly #phimhay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8ERLQqs_03Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8ERLQqs_03Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8ERLQqs_03Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8ERLQqs_03Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8ERLQqs_03Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8ERLQqs_03Y"
+                }
+            },
+            "contentDetails": {
+                "videoId": "8ERLQqs_03Y",
+                "videoPublishedAt": "2020-06-02T12:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tlRvaco2V5sIoK8xT2Kfb549zVU",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS4xOTEzQzhBQzU3MDNDNjcz",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:46Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "PHẤN ĐIỆP 1 _ Phim Cổ Trang Tiên Hiệp Trung Quốc Thuyết Minh _ Phim Hay 2020",
+                "description": "Phấn Điệp là phim cổ trang tiên hiệp trung quốc thuyết minh mới hay nhất, phim hành động võ thuật.\nNội dung chính:\nTại Quỳnh Châu có một chàng thư sinh hiền lành tên Dương Viết Đán. Một lần, anh tình cờ gặp đám người đi bắt côn trùng, động lòng trắc ẩn, Viết Đán đã mua số côn trùng ấy rồi phóng sinh. Trong số sinh vật may mắn đó, có hai chị em Phấn Điệp và Mật Mật tu luyện trên đảo Thần Tiên. Phấn Điệp là một con bướm xinh đẹp có đạo hạnh tu luyện trăm năm, còn Mật Mật là một chú ong nhỏ.\nVề sau, Viết Đán ngồi thuyền đến huyện thành thi trạng nguyên, không may gặp phải bão lớn, thuyền bị đắm, anh trôi dạt đến đảo Thần Tiên, được vợ chồng Thập Cô và Án Hải Dữ cứu giúp. Hóa ra, hai chị em Phấn Điệp và Mật Mật chính là con gái của họ. Để đền đáp ơn cứu mạng, Phấn Điệp tận tình chăm sóc cho Viết Đán, lâu dần hai người nảy sinh tình cảm với nhau. Cùng lúc đó, tại hang động nhền nhện, con nhện tinh Vạn Kiếm Thanh có đạo hạnh ngàn năm đã phải lòng Phấn Điệp từ lâu, nhưng cô luôn từ chối sự săn đón của y. Vì e sợ Vạn Kiếm Thanh đến quấy rối, Thập Cô yêu cầu Viết Đán đưa Phấn Điệp và Mật Mật rời khỏi đảo Thần Tiên.\nViết Đán đến huyện thành dự thi, không may bị người bạn cũ của cha mình hãm hại, khiến anh thi rớt, không chỉ thế, anh còn bị họa sát thân đe dọa. Thật ra, kẻ chủ mưu mọi chuyện chính là huyện lệnh Lục Vũ Hy. Bộ đầu của huyện nha là Lăng Chí Bình, từ lâu đã bất mãn việc Lục Vũ Hy cấu kết gia đình họ Mã giàu nhất vùng ức hiếp dân lành, nên anh ra tay giúp đỡ Viết Đán. Vì vậy, Lăng Chí Bình bị bãi chức bộ đầu. May mắn, họ gặp được cô gái lầu xanh Yên Chi, vốn là “tay trong” do tuần phủ đại nhân cài đặt trong huyện này. Nhờ Yên Chi, Lăng Chí Bình gặp được tuần phủ đại nhân, sau đó được trọng dụng, thăng chức làm mật thám của triều đình. Mọi người chung sức vạch trần tội ác của Lục Vũ Hy và nhà họ Mã, đưa những người hại nước hại dân ra xét xử trước bàn dân thiên hạ.\nLại nói nhện tinh Vạn Kiếm Thanh bắt giam Thập Cô và Án Hải Dữ để uy hiếp Phấn Điệp. Nhờ Lăng Chí Bình, Dương Quỳnh Như và Bạch Thường Nhân trợ giúp, Viết Đán đã dùng kiếm Thanh Xà tiêu diệt được nhện tinh gian ác.\n#unidrama #phandiep #phimtienhiep #phimcotrang #uyenuonghodiep\n\n⭐Chào mừng các bạn đến với Uni Drama.\n⭐Nơi tổng hợp những bộ phim tâm lý tình cảm, thâm cung bí sử Trung Quốc hay nhất mọi thời đại.\n🔔 Đăng ký kênh và nhấn chuông thông báo để đón xem những tập phim hay nhất:\nhttps://www.youtube.com/UniDrama?sub_confirmation=1\n----------❤️----------\n📺 Trọn bộ Phấn Điệp:\nhttps://www.youtube.com/watch?v=Zh6zKhLjcyg&list=PL6AfTiiTqxRUxIrWjAtfqi5ruJck_HCIa\n\n📺Trọn Bộ HUYẾT CHIẾN TAM GIÁC QUỶ:\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRWzhCBS450wPjMsloXDiAcx\n\n📺Trọn bộ ĐỘI CHỐNG KHỦNG BỐ LIỆP ẢNH Phần 2:\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRWkPfZUEvkKIkQzue1mLGDs\n\n📺Trọn Bộ ĐỘI ĐẶC NHIỆM TINH NHUỆ:\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRXsWrHTCDqmw0kLZ18G8pHu\n\n📺 Trọn Bộ ĐẤU TRƯỜNG CÔNG LÝ:\nhttps://www.youtube.com/watch?v=cqCFL6Aloic&list=PL6AfTiiTqxRVKFbStTTC9J-JPYdJn5IL-\n\n📺Trọn bộ BÃI BIỂN VUI NHỘN:\nhttps://www.youtube.com/watch?v=hyh-tFBnwZc&list=PL6AfTiiTqxRXayObmBZnmJjahsTYbn84t\n----------❤️----------\n© Bản quyền phim thuộc về Uni Drama. Vui lòng không reup dưới mọi hình thức!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Zh6zKhLjcyg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Zh6zKhLjcyg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Zh6zKhLjcyg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Zh6zKhLjcyg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Zh6zKhLjcyg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Zh6zKhLjcyg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Zh6zKhLjcyg",
+                "videoPublishedAt": "2020-06-01T11:30:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HsNWN5RohsSu3hE3PK65dGrn7KU",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS5BRjJDODk5REM0NjkzMUIy",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:45Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "HUYẾT CHIẾN TAM GIÁC QUỶ Tập 1 | Phim Hành Động Võ Thuật Hình Sự Hay Nhất 2020",
+                "description": "HUYẾT CHIẾN TAM GIÁC QUỶ phim hành động võ thuật,phim thuyết minh trung quốc,phim hình sự trinh thám hay nhất 2020\nDiễn viên: Vu Hòa Vỹ, Trương Đan Phong, Từ Tranh, Hầu Mộng Toa, Phó Trình Bằng....\nHUYẾT CHIẾN TAM GIÁC QUỶ bắt đầu từ việc anh trai của giảng viên đại học Lữ Vân Bằng là cảnh sát thâm nhập vào vùng Tam giác vàng, vì bạo lộ thân phận mà anh dũng hi sinh, con trai cũng bị nhóm buôn bán ma túy truy sát giết hại. Lữ Vân Bằng báo thù cho anh trai và cháu của mình, một mình đến biên thùy Tây Nam. Lữ Vân Bằng không ngừng nỗ lực, làm quen với một người đàn ông tên Ấn Tháp. Nhận thức được người này không phải là kẻ buôn ma túy bình thường, nên đã bày kế để trở thành ân nhân cứu mạng của hắn ta. Với sự giúp đỡ của Ấn Tháp, Lữ Vân Bằng thuận lợi vượt biên đến vùng Tam giác vàng. Khác với những cuộc chiến súng đạn, Lữ Vân Bằng chống lại phe ác bằng chính sự thông minh tuyệt đỉnh của một giáo sư đại học cùng với sự giúp đỡ của nữ trợ thủ xinh đẹp Giang Y Nam. Phim có nhiều pha hành động đẹp mắt, bắn súng rượt đuổi hay những phút giây đấu trí cân não đến nghẹt thở. Các cảnh quay trong phim trải dài trên bốn quốc gia Trung quốc, Lào, Myanmar và Thái Lan.\n----------❤️----------\n⭐Chào mừng các bạn đến với Uni Drama.\n⭐Nơi tổng hợp những bộ phim tâm lý tình cảm, thâm cung bí sử Trung Quốc hay nhất mọi thời đại.\n🔔 Đăng ký kênh và nhấn chuông thông báo để đón xem những tập phim hay nhất:\nhttps://www.youtube.com/UniDrama?sub_confirmation=1\n----------❤️----------\n📺Trọn Bộ HUYẾT CHIẾN TAM GIÁC QUỶ\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRWzhCBS450wPjMsloXDiAcx\n\n📺Trọn bộ ĐỘI CHỐNG KHỦNG BỐ LIỆP ẢNH Phần 2:\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRWkPfZUEvkKIkQzue1mLGDs\n\n📺Trọn Bộ ĐỘI ĐẶC NHIỆM TINH NHUỆ:\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRXsWrHTCDqmw0kLZ18G8pHu\n\n📺 Trọn Bộ ĐẤU TRƯỜNG CÔNG LÝ:\nhttps://www.youtube.com/watch?v=cqCFL6Aloic&list=PL6AfTiiTqxRVKFbStTTC9J-JPYdJn5IL-\n\n📺Trọn bộ BÃI BIỂN VUI NHỘN:\nhttps://www.youtube.com/watch?v=hyh-tFBnwZc&list=PL6AfTiiTqxRXayObmBZnmJjahsTYbn84t\n----------❤️----------\n© Bản quyền phim thuộc về Uni Drama. Vui lòng không reup dưới mọi hình thức!\n\n#phimhanhdong #phimhinhsu #phimbotrungquoc #phimthuyetminh #phimbothuyetminh  #unidrama #doidacnhiem #phimhanhdong2020 #phimbohaynhat#huyetchientamgiacquy #tamgiacquy",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uMrJ1_Ik844/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uMrJ1_Ik844/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uMrJ1_Ik844/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uMrJ1_Ik844/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uMrJ1_Ik844/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "uMrJ1_Ik844"
+                }
+            },
+            "contentDetails": {
+                "videoId": "uMrJ1_Ik844",
+                "videoPublishedAt": "2020-05-24T04:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VR8COGU-Q9msYlceV57pVdvncQs",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS40QTA3NTU2RkM1QzlCMzYx",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:43Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "ĐỘI ĐẶC NHIỆM TINH NHUỆ - Tập 1 | Phim Hành Động Hình Sự Hay Nhất 2020 | Phim Hay 2020",
+                "description": "ĐỘI ĐẶC NHIỆM TINH NHUỆ là phim hành động, phim hình sự chống khủng bố,phim trung quốc thuyết minh,phim bộ hay nhất 2020\nDiễn viên: Chu Vũ Thần, Vương Lực Khả, Vương Ban, Chu Đình Y,…\nNội dung chính: \nĐội trưởng đội đặc chiến chống khủng bố Trọng Nguyên trong lúc thực hiện nhiệm vụ đã bắn chết nhân vật số 2 của tổ chức Mãnh Mã và bị truy sát. Trong lúc giải cứu vợ mình Triệu Hân thì Trọng Nguyên bị tiêm một loại bệnh vào người, vô cùng đau khổ. Chủ tịch công ty sinh học DK Giang Hàn đưa ra lời mời mối tinh đầu của mình, cũng là nghiên cứu sinh chuyên ngành sinh hoa Triệu Hân và ba của mình tham gia vào cuộc nghiên cứu “Vi khuẩn có lợi”. Trung tâm chỉ huy chống khủng bố dựa theo lời yêu cầu của nước T tuyển “chuyên gia” xâm nhập vào công ty. Triệu Hân chủ động gánh vác trọng trách đó.\n\nNhững sự việc kinh khủng liên tục xảy ra khiến cho “Kế hoạch kỷ nguyên mới” dần dần lộ ra. Người bị bệnh tật giày vò -Trọng Nguyên lãnh đạo Kiều Đại Bằng, Mạch Manh Manh và các thành viên đội đặc chiến khác cùng nhau xuất kích, cùng với sự phối hợp của vợ mình Triệu Hân và người bạn đã mất tích 5 năm Lục Hào nên đã thành công đập tan những âm mưu liên hoàn và những cuộc tấn công sinh học của tổ chức khủng bố, tiết lộ bộ măt thật của Giang Hàn dùng “Vi khuẩn có lợi” để tạo ra mầm bệnh.\n----------❤️----------\n⭐Chào mừng các bạn đến với Uni Drama.\n⭐Nơi tổng hợp những bộ phim tâm lý tình cảm, thâm cung bí sử Trung Quốc hay nhất mọi thời đại.\n🔔 Đăng ký kênh và nhấn chuông thông báo để đón xem những tập phim hay nhất:\nhttps://www.youtube.com/UniDrama?sub_confirmation=1\n----------❤️----------\n📺Trọn Bộ ĐỘI ĐẶC NHIỆM TINH NHUỆ | Phim Bộ Hành Động Hình Sự Trung Quốc 2020 Thuyết Minh:\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRXsWrHTCDqmw0kLZ18G8pHu\n📺 Trọn Bộ Đấu Trường Công Lý - Phim Cảnh Sát Hình Sự Phá Án Trung Quốc Thuyết Minh Hay Mới Nhất 2020:\nhttps://www.youtube.com/watch?v=cqCFL6Aloic&list=PL6AfTiiTqxRVKFbStTTC9J-JPYdJn5IL-\n\n📺Trọn bộ Bãi Biển Vui Nhộn - Phim Bộ Tâm Lý Tình Cảm Đài Loan Thuyết Minh Hay Nhất 2020:\nhttps://www.youtube.com/watch?v=hyh-tFBnwZc&list=PL6AfTiiTqxRXayObmBZnmJjahsTYbn84t\n----------❤️----------\n© Bản quyền phim thuộc về Uni Drama. Vui lòng không reup dưới mọi hình thức!\n\n#phimhanhdong #phimhinhsu #doichongkhungbo #đoiacnhiemtinhnhue #doichongkhungboliepanh #phimbotrungquoc #phimthuyetminh #phimbothuyetminh  #unidrama #game #gamebansung #gamenhapvai #doidacnhiem #phimhanhdong2020 #phimbohaynhat",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pThNMXYX20E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pThNMXYX20E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pThNMXYX20E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pThNMXYX20E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pThNMXYX20E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "pThNMXYX20E"
+                }
+            },
+            "contentDetails": {
+                "videoId": "pThNMXYX20E",
+                "videoPublishedAt": "2020-05-20T11:15:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8jQivbFEN6PRKHf5Q5Gr000EtoE",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS45RjNFMDhGQ0Q2RkFCQTc1",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:41Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "CUỘC CHIẾN XUYÊN LỤC ĐỊA 1 | Phim Hành Động Võ Thuật Thuyết Minh Hay Nhất 2020",
+                "description": "Cuộc Chiến Xuyên Lục Địa là phim hành động võ thuật , phim hành động thuyết minh, phim hay 2020, phim bộ thuyết minh hay nhất, phim mới 2020.\nNội dung chính:\nTháng 5/1993 một nhóm tội phạm đã lên tàu Trung-Nga để cướp bóc, gây chấn động thế giới lúc bấy giờ. Trần Nhĩ Lực cùng đồng nghiệp ở sở cảnh sát đường sắt ở Bắc Kinh được cử đến Nga để điều tra vụ án. Giữa một nước Nga đang gặp nhiều biến cố và nhiều bang đảng rất lộng hành. Hành động của họ gặp nhiều khó khăn hơn bao giờ hết.\n----------❤️----------\n⭐Chào mừng các bạn đến với Uni Drama.\n⭐Nơi tổng hợp những bộ phim tâm lý tình cảm, thâm cung bí sử Trung Quốc hay nhất mọi thời đại.\n🔔Đăng ký kênh và nhấn chuông thông báo để đón xem những tập phim hay nhất:\nhttps://www.youtube.com/UniDrama?sub_confirmation=1\n❤️Giao lưu với hội Trai xinh Gái đẹp trên FanPage Uni Drama:\nhttps://www.facebook.com/UniDramas\n----------❤️----------\n🎬Trọn Bộ Đội Chống Khủng Bố Liệp Ảnh - Phần 1:\nhttps://www.youtube.com/watch?v=3_4BrrFJD6A&list=PL6AfTiiTqxRVefASBGoLzYLoTdJ27_gkp\n\n🎬Trọn Bộ ĐỘI CHỐNG KHỦNG BỐ LIỆP ẢNH Phần 2:\nhttps://www.youtube.com/watch?v=N91L3ydko40&list=PL6AfTiiTqxRWkPfZUEvkKIkQzue1mLGDs\n\n🎬Trọn bộ KỲ PHÙNG ĐỊCH THỦ:\nhttps://www.youtube.com/watch?v=5WMsJuXFrgY&list=PL6AfTiiTqxRXcNMZOf6ywRyzGaODOSjkr\n\n🎬Trọn Bộ CUỘC CHIẾN XUYÊN LỤC ĐỊA\nhttps://www.youtube.com/playlist?list=PL6AfTiiTqxRU4GQ09GT-JFZnH1L6K2OJv\n\n🎬 Trọn Bộ Đấu Trường Công Lý:\nhttps://www.youtube.com/watch?v=cqCFL6Aloic&list=PL6AfTiiTqxRVKFbStTTC9J-JPYdJn5IL-\n\n🎬Trọn bộ Bãi Biển Vui Nhộn:\nhttps://www.youtube.com/watch?v=hyh-tFBnwZc&list=PL6AfTiiTqxRXayObmBZnmJjahsTYbn84t\n----------❤️----------\n© Bản quyền phim thuộc về Uni Drama. Vui lòng không reup dưới mọi hình thức!\n\n#phimhanhdong #phimthuyetminh #phimvothuat #phim #phimbo #phimmoi #phimhay #unidrama #cuocchien",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/suRYn69nEy4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/suRYn69nEy4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/suRYn69nEy4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/suRYn69nEy4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/suRYn69nEy4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "suRYn69nEy4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "suRYn69nEy4",
+                "videoPublishedAt": "2020-05-09T11:15:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9Sx50Luraw0cCR2Vl7YAInIATHs",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS42MTI4Njc2QjM1RjU1MjlG",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:40Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Đấu Trường Công Lý Tập 1 | Phim Cảnh Sát Hình Sự Phá Án Trung Quốc Thuyết Minh Hay Mới Nhất 2020",
+                "description": "Đấu Trường Công Lý là bộ phim hình sự phá án hay nhất, mới nhất, hấp dẫn của Trung Quốc với dàn diễn viên nổi tiếng bao gồm Lâm Á Quân, Huỳnh Thiện Lộ và Kỳ Hiểu Huệ, họ là 3 viên cảnh sát ưu tú và cũng là những người bạn thân. Lâm Á Quân và Huỳnh Thiệu đều thương yêu Kỳ Hiểu Huệ. Những vụ kỳ án liên tiếp xảy ra, cùng với chuyện tình của 3 nhân vật sẽ mang đến nhiều yêu tố bất ngờ, gây cấn cho bộ phim Đấu Trường Công Lý.\n\nChào mừng các bạn đến với Phim Hoa Ngữ.\nNơi tổng hợp những bộ phim tâm lý tình cảm, thâm cung bí sử Trung Quốc hay nhất mọi thời đại.\n\n⭐ Đăng ký kênh và nhấn chuông thông báo để đón xem những tập phim hay nhất:\nhttps://www.youtube.com/channel/UCSZtFbSIdEw-EWPxeOuRr2A?sub_confirmation=1\n--------------------\nTrọn bộ Bãi Biển Vui Nhộn: https://www.youtube.com/watch?v=hyh-tFBnwZc&list=PL6AfTiiTqxRXayObmBZnmJjahsTYbn84t\n--------------------\n© Bản quyền phim thuộc về Phim Hoa Ngữ.\nVui lòng không reup dưới mọi hình thức!\n\n#dautruongcongly #phimhinhsu #phimcanhsathinhsu #phimphaan #phimhinhsutrungquoc #phimtrungquoc #phimbotrungquoc #phimbo #phim #phimhay2020 #phimmoi2020 #phimcongly #phimhanhdong #phimthuyetminh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cqCFL6Aloic/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cqCFL6Aloic/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cqCFL6Aloic/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cqCFL6Aloic/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cqCFL6Aloic/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "cqCFL6Aloic"
+                }
+            },
+            "contentDetails": {
+                "videoId": "cqCFL6Aloic",
+                "videoPublishedAt": "2020-03-28T11:45:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ayeiC1MmfCgC-cpiWh4keagk4IM",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS5CMEQ2Mjk5NTc3NDZFRUNB",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:38Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "PHIM HÌNH SỰ LỒNG TIẾNG | HÀNH TRÌNH PHÁ ÁN - TẬP 1 | CÁI XÁC KHÔNG ĐẦU",
+                "description": "Phim Hành Động Phá Án Chuyên Nghiệp Hay Nhất 2019\n☞ Subscribe ngay để không bỏ lỡ phim hay: http://yeah1.net/Yeah1movie\n☞ Email: movie@yeah1network.com\n------------------------------------------------------------------------\nYeah1 Movie - Kênh giải trí hàng đầu luôn cập nhập những bộ phim hay nhất, mới nhất, chất lượng nhất cho khán giả hằng ngày.\nĐăng ký Yeah1 Movie ngay để không bỏ lỡ những sản phẩm chất lượng, những video hài kịch vui nhộn, những bộ phim đặc sắc, ý nghĩa.\n#HànhTrìnhPháÁn #TrùmKhủngBố #LínhTinhNhuệ\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :          http://yeah1.net/yeah1music\nYEAH1 MOVIE :          http://yeah1.net/yeah1movies\nYEAH1 KIDS :              http://yeah1.net/Yeah1Kids\n------------------------------------------------------------------------\n© Bản quyền thuộc về Yeah1 Movie và Đối Tác\n© Copyright by Yeah1 Movie and Partner☞ Do not Reup\n© Copyright all rights reserved",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ql56w93VwEA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ql56w93VwEA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ql56w93VwEA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ql56w93VwEA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ql56w93VwEA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ql56w93VwEA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "ql56w93VwEA",
+                "videoPublishedAt": "2019-07-22T11:42:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VcDyTwtBsZieI6POs3EkvRQHDuw",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS4zRDBDOEZDOUM0MDY5NEEz",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:37Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Phim Hình Sự Hay Nhất 2019 | Đặc Nhiệm Siêu Đẳng - Tập 1 | Phim Phạm Băng Băng 2019",
+                "description": "*Xem ĐẶC NHIỆM SIÊU ĐẲNG Trọn Bộ: https://goo.gl/A4zUpp\nPhim Hay 2018: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đè Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LpnosNKo3Yo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LpnosNKo3Yo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LpnosNKo3Yo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LpnosNKo3Yo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LpnosNKo3Yo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "LpnosNKo3Yo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "LpnosNKo3Yo",
+                "videoPublishedAt": "2019-01-21T03:50:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Y9eV3tbHRrRHBUxCYFf18-aZDGc",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS41QUZGQTY5OTE4QTREQUU4",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:35Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "TAM GIÁC VÀNG | TẬP 01 | PHIM HÀNH ĐỘNG HÌNH SỰ TRUNG QUỐC",
+                "description": "TAM GIÁC VÀNG | PHIM HÀNH ĐỘNG HÌNH SỰ TRUNG QUỐC\n------------------\n- Xem trọn bộ: https://bit.ly/2NAkFu6\n- Đăng ký/ Subcribe: https://bit.ly/2NwnUUj\n- Follow Page Trà Sữa TV: https://bit.ly/2TyOOOn\n--------------------\n- Diễn viên: Vu Hòa Vỹ, Trương Đan Phong, Từ Tranh, Hầu Mộng Toa, Phó Trình Bằng....\n\n- Thể loại: Phim hành động, Phim trinh thám, Phim trung quốc.\n\n- Nội dung:\n     Tam Giác Vàng - Thợ Săn Ma Túy (The Drug Hunter) bắt đầu từ việc anh trai của giảng viên đại học Lữ Vân Bằng là cảnh sát thâm nhập vào vùng Tam giác vàng, vì bạo lộ thân phận mà anh dũng hi sinh, con trai cũng bị nhóm buôn bán ma túy truy sát giết hại. Lữ Vân Bằng báo thù cho anh trai và cháu của mình, một mình đến biên thùy Tây Nam. \n\n      Lữ Vân Bằng không ngừng nỗ lực, làm quen với một người đàn ông tên Ấn Tháp. Nhận thức được người này không phải là kẻ buôn ma túy bình thường, nên đã bày kế để trở thành ân nhân cứu mạng của hắn ta. Với sự giúp đỡ của Ấn Tháp, Lữ Vân Bằng thuận lợi vượt biên đến vùng Tam giác vàng. \n\n       Khác với những cuộc chiến súng đạn, Lữ Vân Bằng chống lại phe ác bằng chính sự thông minh tuyệt đỉnh của một giáo sư đại học cùng với sự giúp đỡ của nữ trợ thủ xinh đẹp Giang Y Nam.\n\n        Phim có nhiều pha hành động đẹp mắt, bắn súng rượt đuổi hay những phút giây đấu trí cân não đến nghẹt thở. Các cảnh quay trong phim trải dài trên bốn quốc gia Trung quốc, Lào, Myanmar và Thái Lan.\n\n#TamGiácVàng #PhimHànhĐộng #PhimHìnhSự #TràSữaTV\ntho san ma tuy,thợ săn ma túy,phim hành động,phim hanh dong,phim hành động trung quốc,phim hanh dong trung quoc,phim bộ trung quốc,phim bo trung quoc,phim trung quốc,phim trung quoc,phim long tieng,phim thai lan 2019,phim lồng tiếng,phim han quoc,phim hay 2019,tam giác vàng,tam giac vang,phim bo trung quoc hay nhat,phim hình sự,phim bo han quoc,phim bo trung quoc long tieng,phim hàn quốc,phim hay,phim hàn,phim han,phim bo hay,phim trinh thám",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xW7mjNd93rU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xW7mjNd93rU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xW7mjNd93rU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xW7mjNd93rU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xW7mjNd93rU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xW7mjNd93rU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "xW7mjNd93rU",
+                "videoPublishedAt": "2020-01-21T04:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nagUoh4KBmFwBen_AaiudyXC130",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS43NDhFRTgwOTRERTU4Rjg3",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:34Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Phim Hình Sự Hay | Chánh Nghĩa Vô Hối - Tập 1 | Phim Xã Hội Đen Trung Quốc Hay Nhất",
+                "description": "Phim Hình Sự Hay | Chánh Nghĩa Vô Hối - Tập 1 | Phim Xã Hội Đen Trung Quốc Hay Nhất \nChánh Nghĩa Vô Hối Full Bộ: https://bit.ly/2XI8q4l\nPhim Việt Nam Chiếu Rạp : https://goo.gl/f5LDo5\nphim hành động 2020 :https://goo.gl/f5LDo5\nphim kiếm hiệp mới nhất 2020 : https://goo.gl/pG2tqD\n►Phim Việt Nam Chiếu Rạp 2020 :https://goo.gl/R7Whs5\n►►Đăng Ký Phim Hay Việt Nam : https://goo.gl/f5LDo5\n►►► Like Page để không bỏ lỡ bộ phim HOT nào: https://www.facebook.com/PhimHayPage\nBản quyền thuộc BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LWHwdPvSnRg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LWHwdPvSnRg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LWHwdPvSnRg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LWHwdPvSnRg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LWHwdPvSnRg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "LWHwdPvSnRg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "LWHwdPvSnRg",
+                "videoPublishedAt": "2020-06-08T03:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ECaa5kbef2Amrr7dF8dji2-BtPI",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:32Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Phim Hình Sự Hay Nhất 2019 | Đặc Nhiệm Phá Án - Tập 1 | Phim Cảnh Sát Hình Sự Hay Nhất",
+                "description": "Phim Hay 2018: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đè Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/f9Y6uDfqXLM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/f9Y6uDfqXLM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/f9Y6uDfqXLM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/f9Y6uDfqXLM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/f9Y6uDfqXLM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "f9Y6uDfqXLM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "f9Y6uDfqXLM",
+                "videoPublishedAt": "2019-04-17T08:38:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "TH8Wgrp1uiCz6TR8SQ3iUKqtXpU",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:30Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "LỆNH TRUY NÃ - Tập 01 | Thuyết Minh | Phim Hình Sự Phá Án Gay Cấn | Phim Hành Động Cực Hay | GAY TV",
+                "description": "LỆNH TRUY NÃ - Tập 01 | Thuyết Minh | Phim Hình Sự Phá Án Gay Cấn | Phim Hành Động Cực Hay | GAY TV\n----------------------------------------------------------------------------------------------------------------------\n▶ Đăng kí xem tiếp: https://bom.to/6KPoW0\n----------------------------------------------------------------------------------------------------------------------\nSơ lược về phim:\nThời lượng: ~45 phút/tập\nSố tập: 20 tập\nChất lượng: Bản đẹp\nĐộ phân giải: HD 720p\nNgôn ngữ: Thuyết Minh\nThể loại: Phim Hình Sự Gay Cấn, Phim Hành Động, Phim Hay Thuyết Minh, Phim Bộ Trung Quốc, Phim Phá Án\n----------------------------------------------------------------------------------------------------------------------\nPHIM THUYẾT MINH HAY NHẤT 2020 !\n----------------------------------------------------------------------------------------------------------------------\n#LENHTRUYNA #PHIMHINHSU #PHIMHANHDONG\n\nBẤM ĐĂNG KÝ (SUBCRIBE) MIỄN PHÍ ĐỂ CHÚNG TÔI CÓ ĐỘNG LỰC MANG VỀ NHIỀU PHIM MỚI CHO CÁC BẠN!\n\n====================================\n© Bản quyền thuộc về GAY TV và Đối Tác\n© Copyright by GAY TV and Partner☞ Do not Reup\n\n►Cám ơn các bạn đã theo dõi và đăng ký kênh GAY TV!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EbXgZrf4YiM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EbXgZrf4YiM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EbXgZrf4YiM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EbXgZrf4YiM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EbXgZrf4YiM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EbXgZrf4YiM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "EbXgZrf4YiM",
+                "videoPublishedAt": "2020-03-19T10:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_qYFFUNkXvbsJMru-oWTie5foqE",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:29Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Phim Hình Sự Hay Nhất 2019 | Lật Mặt Ông Trùm - Tập 1 | Phim Cảnh Sát Hình Sự Trung Quốc",
+                "description": "Phim Hình Sự Hay Nhất 2019 | Lật Mặt Ông Trùm - Tập 1 | Phim Cảnh Sát Hình Sự Trung Quốc\n*Các bạn xem thêm:\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đè Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zoUXT3rgLKY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zoUXT3rgLKY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zoUXT3rgLKY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zoUXT3rgLKY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zoUXT3rgLKY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zoUXT3rgLKY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "zoUXT3rgLKY",
+                "videoPublishedAt": "2019-06-04T04:13:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "aUjNEFLbsjGBZFf1BNN49pnqWMI",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:27Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Phim Hình Sự Trung Quốc Mới Nhất | Hình Cảnh Phong Bão - Tập 1 | Phim Bộ Trung Quốc Lồng Tiếng 2020",
+                "description": "Phim Hình Sự Trung Quốc Mới Nhất | Hình Cảnh Phong Bão - Tập 1 | Phim Bộ Trung Quốc Lồng Tiếng 2020\nHình Cảnh Phong Bão Full: https://www.youtube.com/playlist?list=PLgCEtHulTQE2rqMyFezp1LGEIbquZQ8Gf\nphim việt nam 2019 : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2019: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\n#PhimHayĐiệnẢnh \nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/B6eFkeP0jJI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/B6eFkeP0jJI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/B6eFkeP0jJI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/B6eFkeP0jJI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/B6eFkeP0jJI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "B6eFkeP0jJI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "B6eFkeP0jJI",
+                "videoPublishedAt": "2019-04-25T07:46:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tmFUcoIIScOzEnRq9656-NYqP6k",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:26Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "CÔNG TỐ VIÊN | TẬP 01 | Phim Hình Sự Trung Quốc Hay Nhất 2019",
+                "description": "CÔNG TỐ VIÊN | Phim Hình Sự Trung Quốc Hay Nhất 2019\nTrọn bộ: 33 tập\n\n- Xem trọn bộ: https://bit.ly/2VOblpw\n- Đăng ký/ Subcribe: http://bit.ly/2Iaf1u4\n- Follow Page DOP TV: https://bitly.vn/4zdy\n\nThể loại: Phòng chống tham nhũng, Hình sự\nDiễn viên: Ân Đào, Vu Thần, Vu Vĩnh Quang, Hoàng Hải Băng, Mạnh Tứ Nghĩa\n\nNội dung phim:\nCục phó Cục phòng chống tham nhũng thành phố Yến Đô-Phương Đại Khánh và trưởng\nphòng Sở công tố Hạ Tĩnh Như dẫn dắt những kiểm soát viên trẻ tuổi Trần Thần, Vu Dược\nLong, Chu Văn Văn phá án. Trong quá trình phá án và đối mặt với những vấn đề cuộc sống, họ dần dần được tôi luyện thành thục. Trong lần thụ lý một vụ án mạng, Hạ Tĩnh Như và Trần Thần\nphát hiện nhiều điểm nghi vấn. Cuối cùng, họ ra phán quyết trả tự do cho người vô tội là Vương\nThuận-vốn bị tuyên án 18 năm tù. Còn hung thủ giết người Lý Thụy Quân bị tuyên án tử hình.\nTrong chuyên án \"Săn hồ ly 2014 \", bọn họ tra ra chủ tịch Kim Minh Sơn của tập đoàn Yến Đô\nVũ Thiên có dính líu tới tên tội phạm Lưu Hải Vĩnh, Kim Minh Sơn bắt đầu gây khó khăn cho tổ\nđiều tra. Khi biết được Kim Minh Sơn, người vẫn luôn đối xử với mình như con gái chính là kẻ\nchủ mưu của vụ án, Hạ Tĩnh Như dứt khoát lựa chọn đứng về phía chính nghĩa, về phía luật\npháp.\n----\n#CôngTốViên #PhimHìnhSự #Phim TrungQuốc #DOPTV #ÂnĐào #VuThần\n\nphim hành động,phim hành động hay nhất,phim trung quốc hay nhất,phim hành động bắn súng,phim bộ mới nhất,phim bộ trung quốc hiện đại,phim bộ trung quốc,phim hình sự,phim hình sự trung quốc,doptv,dop tv,phim hay,phim hanh dong,phim trung quoc,phim hinh su trung quoc,phim bo trung quoc long tieng,hình sự trung quốc 2019,xuyên không,phim trinh thám trung quốc hiện đại,cong to vien,công tố viên,công tố viên phim hình sự trung quốc,trọn bộ công tố viên1",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b9fmE7yIJdE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b9fmE7yIJdE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b9fmE7yIJdE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/b9fmE7yIJdE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/b9fmE7yIJdE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "b9fmE7yIJdE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "b9fmE7yIJdE",
+                "videoPublishedAt": "2020-03-17T03:05:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "j-3VhbZkwa5Y-zjNqfZuSkU0OKI",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:24Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Mắt Cảnh Sát - Tập 1 ( Thuyết Minh ) | Phim Hình Sự Trung Quốc Mới Hay Nhất | Bom Tấn Hành Động 2019",
+                "description": "Mắt Cảnh Sát - Tập 1 ( Thuyết Minh ) | Phim Hình Sự Trung Quốc Mới Hay Nhất | Bom Tấn Hành Động 2019\nMắt Cảnh Sát Full Bộ :https://bit.ly/2kdUi1C\nThái Sư Phụ :https://bit.ly/2mfyuU4\nBao Công Đấu Pháp Vương : https://bit.ly/2lLqBph\nPhim Hài Việt Nam Chiếu Rạp : https://goo.gl/f5LDo5\nphim hành động 2019 :https://goo.gl/f5LDo5\nphim kiếm hiệp mới nhất 2019 : https://goo.gl/pG2tqD\n►Phim Việt Nam Chiếu Rạp 2018 :https://goo.gl/R7Whs5\n►►Đăng Ký Phim Hay Việt Nam : https://goo.gl/f5LDo5\n►►► Like Page để không bỏ lỡ bộ phim HOT nào: https://www.facebook.com/PhimHayPage\nHỏi Đáp: https://www.facebook.com/tienccnp\nBản quyền thuộc BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xp5dM0ZAvmg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xp5dM0ZAvmg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xp5dM0ZAvmg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xp5dM0ZAvmg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xp5dM0ZAvmg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xp5dM0ZAvmg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "xp5dM0ZAvmg",
+                "videoPublishedAt": "2019-09-14T02:38:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bJsCerc-wQdcYUKhv4fR1V_5Dak",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:23Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Phim Hình Sự Hay Nhất 2019 | Cảnh Sát Siêu Hạng - Tập 1 | Phim Phạm Băng Băng 2019",
+                "description": "Phim Hình Sự Hay Nhất 2019 | Cảnh Sát Siêu Hạng - Tập 1 | Phim Phạm Băng Băng 2019\nPhim Hay 2018: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đè Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ca170M2NFtA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ca170M2NFtA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ca170M2NFtA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ca170M2NFtA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ca170M2NFtA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Ca170M2NFtA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Ca170M2NFtA",
+                "videoPublishedAt": "2019-04-26T09:03:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "eVySWOnHRt6aKLx5Z3elR4o0UPA",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:21Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Phim Hình Sự Trung Quốc Mới | Mặt Trái Của Sự Giàu Sang - Tập 1 | Phim Bộ Lồng Tiếng Hay Nhất",
+                "description": "Phim Hình Sự Trung Quốc Mới | Mặt Trái Của Sự Giàu Sang - Tập 1 | Phim Bộ Lồng Tiếng Hay Nhất \nMặt Trái Của Sự giàu Sang Full :https://bit.ly/2IJM6jp\nPhim Bộ Trung Quốc 2019 :https://youtu.be/OQi5qTxaESc\nphim việt nam 2019 : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2019: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\n#PhimHayĐiệnẢnh #PhimHìnhSự \nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c9XEWc48Zh4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c9XEWc48Zh4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c9XEWc48Zh4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/c9XEWc48Zh4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/c9XEWc48Zh4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "c9XEWc48Zh4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "c9XEWc48Zh4",
+                "videoPublishedAt": "2019-04-21T00:45:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "w_0b47yvi9uE1NHeuNPpAy0Ihgs",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:20Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Phim Hình Sự Trung Quốc Mới Nhất | Bão Táp Biên Phòng - Tập 1 | Phim Bộ Lồng Tiếng Hay Nhất",
+                "description": "Phim Hình Sự Trung Quốc Mới Nhất | Bão Táp Biên Phòng - Tập 1 | Phim Bộ Lồng Tiếng Hay Nhất\nPhim Bộ Trung Quốc 2019 :https://youtu.be/OQi5qTxaESc\nphim việt nam 2019 : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2019: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\n#PhimHayĐiệnẢnh #PhimHìnhSự\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/anyBT5xjrPk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/anyBT5xjrPk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/anyBT5xjrPk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/anyBT5xjrPk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/anyBT5xjrPk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "anyBT5xjrPk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "anyBT5xjrPk",
+                "videoPublishedAt": "2019-04-17T07:09:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0qavHaQsTPnCkHkK9JEiW0jFjsA",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:18Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Qủy Thủ Phật Tâm - Tập 1 | Phim Hình Sự Trung Quốc Mới Hay Nhất 2020 | Lý Hiện, Trương Nhược Quân",
+                "description": "Qủy Thủ Phật Tâm - Tập 1 | Phim Hình Sự Trung Quốc Mới Hay Nhất 2020 | Lý Hiện, Trương Nhược Quân \nquỷ thủ phật tâm full bộ :https://bit.ly/35uHQwN\nPhim Bộ Trung Quốc Mới Nhất : https://goo.gl/VfPiBm\nLoạn Thế Hồng Nhan Full bộ: https://goo.gl/Gt8ahz\nMỹ Nhân Đa Tình Full Bộ:https://goo.gl/GD1V3K\nMị giả Vô Cương Full Bộ :https://goo.gl/oPo3dW\nĐăng Ký Kênh CachiCachi VN Xem Phim Mới Nhất : https://goo.gl/VfPiBm\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NEtbyZ3JsPg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NEtbyZ3JsPg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NEtbyZ3JsPg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NEtbyZ3JsPg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NEtbyZ3JsPg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NEtbyZ3JsPg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "NEtbyZ3JsPg",
+                "videoPublishedAt": "2019-12-18T03:30:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "poVzc_m79xAhdEn-nwppON4eLRI",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:16Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Phim Hình Sự Hay Nhất 2019 | Đặc Nhiệm Siêu Đẳng - Tập 2 | Phim Phạm Băng Băng 2019",
+                "description": "*Xem ĐẶC NHIỆM SIÊU ĐẲNG Trọn Bộ: https://goo.gl/A4zUpp\nPhim Hay 2018: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đè Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OErPOg66Buk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OErPOg66Buk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OErPOg66Buk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OErPOg66Buk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OErPOg66Buk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OErPOg66Buk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "OErPOg66Buk",
+                "videoPublishedAt": "2019-01-21T04:36:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OTv9b_wBIWBryoKnOFaSZBQPwcY",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:15Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Phim hình sự hành động phá án TVB tóp 40 phim Hông Kông hay nhất",
+                "description": "Phim hình sự hành động TVB Hồng Kông mới hay nhất\nPhim hoa ngữ hay nhất \nPhim ngôn tình hay nhất \nPhim hàn quốc hay nhất\nPhim bộ lồng tiếng mới hay nhất \nPhim đài loan mới hay nhất \nPhim thái lan lồng tiếng mới hay nhất\nPhim việt nam hay nhất\nPhim xuyên không hay nhất\nPhim kiếm hiệp hay nhất\nPhim cổ trang hay nhất\nPhim cưới trước yêu sau\nPhim việt nam hay nhất\nPhim hồng kông hay nhất\nPhim thái lan hay nhất",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KISfXNEJS7w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KISfXNEJS7w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KISfXNEJS7w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KISfXNEJS7w"
+                }
+            },
+            "contentDetails": {
+                "videoId": "KISfXNEJS7w",
+                "videoPublishedAt": "2019-05-23T12:32:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rnafETkY8H0fxYqz5iDsQAF-IOg",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:13Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Phim Hình Sự Mới Nhất 2020 | Nam Thành Di Hận - Tập 1 ( Thuyết Minh )| Phim Bộ Trung Quốc Hay Nhất",
+                "description": "Phim Hình Sự Mới Nhất 2020 | Nam Thành Di Hận - Tập 1 ( Thuyết Minh )| Phim Bộ Trung Quốc Hay Nhất \nNam Thành Di Hận Full Bộ :https://goo.gl/RpVPsq\nHồng Võ Đại Án Full Bộ : https://goo.gl/qK5Abp\nphim việt nam 2018 : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2018: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\n\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1hyqtqNZHGY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1hyqtqNZHGY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1hyqtqNZHGY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1hyqtqNZHGY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1hyqtqNZHGY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1hyqtqNZHGY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "1hyqtqNZHGY",
+                "videoPublishedAt": "2018-09-21T13:43:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MU8n0VHizM813sNkNOqD1RrO0PI",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:12Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Phim Hình Sự Trung Quốc 2019 | Nữ Cảnh Sát Tinh Nhuệ - Tập 1 | Phim Bộ Lồng Tiếng 2019",
+                "description": "Phim Hình Sự Trung Quốc 2019 | Nữ Cảnh Sát Tinh Nhuệ - Tập 1 | Phim Bộ Lồng Tiếng 2019\nNữ Cảnh Sát Tinh Nhuệ Full:https://bit.ly/2uMdkxP\nphim hành động 2019 :https://goo.gl/f5LDo5\nphim kiếm hiệp mới nhất 2019 : https://goo.gl/pG2tqD\n►Phim Việt Nam Chiếu Rạp 2018 :https://goo.gl/R7Whs5\n#ĐăngKýXemPhimMới #PhimBộ #NữCảnhSátTinhNhuệ\n►►Đăng Ký Phim Hay Việt Nam : https://goo.gl/f5LDo5\n►►► Like Page để không bỏ lỡ bộ phim HOT nào: https://www.facebook.com/PhimHayPage\nHỏi Đáp: https://www.facebook.com/tienccnp\nBản quyền thuộc BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xySDFVyCRec/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xySDFVyCRec/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xySDFVyCRec/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xySDFVyCRec/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xySDFVyCRec/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xySDFVyCRec"
+                }
+            },
+            "contentDetails": {
+                "videoId": "xySDFVyCRec",
+                "videoPublishedAt": "2019-04-07T12:07:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OmTF9D6DBBk6618HvKQdKV-VPRY",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:10Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Phim Kháng Nhật Hấp Dẫn Nhất 2020 | LOẠN THẾ QUỐC BẢO - Tập 01 [ Thuyết Minh ]",
+                "description": "➤ Xem Thêm Nhiều Phim Hay: https://bit.ly/3evUgc1\n➤ Trọn Bộ Loạn Thế Quốc Bảo Thuyết Minh: https://bit.ly/3dHmSyey\n\n✤ Đạo diễn: Kim Lâm\n✤ Diễn viên: Triệu Nghị, Lý Hân THông, Mã Dược\n✤  Phim LOẠN THẾ QUỐC BẢO kể về thời đầu dân quốc, loạn thế phân tranh, kỳ hiệp giang hồ Lý Tam xuất hiện, khiến người giàu quan lớn Bắc Kinh Thiên Tân rơi vào hoảng loạn. Tuy nhiên sau khi  đội trưởng đội trinh thám cục cảnh sát Bắc Kinh Chu Chí Nhạc xuất hiện, đã thay đổi cuộc đời của Lý Tam. Từ kỳ hiệp xông pha giang hồ trở thành nghĩa sĩ dân tộc chiến đấu chống lại Nhật Bản.\n\n© Bản quyền thuộc về : Nấm Xinh TV\n© Copyright by Nấm Xinh TV ☞ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HBijLxOrAoI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HBijLxOrAoI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HBijLxOrAoI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HBijLxOrAoI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HBijLxOrAoI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HBijLxOrAoI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "HBijLxOrAoI",
+                "videoPublishedAt": "2020-06-28T11:54:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "c_jLyQK6D8sLvZ0gMVl__mmwm3A",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:09Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Phim Hình Sự Hay Nhất 2019 | Đặc Nhiệm Siêu Đẳng - Tập 4 | Phim Phạm Băng Băng 2019",
+                "description": "*Xem ĐẶC NHIỆM SIÊU ĐẲNG Trọn Bộ: https://goo.gl/A4zUpp\nPhim Hay 2018: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đè Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5tyd5uvVUl4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5tyd5uvVUl4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5tyd5uvVUl4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5tyd5uvVUl4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5tyd5uvVUl4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5tyd5uvVUl4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "5tyd5uvVUl4",
+                "videoPublishedAt": "2019-01-21T06:41:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UYL9HXbdIMkGM-fEWadDXL3bMkk",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:07Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Đặc Nhiệm Siêu Đẳng - Tập 1 | Phim Hình Sự Hay Nhất 2020 | Phim Hay 2020",
+                "description": "Đặc Nhiệm Siêu Đẳng - Tập 1 | Phim Hình Sự Hay Nhất 2020 | Phim Hay 2020\n*Các bạn xem thêm:\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đè Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WkDeu_EBXVk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WkDeu_EBXVk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WkDeu_EBXVk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WkDeu_EBXVk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WkDeu_EBXVk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WkDeu_EBXVk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "WkDeu_EBXVk",
+                "videoPublishedAt": "2019-10-30T02:50:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "eHY5HP_eutTpW31NUniTAJV41es",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:05Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Phim Hình Sự 2019 | Nữ Cảnh Sát Tinh Nhuệ - Tập 2 | Phim Bộ Lồng Tiếng 2019",
+                "description": "Phim Hình Sự 2019 | Nữ Cảnh Sát Tinh Nhuệ - Tập 2 | Phim Bộ Lồng Tiếng 2019\nNữ Cảnh Sát Tinh Nhuệ Full:https://bit.ly/2uMdkxP\nphim hành động 2019 :https://goo.gl/f5LDo5\nphim kiếm hiệp mới nhất 2019 : https://goo.gl/pG2tqD\n►Phim Việt Nam Chiếu Rạp 2018 :https://goo.gl/R7Whs5\n#ĐăngKýXemPhimMới #PhimBộ #NữCảnhSátTinhNhuệ\n►►Đăng Ký Phim Hay Việt Nam : https://goo.gl/f5LDo5\n►►► Like Page để không bỏ lỡ bộ phim HOT nào: https://www.facebook.com/PhimHayPage\nHỏi Đáp: https://www.facebook.com/tienccnp\nBản quyền thuộc BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ncs9B5tEwms/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ncs9B5tEwms/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ncs9B5tEwms/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ncs9B5tEwms/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ncs9B5tEwms/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ncs9B5tEwms"
+                }
+            },
+            "contentDetails": {
+                "videoId": "ncs9B5tEwms",
+                "videoPublishedAt": "2019-04-07T13:29:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "LxGoEAfL413sO5cTEP5nYkPvb6w",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:04Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Phim Hình Sự Trung Quốc 2019 | Thám Tử Ngầm - Tập 1 | Phim Bộ Trung Quốc Hay Nhất",
+                "description": "Phim Hình Sự Trung Quốc 2019 | Thám Tử Ngầm - Tập 1 | Phim Bộ Trung Quốc Hay Nhất \nThám Tử Ngầm Full Bộ: https://goo.gl/gqziuP\n►Phim Việt Nam Chiếu Rạp 2018 :https://goo.gl/R7Whs5\n►►Đăng Ký Phim Hay Việt Nam : https://goo.gl/f5LDo5\n►►► Like Page để không bỏ lỡ bộ phim HOT nào: https://www.facebook.com/PhimHayPage\nHỏi Đáp: https://www.facebook.com/tienccnp\nBản quyền thuộc BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UYyOhOJBD1Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UYyOhOJBD1Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UYyOhOJBD1Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UYyOhOJBD1Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UYyOhOJBD1Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 31,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UYyOhOJBD1Q"
+                }
+            },
+            "contentDetails": {
+                "videoId": "UYyOhOJBD1Q",
+                "videoPublishedAt": "2018-11-01T09:01:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jbSuX5Qx3IrC2wBwaYgFWMVCJYg",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:02Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Đặc Nhiệm Siêu Đẳng Phần 2 - Tập 1 | Phim Hình Sự Hay Nhất 2020 | Phim Hay 2020",
+                "description": "Đặc Nhiệm Siêu Đẳng Phần 2 - Tập 1 | Phim Hình Sự Hay Nhất 2020 | Phim Hay 2020\n*Các bạn xem thêm:\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đè Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8PwUl7bl_O0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8PwUl7bl_O0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8PwUl7bl_O0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8PwUl7bl_O0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8PwUl7bl_O0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8PwUl7bl_O0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "8PwUl7bl_O0",
+                "videoPublishedAt": "2019-11-05T03:10:55Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IMWoeZtXv4neToPJdYqsP55BcB8",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:13:01Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Đặc Nhiệm Siêu Đẳng - Tập 19 | Phim Hình Sự Hay Nhất 2020 | Phim Hay 2020",
+                "description": "*Các bạn xem thêm:\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đè Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6_vGhrBp5F4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6_vGhrBp5F4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6_vGhrBp5F4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6_vGhrBp5F4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6_vGhrBp5F4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6_vGhrBp5F4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "6_vGhrBp5F4",
+                "videoPublishedAt": "2019-10-31T12:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "JrzkUg2VQAXNgkeOYylBYFy4OgY",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:12:59Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Truyền hình VOA 30/6/20: Trung Quốc loan báo tập trận ở Hoàng Sa ngay sau hội nghị ASEAN",
+                "description": "#VOATIENGVIET\r\nTin tức: http://www.facebook.com/VOATiengViet, http://www.youtube.com/VOATiengVietVideo, http://www.voatiengviet.com. Nếu không vào được VOA, xin các bạn hãy vào http://vn3000.com để vượt tường lửa. Thời sự Việt Nam: Trung Quốc loan báo tập trận ở Hoàng Sa ngay sau hội nghị ASEAN. Việt Nam ‘rà soát’ phi công Pakistan sau thông tin về bằng giả. GDP của Việt Nam tăng thấp nhất trong một thập niên.\n\nTin thế giới: Thủ đô Ấn Độ lập ngân hàng huyết tương chống COVID. Trung Quốc chế tài visa các cá nhân Mỹ can thiệp chuyện Hong Kong. Hồ Bắc: Lũ lụt nặng, hàng trăm ngàn người bị ảnh hưởng. Bangladesh: Lật phà, ít nhất 28 người chết. Iran ra trát bắt Tổng thống Trump. Nga bác tin trả tiền cho Taliban tấn công người Mỹ.\n\nPhóng sự: Các bãi biển tấp nập trở lại trong thời nới lỏng giãn cách. Không ‘mở cửa ồ ạt’ để ngăn COVID. Quỹ hỗ trợ người biểu tình tại Mỹ. Du lịch ì ạch hậu COVID.\n\nVà chương trình Học tiếng Anh của Đài VOA.\n\n--\n\nTổng Sản phẩm Quốc nội (GDP) của Việt Nam chỉ tăng 1,81% trong nửa đầu năm 2020 so với cùng kỳ năm trước, Tổng cục Thống kê cho biết trong một cuộc họp báo hôm 29/6.   \n\nQuân đội Trung Quốc sẽ tiến hành các cuộc tập trận quân sự ở vùng biển ngoài khơi quần đảo Tây Sa (tức Hoàng Sa) từ ngày 1 đến ngày 5/7, trang tin của Bộ Quốc phòng Trung Quốc dẫn thông báo từ Cơ quan An toàn Hàng hải và Cục Hải sự tỉnh Hải Nam cho biết hôm 29/6.  \n\nCục Hàng không Việt Nam tối 28/6 nói rằng cục này trong thời gian trước đây cấp chứng chỉ tại Việt Nam cho 27 phi công mang quốc tịch Pakistan, các báo trong nước bao gồm Thanh Niên, Tuổi Trẻ và Tổ Quốc cho hay.  \n\nLãnh đạo khu vực thủ đô Ấn Độ ngày 29/6 loan báo thành lập một ngân hàng huyết tương tại New Delhi để chữa trị cho bệnh nhân COVID-19.\n\nTrung Quốc ngày 29/6 loan báo sẽ áp đặt hạn chế visa đối với những cá nhân Mỹ can thiệp vào các vấn đề liên hệ đến Hong Kong, vài ngày sau khi Thượng viện Mỹ thông qua một dự luật chế tài các doanh nghiệp và cá nhân phá hoại sự tự trị của Hong Kong.\n\nCông tác cứu hộ tiếp diễn sau khi mưa lớn gây lũ lụt tại nhiều vùng quê thuộc tỉnh Hồ Bắc miền trung Trong Quốc kể từ ngày 27/6.\n\nMột chiếc phà bị lật trên một con sông ở Bangladesh hôm 29/6, làm ít nhất 28 người chết, các giới chức cho biết.\n\nIran ra trát bắt và yêu cầu Cảnh sát Hình sự Quốc tế  Interpol giúp bắt giữ Tổng thống Mỹ Donald Trump cùng hàng chục người khác mà Iran tin là đã thực hiện cuộc tấn công bằng máy bay không người lái giết chết một tướng lãnh hàng đầu của Iran tại Baghdad, một công tố viên địa phương cho biết ngày 29/6.\n\nNhững cáo buộc cho rằng cơ quan an ninh Nga trả tiền cho Taliban tấn công các lực lượng Mỹ tại Afghanistan là “bịa đặt”, một phát ngôn viên của Tổng thống Vladimir Putin tuyên bố hôm 29/6.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/de2TN7ztl-w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/de2TN7ztl-w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/de2TN7ztl-w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 34,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "de2TN7ztl-w"
+                }
+            },
+            "contentDetails": {
+                "videoId": "de2TN7ztl-w",
+                "videoPublishedAt": "2020-06-29T22:54:33Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "BU7UGNVrbndc_IJ0iUbY2VJmZsM",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:12:58Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "ĐỘI CHỐNG KHỦNG BỐ | TẬP 01 | Phim Hành Động, Phim Hình Sự Trung Quốc",
+                "description": "ĐỘI CHỐNG KHỦNG BỐ Phần 1 - Phim Hành Động, Phim Hình Sự Trung Quốc\n--------------------\n- Link tập 02: https://youtu.be/TaE-MJFP2oQ\n- Xem trọn bộ: https://bit.ly/2LiUzMO\n- Đăng ký/ Subcribe: http://bit.ly/2Iaf1u4\n- Follow Page DOP TV: https://bitly.vn/4zdy\n----------------------\n- Diễn viên: Chu Vũ Thần, Vương Lực Khả, Vương Ban, Chu Đình Y,…\n\n- Thể loại: Phim hành động, Phim Hình Sự, Phim Trung Quốc.\n\n- Nội dung:\n“Đội Chống Khủng Bố” mở đầu bằng câu chuyện của Dương Sáng, một người trẻ tuổi ham chơi, bốc đồng và ngạo mạng. Biến cố xảy ra với anh khi cha anh đã anh dũng hi sinh khi làm nhiệm vụ cho đội chống khủng bố. Vì là con của anh hùng, Dương Sáng được đặc cách vào đội chống khủng bố. Tuy nhiên với bản tính của mình, Dương Sáng đã trở thành cái gai trong mắt nhiều người, nhưng cũng từ đây anh đã dần thay đổi và cùng với các thành viên khác của đội phá được rất nhiều vụ khủng bố.\n\nĐội Chống Khủng Bố hấp dẫn người xem bởi nội dung xoay quanh cuộc chiến chống lại tội phạm và cái ác của các chiến sĩ thuộc tổ chức Liệp Ảnh. Từ những vụ án đơn lẻ cho đến những âm mưu khủng bố được lên kế hoạch chi tiết như nổ nhà máy hóa chất làm ô nhiễm nguồn nước, giải phóng “vi khuẩn có lợi” mang mầm bệnh, dùng chất phóng xạ sinh học, tất cả đều lần lượt được Đội chống khủng bố Liệp Ảnh đưa ra ánh sáng.\n\nKhông chỉ khắc họa thành công trí tuệ hơn người và tinh thần quật cường của các chiến sĩ Liệp Ảnh, bộ phim còn là “sàn diễn” cho những màn võ thuật mãn nhãn, những pha hành động đứng tim và những cuộc truy đuổi gay cấn.\n\nNgoài ra, “Đội chống khủng bố Liệp Ảnh” còn là nơi thử thách tình đồng chí, đồng đội, tình cảm gia đình cũng như tình yêu đôi lứa. Đối mặt với hiểm nguy và không ít cám dỗ, các chiến sĩ Liệp Ảnh liệu có thể giữ vững tinh thần kiên định, ý chí quật cường để bảo vệ công lý và lẽ phải?\n\n#ĐộiChốngKhủngBố #PhimHànhĐộng #PhimHìnhSự\n phim trung quoc,doptv,đội chống khủng bố,doi chong khung bo,chống khủng bố,đội chống khủng bố phần 1,đội chống khủng bô trọn bộ,khủng bố,liệp ảnh,phim hành động,phim hanh dong,phim hành động trung quốc,phim bộ trung quốc,phim cảnh sát đặc nhiệm,phim hình sự,phim hình sự trung quốc,đội chống khủng bố tập 1,đội chống khủng bố liệp ảnh tập 1,phim trung quốc,phim trung quoc,phim hinh su,phim hinh su trung quoc,phim hanh dong trung quoc,phim hay,phim moi,dop tv,phim",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zc3Pm7Ir2lo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zc3Pm7Ir2lo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zc3Pm7Ir2lo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zc3Pm7Ir2lo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zc3Pm7Ir2lo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 35,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zc3Pm7Ir2lo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "zc3Pm7Ir2lo",
+                "videoPublishedAt": "2020-03-11T02:27:41Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Bhax83TGc5nJu3sgaQxm5rnPnUE",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:12:56Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "VỤ ÁN BÍ ẨN 506 - Tập 1 | Phim Hình Sự Điều Tra Trung Quốc Hấp Dẫn - Vietsub",
+                "description": "VỤ ÁN BÍ ẨN 506 - Tập 1 | Phim Hình Sự Điều Tra Trung Quốc Hấp Dẫn - Vietsub.\n🔔 Đăng ký theo dõi Kênh tại đây: http://bit.ly/SubscribeDramaVietNam\n\nBộ phim lấy đề tài về vụ án \"506\", kể về quá trình điều tra của Quan Hán Sinh và chân tướng phía sau vụ án, đồng thời mở ra câu chuyện cảm động về công cuộc chiến đấu chống lại cái ác.\n\n------------------------------------------\nDRAMA VIETNAM là kênh chuyên đăng tải các bộ phim có bản quyền với chất lượng tốt nhất cùng với nội dung đa dạng bao gồm nhiều thể loại : Tình Cảm, Kiếm Hiệp, Võ Thuật, Trinh Thám, Tâm Lý Xã Hội, Kinh Dị, Cổ Trang, ... Hy vọng kênh DRAMA VIETNAM sẽ được quý khán giả lựa chọn là nơi để giải trí và thư giãn mỗi ngày.\n\n------------------------------------------\n© Copyright by Drama Vietnam\n☞ Please do not Reup\n\n#DramaVietNam #PhimThamTu #VuAnBiAn506",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3YUPUVtS_QU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3YUPUVtS_QU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3YUPUVtS_QU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3YUPUVtS_QU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3YUPUVtS_QU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 36,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3YUPUVtS_QU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "3YUPUVtS_QU",
+                "videoPublishedAt": "2019-10-18T12:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jObLPPB6FFYewWq1uvi8ux2hPuE",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:12:54Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "MẬT MÃ TỐI THƯỢNG | TẬP 33 | PHIM HÌNH SỰ BOM TẤN SINGAPORE | 5G PHIM",
+                "description": "5G PHIM | MẬT MÃ TỐI THƯỢNG | TẬP 33 | PHIM HÌNH SỰ BOM TẤN HẤP DẪN BẬC NHẤT SINGAPORE\n\n🔔 Đăng ký kênh 5G Phim: http://bit.ly/5GPhimSub\n\n“Mật mã tối thượng” sẽ mang lại cho người xem một góc nhìn mới về hệ thống tư pháp Singapore. Mỗi tuần, đội ngũ các điều tra viên phải chạy đua với thời gian để giải quyết một tội ác tàn bạo và đưa thủ phạm ra ánh sáng. Đồng thời, đây cũng là cuộc chiến của các luật sư trong thành phố để bảo vệ thân chủ của mình và không một ai phải chịu cảnh oan khuất.\n\n“Mật mã tối thượng” lấy cảm hứng từ những vụ án thực sự, qua đó khán giả có thể thấy được những mặt tối, sáng của hệ thống luật pháp qua đội ngũ cảnh sát, những cuộc đấu tranh tâm lý của luật sư và cả hành trình bước đến vòng lao lý của tội phạm.\n\nĐược đánh giá là một luồng gió mới về mảng hình sự của điện ảnh Singapore, bộ phim cung cấp cho người xem về sự phức tạp và những cuộc đấu tranh ngầm trong hệ thống pháp luật của đất nước này.\n\n📽 Xem trọn bộ:\n✅ Thợ săn ma túy: http://bit.ly/ThoSanMaTuyFull\n✅ Đội chống khủng bố Liệp Ảnh (phần 1): http://bit.ly/DoiChongKhungBoLiepAnh\n✅ Mật mã tối thượng: http://bit.ly/MatMaToiThuong\n✅ Lời nói dối chân thật: http://bit.ly/LoiNoiDoiCT\n✅ Kiểm sát viên nhân dân: http://bit.ly/KSVnhanDan\n\n#phimhanhdong2019\n#phimhinhsu2019\n#phimbo2019\n#phimhanhdongtrinhtham\n#phimlongtieng\n#phimtruyenhinh\n#phimmoi2019\n#phimhay2019\n#phimhanhdongvothuat\n\n👍 Cảm ơn các bạn đã xem phim trên kênh 5G PHIM\n👍 Chúc các bạn thư giãn, giải trí vui vẻ trên 5G PHIM\n👍 Đăng ký kênh, bình luận (commnent) bày tỏ quan điểm của mình các bạn nhé!\n\n⚡Bản quyền: Công ty Cổ phần Công nghệ và Truyền thông đa phương tiện 5G sở hữu bản quyền toàn bộ nội dung (các bản ghi âm, video, hình ảnh) trên kênh này. Đề nghị không re-upload.\n\n📧 Email: http://bit.ly/lienhevoi5G\n😍 Fanpage: http://bit.ly/Fanpage5GPHIM\n\n#5Gphim #mậtmãtốithượng #phimbomtấn #phimhìnhsự hay nhất #phimđiềutrapháán",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4lCxl-4xiwA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4lCxl-4xiwA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4lCxl-4xiwA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4lCxl-4xiwA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4lCxl-4xiwA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 37,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4lCxl-4xiwA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "4lCxl-4xiwA",
+                "videoPublishedAt": "2020-03-03T13:30:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6ZJOTveP3uVYODQkP7izHtdkgCc",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:12:53Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Tuyên tử hình một người Đài Loan đưa 316kg ma túy từ Bình Dương về TP.HCM",
+                "description": "Kênh thông tin chính thức và duy nhất của #Báo_Tuổi_Trẻ trên YouTube.\r\nTin tức nhanh nhất, mới nhất, nóng nhất đang diễn ra ở Việt Nam và thế giới về: thời sự, kinh tế, chính trị, xã hội, giáo dục, thể thao, văn hóa, giải trí, công nghệ, nhịp sống số, pháp luật, du lịch...\r\n\r\n#TuoiTre #BaoTuoiTre #TinNong #Thời_Sự #ThoiSu #Tuổi_Trẻ \r\n\r\n-----------\r\nXem thêm nhiều chuyên mục hấp dẫn khác:\r\n➤Tin Tức Nóng 24H | Báo Tuổi Trẻ: http://bit.ly/TinNong24HTuoiTre\r\n➤Góc Nhìn Trưa Nay: http://bit.ly/GocNhinTruaNay\r\n➤Phóng Sự Độc Quyền Báo Tuổi Trẻ: http://bit.ly/PhongSuDieuTra\r\n➤Du lịch - Khám phá: http://bit.ly/DulichKhamPha\r\nĐăng ký kênh:\r\n- https://goo.gl/pmZNgz\r\n- http://bit.ly/truyenhinhtuoitre\r\n\r\nWebsite:\r\n- https://tuoitre.vn\r\n- https://tv.tuoitre.vn\r\n- https://cuoi.tuoitre.vn\r\n- https://tuoitrenews.vn\r\n- https://cuoituan.tuoitre.vn\r\n\r\nFacebook: \r\n- https://facebook.com/baotuoitre\r\n- https://facebook.com/Truyenhinh.BaoTuoiTre\r\n\r\nInstagram:\r\n- http://instagram.com/baotuoitre\r\n\r\nBản quyền nội dung thuộc về báo Tuổi Trẻ.\r\n--------------------\r\nTÒA SOẠN BÁO TUỔI TRẺ\r\n- Địa chỉ: Số 60A, Hoàng Văn Thụ, Phường.9, Quận Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam\r\n- Điện thoại: (84.8) 3.997.3838\r\n- Website: http://tuoitre.vn\r\n- Email: tto@tuoitre.com.vn\r\n- Đường dây nóng: 0918.033.133 - (84.8) 39.971.010\r\n- Facebook Page: https://www.facebook.com/baotuoitre",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FkKvN96-miE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FkKvN96-miE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FkKvN96-miE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FkKvN96-miE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FkKvN96-miE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 38,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FkKvN96-miE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "FkKvN96-miE",
+                "videoPublishedAt": "2020-07-02T12:23:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Mo6Q5xku8z0l0vSy7X3JlwGYJB4",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:12:51Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Phim Hình Sự Hay Nhất 2019 | Đặc Nhiệm Phá Án - Tập 10 | Phim Cảnh Sát Hình Sự Hay Nhất",
+                "description": "Phim Hay 2018: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đè Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-O33TbHd4WY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-O33TbHd4WY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-O33TbHd4WY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-O33TbHd4WY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-O33TbHd4WY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 39,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-O33TbHd4WY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "-O33TbHd4WY",
+                "videoPublishedAt": "2019-04-18T13:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bT4lrX4W64RgYfHSu2POn_ucmsk",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:12:49Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Quân Khuyển Kỳ Binh - Tập 01 | Phim Hình Sự Trung Quốc Cực Hay",
+                "description": "- Xem Thêm Nhiều Phim Hay: https://bit.ly/2qWBg06\n- Xem Trọn Bộ : https://bit.ly/2N83Tzv\n\nBộ phim Quân Khuyển Kỳ Binh gây tiếng vang lớn và đứng top rating tại Trung Quốc mang tới cái nhìn cận cảnh và vô cùng chân thực về thế giới của những chú chó “Quân Khuyển”, đặc biệt là quá trình huấn luyện khắc nghiệt cùng những nguy hiểm mà những siêu đồng đội của quân nhân này phải trải qua.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mZhch8itUlI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mZhch8itUlI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mZhch8itUlI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mZhch8itUlI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mZhch8itUlI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 40,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "mZhch8itUlI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "mZhch8itUlI",
+                "videoPublishedAt": "2018-10-08T01:19:41Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "1Z7Iz4sUxH5IwvpleyLEUYFZT00",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:12:48Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Tin thế giới nổi bật 2/7/2020 | Trung Quốc quy chụp Bộ trưởng Ngoại giao Mỹ phá rối Hồng Kông | FBNC",
+                "description": "Tin thế giới nổi bật hôm nay 2/7/2020 trên kênh FBNC gồm những tin tức nổi bật:\n+ Chi tiết luật an ninh quốc gia chính thức có hiệu lực với Hồng Kông\n+ Trung Quốc nói luật an ninh là “món quà sinh nhật” cho Hồng Kông\n+ Nghi phạm bị bắt ở Hồng Kông sẽ bị dẫn độ sang Trung Quốc đại lục\n+ Đài Loan mở văn phòng giúp người muốn rời khỏi Hồng Kông\n+ Sau Đài Loan, ông Boris Johnson cho phép 3 triệu người Hồng Kông sang Anh\n+ Ông Pompeo: sẽ không để Trung Quốc dùng thiết bị quốc phòng của Mỹ đàn áp HongKong\n+ Trung Quốc quy chụp bộ trưởng ngoại giao Mỹ là phá rối Hồng Kông\n+ Nhà Trắng: Tình báo Nga tài trợ Taliban tấn công lính Mỹ là không đáng tin cậy\n+ Úc: Tăng mạnh chi tiêu quốc phòng, tập trung vào khu vực Ấn Độ - Thái Bình Dương\n+ Hàng trăm người biểu tình ở tòa thị chính New York\n+ Thành phố New York thông qua cắt giảm ngân sách cảnh sát\n+ Bang Mississippi sẽ xóa cờ mang biểu tượng liên minh\n+ Mạng xã hội Tiktok của Trung Quốc bị cấm ở Ấn Độ\n+ Giải đáp lý do vì sao rắn có thể bay\n+ Ấn Độ: lũ lụt đe dọa sự sống tê giác một sừng quý hiếm\n+ Chú chó Golden Retriever trả lời phỏng vấn trực tuyến qua điện thoại\n+ Họa sĩ Palestine mượn tranh vẽ thể hiện nỗi sợ trước việc sáp nhập của Israel\n+ Nhà khoa học áo nghiên cứu sự hồi sinh sau 32.000 năm của thực vật Bắc cực\n+ Sau khi mời các diễn viên phim Parasite, giải Oscar đã vượt mục tiêu đa dạng sắc tộc, văn hóa\n+ Tokyo Disneyland nhộn nhịp khai trương sau dịch coronavirus\n+ Theo cựu tay vợt Paul Annacone: ATP cần có thủ lĩnh mới\n+ Federer bị cảnh báo cho quyết định nghỉ thi đấu hết năm 2020\n\n -------------------------------\nFBNC (Financial Business News Channel) là kênh tin tức chuyên về kinh tế - Tài chính, bất động sản, chứng khoán - cổ phiếu, cập nhật giá vàng , tin thế giới, tin tức 24h,… Với mong muốn cập nhật những thông tin chính xác và nhanh nhất cho quý vị và các bạn.!\nHãy đăng ký kênh để theo dõi tin tức mới nhất: http://popsww.com/FBNC\nKênh truyền thông FBNC:\nFanpage: https://www.facebook.com/KinhTeTaiChinhTV/\nZalo: https://zalo.me/fbncvn\nWebsite: http://fbnc.vn/\nLiên hệ quảng cáo:\n- Email: fbncvn@gmail.com\n ---------------\nFBNC ĐỒNG TIỀN THÔNG MINH - CUỘC SỐNG THÔNG MINH\n#tinthegioifbnc  #FBNC",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sjGiBc5l7lY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sjGiBc5l7lY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sjGiBc5l7lY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sjGiBc5l7lY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sjGiBc5l7lY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 41,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sjGiBc5l7lY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "sjGiBc5l7lY",
+                "videoPublishedAt": "2020-07-02T10:00:18Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "TCo7jmmbhdHdgQ9Kr_ntkCiba2E",
+            "id": "UExJcmFPeWhMRG9HMm1TMXdZOUhqanlPM3JyQm5kX2JXeS41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2020-07-05T03:12:46Z",
+                "channelId": "UCJHXA9NpBsX0VtEFpd64y6Q",
+                "title": "Phim Hành Động 2020 | Cuộc Chiến Tam Gia - Tập 1 | Phim Bộ Trung Quốc Kháng Nhật Mới Nhất",
+                "description": "Phim Hành Động 2020 | Cuộc Chiến Tam Gia - Tập 1 | Phim Bộ Trung Quốc Kháng Nhật Mới Nhất \nCuộc Chiến Tam Gia Full Bộ : https://bit.ly/31nuDqE\nPhim Bộ Trung Quốc 2020 - Thuyết Minh : https://bit.ly/3dz0hne",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bTe2kzqnsTM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bTe2kzqnsTM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bTe2kzqnsTM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bTe2kzqnsTM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bTe2kzqnsTM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kho Phim",
+                "playlistId": "PLIraOyhLDoG2mS1wY9HjjyO3rrBnd_bWy",
+                "position": 42,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bTe2kzqnsTM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "bTe2kzqnsTM",
+                "videoPublishedAt": "2020-06-27T13:30:12Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 43,
+        "resultsPerPage": 50
     }
 }

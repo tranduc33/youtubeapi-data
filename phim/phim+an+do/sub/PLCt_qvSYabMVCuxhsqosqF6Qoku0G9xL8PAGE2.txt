@@ -1,0 +1,60 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "ozxpGgxq6ANDo_-POzPnFuUlx4s",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-ZyiUv99xRSCHKM7ZEBKc_wvXtc",
+            "id": "UExDdF9xdlNZYWJNVkN1eGhzcW9zcUY2UW9rdTBHOXhMOC5EQkE3RTJCQTJEQkFBQTcz",
+            "snippet": {
+                "publishedAt": "2017-12-09T09:50:36Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "QUĂNG TAO CÁI BOONG | MV XEBIZ | HUỲNH JAMES FT PJNBOYS (MASEW MIX)",
+                "description": "🔰 Thông tin Video:\nMP3 : https://soundcloud.com/masew/huynh-james-x-pjnboys-quang-tao-cai-boong-masew-mix\n\nArtist:\nHuỳnh James: https://www.facebook.com/huynh.james.106\nPjnboys: https://www.facebook.com/Pjnboys\nYoutube: https://www.youtube.com/channel/UCITHrh7RRIAChsue2jHfItg\nMv offical: https://www.youtube.com/watch?v=1pyfe_IHov8\n\nMasew :\nFb: https://www.facebook.com/leanh6896\nSc: https://soundcloud.com/masew\nYoutube: https://www.youtube.com/watch?v=KYwPIG1B-l8\nMv sóng nhạc: https://www.youtube.com/watch?v=I2PbidaalBc\n\nStunter (biểu diễn exciter): \nLai Long và EAT Team: https://www.facebook.com/gaconlaijiunnlong\nYoutube: https://www.youtube.com/channel/UC9t-iRC3Xo_BABNFSRcqnyg\n\n\n🔰 Thông tin Kênh:\n►FACEBOOK: https://www.facebook.com/hlt2020\n►GMAIL : xebiztv@gmail.com\n►ĐĂNG KÝ KÊNH : http://bit.ly/xebiztv\n\n// Video chỉ mang tính chất giải trí không hề có ý bôi nhọ chống phá cá nhân hay tổ chức nào. Chúng tôi không hề kích động cũng như khuyến khích đua xe và cỗ vũ đua xe. Hãy xem video với một ý thức giải trí lành mạnh //",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IEjUyMIibVU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IEjUyMIibVU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IEjUyMIibVU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IEjUyMIibVU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IEjUyMIibVU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMVCuxhsqosqF6Qoku0G9xL8",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "IEjUyMIibVU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "IEjUyMIibVU",
+                "videoPublishedAt": "2017-02-28T10:13:10Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 51,
+        "resultsPerPage": 50
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "j8mOhT8LZiZqCTBq5y0Wt67a0Wg",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "WvNvJTUro1eeW_tP6dVIKq0V_6o",
+            "id": "UEx6OU42Q2JaQVpVeFRSR3VqcUNLRmpfdGVDQ1R3UUZxQy44QzVGQUU2QjE2NDgxM0M4",
+            "snippet": {
+                "publishedAt": "2020-07-07T08:52:19Z",
+                "channelId": "UCJ2eFsdQg5bFwoVWqVVuO8Q",
+                "title": "Phim  hài Hồng Kông | Cười mỏi mồm thuyết minh",
+                "description": "Lịch đăng video : 20h\nNếu các bạn thấy video thú vị hay like và đăng ký kênh giúp mình  có thêm động lực  tìm kiểm và sản xuất nhiều video hay thú vị hơn nữa. Và đừng quên để lại  bình luận hay những ý tưởng, hoặc yêu cầu giúp mình nhé !\nFacebook : www.facebook.com/pdhteamyouyuber\nLiên hệ : huynhpdh@gmail.com\n* No copy video \n* Video thuộc quyền sở hữu của PDH Team.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FAa4Dk21WA4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FAa4Dk21WA4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FAa4Dk21WA4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FAa4Dk21WA4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FAa4Dk21WA4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Данил Понкратьев",
+                "playlistId": "PLz9N6CbZAZUxTRGujqCKFj_teCCTwQFqC",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FAa4Dk21WA4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "FAa4Dk21WA4",
+                "videoPublishedAt": "2020-04-24T13:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "eSByyB02oyn8-c-buEIX2WUxUws",
+            "id": "UEx6OU42Q2JaQVpVeFRSR3VqcUNLRmpfdGVDQ1R3UUZxQy4xMzgwMzBERjQ4NjEzNUE5",
+            "snippet": {
+                "publishedAt": "2020-07-07T08:52:19Z",
+                "channelId": "UCJ2eFsdQg5bFwoVWqVVuO8Q",
+                "title": "PAS DE PITIÉ POUR LES SALOPARDS (Film western) COMPLET en Français",
+                "description": "PAS DE PITIÉ POUR LES SALOPARDS\nFilm Western COMPLET en Français\nFilm Western COMPLET en Français",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eDBfl0rFsPA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eDBfl0rFsPA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eDBfl0rFsPA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eDBfl0rFsPA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Данил Понкратьев",
+                "playlistId": "PLz9N6CbZAZUxTRGujqCKFj_teCCTwQFqC",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eDBfl0rFsPA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "eDBfl0rFsPA",
+                "videoPublishedAt": "2020-02-14T17:00:17Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 52,
+        "resultsPerPage": 50
+    }
+}

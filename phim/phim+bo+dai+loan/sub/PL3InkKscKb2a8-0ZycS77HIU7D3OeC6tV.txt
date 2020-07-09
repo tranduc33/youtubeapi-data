@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "d3HB8msKVuU2OSv0Yc_klt5M0sY",
+    "etag": "w2UgsRQq029ody97RKVZ23I9dDc",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -393,35 +393,14 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "q0fn1ojLIqJjq-bQ30q2mo13PKs",
+            "etag": "mi1PI4fHPOdqyfTBRwR6zzYtMP0",
             "id": "UEwzSW5rS3NjS2IyYTgtMFp5Y1M3N0hJVTdEM09lQzZ0Vi5EMEEwRUY5M0RDRTU3NDJC",
             "snippet": {
                 "publishedAt": "2020-03-02T08:57:15Z",
                 "channelId": "UCC65gKXEALqYl02dj21NoIw",
-                "title": "Phim Ấn Độ 2017   Phim Hành Động Sử Thi Ấn Độ Hay Nhất   Baahubali Full HD",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/B39fyesGZMY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/B39fyesGZMY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/B39fyesGZMY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/B39fyesGZMY/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
                 "channelTitle": "Lager Jelin",
                 "playlistId": "PL3InkKscKb2a8-0ZycS77HIU7D3OeC6tV",
                 "position": 10,
@@ -431,8 +410,7 @@
                 }
             },
             "contentDetails": {
-                "videoId": "B39fyesGZMY",
-                "videoPublishedAt": "2017-04-19T15:00:01Z"
+                "videoId": "B39fyesGZMY"
             }
         },
         {

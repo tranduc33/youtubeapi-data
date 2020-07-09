@@ -1,0 +1,104 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "bgoOkoT73ZFfmOwwwBhBnllLR5Q",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QgaNIILjvtoAd4BFTAD2ue8Txus",
+            "id": "UExDdF9xdlNZYWJNVk96OTd5aHVVOURmbS1nV2Rubkc0eS42RTNCOEMxREI3Q0VDMjU2",
+            "snippet": {
+                "publishedAt": "2017-12-08T10:37:54Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Phim Hành Động Trung Quốc, Đặc Vụ Chìm Phim Lẻ Hay",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qd9_YThOw8g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qd9_YThOw8g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qd9_YThOw8g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qd9_YThOw8g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qd9_YThOw8g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMVOz97yhuU9Dfm-gWdnnG4y",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qd9_YThOw8g"
+                }
+            },
+            "contentDetails": {
+                "videoId": "qd9_YThOw8g",
+                "videoPublishedAt": "2016-04-07T03:57:59Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "o67GGrk-0K7jJKkRyQF_lMtYy9I",
+            "id": "UExDdF9xdlNZYWJNVk96OTd5aHVVOURmbS1nV2Rubkc0eS4yQzk4QTA5QjkzMTFFOEI1",
+            "snippet": {
+                "publishedAt": "2017-12-08T10:37:56Z",
+                "channelId": "UCqJq8D1fVLOX8oGV8Ho6pQA",
+                "title": "Gác Kiếm full HD - So Close - Phim hành động Trung Quốc cực hay",
+                "description": "Gác Kiếm full HD - So Close - Phim hành động Trung Quốc cực hay.\nhttp://phimhanhdong.com.vn/gac-kiem-phim-hanh-dong-trung-quoc-cuc-hay/\nhttp://phimhanhdong.com.vn",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ioYj0hif_xE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ioYj0hif_xE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ioYj0hif_xE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ioYj0hif_xE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Ngo Tuat",
+                "playlistId": "PLCt_qvSYabMVOz97yhuU9Dfm-gWdnnG4y",
+                "position": 52,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ioYj0hif_xE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "ioYj0hif_xE",
+                "videoPublishedAt": "2014-07-04T12:06:54Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 53,
+        "resultsPerPage": 50
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "j7XG62Xg5M8vsregdUkNN3aBPdU",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7ZIDnRxPaE_Fq_NAIik_e2ZA6rQ",
+            "id": "UExCYWtpU3ZYbEVFTWswTjBDR2NZMGpfOFNTUVZtSWNxUS44QzVGQUU2QjE2NDgxM0M4",
+            "snippet": {
+                "publishedAt": "2020-04-29T18:15:32Z",
+                "channelId": "UCNB6DZW89C94T8zSZRzsd1A",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Ayuqhswohe Ahqisjiwsj",
+                "playlistId": "PLBakiSvXlEEMk0N0CGcY0j_8SSQVmIcqQ",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "w8MRB2CRvDo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "w8MRB2CRvDo"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 51,
+        "resultsPerPage": 50
+    }
+}

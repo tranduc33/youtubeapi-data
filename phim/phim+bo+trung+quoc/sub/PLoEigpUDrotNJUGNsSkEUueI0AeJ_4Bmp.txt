@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "7Vm2zbcBxLC6PAnp-khVuVWGgWg",
+    "etag": "1UgYdjEqxbpwlWK47T4ACv58VBQ",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -396,35 +396,14 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "2g_cW-UExDm7FaymozE1Ae-yOXA",
+            "etag": "YE8dM4sRurrOXkmy9srF1LUJca0",
             "id": "UExvRWlncFVEcm90TkpVR05zU2tFVXVlSTBBZUpfNEJtcC45NDk1REZENzhEMzU5MDQz",
             "snippet": {
                 "publishedAt": "2020-07-05T21:01:08Z",
                 "channelId": "UC-HZoRfPl0HSfGp1iV8yaXw",
-                "title": "Phim Bộ Trung Quốc Tái Thượng Phong Vân Ký Tập 27 (VietSub)",
-                "description": "Sưu tầm phim hay, cho mọi người xem\nLiên quan tới bản quyền hãy liên hệ Gmail: truongtamphong0494@gmail.com. Thanks you.\nCảm ơn mọi người đã xem video và đừng quên nhấn Like, Share và đăng ký kênh ủng hộ mình nhé.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/2OO1JZAgN7I/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/2OO1JZAgN7I/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/2OO1JZAgN7I/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/2OO1JZAgN7I/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
+                "title": "Deleted video",
+                "description": "This video is unavailable.",
+                "thumbnails": {},
                 "channelTitle": "Yvonne Ramos",
                 "playlistId": "PLoEigpUDrotNJUGNsSkEUueI0AeJ_4Bmp",
                 "position": 8,
@@ -434,8 +413,7 @@
                 }
             },
             "contentDetails": {
-                "videoId": "2OO1JZAgN7I",
-                "videoPublishedAt": "2020-07-05T12:00:01Z"
+                "videoId": "2OO1JZAgN7I"
             }
         },
         {
@@ -1219,35 +1197,14 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "qxsIL3JYZ54nutKFGMg2nMwVypM",
+            "etag": "XgOQAhOMrP-ScPMCplVbQfnqb9c",
             "id": "UExvRWlncFVEcm90TkpVR05zU2tFVXVlSTBBZUpfNEJtcC43MTI1NDIwOTMwQjIxMzNG",
             "snippet": {
                 "publishedAt": "2020-07-05T21:01:08Z",
                 "channelId": "UC-HZoRfPl0HSfGp1iV8yaXw",
-                "title": "Phim Bộ Trung Quốc Tái Thượng Phong Vân Ký Tập 29 (VietSub)",
-                "description": "Sưu tầm phim hay, cho mọi người xem\nLiên quan tới bản quyền hãy liên hệ Gmail: truongtamphong0494@gmail.com. Thanks you.\nCảm ơn mọi người đã xem video và đừng quên nhấn Like, Share và đăng ký kênh ủng hộ mình nhé.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/zN046QJPVNc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/zN046QJPVNc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/zN046QJPVNc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/zN046QJPVNc/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
                 "channelTitle": "Yvonne Ramos",
                 "playlistId": "PLoEigpUDrotNJUGNsSkEUueI0AeJ_4Bmp",
                 "position": 25,
@@ -1257,8 +1214,7 @@
                 }
             },
             "contentDetails": {
-                "videoId": "zN046QJPVNc",
-                "videoPublishedAt": "2020-07-05T12:45:01Z"
+                "videoId": "zN046QJPVNc"
             }
         },
         {

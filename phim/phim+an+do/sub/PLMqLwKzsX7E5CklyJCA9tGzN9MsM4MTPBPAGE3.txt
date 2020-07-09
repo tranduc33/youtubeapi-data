@@ -1,110 +1,12 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "P1r-Ne50Eb2EACAv-cqhrZvtsDo",
+    "etag": "Bkg0C00NN2yUOX-vlqnulkaH0R8",
     "nextPageToken": "CJYBEAA",
     "prevPageToken": "CGQQAQ",
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "eBvyFvh2xv2yFpM_x6vr1hZU_c8",
-            "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi41MzY4MzcwOUFFRUU3QzEx",
-            "snippet": {
-                "publishedAt": "2018-08-16T08:45:57Z",
-                "channelId": "UCqDfu0gtB0aJCy4jIHL_6bQ",
-                "title": "Định mệnh  - Tập 125 | TodayTV",
-                "description": "Đăng ký theo dõi kênh TodayTV để cùng tận hưởng phút giây giải trí phim ảnh đặc sắc qua link: \nhttp://popsww.com/TodayTV\n\nTodayTV | Saras và Danny \"giả gái\" đáng yêu như thế nào? Đón xem \"Định mệnh\" tập 125.\n\nTodayTV - Kênh truyền hình tổng hợp các chương trình giải trí trong và ngoài nước, phim truyện Việt Nam, Châu Á và phim điện ảnh Hollywood, Gameshow, chương trình thiếu nhi…; phát sóng liên tục 24 tiếng mỗi ngày.\n✦TodayTV có mặt trên các hệ thống Analog, AVG, VTC, HTVC, VTVcab, K+ và SCTV.\n✦ Website: http://todaytv.vn/  \n✦ Facebook: https://www.facebook.com/TodayTV/\n✦ Youtube: www.youtube.com/user/todaytvvietnam\n✦ Email: todaytv@imcorp.com.vn\n✦ Tel: (08) 3933 3688",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/BA4eaZt7sEA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/BA4eaZt7sEA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/BA4eaZt7sEA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/BA4eaZt7sEA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/BA4eaZt7sEA/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Kênh TodayTV",
-                "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 100,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "BA4eaZt7sEA"
-                }
-            },
-            "contentDetails": {
-                "videoId": "BA4eaZt7sEA",
-                "videoPublishedAt": "2016-09-30T11:00:00Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "iSz7EVn-cebBEzD54_gGDtZ-vLA",
-            "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi4yQjZFRkExQjFGODk3RUFD",
-            "snippet": {
-                "publishedAt": "2018-08-16T08:45:57Z",
-                "channelId": "UCqDfu0gtB0aJCy4jIHL_6bQ",
-                "title": "Định mệnh - Tập 124 | TodayTV",
-                "description": "Đăng ký theo dõi kênh TodayTV để cùng tận hưởng phút giây giải trí phim ảnh đặc sắc qua link: \nhttp://popsww.com/TodayTV\n\nTodayTV | Saras đã tạo bất ngờ gì cho Kumud trước ngày cưới? Đón xem \"Định mệnh\" tập 124.\n\nPhim \"Định mệnh\" phát sóng 21h hàng ngày trên TodayTV.\n\nTodayTV - Kênh truyền hình tổng hợp các chương trình giải trí trong và ngoài nước, phim truyện Việt Nam, Châu Á và phim điện ảnh Hollywood, Gameshow, chương trình thiếu nhi…; phát sóng liên tục 24 tiếng mỗi ngày.\n✦TodayTV có mặt trên các hệ thống Analog, AVG, VTC, HTVC, VTVcab, K+ và SCTV.\n✦ Website: http://todaytv.vn/  \n✦ Facebook: https://www.facebook.com/TodayTV/\n✦ Youtube: www.youtube.com/user/todaytvvietnam\n✦ Email: todaytv@imcorp.com.vn\n✦ Tel: (08) 3933 3688",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/j0koZ2AvYCg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/j0koZ2AvYCg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/j0koZ2AvYCg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/j0koZ2AvYCg/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/j0koZ2AvYCg/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "Kênh TodayTV",
-                "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 101,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "j0koZ2AvYCg"
-                }
-            },
-            "contentDetails": {
-                "videoId": "j0koZ2AvYCg",
-                "videoPublishedAt": "2016-09-29T11:00:06Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "aFmFA6d7SzFf1r6Yn97ib1AaRFU",
+            "etag": "olbmN8xeSGVt5lMCjbcEOdVkCcA",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi40QzRDOEU0QUYwNUIxN0M1",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:57Z",
@@ -140,7 +42,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 102,
+                "position": 100,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "wOIJKuKEgfA"
@@ -153,7 +55,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Lxl2QC43sHbMpLEueE4TTUdXVCA",
+            "etag": "7gbVdbjrnuzWYj73wybuB5Ej2IM",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi41RTNBREYwMkI5QzU3RkY2",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:57Z",
@@ -189,7 +91,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 103,
+                "position": 101,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Wwmto_SmHcQ"
@@ -202,7 +104,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "FGRE3gNZDO8tRkj5Y5UtwTBQNBQ",
+            "etag": "1UJ7kYw9cm7yRITAsrfDqpVYDYQ",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi5ENjI1QUI0MDI5NEQzODFE",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:57Z",
@@ -238,7 +140,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 104,
+                "position": 102,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "SHLwqCu8R1k"
@@ -251,7 +153,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "6w770dR0VK5heeNCT0nmMVA-Yu0",
+            "etag": "zcfeuBFSJerVViTILQUlL3Rhhbs",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi44QzVGQUU2QjE2NDgxM0M4",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:57Z",
@@ -287,7 +189,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 105,
+                "position": 103,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "FpR4xclY7Gg"
@@ -300,7 +202,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "wQ1_Azr90msk1K0qQk-knYt3tgo",
+            "etag": "uQS73Wd_NutCIQOLhCZLHEJPzqY",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi4xMzgwMzBERjQ4NjEzNUE5",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:57Z",
@@ -336,7 +238,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 106,
+                "position": 104,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "pEkb-__946M"
@@ -349,7 +251,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "xcc8gJ8Idt7hR2er02g40-EA620",
+            "etag": "z8WpHH08FTAddfgmniXeLQUzKwE",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi4zMEQ1MEIyRTFGNzhDQzFB",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:57Z",
@@ -385,7 +287,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 107,
+                "position": 105,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "OpAZ6kkZYhE"
@@ -398,7 +300,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "LnV2LlQa_-3yDhJi2Tl6DygschI",
+            "etag": "y8DOcgCvahWVgElqCLye-l_ddPk",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi42Qzk5MkEzQjVFQjYwRDA4",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:57Z",
@@ -434,7 +336,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 108,
+                "position": 106,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "8Sn6UCmMJXk"
@@ -447,7 +349,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "8bHi5_vW36RAR0uhji75JSBoITY",
+            "etag": "bMkeo-XiNIGNsDiMTLUCnKncOS8",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi41NTZEOThBNThFOUVGQkVB",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:57Z",
@@ -483,7 +385,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 109,
+                "position": 107,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "YdurCDyTdRM"
@@ -496,7 +398,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "bExoeBM6f2rrkEilnib6c83q7vc",
+            "etag": "7uFVneyssE5pIlH2fNA_5n4URMY",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi43NERCMDIzQzFBMERCMEE3",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:57Z",
@@ -532,7 +434,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 110,
+                "position": 108,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "HVQPfQLXu6A"
@@ -545,7 +447,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "7051oJc-BuzxAwgmqOlGITDICwQ",
+            "etag": "Hdr3nR7t5zwLJfVRFUJIw3pcdZI",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi5GNjAwN0Y0QTFGOTVDMEMy",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:57Z",
@@ -581,7 +483,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 111,
+                "position": 109,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "z62MmRfazFo"
@@ -594,7 +496,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "yaz3LcSV1zt0gZnP3IclDqV_7kU",
+            "etag": "iua_5_JSFNfmFd6pB1al_3_taIs",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi5CQkEwRDA0MDkwNUM2MDY1",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:57Z",
@@ -630,7 +532,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 112,
+                "position": 110,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "1tL0o_j3IXw"
@@ -643,29 +545,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "X3vE-yaNy_0bOFTjf50t81WjdhM",
-            "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi4wNEU1MTI4NkZEMzVBN0JF",
-            "snippet": {
-                "publishedAt": "2018-08-16T08:45:57Z",
-                "channelId": "UCqDfu0gtB0aJCy4jIHL_6bQ",
-                "title": "Private video",
-                "description": "This video is private.",
-                "thumbnails": {},
-                "channelTitle": "Kênh TodayTV",
-                "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 113,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "1vg112neaoc"
-                }
-            },
-            "contentDetails": {
-                "videoId": "1vg112neaoc"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "23JcYrEoDMjrHJJMEKUbUFyuTiM",
+            "etag": "yVzYSXKJ4dukOUsZ8kZXThuYDi0",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi4wMTYxQzVBRDI1NEVDQUZE",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:57Z",
@@ -701,7 +581,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 114,
+                "position": 111,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Cudy-ajksYY"
@@ -714,7 +594,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "2Lz93bXVtmlf0MX0jOmv4Grsx94",
+            "etag": "ph9Q-ZB56EVbpWIyXjeD0lRfAp4",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi4zMUEyMkQwOTk0NTg4MDgw",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:57Z",
@@ -750,7 +630,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 115,
+                "position": 112,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "duQW0vb3PD0"
@@ -763,7 +643,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "d0tan4SrXHZLCsMICQyLyX-1h30",
+            "etag": "FojKENITPfFu_jDuKbDix-dqQOk",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi42QzdBMzlBQzQzRjQ0QkQy",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:57Z",
@@ -799,7 +679,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 116,
+                "position": 113,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "XCBg2yscI-s"
@@ -812,7 +692,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "hnw7JqhOit2IdmF6pg_h0Xfkq6Y",
+            "etag": "NSHsLgKM69gC0eW7Oo_D4ZiqrvI",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi41OURENDc2NEM1MDI5Mjky",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:57Z",
@@ -848,7 +728,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 117,
+                "position": 114,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "fEwtVPCqf-I"
@@ -861,7 +741,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "s9Qv5OeRClhuLatb9YNcHxTyKwk",
+            "etag": "_ZTKB1SfIxuWAPLbzeuxzCoVWXk",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi4wRjhFM0MxMTU1MEUzQ0VB",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:57Z",
@@ -897,7 +777,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 118,
+                "position": 115,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "jnkc53U4cHA"
@@ -910,7 +790,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "yLPgP1tHMYffuKrBDJpB1j9LHas",
+            "etag": "eOZrgVEmtU_XxbQTf0MCG0tPCe0",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi5CNTZFOTNGQzZEODg1RUQx",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:57Z",
@@ -946,7 +826,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 119,
+                "position": 116,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "4WyAKWl_IKE"
@@ -959,7 +839,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "xiCvUoQwBMWYnahjIs27FhRYi74",
+            "etag": "X9l_jNRJsgp0USPRCccJ6r5j7F4",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi5ERkUyQTM0MzEwQjZCMTY5",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:57Z",
@@ -995,7 +875,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 120,
+                "position": 117,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "51hVU0_0N0o"
@@ -1008,7 +888,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "nFk1N3S5CDdkY3zfNx4Xy1twEwQ",
+            "etag": "FU--OyGHzaHKQwmAC4eALWV_EMc",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi5CNTcxMDQ0NThBNzMxODYz",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:57Z",
@@ -1044,7 +924,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 121,
+                "position": 118,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "10IF9TqJg8E"
@@ -1057,7 +937,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "2-X9bvF3nx0LGCA2AkdPFmMjleo",
+            "etag": "lO_7AHsW2s-as6Rbj4PpJpM-QUM",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi4xM0YyM0RDNDE4REQ1NDA0",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:57Z",
@@ -1093,7 +973,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 122,
+                "position": 119,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "nlVQuNcbuvE"
@@ -1106,7 +986,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "dpMfb7B5gn9XvZkKDnDm4UnPxLg",
+            "etag": "gBbsqRqW5zJjVXVA9bgVRUH55nY",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi41Mzk2QTAxMTkzNDk4MDhF",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:23Z",
@@ -1142,7 +1022,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 123,
+                "position": 120,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "lZ1kkxGNf_c"
@@ -1155,7 +1035,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "4Lyib8mS6g_nSgHRGIn6K4HF_Ew",
+            "etag": "bN2YLnjQZrbzACBUUl4h4Wx2BvA",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi42MjYzMTMyQjA0QURCN0JF",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:57Z",
@@ -1191,7 +1071,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 124,
+                "position": 121,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "ZPjHzeqDoa8"
@@ -1204,29 +1084,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "jkiITDP9smlsL2duBCU8y4o7SzU",
-            "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi5EQUE1NTFDRjcwMDg0NEMz",
-            "snippet": {
-                "publishedAt": "2018-08-16T08:45:23Z",
-                "channelId": "UCqDfu0gtB0aJCy4jIHL_6bQ",
-                "title": "Private video",
-                "description": "This video is private.",
-                "thumbnails": {},
-                "channelTitle": "Kênh TodayTV",
-                "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 125,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "6UEm204R2VU"
-                }
-            },
-            "contentDetails": {
-                "videoId": "6UEm204R2VU"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "nqocQnd83v20nrpbRq53SrHmg7M",
+            "etag": "mmoz_WycQEgjpk6kmQyQb-3jwZo",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi41QTY1Q0UxMTVCODczNThE",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:23Z",
@@ -1262,7 +1120,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 126,
+                "position": 122,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "ajtats6m_HA"
@@ -1275,7 +1133,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "P5ADaQg1OKI18FXkQjcYEFCrFzs",
+            "etag": "v6VbV4E3esZWpdltKjKIb37UMt0",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi45RTgxNDRBMzUwRjQ0MDhC",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:23Z",
@@ -1311,7 +1169,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 127,
+                "position": 123,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "5FDnUy0Mjck"
@@ -1324,7 +1182,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ghdf1HN1X6v4E1XCa5YSdem0vWQ",
+            "etag": "HbLEsLqGzL9ihtQRS8MnaXu-6qY",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi5ENDU4Q0M4RDExNzM1Mjcy",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:23Z",
@@ -1360,7 +1218,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 128,
+                "position": 124,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "4zHuY8B5lMA"
@@ -1373,7 +1231,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "GVUQQ8qaBug39amOVtGmj0hiFns",
+            "etag": "Ok-OYMglO8DFpPW2JYdMnw7fta8",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi4yMDhBMkNBNjRDMjQxQTg1",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:23Z",
@@ -1409,7 +1267,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 129,
+                "position": 125,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "RClLacXOtwc"
@@ -1422,7 +1280,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "fRQYw9eXp4zE3SH9V5TBKpgLpSo",
+            "etag": "RheDvHIRwEpKOvJW5bLwbqViKBE",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi5GM0Q3M0MzMzY5NTJFNTdE",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:23Z",
@@ -1458,7 +1316,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 130,
+                "position": 126,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "b0Dc0V8WU9g"
@@ -1471,29 +1329,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "PxApdPujXW1XJ4EMWccMiYbUqyI",
-            "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi4zRjM0MkVCRTg0MkYyQTM0",
-            "snippet": {
-                "publishedAt": "2018-08-16T08:45:23Z",
-                "channelId": "UCqDfu0gtB0aJCy4jIHL_6bQ",
-                "title": "Private video",
-                "description": "This video is private.",
-                "thumbnails": {},
-                "channelTitle": "Kênh TodayTV",
-                "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 131,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "nS6A0Tqg840"
-                }
-            },
-            "contentDetails": {
-                "videoId": "nS6A0Tqg840"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "2jJLx9DTObl8hL37MkxSXcpNqYY",
+            "etag": "MQy32F6vwpJs45YYFZ5IKEDTNdw",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi4yQUE2Q0JEMTk4NTM3RTZC",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:23Z",
@@ -1529,7 +1365,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 132,
+                "position": 127,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "GR3l_EKnANM"
@@ -1542,7 +1378,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Lp5cHQNsOfCs7tdo7D0dWHUWqWw",
+            "etag": "TyqeRr_xJ41yMqrYIXmdn35j86M",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi5DNzE1RjZEMUZCMjA0RDBB",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:23Z",
@@ -1578,7 +1414,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 133,
+                "position": 128,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "P1EsPte-Yx4"
@@ -1591,7 +1427,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "bhZ1_v6L5RDMe8wAYFqXBr1s7dg",
+            "etag": "NYJNEGoWdiHHxBYb3vWY4TZh0ls",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi5DMkU4NTY1QUFGQTYwMDE3",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:23Z",
@@ -1627,7 +1463,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 134,
+                "position": 129,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "11AxZVIUx28"
@@ -1640,7 +1476,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "6ojK6mVE7BpdfYB1QMC6iVHu8I0",
+            "etag": "aU1YnlLw6fS0bO7YZxtZHufW1Rg",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi43MTI1NDIwOTMwQjIxMzNG",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:23Z",
@@ -1676,7 +1512,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 135,
+                "position": 130,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "xLctGJszK0I"
@@ -1689,7 +1525,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "os-pbNL3oVse-rBXU67bXew2Oic",
+            "etag": "ODNNWJQBV7sEy5bhaqnxIxJGRUQ",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi5DQ0MyQ0Y4Mzg0M0VGOEYw",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:23Z",
@@ -1725,7 +1561,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 136,
+                "position": 131,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "cG1pyLVX0ws"
@@ -1738,7 +1574,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "uiX9ZLGWl0swRFf-gT3Lh27EwtM",
+            "etag": "hiHDHSeROsFd63Dq9RMjG6tVCgE",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi44Mjc5REFBRUE2MTdFRDU0",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:23Z",
@@ -1774,7 +1610,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 137,
+                "position": 132,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "PAwidAufv4s"
@@ -1787,7 +1623,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "zQlE-Jgq2YZNICkoKHvkg1YrMpw",
+            "etag": "uFAJREyYRekTmZ_yqC5GXatfX1Q",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi41QUZGQTY5OTE4QTREQUU4",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:23Z",
@@ -1823,7 +1659,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 138,
+                "position": 133,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Xliff24se5o"
@@ -1836,7 +1672,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "6spBE3R7rAQr7CJdRAe_cVMJmFA",
+            "etag": "9BXrXuqwQ2nDdPQMR35m97BdLiQ",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi4zRDBDOEZDOUM0MDY5NEEz",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:23Z",
@@ -1872,7 +1708,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 139,
+                "position": 134,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "E6NzvxzRKh0"
@@ -1885,29 +1721,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "jASUfucMkWu-EYYiii5hLumAD1M",
-            "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi5CMEQ2Mjk5NTc3NDZFRUNB",
-            "snippet": {
-                "publishedAt": "2018-08-16T08:45:23Z",
-                "channelId": "UCqDfu0gtB0aJCy4jIHL_6bQ",
-                "title": "Private video",
-                "description": "This video is private.",
-                "thumbnails": {},
-                "channelTitle": "Kênh TodayTV",
-                "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 140,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "3PzC_oh4Wtg"
-                }
-            },
-            "contentDetails": {
-                "videoId": "3PzC_oh4Wtg"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "s6Y7X23hyVztWSdr1vHLpHrX2WI",
+            "etag": "lSLf9EBgmY0gt4GWg-iArXt0JQc",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi42MTI4Njc2QjM1RjU1MjlG",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:23Z",
@@ -1943,7 +1757,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 141,
+                "position": 135,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "HiMSbWb5iFA"
@@ -1956,29 +1770,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "qp6ZVu2xrJdFklbYxcTrsheJ5Uk",
-            "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi45RjNFMDhGQ0Q2RkFCQTc1",
-            "snippet": {
-                "publishedAt": "2018-08-16T08:45:23Z",
-                "channelId": "UCqDfu0gtB0aJCy4jIHL_6bQ",
-                "title": "Private video",
-                "description": "This video is private.",
-                "thumbnails": {},
-                "channelTitle": "Kênh TodayTV",
-                "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 142,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "pewUxsZDIjI"
-                }
-            },
-            "contentDetails": {
-                "videoId": "pewUxsZDIjI"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "_K0CVirhxr67rpMNuRRbl0oBO8g",
+            "etag": "nYieEdpq40Fef_Q4NPMc6XrmxSQ",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi5BRjJDODk5REM0NjkzMUIy",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:23Z",
@@ -2014,7 +1806,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 143,
+                "position": 136,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "rpW2oy2DRJ0"
@@ -2027,7 +1819,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "gOl2YmXQprF181sppI0hqHIDpQs",
+            "etag": "WYeRZwtG-VNK28-Jk5U4MMsJqzM",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi4xOTEzQzhBQzU3MDNDNjcz",
             "snippet": {
                 "publishedAt": "2018-08-16T08:45:23Z",
@@ -2058,7 +1850,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 144,
+                "position": 137,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "3e7UeWAJGOo"
@@ -2071,7 +1863,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "d0ZhIRUnrxzeivq2hGQKg6RtNK8",
+            "etag": "0eB46MvbZRhoNXx2FzfZWkV0YlQ",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
                 "publishedAt": "2018-08-16T08:44:38Z",
@@ -2102,7 +1894,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 145,
+                "position": 138,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "cQzfZ888s6s"
@@ -2115,7 +1907,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "HWCpdAA3DtgKFnqmUyu1IkR3vBA",
+            "etag": "Ur2vXKj-s49ftrBZJqhBwkR3r3k",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
                 "publishedAt": "2018-08-16T08:44:38Z",
@@ -2146,7 +1938,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 146,
+                "position": 139,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "haP1k_1EDHU"
@@ -2159,7 +1951,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "iKy7O5PrXgy05mYOF-c5809AzjM",
+            "etag": "ce9Xc7hEfh70nw1OxX7iM5G8LjQ",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
                 "publishedAt": "2018-08-16T08:44:38Z",
@@ -2190,7 +1982,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 147,
+                "position": 140,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "F6cCLvrjVgY"
@@ -2203,29 +1995,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "K3H3IfBWKbaf-sDbIiedP8oqt3c",
-            "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi4wOTA3OTZBNzVEMTUzOTMy",
-            "snippet": {
-                "publishedAt": "2018-08-16T08:44:38Z",
-                "channelId": "UCqDfu0gtB0aJCy4jIHL_6bQ",
-                "title": "Private video",
-                "description": "This video is private.",
-                "thumbnails": {},
-                "channelTitle": "Kênh TodayTV",
-                "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 148,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "DSI1gyuXD9s"
-                }
-            },
-            "contentDetails": {
-                "videoId": "DSI1gyuXD9s"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "x7C0PSveaiVa1c7WSuZuHZtVEWg",
+            "etag": "ftrTt5OgGou4M5dUqMdI5s6Ec6U",
             "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi41MzJCQjBCNDIyRkJDN0VD",
             "snippet": {
                 "publishedAt": "2018-08-16T08:44:38Z",
@@ -2256,7 +2026,7 @@
                 },
                 "channelTitle": "Kênh TodayTV",
                 "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
-                "position": 149,
+                "position": 141,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "xfkGjTqMV8Q"
@@ -2265,6 +2035,275 @@
             "contentDetails": {
                 "videoId": "xfkGjTqMV8Q",
                 "videoPublishedAt": "2016-06-06T07:30:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-JgkOyrk4DGW9iQaGa-7EOfc0e0",
+            "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2018-08-16T08:44:38Z",
+                "channelId": "UCqDfu0gtB0aJCy4jIHL_6bQ",
+                "title": "[OST] Định mệnh | TodayTV",
+                "description": "Đăng ký theo dõi kênh TodayTV để cùng tận hưởng phút giây giải trí phim ảnh đặc sắc qua link: \nhttp://popsww.com/TodayTV\n\nTodayTV | Lắng nghe giai điệu nhẹ nhàng, trữ tình trong bộ phim Định Mệnh đang chiếu trên TodayTV.\n\n✦TodayTV có mặt trên các hệ thống Analog, AVG, VTC, HTVC, VTVcab, K+ và SCTV.\n✦ Website: http://todaytv.vn/  \n✦ Facebook: https://www.facebook.com/TodayTV/\n✦ Youtube: www.youtube.com/user/todaytvvietnam\n✦ Email: todaytv@imcorp.com.vn\n✦ Tel: (08) 3933 3688",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hl3MjPc4hFY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hl3MjPc4hFY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hl3MjPc4hFY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hl3MjPc4hFY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Kênh TodayTV",
+                "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
+                "position": 142,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hl3MjPc4hFY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "hl3MjPc4hFY",
+                "videoPublishedAt": "2016-05-25T03:39:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uzx5sd4roaq8DU6hYTerFm49aZo",
+            "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2018-08-16T08:44:38Z",
+                "channelId": "UCqDfu0gtB0aJCy4jIHL_6bQ",
+                "title": "Định mệnh - Tập 7 | TodayTV",
+                "description": "Đăng ký theo dõi kênh TodayTV để cùng tận hưởng phút giây giải trí phim ảnh đặc sắc qua link: \nhttp://popsww.com/TodayTV\n\nTodayTV | | Đón xem những tập tiếp theo của bộ phim Ấn Độ mang tên \"Định mệnh\" với những tình tiết hấp dẫn, đặc sắc phát sóng vào lúc 21h hàng ngày trên kênh TodayTV.\n\nKênh truyền hình tổng hợp các chương trình giải trí trong và ngoài nước, phim truyện Việt Nam, Châu Á và phim điện ảnh Hollywood, Gameshow, chương trình thiếu nhi…; phát sóng liên tục 24 tiếng mỗi ngày.\n✦TodayTV có mặt trên các hệ thống Analog, AVG, VTC, HTVC, VTVcab, K+ và SCTV.\n✦ Website: http://todaytv.vn/  \n✦ Facebook: https://www.facebook.com/TodayTV/\n✦ Youtube: www.youtube.com/user/todaytvvietnam\n✦ Email: todaytv@imcorp.com.vn\n✦ Tel: (08) 3933 3688",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/t9y6ZKMHSl8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/t9y6ZKMHSl8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/t9y6ZKMHSl8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/t9y6ZKMHSl8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/t9y6ZKMHSl8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Kênh TodayTV",
+                "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
+                "position": 143,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "t9y6ZKMHSl8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "t9y6ZKMHSl8",
+                "videoPublishedAt": "2016-05-24T10:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ihEoAo89DGbZrrD0vql5VFNzq38",
+            "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2018-08-16T08:44:38Z",
+                "channelId": "UCqDfu0gtB0aJCy4jIHL_6bQ",
+                "title": "Định mệnh - Tập 5 | TodayTV",
+                "description": "Đăng ký theo dõi kênh TodayTV để cùng tận hưởng phút giây giải trí phim ảnh đặc sắc qua link: \nhttp://popsww.com/TodayTV\n\nTodayTV | | Đón xem  những tập tiếp theo của bộ phim Ấn Độ mang tên \"Định mệnh\" với những tình tiết hấp dẫn, đặc sắc phát sóng vào  21h hàng ngày trên kênh TodayTV.\n\nKênh truyền hình tổng hợp các chương trình giải trí trong và ngoài nước, phim truyện Việt Nam, Châu Á và phim điện ảnh Hollywood, Gameshow, chương trình thiếu nhi…; phát sóng liên tục 24 tiếng mỗi ngày.\n✦TodayTV có mặt trên các hệ thống Analog, AVG, VTC, HTVC, VTVcab, K+ và SCTV.\n✦ Website: http://todaytv.vn/  \n✦ Facebook: https://www.facebook.com/TodayTV/\n✦ Youtube: www.youtube.com/user/todaytvvietnam\n✦ Email: todaytv@imcorp.com.vn\n✦ Tel: (08) 3933 3688",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/t70lzHjVuQ4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/t70lzHjVuQ4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/t70lzHjVuQ4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/t70lzHjVuQ4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Kênh TodayTV",
+                "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
+                "position": 144,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "t70lzHjVuQ4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "t70lzHjVuQ4",
+                "videoPublishedAt": "2016-05-24T10:07:57Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "V6Vp6hcGEMTJ72uuZsYywZKNBrI",
+            "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2018-08-16T08:44:38Z",
+                "channelId": "UCqDfu0gtB0aJCy4jIHL_6bQ",
+                "title": "“Xem siêu phẩm: Trúng quà siêu khủng” | TodayTV",
+                "description": "Đăng ký theo dõi kênh TodayTV để cùng tận hưởng phút giây giải trí phim ảnh đặc sắc qua link: \nhttp://popsww.com/TodayTV\n\nTodayTV | Đón xem các bộ phim giờ vàng để nhận quà khủng từ Today TV. \n\nTodayTV - Kênh truyền hình tổng hợp các chương trình giải trí trong và ngoài nước, phim truyện Việt Nam, Châu Á và phim điện ảnh Hollywood, Gameshow, chương trình thiếu nhi…; phát sóng liên tục 24 tiếng mỗi ngày.\n\n✦TodayTV có mặt trên các hệ thống Analog, AVG, VTC, HTVC, VTVcab, K+ và SCTV.\n\n✦ Website: http://todaytv.vn/  \n✦ Facebook: https://www.facebook.com/TodayTV/\n✦ Youtube: www.youtube.com/user/todaytvvietnam\n✦ Email: todaytv@imcorp.com.vn\n✦ Tel: (08) 3933 3688",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cT1iZtXk0aw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cT1iZtXk0aw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cT1iZtXk0aw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cT1iZtXk0aw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Kênh TodayTV",
+                "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
+                "position": 145,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "cT1iZtXk0aw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "cT1iZtXk0aw",
+                "videoPublishedAt": "2016-05-20T07:43:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "aTQCtMGhzStpBQ6LA-0KnarcIx4",
+            "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi4wMDkwRkI3NzExODA2MTFG",
+            "snippet": {
+                "publishedAt": "2018-08-16T08:47:57Z",
+                "channelId": "UCqDfu0gtB0aJCy4jIHL_6bQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Kênh TodayTV",
+                "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
+                "position": 146,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-Pk6KQE6BpU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "-Pk6KQE6BpU"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7ySnQIp3wskVHzL_ksIdTA2s00o",
+            "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi44MkM2RjVEQkQ5N0I2MjVE",
+            "snippet": {
+                "publishedAt": "2018-08-16T08:46:37Z",
+                "channelId": "UCqDfu0gtB0aJCy4jIHL_6bQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Kênh TodayTV",
+                "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
+                "position": 147,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Hc6kJIluCG0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Hc6kJIluCG0"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "m3hup4qxsgZ_vUA6ylr6TpBUybc",
+            "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi4wNEU1MTI4NkZEMzVBN0JF",
+            "snippet": {
+                "publishedAt": "2018-08-16T08:45:57Z",
+                "channelId": "UCqDfu0gtB0aJCy4jIHL_6bQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Kênh TodayTV",
+                "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
+                "position": 148,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1vg112neaoc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "1vg112neaoc"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QoqXvPrG_v6myEHfpbGzaHAw2lk",
+            "id": "UExNcUx3S3pzWDdFNUNrbHlKQ0E5dEd6TjlNc000TVRQQi5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2018-08-16T08:45:23Z",
+                "channelId": "UCqDfu0gtB0aJCy4jIHL_6bQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Kênh TodayTV",
+                "playlistId": "PLMqLwKzsX7E5CklyJCA9tGzN9MsM4MTPB",
+                "position": 149,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6UEm204R2VU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "6UEm204R2VU"
             }
         }
     ],

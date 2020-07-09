@@ -1,0 +1,55 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "-JOw93juaF0xR5VQx3OgJZ61Ico",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yOwdYWRC8SsU6GwKcyu1hm0YTn4",
+            "id": "UEwzUGVFYWJSWnRNMXdJNTU0VDFnTkc0a1FaYUVwUmlUVS4wNEU1MTI4NkZEMzVBN0JF",
+            "snippet": {
+                "publishedAt": "2017-12-12T03:27:18Z",
+                "channelId": "UCUniG9ALfMbjOn7v11Mptng",
+                "title": "Nhạc Đam Mỹ # Thế Giới Mất Đi Một Người # 4K Official",
+                "description": "Hải Đông Media , kênh dành cho tất cả các bạn Hủ Nam và Hủ Nữ.\n\nKính mời các bạn đồng hủ, đồng dâm, đồng giới...... \n\nXem video trước : \n\nXem tất cả video của HDM : https://www.youtube.com/user/vovanbien2/videos\n\nĐăng ký kênh : https://www.youtube.com/channel/UCMOtgqPgTarhvUnxf4JbJOQ\n\nCám ơn tất các bạn đã like và share giúp kênh của chúng ta được phổ biến. Thank you",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r3TiNOjtCoc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r3TiNOjtCoc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r3TiNOjtCoc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/r3TiNOjtCoc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Pham Tam",
+                "playlistId": "PL3PeEabRZtM1wI554T1gNG4kQZaEpRiTU",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "r3TiNOjtCoc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "r3TiNOjtCoc",
+                "videoPublishedAt": "2017-11-19T10:48:10Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 51,
+        "resultsPerPage": 50
+    }
+}

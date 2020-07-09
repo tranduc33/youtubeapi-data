@@ -1,0 +1,99 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "UaaLlIvzOloMecL9GcId7nhxMys",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "WkCOv-b32_VY74f7fCRzbwXdx78",
+            "id": "UExxMDhFM3hucTJaX29qRWFfelM1S3JHc2FqVEVoQTZ5ci44QzVGQUU2QjE2NDgxM0M4",
+            "snippet": {
+                "publishedAt": "2020-07-09T08:00:20Z",
+                "channelId": "UCPmq7Bwis3qaAFuHkuaol4A",
+                "title": "DUH MOJE DJEVOJKE - dominikanski film sa prevodom",
+                "description": "\"La fantasma de mi novia\" je komedija za razbibrigu, sa elementima fantazije, a u kojoj glumi jedan od najpoznatijih glumaca \"španskih\" sapunica, kubski glumac William Levy. Svako ko je volio gledati nekadašnje popularne sapunjare, ne može a da ne zna ovog glumca. Ovo je film upravo za one koji se vole, kao ja, podsjetiti na tu meksičku patetiku i dramu, a ima nas, vjerujem. \n\nMnogi španski filmovi sa ovog kanala premješteni su na moj drugi kanal:\nhttps://www.youtube.com/channel/UCHIkSxtqFBtvppCyoMneMKw?\nTako da će od sada biti dva kanala za filmove, jedan sa filmovima sa licencama, drugi bez. \n\nOriginal movie translated by @MensyD  from spanish to bosnian language.\n\n#filmovisaprevodom #komedija #romansa",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cfAaawjOEdQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cfAaawjOEdQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cfAaawjOEdQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cfAaawjOEdQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cfAaawjOEdQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "emma hammond",
+                "playlistId": "PLq08E3xnq2Z_ojEa_zS5KrGsajTEhA6yr",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "cfAaawjOEdQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "cfAaawjOEdQ",
+                "videoPublishedAt": "2020-06-09T14:12:54Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mIY77h0v0cxnF00WqynZ-Y6Hlu4",
+            "id": "UExxMDhFM3hucTJaX29qRWFfelM1S3JHc2FqVEVoQTZ5ci4xMzgwMzBERjQ4NjEzNUE5",
+            "snippet": {
+                "publishedAt": "2020-07-09T08:00:20Z",
+                "channelId": "UCPmq7Bwis3qaAFuHkuaol4A",
+                "title": "CAŁY FILM HORROR LEKTOR PL WOLF CREEK DOBIJAMY DO 3 tys SUBÓW",
+                "description": "Podczas wyprawy bezdrożami Australii do największego krateru grupie przyjaciół odmawia posłuszeństwa samochód. Bezsilni cieszą się na widok mężczyzny oferującego pomoc",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7F7cn9Lyklc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7F7cn9Lyklc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7F7cn9Lyklc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "emma hammond",
+                "playlistId": "PLq08E3xnq2Z_ojEa_zS5KrGsajTEhA6yr",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7F7cn9Lyklc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "7F7cn9Lyklc",
+                "videoPublishedAt": "2020-07-07T09:33:51Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 52,
+        "resultsPerPage": 50
+    }
+}

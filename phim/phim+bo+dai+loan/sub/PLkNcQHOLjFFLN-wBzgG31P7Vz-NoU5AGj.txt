@@ -1,13 +1,1514 @@
 {
-    "error": {
-        "code": 403,
-        "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-        "errors": [
-            {
-                "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-                "domain": "youtube.quota",
-                "reason": "quotaExceeded"
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "NPEcoexhPJBKPSbVLw9re5pvoc0",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ckqJtCPl_9S5lcimPpjuDYB5Waw",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:49:47Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Phim Bộ Hay 2020",
+                "description": "Phim Bộ Hay 2020",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hzqrc3nmBoM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hzqrc3nmBoM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hzqrc3nmBoM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hzqrc3nmBoM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hzqrc3nmBoM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hzqrc3nmBoM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "hzqrc3nmBoM",
+                "videoPublishedAt": "2020-05-17T04:57:10Z"
             }
-        ]
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-FM1M9izFQ3WpHu7EUuqUwrGfDA",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:02Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Phi Tần Nghiện Thị Tẩm Sủng Ái Của Hoàng Thượng Quên Cả Lối Về  | Phim Cổ Trang Mới Nhất 2020",
+                "description": "-- Khi nhà nhà người người muốn được hoàng thượng sủng ái để lên thành dương quý phi thì Kim Manh lại ngược đời với mọi người cô lại lên kế hoạch tránh Sủng để không liên quan gì nhưng trên đời còn né nó lại càng tới.\n#phim #cotrang #kimmanh #phimhay #phimbotrungquoc\n------------------------------------------------------------------------------------------------\n* Đăng Kí Kênh Oh ! Phim Hay nhé : http://bit.ly/ohphimhay\n* Xem Thêm Phim Hay :http://bit.ly/335m3eL\n-Phim Cổ Trang 2020: https://bit.ly/3bwytQ1\n-Phim Tình Cảm 2020: https://bit.ly/3bu9UD5\n------------------------------------------------------------------------------------------------\nOh ! Phim Hay là kênh giải trí tổng hợp, chuyên trình phát các bộ phim hay nhất, mới nhất, được tuyển chọn \nChúc các bạn có giây phút thư giãn ! \nNhớ đăng kí , bình luận và nhấn chuông nhận thông báo từ Oh ! Phim Hay nhé !\nBản Quyền Thuộc Rose Media Việt Nam  ! Mọi thắc mắc xin vui lòng liên hệ email !",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WzGWh9cqxMI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WzGWh9cqxMI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WzGWh9cqxMI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WzGWh9cqxMI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WzGWh9cqxMI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WzGWh9cqxMI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "WzGWh9cqxMI",
+                "videoPublishedAt": "2020-05-06T11:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "D-vzE-n6eMV4oEM7QPH-zIM8B7w",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Tình Yêu Giấu Kín - Tập 1 | Phim Ngôn Tình Trung Quốc Hay Nhất 2020 - Thuyết Minh",
+                "description": "Tình Yêu Giấu Kín - Tập 1 | Phim Ngôn Tình Trung Quốc Hay Nhất 2020 - Thuyết Minh\nTình Yêu Giấu Kín Full Bộ :https://goo.gl/V2AE2z\nĐược chuyển thể từ truyện ngôn tình Ôm em đi, Diệp Tư Viễn! của Hàm Yên, nội dung nói về một chàng trai thầm yêu người con gái của mình tuy nhiên lại không thể nào nói lên 3 từ anh yêu em cho thật ý nghĩa , cô có thể cảm thấy được tình yêu anh giành cho mình, cô cũng yêu anh tuy nhiên sao anh lại không thể mở lời được với cô, cô đã chờ đợi từ rất lâu những câu nói ấy.\nMị giả Vô Cương Full Bộ :https://goo.gl/oPo3dW\nĐăng Ký Kênh CachiCachi VN Xem Phim Mới Nhất : https://goo.gl/VfPiBm\n#CachiCachiVN #ĐăngKýKênhXemNgay\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DUvI3JXkqOI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DUvI3JXkqOI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DUvI3JXkqOI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DUvI3JXkqOI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DUvI3JXkqOI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DUvI3JXkqOI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "DUvI3JXkqOI",
+                "videoPublishedAt": "2019-01-16T03:18:50Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vZJAF_6r4P3Tdr2DPoKL3B2eeUQ",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Phim Tình Yêu Lãng Mạn Ngọt Ngào | Đẹp Trai Là Số Một - Tập 01 ( Thuyết Minh )",
+                "description": "➤ Xem Thêm Nhiều Phim Hay: https://bit.ly/2SWFvql\n➤ Trọn Bộ Đẹp Trai Là Số Một Thuyết Minh: https://bit.ly/2LmGuvC\n➤ Download app Mango tại: http://bit.ly/2XG1OUZ  \n\n✤ Đạo diễn: Thái Thông\n✤ Diễn viên: Trương Dư Hi, Đinh Vũ Hề\n✤ Đẹp Trai Là Số Một xoay quanh cô nàng xinh đẹp, năng động và cực kỳ mê trai Tô Căng Bắc, cùng câu chuyện tình yêu ngọt ngào, lãng mạn với bác sĩ Chu Thời Uẩn.Trước khi bước chân vào showbiz và vươn lên thành diễn viên hàng đầu tại thị trường hoa ngữ, Căng Bắc chính là con gái cưng của gia tộc lẫy lừng ở phương nam. Tuy nhiên, trong thời gian xây dựng sự nghiệp, không ai biết rõ thân thế thật của nàng tiểu thư nhà họ Tô, tất cả chỉ biết đến cô là một nghệ sĩ với niềm đam mê bất tận cùng tác phong làm việc chuyên nghiệp. Trong một lần gặp tai nạn giao thông, cô phải nằm viện 2 tháng và được bác sĩ Thời Uẩn chữa trị. Từ đây, định mệnh sắp đặt cho họ được bên nhau\n\n© Bản quyền thuộc về : MGTV VietNam\n© Copyright by MGTV VietNam  ☞ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xCncIhQ6JoQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xCncIhQ6JoQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xCncIhQ6JoQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xCncIhQ6JoQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xCncIhQ6JoQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xCncIhQ6JoQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "xCncIhQ6JoQ",
+                "videoPublishedAt": "2020-05-12T13:23:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "NeiftFqrJxGr4dDYymWgKMteQZU",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Phim Bộ Tình Cảm Đài Loan Mới Hay Nhất 2020 ( Thuyết Minh ) - TÌNH YÊU LÀ GÌ - Tập 1",
+                "description": "Phim Bộ Tình Cảm Đài Loan Mới Hay Nhất 2020 ( Thuyết Minh ) - TÌNH YÊU LÀ GÌ - Tập 1\nXem TRỌN BỘ chân ái \" TÌNH YÊU LÀ GÌ \" tại đây : http://bit.ly/TINH-YEU-LA-GI-TRON-BO\nĐĂNG KÍ Theo Dõi \" Li1 Movies \" để nhận được những bộ phim mới nhất: http://bit.ly/2SYsCLa\n\nPhim \"TÌNH YÊU LÀ GÌ\" là một trong những Bộ Phim Tình Cảm TVB Đài Loan hay nhất , mới nhất 2019 mà các ngôi sao của màn ảnh của Đài Loan thủ vai chính. Bộ phim đã đạt được những thành công rực rỡ trong làng phim Lịch Sử tại đất nước Trung Quốc, Đài Loan và toàn quốc tế,  \" Li1 Movies \" rất hân hạnh mang lại bộ phim \" TÌNH YÊU LÀ GÌ \"  bản Thuyết Minh Lồng Tiếng đến với các những khán giả nhiệt thành của Việt Nam. Chúc các bạn xem phim vui vẻ. Thân ái!\n\nTÓM TẮT PHIM \" TÌNH YÊU LÀ GÌ \" :\nPhim là Bộ Phim tình cảm chân ái giữa cặp đôi Đài Loan , gặp biết bao nhiêu trắc trở về cuộc sống, gia đình, tình tay ba,...họ tìm cách vượt qua cám dỗ để đến được với nhau để cùng nhau đi đến hết cuộc đời.Tình yêu, tình cảm thật của đôi lứa càng được chứng minh khi vượt qua những cạm bẫy trong cuộc sống, áp lực gia đình..\n\n#PhimĐàiLoan\n#PhimBộTìnhCảmĐàiLoanMớiHayNhất2020\n#PhimTìnhCảmTâmLýXãHội\n\n© Bản quyền thuộc về Li1 Movies \n© Copyright by Li1 Movies   ❌ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_u1nYqqsq9s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_u1nYqqsq9s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_u1nYqqsq9s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_u1nYqqsq9s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_u1nYqqsq9s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_u1nYqqsq9s"
+                }
+            },
+            "contentDetails": {
+                "videoId": "_u1nYqqsq9s",
+                "videoPublishedAt": "2020-03-01T11:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2gjT6FUMdyeqdfLdA-B7KPpaD7o",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Ngã Rẽ Tình Yêu - Tập 1 | Phim Bộ Tình Cảm Trung Quốc Hay Nhất - Thuyết Minh",
+                "description": "Ngã Rẽ Tình Yêu - Tập 1 | Phim Bộ Tình Cảm Trung Quốc Hay Nhất - Thuyết Minh \nNgã Rẽ Tình Yêu Full Bộ : https://bit.ly/2CvE2OW\nPhim Hài Việt Nam Chiếu Rạp : https://goo.gl/f5LDo5\nphim hành động 2019 :https://goo.gl/f5LDo5\nphim kiếm hiệp mới nhất 2019 : https://goo.gl/pG2tqD\n►Phim Việt Nam Chiếu Rạp 2018 :https://goo.gl/R7Whs5\n►►Đăng Ký Phim Hay Việt Nam : https://goo.gl/f5LDo5\n►►► Like Page để không bỏ lỡ bộ phim HOT nào: https://www.facebook.com/PhimHayPage\nHỏi Đáp: https://www.facebook.com/tienccnp\nBản quyền thuộc BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ghx9C8vjz-w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ghx9C8vjz-w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ghx9C8vjz-w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ghx9C8vjz-w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ghx9C8vjz-w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Ghx9C8vjz-w"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Ghx9C8vjz-w",
+                "videoPublishedAt": "2019-11-14T03:27:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3bprF1m0MBrKW6xd0eb9Dw_F1Zc",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Sóng Gió Tình Đời - Tập 1 | Phim Bộ Tình Cảm Trung Quốc Hay Nhất - Thuyết Minh",
+                "description": "Sóng Gió Tình Đời - Tập 1 | Phim Bộ Tình Cảm Trung Quốc Hay Nhất - Thuyết Minh \nSóng Gió Tình Đời Full Bộ: https://bit.ly/2rIV4XW\nPhim Việt Nam Chiếu Rạp 2019: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_mKOEvi8aMU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_mKOEvi8aMU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_mKOEvi8aMU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_mKOEvi8aMU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_mKOEvi8aMU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_mKOEvi8aMU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "_mKOEvi8aMU",
+                "videoPublishedAt": "2019-11-15T11:30:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0Eq3sNE9QdNl7TM1Nc6hhYIVif0",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Hoa Thủy Tinh - Tập 1 | Phim Bộ Tình Cảm Trung Quốc Hay Nhất - Thuyết Minh",
+                "description": "Hoa Thủy Tinh - Tập 1 | Phim Bộ Tình Cảm Trung Quốc Hay Nhất - Thuyết Minh\nHoa Thủy Tinh Full Bộ : https://bit.ly/2Xi2X2f\nNgã Rẽ Tình Yêu Full Bộ : https://bit.ly/2CvE2OW\nPhim Hài Việt Nam Chiếu Rạp : https://goo.gl/f5LDo5\nphim hành động 2019 :https://goo.gl/f5LDo5\nphim kiếm hiệp mới nhất 2019 : https://goo.gl/pG2tqD\n►Phim Việt Nam Chiếu Rạp 2018 :https://goo.gl/R7Whs5\n►►Đăng Ký Phim Hay Việt Nam : https://goo.gl/f5LDo5\n►►► Like Page để không bỏ lỡ bộ phim HOT nào: https://www.facebook.com/PhimHayPage\nHỏi Đáp: https://www.facebook.com/tienccnp\nBản quyền thuộc BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/miDRNDDymJo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/miDRNDDymJo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/miDRNDDymJo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/miDRNDDymJo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/miDRNDDymJo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "miDRNDDymJo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "miDRNDDymJo",
+                "videoPublishedAt": "2019-11-16T13:22:51Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vJevaj2TAceTxhMeYcKDfznuU2A",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Hợp Đồng Hôn Nhân - Tập 1 | Phim Tình Cảm Trung Quốc Hay Nhất 2019 | Phim Hay Thuyết Minh",
+                "description": "Hợp Đồng Hôn Nhân - Tập 1 | Phim Tình Cảm Trung Quốc Hay Nhất 2019 | Phim Hay Thuyết Minh\n*Các bạn xem thêm:\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đè Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1FnzSnMjTR8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1FnzSnMjTR8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1FnzSnMjTR8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1FnzSnMjTR8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1FnzSnMjTR8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1FnzSnMjTR8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "1FnzSnMjTR8",
+                "videoPublishedAt": "2019-09-04T09:29:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rX5LQ0AEZ_tlzNTFzoCeA08eypc",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "boHHSoMxZVI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "boHHSoMxZVI"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "n_-yqZPd38nC-GjtPMjCQNKIplI",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Phim Bộ Tình Cảm Trung Trung Quốc Mới Hay Nhất 2020 - CHUYỆN TÌNH ONLINE - Tập 20",
+                "description": "Phim Bộ Tình Cảm Trung Trung Quốc Mới Hay Nhất 2020 Thuyết Minh-CHUYỆN TÌNH ONLINE-Tập 20\nXem Trọn Bộ \" CHUYỆN TÌNH ONLINE tại đây : https://bit.ly/CHUYEN-TINH\nĐĂNG KÍ Theo Dõi \" YOPHIM \" để nhận được những bộ phim mới nhất: https://bit.ly/YOPHIM\nFanpage YoPhim : https://www.facebook.com/yophim/\n\n\" Chuyện Tình Online \"  là một trong những bộ phim tình cảm trung quốc hay nhất, thành công nhất 2020 mà các ngôi sao của màn ảnh của Trung Quốc là Dương Dương, Trịnh Sảng đã mang đến khán giả Trung Quốc . Bộ phim đã đạt được những thành công rực rỡ trong làng phim bộ tình cảm và phim thần tượng tại đất nước Trung Quốc và toàn quốc tế,  \" YOPHIM \" rất hân hạnh mang lại bộ phim \"Chuyện Tình Online \" bản Thuyết Minh Lồng Tiếng đến với các những khán giả nhiệt thành của Việt Nam. Chúc các bạn xem phim vui vẻ. Thân ái!\n\nCác diễn viên chính : \n                                     Dương Dương\n                                     Trịnh Sảng\n                                     Bạch Vũ\n                                     Ngưu Tuấn Phong\n                                     Mao Hiểu Đồng \n                                     Tống Hân Giai Di\n                                      Trịnh Nghiệp Thành\n                                      ...Cùng các diễn viên khác\n\nTÓM TẮT NỘI DUNG PHIM \"Chuyện Tình Online \" :\n\nBộ phim được chuyển thể từ tiểu thuyết tình cảm của một nhà văn trung quốc , với hai hình tượng nhân vật chính là  một cô gái  xinh đẹp và chàng trai dễ thương -  hai sinh viên vì có cùng đam mê trò chơi game online nên đã quen biết nhau. Nữ sinh xinh đẹp có ước mơ trở thành người lập trình game , và cô là một cao thủ về game online. Do không up hình ảnh thật của mình  khi chơi game nên bị một người chơi khác trong game từ chối một cách thẳng thừng khi muốn kết đôi trong game online . Để chiến thắng cuộc thi liên đấu do hiệp lữ khiêu chiến, nàng đã đồng ý liên minh với Đại Hiệp cùng tham gia cuộc thi đấu game online. Hai người cùng xông pha chốn giang hồ nhưng điều mà nàng không hề nghĩ tới là người vào sinh ra tử với mình trên chiến trường trò chơi game online lại chính là anh chàng nổi tiếng trong trường. Và anh chàng đã đứng sau trò chơi này và tất cả diễn biến trong trò chơi đều được anh ấy điều khiển, và tất cả câu chuyện sẽ còn bất ngờ phía sau . Hy vọng các bạn sẽ thích chuyện tình online của cặp đôi ngôn tình Dương Dương Và Trịnh Sảng này . \n\n#PhimBộHay2020ThuyếtMinh\n#PhimTìnhCảmTrungQuốcHayNhất2020\n#PhimTrungQuốcTìnhCảmThuyếtMinhMớiNhất2020\n\n© Bản quyền thuộc về YoPhim\n© Copyright by YoPhim  ❌ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OqTwp0V7FSM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OqTwp0V7FSM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OqTwp0V7FSM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OqTwp0V7FSM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OqTwp0V7FSM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OqTwp0V7FSM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "OqTwp0V7FSM",
+                "videoPublishedAt": "2020-05-17T03:30:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "geFzw8lSoHY1sBL-Q-Pjpe6v70A",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Tình Yêu Tuyệt Vời - Tập 1 | Phim Bộ Tình Cảm Trung Quốc Mới Hay Nhất 2020",
+                "description": "Tình Yêu Tuyệt Vời - Tập 1 | Phim Bộ Tình Cảm Trung Quốc Mới Hay Nhất 2020 \nTình Yêu Tuyệt Vời Full Bộ :https://bit.ly/2V9lFJR\nPhim Hay 2020 Mới Nhất : https://goo.gl/8cGvY9\nPhim Việt Nam Chiếu Rạp 2020: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Nggf1uE_feE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Nggf1uE_feE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Nggf1uE_feE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Nggf1uE_feE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Nggf1uE_feE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Nggf1uE_feE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Nggf1uE_feE",
+                "videoPublishedAt": "2020-04-17T03:02:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "YWI0eh_VWxs51YPzJLoBUswRN3I",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Phim Bộ Tình Cảm Tâm Lý Đài Loan Mới Hay Nhất 2020 (Thuyết Minh ) - HOA VƯƠN GIỮA TRỜI - TẬP 1",
+                "description": "Phim Bộ Tình Cảm Tâm Lý Đài Loan Mới Hay Nhất 2020 (Thuyết Minh ) - HOA VƯƠN GIỮA TRỜI - TẬP 1\nTheo dõi Trọn Bộ \"  HOA VƯƠN GIỮA TRỜI \" :  https://bit.ly/HOA-VUON\nĐăng Kí Theo Dõi \" Li1 Movies \" để nhận được những bộ phim mới nhất: http://bit.ly/2SYsCLa\n\nPhim \"HOA VƯƠN GIỮA TRỜI \" là một trong những Bộ Tình Cảm , Tâm Lý Đài Loan, TVB Trung Quốc hay nhất , mới nhất 2020 mà các ngôi sao của màn ảnh của Hoa Ngữ Trung Quốc mang đến quý khán giả Trung Quốc , Việt Nam và toàn Châu Á. Bộ phim đã đạt được những thành công rực rỡ trong làng phim tình cảm, tâm lý  tại Đài Loan, Trung Quốc , TVB và toàn quốc tế,  \" Li1 Movies  \" rất hân hạnh mang lại bộ phim \" Hoa Vươn Giữa Trời \"  bản Thuyết Minh Lồng Tiếng đến với các những khán giả nhiệt thành của Việt Nam. Chúc các bạn xem phim vui vẻ. Chào Thân ái!\n\nTóm Tắt Nội Dung Phim :\n\nTrước những năm 1980, Đài Loan bắt đầu xây dựng  khoảng 10 công trình kiến trúc trong lúc nền kinh tế bắt đầu cất cánh. Trong thời kỳ hỗn loạn này, Đài Loan chứng kiến bao sự thay đổi sâu sắc khi nền kinh tế chuyển từ nông nghiệp lên giai đoạn phát triển công nghiệp sau biến đổi chính trị với Trung Quốc. Cũng trong thời kì này, mối quan hệ ngoại giao giữa Trung Quốc và Mỹ được cải thiện đáng kể, quân đội Mỹ rút hết quân về nước, Đài Loan dần trở thành một đất nước hòa bình, an cư. Nhưng đặc biệt, bộ phim “ Hoa Vươn Giữa Trời  ” đã khắc họa hình ảnh chân thực của người dân của vùng đất này với những công việc nặng máu, mồ hôi, sự nóng bức và ánh sáng hội nhập.\nNhân vật chính trong bộ phim là là một cô gái nhỏ bé , dù được sinh ra trong khoảng thời Đài Loan đi vào ổn định nhưng số phận của cô lại gặp phải những trắc trở không ngờ. Được phát hiện trong một căn nhà bị bỏ hoang, cô bị mọi người xem là cô gái ba không: Không xinh đẹp, không gia đình và không có tiền bạc.\nNhan đề bộ phim “ Hoa Vươn Giữa Trời ”, là lời động viên cũng như mong muốn từ những người thực hiện. Khi theo dõi bộ phim này, khán giả sẽ thấy hình ảnh của chính mình bên trong nhân vật, để rồi dù gặp phải những khó khăn vẫn luôn đủ lạc quan, đủ khả năng mà tự mình đứng dậy. \" Hoa Vươn Giữa Trời \" xứng đáng là một những bộ phim tình cảm , tâm lý mà Đài Loan , TVB Trung Quốc hợp tác sản xuất hay nhất cùa thập kỉ 2020.\n\n\n#phimbộtìnhcảmtâmlýxãhội\n\n© Bản quyền thuộc về Li1 Movies \n© Copyright by Li1 Movies   ❌ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2V9waYdcARM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2V9waYdcARM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2V9waYdcARM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2V9waYdcARM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2V9waYdcARM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2V9waYdcARM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "2V9waYdcARM",
+                "videoPublishedAt": "2020-05-16T11:45:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "XtjFz20Kfl8twrAzeGw5Sg6HbvQ",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Tuyệt Phẩm Phim Ngôn Tình Trung Quốc 2020 | Xin Em, Hãy Yêu Anh - Tập 01 ( THUYẾT MINH)",
+                "description": "➤ Xem Thêm Nhiều Phim Hay : https://bit.ly/2SWFvql\n➤ Trọn Bộ Xin Em Hãy Yêu Anh Thuyết Minh : https://bit.ly/37C6jkD\n➤ Download app Mango tại: http://bit.ly/2XG1OUZ  \n\n✤ Đạo diễn: Trần Gia Lâm\n✤ Diễn viên: Hứa Hiểu Nặc,Trương Vũ Kiếm, Cao Hãn Vũ\n✤XIN EM HÃY YÊU ANH là bộ phim xoay quanh ngôi sao Dịch Hàm trong một lần xui xẻo đụng độ cô nàng Bối Ưu Ưu, người suốt ngày mơ mộng kiếm tiền mua nhà. Một lần tình cờ, hai người bị giới báo chí hiểu lầm tung scandal khiến cả hai phải bất đắc dĩ tiến đến hôn nhân hợp đồng, từ hai thái cực nước sông không phạm nước giếng, tình cảm giữa chàng và nàng dần nảy sinh và tiến triển.\n\n© Bản quyền thuộc về : MGTV VietNam\n© Copyright by MGTV VietNam  ☞ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hvoYoVwJ9vY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hvoYoVwJ9vY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hvoYoVwJ9vY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hvoYoVwJ9vY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hvoYoVwJ9vY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hvoYoVwJ9vY"
+                }
+            },
+            "contentDetails": {
+                "videoId": "hvoYoVwJ9vY",
+                "videoPublishedAt": "2020-01-07T04:23:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mJGiJHb3zy1J-VhjzmEdTiTzKfs",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Số Phận Nghiệt Ngã - Tập 1 | Phim Bộ Tình Cảm Trung Quốc Mới Hay Nhất - Thuyết Minh",
+                "description": "Số Phận Nghiệt Ngã - Tập 1 | Phim Bộ Tình Cảm Trung Quốc Mới Hay Nhất - Thuyết Minh\nSố Phận Nghiệt Ngã Full Bộ :https://goo.gl/TSVRYm\nMột cô bé cơ nhỡ xấu số tên Tiểu Hoa từ xứ khác lưu lạc đến làng Thước Dược, được ông cụ Bảo Trụ nhận nuôi.Việc nhận nuôi dưỡng Tiểu Hoa làm cô con dâu của cụ tên Hương Thảo ganh ghét, bởi Hương bị vô sinh. Hương Thảo tìm đủ mọi cách để lừa Tiểu Hoa đi khỏi , rốt cuộc vẫn không đạt được ý muốn. Cụ Bảo Trụ không thể chấp nhận việc làm của Hương Thảo, cụ dẫn Tiểu Hoa bỏ nhà ra đi. Tiểu Hoa không để ý đến những nỗi đau do chú thím gây ra cho mình, ngược lại còn mở rộng tấm lòng để đón nhận họ. Lòng độ lượng và bao dung của Tiểu Hoa đã làm cảm động vợ chồng Hương Thảo, rốt cuộc họ đã rơi những giọt lệ sám hối. Cuối cùng cụ Bảo Trụ và Tiểu Hoa đã được đón về nhà. Tiểu Hoa dựa vào lòng của Hương Thảo và gọi tiếng mẹ đầu tiên trong đời. 14 năm sau, Tiểu Hoa tốt nghiệp đại học, trở về Làng Sơn, làm cô giáo trong trường làng...\n\nphim hành động mới nhất : https://goo.gl/pG2tqD\n►Phim Việt Nam Chiếu Rạp 2018 :https://goo.gl/R7Whs5\n►►Đăng Ký Phim Hay Việt Nam : https://goo.gl/f5LDo5\n►►► Like Page để không bỏ lỡ bộ phim HOT nào: https://www.facebook.com/PhimHayPage\nHỏi Đáp: https://www.facebook.com/tienccnp\nBản quyền thuộc BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XBB3isTb15U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XBB3isTb15U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XBB3isTb15U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XBB3isTb15U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XBB3isTb15U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XBB3isTb15U"
+                }
+            },
+            "contentDetails": {
+                "videoId": "XBB3isTb15U",
+                "videoPublishedAt": "2018-11-21T08:32:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9D9uCmnxBbnnhWb3oJqnFHg_iw0",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Phim Bộ Mới Tình Cảm Hài Hước TVB Đài Loan Trung Quốc Hay Nhất : SUI GIA - Tập 01",
+                "description": "Phim Bộ Mới Tình Cảm Hài Hước TVB Đài Loan Trung Quốc Hay Nhất : SUI GIA - Tập 01\n(Lồng Tiếng, Thuyết Minh )\nTheo dõi Trọn Bộ \"  SUI GIA \" :  http://bit.ly/2lf043A\nĐăng Kí Theo Dõi \" Li1 Movies \" để nhận được những bộ phim mới nhất: http://bit.ly/2SYsCLa\n\n Phim \"SUI GIA\" là một trong những Bộ Phim Tình Cảm Hài Hước TVB của Đài Loan Trung Quốc hay nhất , mới nhất 2019 mà các ngôi sao của màn ảnh của Trung Quốc  thủ vai chính. Bộ phim đã đạt được những thành công rực rỡ trong làng phim Lịch Sử tại đất nước Trung Hoa và toàn quốc tế,  \" Li1 Movies \" rất hân hạnh mang lại bộ phim \" SUI GIA\"  bản Thuyết Minh Lồng Tiếng đến với các những khán giả nhiệt thành của Việt Nam. Chúc các bạn xem phim vui vẻ. Thân ái!\n\nTÓM TẮT PHIM \" SUI GIA\" :\nPhim là những tình huống hài hước xen lẫn tình cảm của hai gia đình trờ thành sui của nhau. Qua biết bao nhiêu biến cố về tình cảm, yếu tố bên ngoài tác động, hai gia đình cũng trở nên quý nhau hơn và các đôi lứa cũng dần được sự ủng hộ của hai gia đình. \n\n© Bản quyền thuộc về Li1 Movies \n© Copyright by Li1 Movies   ❌ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wbe0RqhdhfQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wbe0RqhdhfQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wbe0RqhdhfQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wbe0RqhdhfQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wbe0RqhdhfQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "wbe0RqhdhfQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "wbe0RqhdhfQ",
+                "videoPublishedAt": "2019-09-26T12:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MJysrtVoowETMAVi0UkOKF8Cuxs",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Phim Ngôn Tình THUYẾT MINH hay nhất 2019 | Em Là Thế Giới Trong Anh - Tập 01",
+                "description": "➤ Xem Thêm Nhiều Phim Hay: https://bit.ly/2qWBg06\n➤ Trọn Bộ Em Là Thế Giới Trong Anh Thuyết Minh: https://bit.ly/2mQ6Ux5\n\n✤ Đạo diễn: Kim Hùng Hào\n✤ Diễn viên: Huỳnh Thánh Trì, Phàn Trị Hân, Trang Đạt Phi, Mã Tâm Dư\n✤ Em Là Thế Giới Trong Anh kể về cuộc gặp gỡ của cô gái Hạ Nhụy Ninh khi bước vào ngôi trường đại học Tây Lăng cùng hai anh em Dạ Lẫm, Dạ Miểu và cô gái lọ lem Thẩm Chân, bốn người nảy sinh những mối quan hệ dây dưa và hỗn loạn.\n\n© Bản quyền thuộc về : YoYo TeLeViSion VietSub\n© Copyright by YoYo TeLeViSion VietSub ☞ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bZeTk-btnzU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bZeTk-btnzU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bZeTk-btnzU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bZeTk-btnzU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bZeTk-btnzU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bZeTk-btnzU"
+                }
+            },
+            "contentDetails": {
+                "videoId": "bZeTk-btnzU",
+                "videoPublishedAt": "2019-09-26T13:15:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_wgRytbl7CGVrNU_z_3t32wywiI",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Phim Bộ Siêu Hay 2020 | Trúc Mộng Tình Duyên - Tập 01 (THUYẾT MINH) - Dương Mịch, Hoắc Kiến Hoa",
+                "description": "➤ Xem Thêm Nhiều Phim Hay : https://bit.ly/2SWFvql\n➤ Trọn Bộ Trúc Mộng Tình Duyên Thuyết Minh: https://bit.ly/2NxpUe2\n➤ Download app Mango tại: http://bit.ly/2XG1OUZ  \n\n✤ Đạo diễn: Kim Sa, Hàn Đông\n✤ Diễn viên: Dương Mịch, Hoắc Kiến Hoa, Phùng Lôi, Khương Hồng Ba\n✤ Trúc Mộng Tình Duyên lấy bối cảnh Trung Quốc những năm 1920, giai đoạn mà kiến trúc phương Tây đang rất được ưa chuộng còn phong cách truyền thống lại bị ngó lơ đi. Nam chính Thẩm Kỳ Nam (Hoắc Kiến Hoa) và nữ chính Phó Hàm Quân (Dương Mịch) mang trong mình giấc mộng lớn lao, cả hai cùng làm việc với nhiệt huyết trong lĩnh vực kiến trúc xây dựng. Hai nhân vật chính là chàng kỹ sư Thẩm Kỳ Nam và nữ kiến trúc sư Phó Hàm Quân là đại diện cho việc theo đuổi giấc mơ kiến trúc dân quốc của những người yêu thích kiến trúc nơi đây, kiên quyết theo đuổi thiết kế lý tưởng “lấy người làm gốc”, đồng thời kết hợp những ưu điểm của kiến trúc phương Đông và phương Tây vào trong đó, cùng nhau đưa kiến trúc đất nước phát triển lên một tầm cao mới.\n\n© Bản quyền thuộc về : MGTV VietNam\n© Copyright by MGTV VietNam  ☞ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EVAoPf4YHm0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EVAoPf4YHm0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EVAoPf4YHm0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EVAoPf4YHm0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EVAoPf4YHm0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EVAoPf4YHm0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "EVAoPf4YHm0",
+                "videoPublishedAt": "2020-01-17T12:23:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "GI_OrS0lce3fqGvOlU0ndlFuR8g",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Phim Mới 2020 Thuyết Minh | Tìm Thấy Tình Yêu - Tập 1 | Phim Bộ Tình Cảm Trung Quốc Mới Hay Nhất",
+                "description": "Phim Mới 2020 Thuyết Minh | Tìm Thấy Tình Yêu - Tập 1 | Phim Bộ Tình Cảm Trung Quốc Mới Hay Nhất \nTìm Thấy Tình Yêu Full Bộ : https://goo.gl/NJCCpc\nPhim Bộ Trung Quốc 2018 :https://youtu.be/OQi5qTxaESc\nphim việt nam 2018 : https://goo.gl/8cGvY9\nPhim Hài Hoài Linh: https://youtu.be/kQISMwrGd0g\nPhim Chiếu Rạp 2018: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay: https://goo.gl/Y6DwyQ\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Đề Tài Chiến Tranh: https://goo.gl/4LrCjL\n\nFanpage Facebook Phim : https://www.facebook.com/PhimHayPage\nWebsite: http://phimhaydienanh.com/\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp : https://www.facebook.com/tienccnp\n=============\nBản quyền thuộc về BH Media Corp",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AVYRN8rWMh4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AVYRN8rWMh4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AVYRN8rWMh4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AVYRN8rWMh4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AVYRN8rWMh4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "AVYRN8rWMh4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "AVYRN8rWMh4",
+                "videoPublishedAt": "2018-12-13T11:13:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "j3n65PS-NaPFdH4jnS5Zay5y3Uc",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Phim Bộ Trung Quốc Hay 2020 | Yêu Em Không Phai - Tập 01 (THUYẾT MINH)",
+                "description": "➤ Xem Thêm Nhiều Phim Hay : https://bit.ly/2SWFvql\n➤ Trọn Bộ Yêu Em Không Phai Thuyết Minh: https://bit.ly/2SMVNkJ\n➤ Download app Mango tại: http://bit.ly/2XG1OUZ  \n\n✤ Đạo diễn : Vương Nghênh  \n✤ Diễn viên : Hàn Canh, Vương Hiểu Thần, Diệp Tổ Tân\n✤ Yêu Em Không Phai là bộ phim xoay quanh nhân viên phổ thông 30 tuổi Khương Tiểu Tịch đối mặt với việc công ty cắt giảm biên chế, cùng với chuyên gia sa thải nhân viên Trần Quýnh đấu trí đấu dũng, đánh mất công việc, từ đó thành oan gia với Trần Quýnh. Trần Quýnh bị người yêu ép hôn và Khương Tiểu Tịch cãi nhau với bạn trai ngẫu nhiên gặp nhau ở Thái, Trần Quỳnh vô tình cứu Khương Tiểu Tịch, quan hệ hai người hoãn hòa. Khương Tiểu Tịch vì bạn trai Uông Dương ngoại tình mà chia tay, bị mẹ ép đi khám tâm lý, vô tình gặp được Trần Quýnh, sau đó biết được Trần Quýnh mắc chứng sợ kết hôn. Trần Quýnh phát bệnh ở trong lễ đính hôn, Tiểu Vũ sau khi biết sự tình chia tay với Trần Quýnh. Trần Quýnh và Khương Tiểu Tịch thuê chung, tình cảm hai người đi lên. Được Khương Tiểu Tịch và bố Trần Phi chỉ điểm, Trần Quýnh cuối cùng ý thức được bản thân không phải sợ kết hôn, mà là tình yêu với bạn gái cũ chưa đủ sâu. Trần Quýnh bắt đầu nhìn thẳng vào bản thân, Khương Tiểu Tịch cũng không bỏ mặc bản thân nữa, tìm được công việc mới yêu thích, nỗ lực giúp đỡ bạn bè gặp khó khăn. Trần Quýnh được Khương Tiểu Tịch cảm hóa không còn mỗi ngày sống giả dối, bắt đầu suy nghĩ cho người khác. Mọi chuyện đều phát triển theo hướng tốt đẹp. Trần Quýnh yêu Khương Tiểu Tịch, ra sức theo đuổi cô, cuối cùng cả hai cùng thề hẹn bên nhau suốt đời.\n\n© Bản quyền thuộc về : MGTV VietNam\n© Copyright by MGTV VietNam  ☞ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tORbgA8OA7A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tORbgA8OA7A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tORbgA8OA7A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tORbgA8OA7A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tORbgA8OA7A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "tORbgA8OA7A"
+                }
+            },
+            "contentDetails": {
+                "videoId": "tORbgA8OA7A",
+                "videoPublishedAt": "2020-02-19T04:42:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QdiSQJ3xU5H-vR3U5p53veQJ9UQ",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Duyên Phận Trời Ban Tập 1 Thuyết Minh-Phim Thái Tình Cảm",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W5xMkvLpKnA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W5xMkvLpKnA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W5xMkvLpKnA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "W5xMkvLpKnA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "W5xMkvLpKnA",
+                "videoPublishedAt": "2019-08-03T15:46:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hKwNJB4PCH708g2FmkDST2AQDm4",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Private video",
+                "description": "This video is private.",
+                "thumbnails": {},
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "himGPH5TkY8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "himGPH5TkY8"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DBTsyBAKYS6ResYw20ydjz557-U",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Người Tình Phí Thúy - Tập 1 | Phim Bộ Trung Quốc Mới Hay Nhất - Thuyết Minh",
+                "description": "Người Tình Phí Thúy - Tập 1 | Phim Bộ Trung Quốc Mới Hay Nhất - Thuyết Minh\nNgười Tình Phỉ Thúy Full Bộ : https://bit.ly/37rChAA\nTình Yêu Của Em Full Bộ:https://bit.ly/2NMoHju\nPhim Bộ Trung Quốc Mới Nhất : https://goo.gl/VfPiBm\nLoạn Thế Hồng Nhan Full bộ: https://goo.gl/Gt8ahz\nMỹ Nhân Đa Tình Full Bộ:https://goo.gl/GD1V3K\nMị giả Vô Cương Full Bộ :https://goo.gl/oPo3dW\nĐăng Ký Kênh CachiCachi VN Xem Phim Mới Nhất : https://goo.gl/VfPiBm\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uqybduQ_JE0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uqybduQ_JE0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uqybduQ_JE0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uqybduQ_JE0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uqybduQ_JE0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "uqybduQ_JE0"
+                }
+            },
+            "contentDetails": {
+                "videoId": "uqybduQ_JE0",
+                "videoPublishedAt": "2019-11-21T04:30:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "RfgCaVkYrUrqtNSb0W_Vph56T6U",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Siêu phẩm ngôn tình hay 2019 | Vô Cùng Thích Anh - Tập 01 | THUYẾT MINH",
+                "description": "Xem Trọn Bộ Thuyết Minh: https://bit.ly/2Nf8zXK\nXem Thêm Các Phim Hay :  https://bit.ly/2HJNYsp\nĐạo diễn: Lý Ngọc Lỗi\nDiễn viên: Lỗ Chiếu Hoa, Lưu Dục Hàm, Vũ Văn Đồng, Tạ Trị Huân\nSắp tốt nghiệp cấp 3, Cố Tiểu Mãn vì muốn được tiếp tục làm bạn học với nam thần Tả Ngạn mà cố gắng học tập. Chăm chỉ cộng thêm sự phụ đạo riêng của chàng thiên tài Tả Ngạn, Cố Tiểu Mãn đã có một pha lật ngược ngoạn mục, thành công thi đậu cùng trường với nam thần. Nếu nói thời cấp 3 giữa hai người là tình cảm âm thầm khiến người xem rung động, thì đến khi đại học vẫn như thế nhưng độ ngọt tăng dần.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Bi7v2gBeyTI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Bi7v2gBeyTI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Bi7v2gBeyTI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Bi7v2gBeyTI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Bi7v2gBeyTI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Bi7v2gBeyTI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "Bi7v2gBeyTI",
+                "videoPublishedAt": "2019-11-05T12:05:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "69ctZeaqYRQkfUhcdIgTVqmbM9g",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Tình Yêu Lọ Lem - Tập 1 | Phim Tình Cảm Trung Quốc Hay Nhất 2019 | Phim Hay 2019",
+                "description": "* TÌNH YÊU LỌ LEM Trọn Bộ: https://goo.gl/EHZ9ZV\nPhim Hay 2018: https://goo.gl/8cGvY9\nPhim Tình Cảm Việt Nam Hay:https://goo.gl/jCfwdI\nPhim Việt Nam Hay: https://goo.gl/K1B580\nPhim Việt Nam Cũ Hay: https://goo.gl/LQWKpe\nPhim Việt Nam Hay:https://goo.gl/DIHOiC\nPhim Đè Tài Chiến Tranh: https://goo.gl/4LrCjL\nPhim Việt Nam Hài Hước: https://goo.gl/TWdss1\nFanpage Facebook: https://www.facebook.com/PhimHayPage\n------------------------------\nĐăng Ký Xem Phim Hay Nhất :https://goo.gl/8cGvY9\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uvXFA4wABc4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uvXFA4wABc4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uvXFA4wABc4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uvXFA4wABc4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uvXFA4wABc4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "uvXFA4wABc4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "uvXFA4wABc4",
+                "videoPublishedAt": "2018-12-22T02:47:51Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5kYWlv7FSHkAEm14l0lh2F3lKB4",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Phim Bộ Tình Cảm Trung Trung Quốc Mới Hay Nhất 2020 Thuyết Minh-CHUYỆN TÌNH ONLINE-Tập 22",
+                "description": "Phim Bộ Tình Cảm Trung Trung Quốc Mới Hay Nhất 2020 Thuyết Minh-CHUYỆN TÌNH ONLINE-Tập 22\nXem Trọn Bộ \" CHUYỆN TÌNH ONLINE tại đây : https://bit.ly/CHUYEN-TINH\nĐĂNG KÍ Theo Dõi \" YOPHIM \" để nhận được những bộ phim mới nhất: https://bit.ly/YOPHIM\nFanpage YoPhim : https://www.facebook.com/yophim/\n\n\" Chuyện Tình Online \"  là một trong những bộ phim tình cảm trung quốc hay nhất, thành công nhất 2020 mà các ngôi sao của màn ảnh của Trung Quốc là Dương Dương, Trịnh Sảng đã mang đến khán giả Trung Quốc . Bộ phim đã đạt được những thành công rực rỡ trong làng phim bộ tình cảm và phim thần tượng tại đất nước Trung Quốc và toàn quốc tế,  \" YOPHIM \" rất hân hạnh mang lại bộ phim \"Chuyện Tình Online \" bản Thuyết Minh Lồng Tiếng đến với các những khán giả nhiệt thành của Việt Nam. Chúc các bạn xem phim vui vẻ. Thân ái!\n\nCác diễn viên chính : \n                                     Dương Dương\n                                     Trịnh Sảng\n                                     Bạch Vũ\n                                     Ngưu Tuấn Phong\n                                     Mao Hiểu Đồng \n                                     Tống Hân Giai Di\n                                      Trịnh Nghiệp Thành\n                                      ...Cùng các diễn viên khác\n\nTÓM TẮT NỘI DUNG PHIM \"Chuyện Tình Online \" :\n\nBộ phim được chuyển thể từ tiểu thuyết tình cảm của một nhà văn trung quốc , với hai hình tượng nhân vật chính là  một cô gái  xinh đẹp và chàng trai dễ thương -  hai sinh viên vì có cùng đam mê trò chơi game online nên đã quen biết nhau. Nữ sinh xinh đẹp có ước mơ trở thành người lập trình game , và cô là một cao thủ về game online. Do không up hình ảnh thật của mình  khi chơi game nên bị một người chơi khác trong game từ chối một cách thẳng thừng khi muốn kết đôi trong game online . Để chiến thắng cuộc thi liên đấu do hiệp lữ khiêu chiến, nàng đã đồng ý liên minh với Đại Hiệp cùng tham gia cuộc thi đấu game online. Hai người cùng xông pha chốn giang hồ nhưng điều mà nàng không hề nghĩ tới là người vào sinh ra tử với mình trên chiến trường trò chơi game online lại chính là anh chàng nổi tiếng trong trường. Và anh chàng đã đứng sau trò chơi này và tất cả diễn biến trong trò chơi đều được anh ấy điều khiển, và tất cả câu chuyện sẽ còn bất ngờ phía sau . Hy vọng các bạn sẽ thích chuyện tình online của cặp đôi ngôn tình Dương Dương Và Trịnh Sảng này . \n\n#PhimBộHay2020ThuyếtMinh\n#PhimTìnhCảmTrungQuốcHayNhất2020\n#PhimTrungQuốcTìnhCảmThuyếtMinhMớiNhất2020\n\n© Bản quyền thuộc về YoPhim\n© Copyright by YoPhim  ❌ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PAKVst0pFmM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PAKVst0pFmM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PAKVst0pFmM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PAKVst0pFmM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PAKVst0pFmM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PAKVst0pFmM"
+                }
+            },
+            "contentDetails": {
+                "videoId": "PAKVst0pFmM",
+                "videoPublishedAt": "2020-05-17T12:30:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ElYznju83vMokCZ_uWXuhb82GME",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Top 15 Phim Xuyên Không Trung Quốc Mới Nhất Mà Bạn Không Nên Bỏ Lỡ",
+                "description": "Phim xuyên không luôn có sức hấp dẫn không nhỏ đối với khán giả. Sự khác biệt giữa các không gian, thời gian, các triều đại, quá khứ và hiện đại làm người xem bị lôi cuốn, thu hút theo tình tiết phim. Vì một sự kiện đặc biệt hoặc một sự cố nào đó mà người ta xuyên không đến một thế giới mới. Cuộc sống, cách sống và quy tắc của những người ở các thế giới khác nhau là khác nhau. Chính sự khác biệt đó đã tạo nên những tình huống thú vị, hài hước trong phim. Bài viết sau đây sẽ tổng hợp top những phim xuyên không Trung Quốc mới nhất mà bạn không nên bỏ lỡ. Qua đây, chúc bạn tìm được bộ phim thích hợp nhất và có những giây phút thư giãn, giải trí tuyệt vời.\n\n------------------------------------------------------------------------------------\nCám ơn các bạn đã xem video!\n● Link bài viết Tiếng Việt: https://bit.ly/2WMB7Ls\n● Âm thanh nền: Bensound.com\n● Giọng đọc: Phượng\n------------------------------------------------------------------------------------\n\nVideo đang hiển thị Phim Xuyên Không Trung Quốc nhưng cũng cố gắng bao quát chủ đề sau:\n- Phim ngon tinh hay\n- Phim xuyen khong trung quoc moi nhat\n- Phim xuyen khong trung quoc vietsub\n\n____________________________________________________\n\nVui lòng đăng ký kênh của chúng tôi để nhận được nội dung chất lượng: https://www.youtube.com/channel/UCium3FjmCP5BkIA5BhK8JsA\n\n\n#phimxuyenkhonghaynam2019 #xuyenkhonghaihuoctrungquoc #phimxuyenkhongvequakhu #xuyenkhongmoinhat #xuanhoathunguyet #cogaingoaihanhtinhsaitieuththat #thienkimhaosac #demaysaochoiden #monghoidaithanh #dienhacongluoc #chungvuonggiadao #nhansinhcuabachholy #daiduongnuphapy #buocdenthegioicuaem #taodailytulamthucung #songthesungphiphan2 #oihoangdebehacuataphan2 #trovetrieuminhlamvuongiga #duongchuyen #topshare #topphimhay #Phimxuyênkhông",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kcJfnxBUiuk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kcJfnxBUiuk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kcJfnxBUiuk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kcJfnxBUiuk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kcJfnxBUiuk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kcJfnxBUiuk"
+                }
+            },
+            "contentDetails": {
+                "videoId": "kcJfnxBUiuk",
+                "videoPublishedAt": "2020-05-11T08:50:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "I1ym2j08lqcclLJ5lq6uozdFrxs",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Tình Yêu Của Em - Tập 1 | Phim Bộ Ngôn Tình Trung Quốc Mới Hay Nhất - Thuyết Minh",
+                "description": "Tình Yêu Của Em - Tập 1 | Phim Bộ Ngôn Tình Trung Quốc Mới Hay Nhất - Thuyết Minh \nTình Yêu Của Em Full Bộ:https://bit.ly/2NMoHju\nPhim Bộ Trung Quốc Mới Nhất : https://goo.gl/VfPiBm\nLoạn Thế Hồng Nhan Full bộ: https://goo.gl/Gt8ahz\nMỹ Nhân Đa Tình Full Bộ:https://goo.gl/GD1V3K\nMị giả Vô Cương Full Bộ :https://goo.gl/oPo3dW\nĐăng Ký Kênh CachiCachi VN Xem Phim Mới Nhất : https://goo.gl/VfPiBm\nHỏi Đáp: https://www.facebook.com/tienccnp\n======================\nBản quyền thuộc về BHMedia",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TiIFzv5RHHg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TiIFzv5RHHg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TiIFzv5RHHg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TiIFzv5RHHg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TiIFzv5RHHg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "TiIFzv5RHHg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "TiIFzv5RHHg",
+                "videoPublishedAt": "2019-11-15T10:38:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ev3cK3KAKgKBxmtMOpEzzaYo52I",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Phim Bộ Tiên Kiếm Hiệp Thần Thoại Cổ Trang Trung Quốc Hay Thuyết Minh - Duyên Nợ Trần Gian- Tập 1",
+                "description": "Phim Bộ Tiên Kiếm Hiệp Thần Thoại Cổ Trang Trung Quốc Hay Thuyết Minh - Duyên Nợ Trần Gian- Tập 1\nTheo dõi trọn bộ \"Duyên Nợ Trần Gian\" : http://bit.ly/2qjbOEV\nĐăng Kí Theo Dõi \" HOB Movies \" để nhận được những bộ phim mới nhất: http://bit.ly/2mKe5ar\n\nNội dung phim \"Duyên Nợ Trần Gian\":\nBộ phim kể về nàng tiên nữ, là con gái  của Vương Mẫu nương nương. Một lần, nàng tiên thứ bảy vì ham chơi xuống trần gian nên đã gặp và trót yêu chàng thanh niên Đổng Vĩnh. Nàng quyết tâm kết hôn với Đổng Vĩnh khiến Vương Mẫu tức giận, hủy bỏ cốt tiên và đày xuống trần gian làm người phàm.\n\nTừ đó, vì quá nhớ em gái, lần lượt các nàng tiên còn lại cũng xuống trần gian và mắc vào âm mưu của hai người xấu là Sao chổi cùng Âm thực vương. Các tiên nữ gặp nhiều gian truân và cũng yêu phải người trần. Chỉ có công chúa lớn và thứ 4 là động lòng người trên thiên đình là Thực thần và Kim Tra. Hàng loạt mưu mô, mâu thuẫn xảy ra nhưng cuối cùng thần tiên và người dưới trần cũng chung tay chống cái ác.\n\n#PhimBộCổTrangTrungQuốcHayNhất2019\n#PhimKiếmHiệpMớiNhất\n\n------------------------------------------\n© Bản quyền thuộc về HOB Movies \n© Copyright by HOB Movies    ❌ Do not Reup",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2Laeo2-ekoo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2Laeo2-ekoo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2Laeo2-ekoo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2Laeo2-ekoo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2Laeo2-ekoo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2Laeo2-ekoo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "2Laeo2-ekoo",
+                "videoPublishedAt": "2019-11-20T11:30:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "46tY76dFD4RqiN2_aCaGV4POX-A",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Một Chuyện Tình Buồn - Tập 1 | Phim Bộ Tình Cảm Trung Quốc Hay Nhất - Lồng Tiếng",
+                "description": "Một Chuyện Tình Buồn - Tập 1 | Phim Bộ Tình Cảm Trung Quốc Hay Nhất - Lồng Tiếng \nMột Chuyện Tình Buồn Full :https://bit.ly/2wMsZOM\nphim hành động 2019 :https://goo.gl/f5LDo5\nphim kiếm hiệp mới nhất 2019 : https://goo.gl/pG2tqD\n►Phim Việt Nam Chiếu Rạp 2018 :https://goo.gl/R7Whs5\n#PhimBộTrungQuốc \n►►Đăng Ký Phim Hay Việt Nam : https://goo.gl/f5LDo5\n►►► Like Page để không bỏ lỡ bộ phim HOT nào: https://www.facebook.com/PhimHayPage\nHỏi Đáp: https://www.facebook.com/tienccnp\nBản quyền thuộc BH Media",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KDcEvBF7ibE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KDcEvBF7ibE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KDcEvBF7ibE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KDcEvBF7ibE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KDcEvBF7ibE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KDcEvBF7ibE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "KDcEvBF7ibE",
+                "videoPublishedAt": "2019-06-10T12:21:23Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vmn69k_zvum4qOdbFtmY668q5bI",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai43NDhFRTgwOTRERTU4Rjg3",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "Top 40 Bộ Phim Chuyển Thể Ngôn Tình Trung Quốc Hay Nhất Từ Trước Tới Nay",
+                "description": "Top 40 Bộ Phim Chuyển Thể Ngôn Tình Trung Quốc Hay Nhất Từ Trước Tới Nay, phim ngôn tình trung quốc 2018, phim trung quốc 2019, phim thái hay, phim ngôn tinh trung quốc hay, phim hay 2019 thuyet minh, phim ngôn tình hay nhất trung quốc, phim ngôn tình hay nhất, phim thai lan hay nhat, phim ngôn tình 2019, phim ngon tinh 2019 moi nhat thuyet minh trung quoc, phim hoa ngữ 2019, phim trung hay, phim ngon tinh",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k7F_Zs89hj4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k7F_Zs89hj4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k7F_Zs89hj4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/k7F_Zs89hj4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/k7F_Zs89hj4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "k7F_Zs89hj4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "k7F_Zs89hj4",
+                "videoPublishedAt": "2019-12-23T00:38:06Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xm4cn3hTrlGULbrWwl6KiU4wLE0",
+            "id": "UExrTmNRSE9MakZGTE4td0J6Z0czMVA3VnotTm9VNUFHai41QUZGQTY5OTE4QTREQUU4",
+            "snippet": {
+                "publishedAt": "2020-05-18T11:50:58Z",
+                "channelId": "UCKio9_MvfJ8pe_tSvgGkFkQ",
+                "title": "[PHIM HAY] MỸ THỰC NHÂN DUYÊN - TẬP 1 THUYẾT MINH | PHIM BỘ TRUNG QUỐC TUYỂN CHỌN HAY NHẤT 2019",
+                "description": "MỸ THỰC NHÂN DUYÊN - TẬP 1 THUYẾT MINH | PHIM BỘ TRUNG QUỐC TUYỂN CHỌN HAY NHẤT 2019\n➡️ Xem Trộn Bộ Tại Đây: http://bit.ly/MyThucNhanDuyen\n\nSubscribe kênh để xem thêm các clip khác : http://bit.ly/NEWFILMS\n\nNỘI DUNG PHIM:\n\n\"Mỹ Thực Nhân Duyên\" hay còn gọi là \"Cực Phẩm Xứng Đôi\" kể về cuộc so tài giữa nữ vương chợ đêm Vệ Phân Thanh với đầu bếp siêu cấp Hoắc Đình Ân. Đối với Vệ Phân Thanh thì chợ đêm là toàn bộ cuộc sống của cô, sự kiêu ngạo lớn nhất của cô chính là việc tự mình nghĩ ra cách kiếm tiền từ thức ăn ngon ở chợ đêm, được tất cả bạn bè trên mạng khen ngợi, được cho là sánh ngang với thực đơn của nhà hàng đẳng cấp ba sao. Còn đối với Hoắc Đình Ân mà nói, nhà hàng là mục tiêu cuộc sống duy nhất của anh, món ăn mà anh tạo ra được ca ngợi đến mức dù cho có phải bay qua Thái Bình Dương đê thưởng thức thì cũng đáng giá, phương pháp chế biến càng được xem là tuyệt chiêu độc môn. Cặp đôi trời sinh một căp này liệu có đến được với nhau, có trải qua bao sóng gió gì hay không. Xin mới các bạn đón xem bộ phim \"Mỹ Thực Nhân Duyên\" trên New Films vào lúc 11h, 12h, 19h và 20h hằng ngày. Chúc các bạn xem phim vui vẻ!\n\nTên khác: Cực Phẩm Xứng Đôi\nTên tiếng anh: The Perfect Match (2017)\nThể loại: Hài Hước, Tâm Lý - Lãng Mạn, Phim Ngôn Tình , Phim Hoa Ngữ, Phim Đài Loan, Phim Thần Tượng\nQuốc gia: Taiwan\nDiễn viên: Thiệu Vũ Vi, Ngô Khảng Nhân, Trần Nãi Vinh, Tiểu Lạc, Tiểu Man\nNăm: 2017\nThời lượng: 70 phút/tập\nChất lượng: Bản đẹp\nĐộ phân giải: HD 720p\nNgôn ngữ: Vietsub + Thuyết minh\n\n© Các video trên kênh \" http://bit.ly/NewFilmsChannel \" đã được đăng ký bản quyền với Youtube. Vui lòng không sao chép, re-upload dưới mọi hình thức.\n✖ Mọi hành vi sao chép, re-upload có thể dẫn đến việc tài khoản của bạn bị khóa vĩnh viễn.\n\nFanpage New Films: http://bit.ly/NewFilmsFanpage\n\nSubscribe các kênh chính của Yeah1 Network:\n\nYEAH1 MUSIC :        http://bit.ly/Yeah1music\nYEAH1 MOVIE :        http://bit.ly/Yeah1movies\nYEAH1 KIDS :            http://bit.ly/Yeah1kids\nYEAH1 TV:                 http://bit.ly/Yeah1tv\n---------------------------------------------\n#NewFilms #MyThucNhanDuyen #PhimBoHay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-WiC8p4f_pA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-WiC8p4f_pA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-WiC8p4f_pA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-WiC8p4f_pA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-WiC8p4f_pA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Andy Q rogers",
+                "playlistId": "PLkNcQHOLjFFLN-wBzgG31P7Vz-NoU5AGj",
+                "position": 31,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-WiC8p4f_pA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "-WiC8p4f_pA",
+                "videoPublishedAt": "2019-09-28T08:51:36Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 32,
+        "resultsPerPage": 50
     }
 }

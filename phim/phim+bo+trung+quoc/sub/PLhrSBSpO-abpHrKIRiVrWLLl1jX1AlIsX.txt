@@ -1,10 +1,10 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "5Otisg8Vo5jFZMfDJ4j9v5y4Lnw",
+    "etag": "r1EIQ_Y7MIhYWHO5--rKorL41QE",
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "5v4K51hT-jbUokGv5uwz8or13No",
+            "etag": "xLsiHQm-czgug2kXXsYrqqdRiQU",
             "id": "UExoclNCU3BPLWFicEhyS0lSaVZyV0xMbDFqWDFBbElzWC41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
                 "publishedAt": "2020-07-06T07:01:44Z",
@@ -26,16 +26,6 @@
                         "url": "https://i.ytimg.com/vi/kSDW-7Ey5f4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/kSDW-7Ey5f4/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/kSDW-7Ey5f4/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
                 "channelTitle": "Marley Gwendolyn",
@@ -759,94 +749,6 @@
             "contentDetails": {
                 "videoId": "yKl4YCf7w4g",
                 "videoPublishedAt": "2013-11-03T12:34:07Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "eizlygJVu6CJVTLuggegfb0Mx2s",
-            "id": "UExoclNCU3BPLWFicEhyS0lSaVZyV0xMbDFqWDFBbElzWC41QTY1Q0UxMTVCODczNThE",
-            "snippet": {
-                "publishedAt": "2020-07-06T07:01:44Z",
-                "channelId": "UC6_GSlFQc3s6yHjM1Qs-19w",
-                "title": "JEAN-MICHEL BASQUIAT THE RADIANT CHILD (2010) Tamra Davis-Arthouse Films (US)",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ZifwDsIzB2g/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ZifwDsIzB2g/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ZifwDsIzB2g/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/ZifwDsIzB2g/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "Marley Gwendolyn",
-                "playlistId": "PLhrSBSpO-abpHrKIRiVrWLLl1jX1AlIsX",
-                "position": 16,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "ZifwDsIzB2g"
-                }
-            },
-            "contentDetails": {
-                "videoId": "ZifwDsIzB2g",
-                "videoPublishedAt": "2020-07-05T19:20:54Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "FRzzmziocZdOiEsQc7bCcau38ZA",
-            "id": "UExoclNCU3BPLWFicEhyS0lSaVZyV0xMbDFqWDFBbElzWC4yMUQyQTQzMjRDNzMyQTMy",
-            "snippet": {
-                "publishedAt": "2020-07-06T07:01:44Z",
-                "channelId": "UC6_GSlFQc3s6yHjM1Qs-19w",
-                "title": "JEAN-MICHEL BASQUIAT THE RADIANT CHILD (2010) Tamra Davis-Arthouse Films (US)",
-                "description": "\"JAZZ ON A SUMMER'S DAY 1959*\n'𝐶-𝐿-𝐼-𝐶-𝐾 :: 𝐻 𝐸 𝑅 𝐸 :: [[ http://documentary-film-streamingtt1753968.blogspot.com/tt0052942  ]]\n*Jazz on a Summer's Day (1959) AKA: Festival i jazz | Jazz an einem Sommerabend | Jazz in un giorno d'estate#Jazz_on_a_Summer_s_Day_1959\"",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/sOoLKFHX-28/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/sOoLKFHX-28/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/sOoLKFHX-28/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/sOoLKFHX-28/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "Marley Gwendolyn",
-                "playlistId": "PLhrSBSpO-abpHrKIRiVrWLLl1jX1AlIsX",
-                "position": 17,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "sOoLKFHX-28"
-                }
-            },
-            "contentDetails": {
-                "videoId": "sOoLKFHX-28",
-                "videoPublishedAt": "2020-07-05T19:31:05Z"
             }
         },
         {

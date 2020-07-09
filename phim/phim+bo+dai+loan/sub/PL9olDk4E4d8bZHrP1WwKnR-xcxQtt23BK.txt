@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "fuct0kiRu2f7hy0ksbzGr4USa9s",
+    "etag": "fWBLm8ysCGtJL7KY5dnmKihfESA",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -1327,56 +1327,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "IxkFPscy5CGDwvDwKaxUqQpUyKc",
-            "id": "UEw5b2xEazRFNGQ4YlpIclAxV3dLblIteGN4UXR0MjNCSy4zRDBDOEZDOUM0MDY5NEEz",
-            "snippet": {
-                "publishedAt": "2019-12-05T04:56:33Z",
-                "channelId": "UCjLpEk1qpHKJa7rc2xzx2DQ",
-                "title": "Phim Hay | Tân Thủy Hử 2019 - Tập 28 | Full HD | iPhim",
-                "description": "►Trọn Bộ: https://bit.ly/38jaSBw\n►Xem Phim Khác: https://bit.ly/2Fc2YNN\n►Tên Phim: Tân Thủy Hử 2019\n►Diễn viên : Lu Haihua, Zhang Lianhai, Yu Hongzhou, Xu Shijing,…\n\n© Vui lòng không sao chép, re-upload dưới bất kỳ hình thức nào\n\n📼 Các bạn hãy bấm Đăng Ký ( Subscribe ) để đón xem những tập phim mới nhất nhé 📼\n\n#iPhim #thuyhu #PhimHay",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/-3Xx3BtQgKc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/-3Xx3BtQgKc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/-3Xx3BtQgKc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/-3Xx3BtQgKc/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/-3Xx3BtQgKc/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "iPhim - Phim Bất Hủ",
-                "playlistId": "PL9olDk4E4d8bZHrP1WwKnR-xcxQtt23BK",
-                "position": 27,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "-3Xx3BtQgKc"
-                }
-            },
-            "contentDetails": {
-                "videoId": "-3Xx3BtQgKc",
-                "videoPublishedAt": "2020-01-08T12:00:00Z"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "AM2aI7c9PD95B0B5MrSdtU2R9C8",
+            "etag": "f3tlh6LTasubxkqG7C0JIwlcRb0",
             "id": "UEw5b2xEazRFNGQ4YlpIclAxV3dLblIteGN4UXR0MjNCSy41QUZGQTY5OTE4QTREQUU4",
             "snippet": {
                 "publishedAt": "2019-12-05T04:56:33Z",
@@ -1412,7 +1363,7 @@
                 },
                 "channelTitle": "iPhim - Phim Bất Hủ",
                 "playlistId": "PL9olDk4E4d8bZHrP1WwKnR-xcxQtt23BK",
-                "position": 28,
+                "position": 27,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "OTJ1UW2dWaU"
@@ -1421,6 +1372,55 @@
             "contentDetails": {
                 "videoId": "OTJ1UW2dWaU",
                 "videoPublishedAt": "2020-01-09T05:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Z-5pzCSsFpeGI8koGrzyBqF1jbI",
+            "id": "UEw5b2xEazRFNGQ4YlpIclAxV3dLblIteGN4UXR0MjNCSy4zRDBDOEZDOUM0MDY5NEEz",
+            "snippet": {
+                "publishedAt": "2019-12-05T04:56:33Z",
+                "channelId": "UCjLpEk1qpHKJa7rc2xzx2DQ",
+                "title": "Phim Hay | Tân Thủy Hử 2019 - Tập 28 | Full HD | iPhim",
+                "description": "►Trọn Bộ: https://bit.ly/38jaSBw\n►Xem Phim Khác: https://bit.ly/2Fc2YNN\n►Tên Phim: Tân Thủy Hử 2019\n►Diễn viên : Lu Haihua, Zhang Lianhai, Yu Hongzhou, Xu Shijing,…\n\n© Vui lòng không sao chép, re-upload dưới bất kỳ hình thức nào\n\n📼 Các bạn hãy bấm Đăng Ký ( Subscribe ) để đón xem những tập phim mới nhất nhé 📼\n\n#iPhim #thuyhu #PhimHay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-3Xx3BtQgKc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-3Xx3BtQgKc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-3Xx3BtQgKc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-3Xx3BtQgKc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-3Xx3BtQgKc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "iPhim - Phim Bất Hủ",
+                "playlistId": "PL9olDk4E4d8bZHrP1WwKnR-xcxQtt23BK",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-3Xx3BtQgKc"
+                }
+            },
+            "contentDetails": {
+                "videoId": "-3Xx3BtQgKc",
+                "videoPublishedAt": "2020-01-08T12:00:00Z"
             }
         }
     ],

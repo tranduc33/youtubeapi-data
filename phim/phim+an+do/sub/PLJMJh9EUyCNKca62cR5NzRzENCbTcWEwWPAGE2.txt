@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "U2LWRvBXjNagx3LVosmjaH0maUM",
+    "etag": "yv4hLLL-bHML7P6pWRftOuSVztw",
     "prevPageToken": "CDIQAQ",
     "items": [
         {
@@ -595,29 +595,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "wAQ0lxTEmN1RmK-x7mTUcSK2XeY",
-            "id": "UExKTUpoOUVVeUNOS2NhNjJjUjVOelJ6RU5DYlRjV0V3Vy44QTA1QTQyRTc3M0VGQzYx",
-            "snippet": {
-                "publishedAt": "2019-10-11T06:21:24Z",
-                "channelId": "UCcYSOJSyHKpLyQmx78pceNg",
-                "title": "Deleted video",
-                "description": "This video is unavailable.",
-                "thumbnails": {},
-                "channelTitle": "Loc ly",
-                "playlistId": "PLJMJh9EUyCNKca62cR5NzRzENCbTcWEwW",
-                "position": 66,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "KlwC7lgAxVM"
-                }
-            },
-            "contentDetails": {
-                "videoId": "KlwC7lgAxVM"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "8dP3hUgIJ3LOS4n8XInwBgVZbNA",
+            "etag": "37hd_Zmp8nxlasxuJHFh-lDJL3A",
             "id": "UExKTUpoOUVVeUNOS2NhNjJjUjVOelJ6RU5DYlRjV0V3Vy40NzE2MTY1QTM3RUI3QkU3",
             "snippet": {
                 "publishedAt": "2019-10-14T06:06:30Z",
@@ -653,7 +631,7 @@
                 },
                 "channelTitle": "Loc ly",
                 "playlistId": "PLJMJh9EUyCNKca62cR5NzRzENCbTcWEwW",
-                "position": 67,
+                "position": 66,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "v2uGykhJDuI"
@@ -666,7 +644,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "90nObNpYSUoXUS_54ZWB1gcGaBE",
+            "etag": "AacJYGqQCn3HHQAZb5T-PAlpRJ4",
             "id": "UExKTUpoOUVVeUNOS2NhNjJjUjVOelJ6RU5DYlRjV0V3Vy5CMUM0NzY5NzdEQzlGRjAx",
             "snippet": {
                 "publishedAt": "2019-10-14T10:51:46Z",
@@ -702,7 +680,7 @@
                 },
                 "channelTitle": "Loc ly",
                 "playlistId": "PLJMJh9EUyCNKca62cR5NzRzENCbTcWEwW",
-                "position": 68,
+                "position": 67,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "Ljuyo-NykTQ"
@@ -715,7 +693,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "eXwR5pxO4wpSpIpp6H6wnMMU-lE",
+            "etag": "H-RFYNNgrS1Y6lSW003e6V0MXR8",
             "id": "UExKTUpoOUVVeUNOS2NhNjJjUjVOelJ6RU5DYlRjV0V3Vy4yM0EyQ0U1M0I2RkIwNTQ0",
             "snippet": {
                 "publishedAt": "2020-02-22T06:01:13Z",
@@ -751,7 +729,7 @@
                 },
                 "channelTitle": "Loc ly",
                 "playlistId": "PLJMJh9EUyCNKca62cR5NzRzENCbTcWEwW",
-                "position": 69,
+                "position": 68,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "jcmSHGXXvfg"
@@ -764,7 +742,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "p1FJkz0SqtUzTWxChqYfpwg3hg0",
+            "etag": "-7xuHKxQuW4sp63njmhzQ2CaqK8",
             "id": "UExKTUpoOUVVeUNOS2NhNjJjUjVOelJ6RU5DYlRjV0V3Vy5ERENFNTk4Q0Q2MTZDMTA5",
             "snippet": {
                 "publishedAt": "2020-02-24T04:30:17Z",
@@ -800,7 +778,7 @@
                 },
                 "channelTitle": "Loc ly",
                 "playlistId": "PLJMJh9EUyCNKca62cR5NzRzENCbTcWEwW",
-                "position": 70,
+                "position": 69,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "LIpNpDAATuQ"
@@ -813,7 +791,7 @@
         }
     ],
     "pageInfo": {
-        "totalResults": 71,
+        "totalResults": 70,
         "resultsPerPage": 50
     }
 }

@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "nnv6sJdv5WdK4NnO5qabeCI4Eqk",
+    "etag": "FWZYrPtJYB8Opns88tSWefhbnlE",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -719,14 +719,40 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "-At_cTVok6AIoRVJwc0ACyFQwRo",
+            "etag": "VKVG70T7VVIJcByb7AxQ0skM5HA",
             "id": "UExDaS10UlFxNjJLMUF1QlVnaEFpQlMtUkFTeVFHZlI5OS5GM0Q3M0MzMzY5NTJFNTdE",
             "snippet": {
                 "publishedAt": "2019-11-08T15:21:03Z",
                 "channelId": "UCrexYAIrYiAQ_JSTT4-kyGw",
-                "title": "Private video",
-                "description": "This video is private.",
-                "thumbnails": {},
+                "title": "Pai é Pai né mamãe ? Beijando a barriga | TAMU JUNTO IN RIO",
+                "description": "se inscreva no meu canal 😁👍🏼\n👇🏼👇🏼👇🏼\nhttp://www.youtube.com/c/AndersonTAMUJUNTOINRIOmeucanal\n\nEsse vídeo é sobre a felicidade dos pais que esperam a chegada de sua filha ao mundo que Deus fez!!!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xOmZbZYzgnE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xOmZbZYzgnE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xOmZbZYzgnE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xOmZbZYzgnE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xOmZbZYzgnE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
                 "channelTitle": "Dr Mai Thanh",
                 "playlistId": "PLCi-tRQq62K1AuBUghAiBS-RASyQGfR99",
                 "position": 16,
@@ -736,7 +762,8 @@
                 }
             },
             "contentDetails": {
-                "videoId": "xOmZbZYzgnE"
+                "videoId": "xOmZbZYzgnE",
+                "videoPublishedAt": "2016-03-08T10:02:08Z"
             }
         },
         {

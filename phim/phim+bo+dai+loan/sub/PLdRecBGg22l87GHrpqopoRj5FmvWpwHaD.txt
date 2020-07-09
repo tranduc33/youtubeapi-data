@@ -1,13 +1,1102 @@
 {
-    "error": {
-        "code": 403,
-        "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-        "errors": [
-            {
-                "message": "The request cannot be completed because you have exceeded your <a href=\"/youtube/v3/getting-started#quota\">quota</a>.",
-                "domain": "youtube.quota",
-                "reason": "quotaExceeded"
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "i2nung1KSyclW7Nn2WXGECIpsbY",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DKnN5XRonjejL2q3QFKUfvr2Jbc",
+            "id": "UExkUmVjQkdnMjJsODdHSHJwcW9wb1JqNUZtdldwd0hhRC4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2019-09-23T07:09:57Z",
+                "channelId": "UCRhlhXW4gq2VMO4xY3CYf9Q",
+                "title": "Phim GẶP GỠ VƯƠNG LỊCH XUYÊN - Xem phim FULL HD",
+                "description": "Gặp Gỡ Vương Lịch Xuyên được chuyển thể từ tiểu thuyết Chuyện Cũ Của Lịch Xuyên của nhà văn Huyền Ẩn. Tạ Tiểu Thu là sinh viên đại học, cô đi làm thêm và gặp được kiến trúc sư người Hoa là Vương Lịch Xuyên. Hai người nhanh chóng rơi vào biển tình yêu. \r\nPhim GẶP GỠ VƯƠNG LỊCH XUYÊN - Xem phim FULL HD \r\n\r\n★ STV Play ★Truyền hình thế hệ mới\r\n\r\n➤ Cập nhật các bộ phim mới nhất đang trình chiếu\r\n➤ Xem trên chính điện thoại của bạn\r\n➤ Không tốn nhiều dung lượng\r\n➤ Kho phim khổng lồ\r\n➤ Xem bóng đá trực tiếp\r\n\r\n#STVPlay #XemPhim #KhoPhim",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OVeG2illTWg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OVeG2illTWg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OVeG2illTWg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OVeG2illTWg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OVeG2illTWg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Canh Wodh",
+                "playlistId": "PLdRecBGg22l87GHrpqopoRj5FmvWpwHaD",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OVeG2illTWg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "OVeG2illTWg",
+                "videoPublishedAt": "2019-01-11T10:45:37Z"
             }
-        ]
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pAM3mUIXqzZUzogZb6RMNJGJOvY",
+            "id": "UExkUmVjQkdnMjJsODdHSHJwcW9wb1JqNUZtdldwd0hhRC4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2019-09-23T07:09:57Z",
+                "channelId": "UCRhlhXW4gq2VMO4xY3CYf9Q",
+                "title": "Cuộc hẹn hò đầu tiên của Lịch Xuyên - Tiểu Thu | Gặp Gỡ Vương Lịch Xuyên",
+                "description": "Xem phim Gặp Gỡ Vương Lịch Xuyên: https://www.vivo.vn/program/gap-go-vuong-lich-xuyen/2646.html\n\nFanpage VIVOtv: https://www.facebook.com/vivotv.vn/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0yTEA3SGhwA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0yTEA3SGhwA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0yTEA3SGhwA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0yTEA3SGhwA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0yTEA3SGhwA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Canh Wodh",
+                "playlistId": "PLdRecBGg22l87GHrpqopoRj5FmvWpwHaD",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0yTEA3SGhwA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "0yTEA3SGhwA",
+                "videoPublishedAt": "2018-05-21T12:47:58Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fglpLXmickqUBpJ9Rl6ybPquv-A",
+            "id": "UExkUmVjQkdnMjJsODdHSHJwcW9wb1JqNUZtdldwd0hhRC41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2019-09-23T07:09:57Z",
+                "channelId": "UCRhlhXW4gq2VMO4xY3CYf9Q",
+                "title": "Gặp gỡ Vương Lịch Xuyên Trailer 3 (Vietsub)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/azFP0xnh984/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/azFP0xnh984/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/azFP0xnh984/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/azFP0xnh984/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/azFP0xnh984/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Canh Wodh",
+                "playlistId": "PLdRecBGg22l87GHrpqopoRj5FmvWpwHaD",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "azFP0xnh984"
+                }
+            },
+            "contentDetails": {
+                "videoId": "azFP0xnh984",
+                "videoPublishedAt": "2013-08-16T01:29:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5DCvq68HM3DbPBbdKMxf1ggGL9s",
+            "id": "UExkUmVjQkdnMjJsODdHSHJwcW9wb1JqNUZtdldwd0hhRC41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2019-09-23T07:09:57Z",
+                "channelId": "UCRhlhXW4gq2VMO4xY3CYf9Q",
+                "title": "TV STAR - Trailer Gặp gỡ Vương Lịch Xuyên",
+                "description": "TVStar-SCTV11 mang đến cho bạn những tác phẩm truyển hình mới nhất hiện nay. Nơi bạn cảm nhận sức nóng của những bộ phim truyền hình kinh điển. TVStar-SCTV11 nơi tình yêu bắt đầu. Nơi võ công thượng thừa của những bộ phim kiếm hiệp kỳ tình được phô diễn hoành tráng nhất. TVStar - Cảm xúc thăng hoa.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RN6EktVQJko/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RN6EktVQJko/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RN6EktVQJko/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RN6EktVQJko/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RN6EktVQJko/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Canh Wodh",
+                "playlistId": "PLdRecBGg22l87GHrpqopoRj5FmvWpwHaD",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RN6EktVQJko"
+                }
+            },
+            "contentDetails": {
+                "videoId": "RN6EktVQJko",
+                "videoPublishedAt": "2016-11-22T09:22:58Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vddiU39REzs674tamePPJaWXElY",
+            "id": "UExkUmVjQkdnMjJsODdHSHJwcW9wb1JqNUZtdldwd0hhRC45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2019-09-23T07:09:57Z",
+                "channelId": "UCRhlhXW4gq2VMO4xY3CYf9Q",
+                "title": "[Vietsub] Hậu trường Gặp Gỡ Vương Lịch Xuyên cảnh dưới mưa",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FlbV8GiMZHQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FlbV8GiMZHQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FlbV8GiMZHQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FlbV8GiMZHQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FlbV8GiMZHQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Canh Wodh",
+                "playlistId": "PLdRecBGg22l87GHrpqopoRj5FmvWpwHaD",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FlbV8GiMZHQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "FlbV8GiMZHQ",
+                "videoPublishedAt": "2017-02-17T13:03:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gV_tcBwEtui-RYC7W0Fvvv2Xams",
+            "id": "UExkUmVjQkdnMjJsODdHSHJwcW9wb1JqNUZtdldwd0hhRC5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2019-09-23T07:09:57Z",
+                "channelId": "UCRhlhXW4gq2VMO4xY3CYf9Q",
+                "title": "Gặp gỡ vương lịch xuyên phiên bản mới p2",
+                "description": "Cái video này do fans làm từ nhiều mv và các phim anh từng tham gia. Nữ trong mơ mình ko bit lùn mọi người xem vui thui nha yêu lịch xuyên",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JUQXAHqosBo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JUQXAHqosBo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JUQXAHqosBo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JUQXAHqosBo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JUQXAHqosBo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Canh Wodh",
+                "playlistId": "PLdRecBGg22l87GHrpqopoRj5FmvWpwHaD",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "JUQXAHqosBo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "JUQXAHqosBo",
+                "videoPublishedAt": "2017-12-03T04:50:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Y0sfP8izpWCgXZi5HWVWahdrKYA",
+            "id": "UExkUmVjQkdnMjJsODdHSHJwcW9wb1JqNUZtdldwd0hhRC45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2019-09-23T07:09:57Z",
+                "channelId": "UCRhlhXW4gq2VMO4xY3CYf9Q",
+                "title": "Vương Lịch Xuyên - Tạ Tiểu Thu (Sự dịu dàng)",
+                "description": "Cre on tagged",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vvf7ZMG8974/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vvf7ZMG8974/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vvf7ZMG8974/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vvf7ZMG8974/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vvf7ZMG8974/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Canh Wodh",
+                "playlistId": "PLdRecBGg22l87GHrpqopoRj5FmvWpwHaD",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vvf7ZMG8974"
+                }
+            },
+            "contentDetails": {
+                "videoId": "vvf7ZMG8974",
+                "videoPublishedAt": "2016-10-06T13:33:51Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "n9h8HdCAzjnOHBtqJO-MCBD7eeg",
+            "id": "UExkUmVjQkdnMjJsODdHSHJwcW9wb1JqNUZtdldwd0hhRC4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2019-09-23T07:09:57Z",
+                "channelId": "UCRhlhXW4gq2VMO4xY3CYf9Q",
+                "title": "Gặp Gỡ Vương Lịch Xuyên",
+                "description": "♥ Ấn Like & Subscribe để cập nhật các video mới nhanh nhất♥\nSong : Bỗng nhiên rất nhớ em - Tiểu Phu",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YkQdoYhS9HE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YkQdoYhS9HE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YkQdoYhS9HE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Canh Wodh",
+                "playlistId": "PLdRecBGg22l87GHrpqopoRj5FmvWpwHaD",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YkQdoYhS9HE"
+                }
+            },
+            "contentDetails": {
+                "videoId": "YkQdoYhS9HE",
+                "videoPublishedAt": "2015-11-02T08:32:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VhpFCnDUucsmZsD6270VVzc2VnE",
+            "id": "UExkUmVjQkdnMjJsODdHSHJwcW9wb1JqNUZtdldwd0hhRC41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2019-09-23T07:09:57Z",
+                "channelId": "UCRhlhXW4gq2VMO4xY3CYf9Q",
+                "title": "[EVAN.VN] Bốn năm mòn mỏi đợi chờ (Phim Gặp gỡ Vương Lịch Xuyên)",
+                "description": "Tin giải trí Hoa ngữ: Bộ phim Gặp gỡ Vương Lịch Xuyên\nSau 4 năm mới phát sóng. Tin tức cập nhật tháng 8.2016\nBe Love Tube: Nghe là thích - Xem là yêu!\n--------------------\nSubscribe để xem nhiều video hơn:\nhttps://www.youtube.com/channel/UCnBjW5xjGyRdcnmS2sti47Q?sub_confirmation=1\nTìm chúng tôi trên mạng xã hội:\nhttps://www.facebook.com/belove.tube/\nhttps://twitter.com/belove146\nMạng văn nghệ giải trí \nhttp://vnnnet.vn/\n-------------------------\nHope you guys like it!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SDcu4u2lsxQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SDcu4u2lsxQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SDcu4u2lsxQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SDcu4u2lsxQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SDcu4u2lsxQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Canh Wodh",
+                "playlistId": "PLdRecBGg22l87GHrpqopoRj5FmvWpwHaD",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "SDcu4u2lsxQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "SDcu4u2lsxQ",
+                "videoPublishedAt": "2016-08-04T09:15:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rpefbhvg_asm9XhCbZsbf3-J90A",
+            "id": "UExkUmVjQkdnMjJsODdHSHJwcW9wb1JqNUZtdldwd0hhRC5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2019-09-23T07:09:57Z",
+                "channelId": "UCRhlhXW4gq2VMO4xY3CYf9Q",
+                "title": "[vietsub] Hậu Trường bộ phim Gặp Gỡ Vương Lịch Xuyên phân cảnh trên núi",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wKH9APlAc24/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wKH9APlAc24/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wKH9APlAc24/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wKH9APlAc24/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wKH9APlAc24/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Canh Wodh",
+                "playlistId": "PLdRecBGg22l87GHrpqopoRj5FmvWpwHaD",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "wKH9APlAc24"
+                }
+            },
+            "contentDetails": {
+                "videoId": "wKH9APlAc24",
+                "videoPublishedAt": "2016-12-20T15:19:33Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "G5A06vsZhXOf7_SEhovwj9QPzM0",
+            "id": "UExkUmVjQkdnMjJsODdHSHJwcW9wb1JqNUZtdldwd0hhRC41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2019-09-23T07:09:57Z",
+                "channelId": "UCRhlhXW4gq2VMO4xY3CYf9Q",
+                "title": "[Vietsub] FMV Gặp Gỡ Vương Lịch Xuyên | 遇见王沥川 Mashup",
+                "description": "We do not own this FMV, thanks to the owner via source: http://www.bilibili.com/video/av5829501/\n\n Follow: https://www.facebook.com/sis.wanabe",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fz3J0zE3eBA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fz3J0zE3eBA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fz3J0zE3eBA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fz3J0zE3eBA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fz3J0zE3eBA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Canh Wodh",
+                "playlistId": "PLdRecBGg22l87GHrpqopoRj5FmvWpwHaD",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "fz3J0zE3eBA"
+                }
+            },
+            "contentDetails": {
+                "videoId": "fz3J0zE3eBA",
+                "videoPublishedAt": "2016-08-21T09:02:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9e_JELOuVAJlX1SJSxiFS_UDQds",
+            "id": "UExkUmVjQkdnMjJsODdHSHJwcW9wb1JqNUZtdldwd0hhRC4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2019-09-23T07:09:57Z",
+                "channelId": "UCRhlhXW4gq2VMO4xY3CYf9Q",
+                "title": "[VIETSUB] Bài hát chủ đề '' Gặp gỡ Vương Lịch Xuyên - 《遇见王沥川》OST Remembering Lichuan",
+                "description": "Lịch Xuyên em nhớ anh T.T \n[VIETSUB] Gặp gỡ Vương Lịch Xuyên OST \n\nBài hát : Có một tình yêu để chia li \nCa sĩ : Vương Tranh Lượng \nSáng tác : Lương Mang \nLời : Hồ Tiêu Âu",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/07rkQOm7fdo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/07rkQOm7fdo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/07rkQOm7fdo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/07rkQOm7fdo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/07rkQOm7fdo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Canh Wodh",
+                "playlistId": "PLdRecBGg22l87GHrpqopoRj5FmvWpwHaD",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "07rkQOm7fdo"
+                }
+            },
+            "contentDetails": {
+                "videoId": "07rkQOm7fdo",
+                "videoPublishedAt": "2016-07-22T11:56:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4o-_vhXE2nmklsnRKMbdWFon9mE",
+            "id": "UExkUmVjQkdnMjJsODdHSHJwcW9wb1JqNUZtdldwd0hhRC45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2019-09-23T07:09:57Z",
+                "channelId": "UCRhlhXW4gq2VMO4xY3CYf9Q",
+                "title": "[Vietsub] Phỏng vấn Cao Dĩ Tường - tuyên truyền phim Gặp gỡ Vương Lịch Xuyên ở Đài Loan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CHN7vVAi9ro/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CHN7vVAi9ro/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CHN7vVAi9ro/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CHN7vVAi9ro/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CHN7vVAi9ro/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Canh Wodh",
+                "playlistId": "PLdRecBGg22l87GHrpqopoRj5FmvWpwHaD",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "CHN7vVAi9ro"
+                }
+            },
+            "contentDetails": {
+                "videoId": "CHN7vVAi9ro",
+                "videoPublishedAt": "2017-07-19T13:53:59Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "crum_FD5zi9-o9HgzlLeH0YZfis",
+            "id": "UExkUmVjQkdnMjJsODdHSHJwcW9wb1JqNUZtdldwd0hhRC5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2019-09-23T07:09:57Z",
+                "channelId": "UCRhlhXW4gq2VMO4xY3CYf9Q",
+                "title": "[Vietsub] Giới thiệu phim Gặp gỡ Vương Lịch Xuyên - 27/7/2016",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bQfC4d41fQg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bQfC4d41fQg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bQfC4d41fQg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bQfC4d41fQg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bQfC4d41fQg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Canh Wodh",
+                "playlistId": "PLdRecBGg22l87GHrpqopoRj5FmvWpwHaD",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bQfC4d41fQg"
+                }
+            },
+            "contentDetails": {
+                "videoId": "bQfC4d41fQg",
+                "videoPublishedAt": "2017-08-29T15:56:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "u9z2AOL7riomkeMzLcokG3CareE",
+            "id": "UExkUmVjQkdnMjJsODdHSHJwcW9wb1JqNUZtdldwd0hhRC4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2019-09-23T07:09:57Z",
+                "channelId": "UCRhlhXW4gq2VMO4xY3CYf9Q",
+                "title": "[Vietsub] Cao Dĩ Tường tuyên truyền phim Gặp gỡ Vương Lịch Xuyên ở Đài Loan (6)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rHUN4CxNJ4c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rHUN4CxNJ4c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rHUN4CxNJ4c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rHUN4CxNJ4c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rHUN4CxNJ4c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Canh Wodh",
+                "playlistId": "PLdRecBGg22l87GHrpqopoRj5FmvWpwHaD",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "rHUN4CxNJ4c"
+                }
+            },
+            "contentDetails": {
+                "videoId": "rHUN4CxNJ4c",
+                "videoPublishedAt": "2017-07-08T05:17:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "lNVOphmOAfM7UK3y3NF8h2EfpvQ",
+            "id": "UExkUmVjQkdnMjJsODdHSHJwcW9wb1JqNUZtdldwd0hhRC5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2019-09-23T07:09:57Z",
+                "channelId": "UCRhlhXW4gq2VMO4xY3CYf9Q",
+                "title": "[Vietsub] Họp báo Gặp Gỡ Vương Lịch Xuyên part 1",
+                "description": "From: Godfrey Gao. VNFC\nTrans: Lee Linh\nSub: Bông Tuyết Bé Nhỏ",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3IUYgLW5VRw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3IUYgLW5VRw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3IUYgLW5VRw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3IUYgLW5VRw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3IUYgLW5VRw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Canh Wodh",
+                "playlistId": "PLdRecBGg22l87GHrpqopoRj5FmvWpwHaD",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3IUYgLW5VRw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "3IUYgLW5VRw",
+                "videoPublishedAt": "2016-08-24T12:28:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8YLoDIPsfnOl3EgxK-qweGkwugk",
+            "id": "UExkUmVjQkdnMjJsODdHSHJwcW9wb1JqNUZtdldwd0hhRC4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2019-09-23T07:09:57Z",
+                "channelId": "UCRhlhXW4gq2VMO4xY3CYf9Q",
+                "title": "[HẬU TRƯỜNG] 《Gặp gỡ Vương Lịch Xuyên》",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YhTTPhpfPWw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YhTTPhpfPWw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YhTTPhpfPWw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YhTTPhpfPWw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YhTTPhpfPWw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Canh Wodh",
+                "playlistId": "PLdRecBGg22l87GHrpqopoRj5FmvWpwHaD",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YhTTPhpfPWw"
+                }
+            },
+            "contentDetails": {
+                "videoId": "YhTTPhpfPWw",
+                "videoPublishedAt": "2016-08-26T09:22:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "NJmpf1yWMjZHytnLDZN-msPePVw",
+            "id": "UExkUmVjQkdnMjJsODdHSHJwcW9wb1JqNUZtdldwd0hhRC45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2019-09-23T07:09:57Z",
+                "channelId": "UCRhlhXW4gq2VMO4xY3CYf9Q",
+                "title": "[Vietsub] BTS 6 - Gặp gỡ Vương Lịch Xuyên/ 遇见王沥川",
+                "description": "Follow: https://www.facebook.com/sis.wanabe\n\n- DO NOT REUP -",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R6eUCvMMQf4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R6eUCvMMQf4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R6eUCvMMQf4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/R6eUCvMMQf4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/R6eUCvMMQf4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Canh Wodh",
+                "playlistId": "PLdRecBGg22l87GHrpqopoRj5FmvWpwHaD",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "R6eUCvMMQf4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "R6eUCvMMQf4",
+                "videoPublishedAt": "2016-10-05T00:10:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "00CxIEaqqjsCkzUpInXJGN9N8Ls",
+            "id": "UExkUmVjQkdnMjJsODdHSHJwcW9wb1JqNUZtdldwd0hhRC5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2019-09-23T07:09:57Z",
+                "channelId": "UCRhlhXW4gq2VMO4xY3CYf9Q",
+                "title": "[Vietsub] FMV Gặp Gỡ Vương Lịch Xuyên | Drew Ryan Scott - Meet me in my dreams",
+                "description": "We do not own this FMV, thanks to the owner via source: http://www.bilibili.com/video/av5940409/\n\nFollow: https://www.facebook.com/sis.wanabe",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XhWonYUfu9g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XhWonYUfu9g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XhWonYUfu9g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Canh Wodh",
+                "playlistId": "PLdRecBGg22l87GHrpqopoRj5FmvWpwHaD",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XhWonYUfu9g"
+                }
+            },
+            "contentDetails": {
+                "videoId": "XhWonYUfu9g",
+                "videoPublishedAt": "2016-08-27T10:04:40Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "09EmKxt1o3gQkhWJnlUhWDUC6X4",
+            "id": "UExkUmVjQkdnMjJsODdHSHJwcW9wb1JqNUZtdldwd0hhRC43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2019-09-23T07:09:57Z",
+                "channelId": "UCRhlhXW4gq2VMO4xY3CYf9Q",
+                "title": "Vietsub BTS Gặp Gỡ Vương Lịch Xuyên tập 1",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TpdnyEegDTQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TpdnyEegDTQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TpdnyEegDTQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TpdnyEegDTQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TpdnyEegDTQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Canh Wodh",
+                "playlistId": "PLdRecBGg22l87GHrpqopoRj5FmvWpwHaD",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "TpdnyEegDTQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "TpdnyEegDTQ",
+                "videoPublishedAt": "2016-09-09T02:05:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "XIzgCD38ElxoI9d62_-IjKMb51Y",
+            "id": "UExkUmVjQkdnMjJsODdHSHJwcW9wb1JqNUZtdldwd0hhRC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2019-09-23T07:09:57Z",
+                "channelId": "UCRhlhXW4gq2VMO4xY3CYf9Q",
+                "title": "Vương Lịch Xuyên - Em cứ đi đi",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RlMVIPOCvL4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RlMVIPOCvL4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RlMVIPOCvL4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Canh Wodh",
+                "playlistId": "PLdRecBGg22l87GHrpqopoRj5FmvWpwHaD",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RlMVIPOCvL4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "RlMVIPOCvL4",
+                "videoPublishedAt": "2016-07-30T09:51:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "1XMnph-AryKkGaDSd74LdheRxNA",
+            "id": "UExkUmVjQkdnMjJsODdHSHJwcW9wb1JqNUZtdldwd0hhRC4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2019-09-23T07:09:57Z",
+                "channelId": "UCRhlhXW4gq2VMO4xY3CYf9Q",
+                "title": "[FMV] Happy Ending for Lichuan ♥ Xiaoqiu [not official] | Gặp gỡ Vương Lịch Xuyên Happy Ending",
+                "description": "►Video Editor + Time : Hyo Jang\n~~~\nTrong thời gian chờ đợi \"coming soon\" của cái kết thứ 2, để healing tâm hồn mong manh dễ vỡ của mị cùng những bạn cũng \"không tiêu hóa\" nổi cái kết ở tập cuối như mị. Điều đó trở thành động lực để mị sinh nông nỗi \"đẻ trứng\" thêm cái FMV đậm đà sự atsm này dành cho đôi trẻ ở trong phim (mà thực ra trong truyện là HE đó chứ \"=_=)\n\nClip cũng không có gì công phu, đều là những gì mọi người đã xem hết rồi ở 2 tập cuối của phim, mình chỉ cắt bớt một vài cảnh ngược tơi tả, sắp xếp lại các phân đoạn theo chiều hướng HE và tưởng bở theo ý mình thôi =)))\n\nDù cho cái kết trong phim có vùi dập trái tim như hoa như ngọc của em không thương tiếc, nhưng chỉ cần còn có thể ngóc dậy nổi sau bao cơn bão tố ngược tâm, em nhất định sẽ bất chấp tất cả mà sửa cho cái kết thành HE =))))\n\nAnh nhà sửa kết thúc bi đát trong truyện của chị nhà thành HE. Trên thực tế, mị cũng sửa ending \"cẩu huyết\" của nsx thành HE *Zen me yang* Có phải mị học hỏi và áp dụng điểm này ở Xuyên bảo bối tốt lắm phải không? Woahahah :*)\n\nVì mình chưa đọc truyện nên có thể sẽ không xếp đúng thứ tự quá trình lắm. Nên các fans truyện nếu có xem cũng watch for fun thôi nhé. Mình làm clip trên tinh thần giải trí và vui vẻ là chính. Hy vọng với cái kết này có thể giúp các bạn vơi bớt những cảm xúc ko vui sau khi đã chiến 2 tập cuối. Nếu như cái kết thứ 2 sẽ được nsx tung ra không như kỳ vọng, thì vẫn còn cái kết này để chúng ta bám víu, tự an ủi mình.\n\nEnjoy and Have fun ^^",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ue1v_wJ38NI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ue1v_wJ38NI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ue1v_wJ38NI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ue1v_wJ38NI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Canh Wodh",
+                "playlistId": "PLdRecBGg22l87GHrpqopoRj5FmvWpwHaD",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ue1v_wJ38NI"
+                }
+            },
+            "contentDetails": {
+                "videoId": "ue1v_wJ38NI",
+                "videoPublishedAt": "2016-08-14T16:17:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "PspEZUpSj0X5w2QZ2V5rBkmccoo",
+            "id": "UExkUmVjQkdnMjJsODdHSHJwcW9wb1JqNUZtdldwd0hhRC44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2019-09-23T07:09:57Z",
+                "channelId": "UCRhlhXW4gq2VMO4xY3CYf9Q",
+                "title": "[HẬU TRƯỜNG]《Gặp gỡ Vương Lịch Xuyên》2",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/99IwXyew1D4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/99IwXyew1D4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/99IwXyew1D4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/99IwXyew1D4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/99IwXyew1D4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Canh Wodh",
+                "playlistId": "PLdRecBGg22l87GHrpqopoRj5FmvWpwHaD",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "99IwXyew1D4"
+                }
+            },
+            "contentDetails": {
+                "videoId": "99IwXyew1D4",
+                "videoPublishedAt": "2016-08-26T13:29:01Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 24,
+        "resultsPerPage": 50
     }
 }

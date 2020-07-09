@@ -1,0 +1,89 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "ga87IahfUvUaSGUri62inJUlItY",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yIeiHlQAJ0EvYG0-o36DGPViGtE",
+            "id": "UExEc2hWMVRzRDJBdlpmM042ZW5KN2I4RGwwYXVtT0YxdC44QzVGQUU2QjE2NDgxM0M4",
+            "snippet": {
+                "publishedAt": "2020-07-08T09:56:54Z",
+                "channelId": "UCZtdW-gYausGEgfGfHE0kLA",
+                "title": "O Último Confronto FILME DE AÇÃO 2020 COMPLETO DUBLADO - LANÇAMENTO",
+                "description": "Sinopse:Depois que sua ilustre carreira de operações especiais termina em desastre, Alexander (Seagal) tenta levar uma vida tranquila como um faz-tudo em um complexo de apartamentos. Mas quando um de seus inquilinos e sua família ficam na mira de um gangster russo, Alexander é arrastado para uma guerra total entre gangues rivais chineses e russos; forçando-o a não só defender a família, mas trazê-lo cara a cara com um velho inimigo, e dando-lhe mais uma chance se conciliar com o passado.\n\nInscreva-se no canal e ative o sininho 🔔para receber todas notificações do canal quando sair filmes novos no canal e compartilhe com seus amigos.\n\n#Filmes #Ação\n\n\nfilme de ação, filmes lançamentos 2020, filmes 2020, filmes de ação, filmes lançamentos 2020 ação, filme completo dublado, filmes completos dublados, filmes, filme, filmes novos, filme de tiro, filme de acao, filmes lançamentos 2020 ação guerra, filmão 2020,filme de ação dublado 2020,filme de tiro e ação, filme de ação, filme de ação 2020.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N1TcOqHgXo8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N1TcOqHgXo8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N1TcOqHgXo8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rachelle Boucher",
+                "playlistId": "PLDshV1TsD2AvZf3N6enJ7b8Dl0aumOF1t",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "N1TcOqHgXo8"
+                }
+            },
+            "contentDetails": {
+                "videoId": "N1TcOqHgXo8",
+                "videoPublishedAt": "2020-07-05T12:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_9oPHfdaumdRENPLKz6Ct7hlgYk",
+            "id": "UExEc2hWMVRzRDJBdlpmM042ZW5KN2I4RGwwYXVtT0YxdC4xMzgwMzBERjQ4NjEzNUE5",
+            "snippet": {
+                "publishedAt": "2020-07-08T09:56:54Z",
+                "channelId": "UCZtdW-gYausGEgfGfHE0kLA",
+                "title": "Cyborg - La Vendetta (1992) FILM COMPLETO ITA by CINEMA ZOO",
+                "description": "⚠️FOLLOW / SEGUICI SU: http://www.cinemazoo.it\n⚠️ DONATE / OFFRICI UN CAFFE': https://ko-fi.com/cinemazoo\n\nMUX realizzato dal team di CINEMA ZOO!\n\nTitolo originale: Nemesis\nPaese: U.S.A. / Regia: Albert Pyun\nAttori:  Chard Hayward, Geoffrey Sadwith, Cynthia Killion \n\nLink imdb: https://www.imdb.com/title/tt0107668/\n\n La storia, ambientata in un distopico futuro, ruota intorno ad Alex, un poliziotto con molti innesti robotici a causa dei numerosi incidenti accaduti in servizio, dedito alla lotta contro un organizzazione terroristica. Dopo un incidente particolarmente grave, Alex decide di ritirarsi,ma viene con l’inganno richiamato a forza in servizio grazie a una bomba innestata nel suo corpo…",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TLJLrxtTVIs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TLJLrxtTVIs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TLJLrxtTVIs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rachelle Boucher",
+                "playlistId": "PLDshV1TsD2AvZf3N6enJ7b8Dl0aumOF1t",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "TLJLrxtTVIs"
+                }
+            },
+            "contentDetails": {
+                "videoId": "TLJLrxtTVIs",
+                "videoPublishedAt": "2020-06-16T14:21:04Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 52,
+        "resultsPerPage": 50
+    }
+}

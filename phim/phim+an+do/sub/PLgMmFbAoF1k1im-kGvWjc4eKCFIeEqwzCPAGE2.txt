@@ -1,0 +1,99 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "R_pwHgXhZaoKl9ehhaugoEhFJJA",
+    "prevPageToken": "CDIQAQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kPRXWaDM8e5nsFYhJoQ5Npu4SQM",
+            "id": "UExnTW1GYkFvRjFrMWltLWtHdldqYzRlS0NGSWVFcXd6Qy44QzVGQUU2QjE2NDgxM0M4",
+            "snippet": {
+                "publishedAt": "2020-07-07T10:10:48Z",
+                "channelId": "UCj3rKRJJkMNZSKd692cVtTA",
+                "title": "Film Commedia EASY GIRL - BELLISSIMO Film Completi Italiano HD",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qvwof1bGSbQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qvwof1bGSbQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qvwof1bGSbQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Agustin Melo",
+                "playlistId": "PLgMmFbAoF1k1im-kGvWjc4eKCFIeEqwzC",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qvwof1bGSbQ"
+                }
+            },
+            "contentDetails": {
+                "videoId": "qvwof1bGSbQ",
+                "videoPublishedAt": "2020-04-11T19:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jgd-EQXzep0Ed1ev8AaBXWwDRhE",
+            "id": "UExnTW1GYkFvRjFrMWltLWtHdldqYzRlS0NGSWVFcXd6Qy4xMzgwMzBERjQ4NjEzNUE5",
+            "snippet": {
+                "publishedAt": "2020-07-07T10:10:48Z",
+                "channelId": "UCj3rKRJJkMNZSKd692cVtTA",
+                "title": "FILME - EVERLY, IMPLACÁVEL E PERIGOSA (2014)",
+                "description": "EVERLY, IMPLACÁVEL E PERIGOSA - FILME DE AÇÃO\n\nAno: 2014.\nSinopse: Caçada por assassinos implacáveis contratados por seu ex-namorado criminoso, uma mulher (Salma Hayek) tenta se defender de todas as formas possíveis dentro de um apartamento.\n\n----------------------------------------------------------------\nInscreva-se no canal e deixe seu gostei.\nAtive o sininho e compartilhe o filme.\n----------------------------------------------------------------\n\nFacebook: https://www.facebook.com/juliano.matias.127\n\n----------------------------------------------------------------\nFilmes:\n\nAlém do lago Ness: https://youtu.be/EWydIDYf_rw\nA casa da colina: https://youtu.be/1g3hZxj_qgg\nA cela 2: https://youtu.be/fz40NtC29E8\nAmityville, o terror: https://youtu.be/Lor5eQ_P_Ik\nChen Zhen: https://youtu.be/w2wy6f0o_tw\nO auto da compadecida: https://youtu.be/xft9DaE90c8\nVai que dá certo: https://youtu.be/0YzlfXQfbZI\nA cela: https://youtu.be/2XH3SSKO3t0\nDarc: https://youtu.be/QKeaTATaHbU\nAs irmãs vampiras 3: https://youtu.be/2OUpmcOt_Jc\nOs desaparecidos: https://youtu.be/8KwjWLu_4ak\nShaolin: https://youtu.be/4mhCibmHIRQ\nColegiais em apuros: https://youtu.be/vFzUMoLLVZ8\nA fúria do dragão: https://youtu.be/HI0sGJoFb8A\n-----------------------------------------------------------------\n\n#Everly #Ação",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G6NnMEeZ57Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G6NnMEeZ57Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G6NnMEeZ57Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/G6NnMEeZ57Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/G6NnMEeZ57Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Agustin Melo",
+                "playlistId": "PLgMmFbAoF1k1im-kGvWjc4eKCFIeEqwzC",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "G6NnMEeZ57Y"
+                }
+            },
+            "contentDetails": {
+                "videoId": "G6NnMEeZ57Y",
+                "videoPublishedAt": "2020-05-08T14:12:06Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 52,
+        "resultsPerPage": 50
+    }
+}

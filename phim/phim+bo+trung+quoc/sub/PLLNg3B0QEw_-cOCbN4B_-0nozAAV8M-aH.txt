@@ -1,6 +1,6 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "NFvG8KIhC3QmqtoLG0OlinLO6p8",
+    "etag": "nxrJ5w-XCSJxkL-MOuQk-arkQqk",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -234,7 +234,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "G4vZmFTewrnatpE6agW7CNGqeuw",
+            "etag": "CLfwPEXY2_3UrZ00JWDZYNTvxTI",
             "id": "UExMTmczQjBRRXdfLWNPQ2JONEJfLTBub3pBQVY4TS1hSC4xMkVGQjNCMUM1N0RFNEUx",
             "snippet": {
                 "publishedAt": "2020-07-06T15:52:46Z",
@@ -256,16 +256,6 @@
                         "url": "https://i.ytimg.com/vi/kSDW-7Ey5f4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/kSDW-7Ey5f4/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/kSDW-7Ey5f4/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
                 "channelTitle": "Mark Weber",
